@@ -1,0 +1,4120 @@
+{
+  "nodes": [
+    {
+      "id": "H",
+      "size": 0,
+      "subject": "Social Sciences"
+    },
+    {
+      "id": "HF",
+      "size": 0,
+      "subject": "Commerce"
+    },
+    {
+      "id": "HF1-6182",
+      "size": 25720,
+      "subject": "Commerce"
+    },
+    {
+      "id": "HF5001-6182",
+      "size": 7133,
+      "subject": "Business"
+    },
+    {
+      "id": "HF5381-5386",
+      "size": 8460,
+      "subject": "Vocational guidance.  Career devlopment"
+    },
+    {
+      "id": "HF5601-5689",
+      "size": 15942,
+      "subject": "Accounting.  Bookkeeping"
+    },
+    {
+      "id": "HF5460-5469.5",
+      "size": 1153,
+      "subject": "Department stores.  Mail order business."
+    },
+    {
+      "id": "HF5446-5459",
+      "size": 195,
+      "subject": "Canvassing.  Peddling"
+    },
+    {
+      "id": "HF5410-5417.5",
+      "size": 12863,
+      "subject": "Marketing.  Distribution of products"
+    },
+    {
+      "id": "HF5549-5549.5",
+      "size": 13178,
+      "subject": "Personnel management.  Employment"
+    },
+    {
+      "id": "HF5520-5541",
+      "size": 144,
+      "subject": "Office equipment and supplies"
+    },
+    {
+      "id": "HF5546-5548.6",
+      "size": 8868,
+      "subject": "Office management"
+    },
+    {
+      "id": "HF5548.7-5548.85",
+      "size": 1612,
+      "subject": "Industrial psychology"
+    },
+    {
+      "id": "HF5801-6182",
+      "size": 6406,
+      "subject": "Advertising"
+    },
+    {
+      "id": "HF5387-5387.5",
+      "size": 1262,
+      "subject": "Business ethics"
+    },
+    {
+      "id": "HF5717-5734.7",
+      "size": 2799,
+      "subject": "Business communication"
+    },
+    {
+      "id": "HF5437-5444",
+      "size": 3687,
+      "subject": "Purchasing.  Selling.  Sales personnel.  Sales"
+    },
+    {
+      "id": "HF5482-5482.4",
+      "size": 130,
+      "subject": "Secondhand trade"
+    },
+    {
+      "id": "HF5428-5429.6",
+      "size": 3033,
+      "subject": "Retail trade"
+    },
+    {
+      "id": "HF5691-5716",
+      "size": 1136,
+      "subject": "Business mathematics.  Commercial arithmetic"
+    },
+    {
+      "id": "HF5735-5746",
+      "size": 363,
+      "subject": "Business records management"
+    },
+    {
+      "id": "HF5469.7-5481",
+      "size": 1184,
+      "subject": "Markets.  Fairs"
+    },
+    {
+      "id": "HF5419-5422",
+      "size": 402,
+      "subject": "Wholesale trade"
+    },
+    {
+      "id": "HF5761-5780",
+      "size": 434,
+      "subject": "Shipment of goods.  Delivery of goods"
+    },
+    {
+      "id": "HF5429.7-5430.6",
+      "size": 354,
+      "subject": "Shopping centers.  Shopping malls"
+    },
+    {
+      "id": "HF5484-5495",
+      "size": 226,
+      "subject": "Warehouses.  Storage"
+    },
+    {
+      "id": "HF5482.6-5482.65",
+      "size": 51,
+      "subject": "Black market"
+    },
+    {
+      "id": "HF3000-4055",
+      "size": 15967,
+      "subject": "By region or country"
+    },
+    {
+      "id": "HF294-343",
+      "size": 1293,
+      "subject": "Boards of trade.  Chambers of commerce."
+    },
+    {
+      "id": "HF1701-2701",
+      "size": 3927,
+      "subject": "Tariff.  Free trade.  Protectionism"
+    },
+    {
+      "id": "HF1040-1054",
+      "size": 1340,
+      "subject": "Commodities.  Commercial products"
+    },
+    {
+      "id": "HF1021-1027",
+      "size": 612,
+      "subject": "Commercial geography.  Economic geography"
+    },
+    {
+      "id": "HF1014",
+      "size": 70,
+      "subject": "Balance of trade"
+    },
+    {
+      "id": "HX",
+      "size": 0,
+      "subject": "Socialism.  Communism.  Anarchism"
+    },
+    {
+      "id": "HX1-970.7",
+      "size": 30650,
+      "subject": "Socialism.  Communism.  Anarchism"
+    },
+    {
+      "id": "HX519-550",
+      "size": 4239,
+      "subject": "Communism/socialism in relation to special"
+    },
+    {
+      "id": "HX806-811",
+      "size": 881,
+      "subject": "Utopias.  The ideal state"
+    },
+    {
+      "id": "HX626-696",
+      "size": 691,
+      "subject": "Communism: Utopian socialism, collective"
+    },
+    {
+      "id": "HD",
+      "size": 0,
+      "subject": "Industries.  Land use.  Labor"
+    },
+    {
+      "id": "HD28-9999",
+      "size": 28,
+      "subject": "Industries.  Land use.  Labor"
+    },
+    {
+      "id": "HD2321-4730.9",
+      "size": 998,
+      "subject": "Industry"
+    },
+    {
+      "id": "HD2709-2930.7",
+      "size": 9934,
+      "subject": "Corporations"
+    },
+    {
+      "id": "HD2951-3575",
+      "size": 4388,
+      "subject": "Cooperation.  Cooperative societies"
+    },
+    {
+      "id": "HD3611-4730.9",
+      "size": 11139,
+      "subject": "Industrial policy.  The state and industrial"
+    },
+    {
+      "id": "HD2340.8-2346.5",
+      "size": 6431,
+      "subject": "Small and medium-sized businesses, artisans,"
+    },
+    {
+      "id": "HD2331-2336",
+      "size": 280,
+      "subject": "Home labor.  Home-based businesses"
+    },
+    {
+      "id": "HD2350.8-2356",
+      "size": 283,
+      "subject": "Large industry.  Factory system.  Big business"
+    },
+    {
+      "id": "HD2421-2429",
+      "size": 412,
+      "subject": "Trade associations"
+    },
+    {
+      "id": "HD2365-2385",
+      "size": 339,
+      "subject": "Contracting.  Letting of contracts"
+    },
+    {
+      "id": "HD2329",
+      "size": 107,
+      "subject": "Industrialization"
+    },
+    {
+      "id": "HD2337-2339",
+      "size": 31,
+      "subject": "Sweatshops"
+    },
+    {
+      "id": "HD2330",
+      "size": 15,
+      "subject": "Rural industries"
+    },
+    {
+      "id": "HD4801-8943",
+      "size": 5865,
+      "subject": "Labor.  Work.  Working class"
+    },
+    {
+      "id": "HD6050-6305",
+      "size": 12704,
+      "subject": "Classes of labor"
+    },
+    {
+      "id": "HD8045-8943",
+      "size": 18549,
+      "subject": "By region or country"
+    },
+    {
+      "id": "HD7260-7780.8",
+      "size": 15389,
+      "subject": "Industrial hygiene. Industrial welfare"
+    },
+    {
+      "id": "HD8039",
+      "size": 5712,
+      "subject": "By industry or trade"
+    },
+    {
+      "id": "HD6350-6940.7",
+      "size": 12693,
+      "subject": "Trade unions.  Labor unions.  Workers'"
+    },
+    {
+      "id": "HD5306-5474",
+      "size": 2003,
+      "subject": "Labor disputes.  Strikes and lockouts"
+    },
+    {
+      "id": "HD7088-7252",
+      "size": 11231,
+      "subject": "Social insurance.  Social security.  Pension"
+    },
+    {
+      "id": "HD5701-6000.9",
+      "size": 23112,
+      "subject": "Labor market.  Labor supply.  Labor demand"
+    },
+    {
+      "id": "HD6951-6957",
+      "size": 1184,
+      "subject": "Industrial sociology.  Social conditions of"
+    },
+    {
+      "id": "HD7255-7256",
+      "size": 1695,
+      "subject": "Vocational rehabilitation.  Employment of"
+    },
+    {
+      "id": "HD4909-5100.9",
+      "size": 6850,
+      "subject": "Wages"
+    },
+    {
+      "id": "HD5106-5267",
+      "size": 1607,
+      "subject": "Hours of labor"
+    },
+    {
+      "id": "HD4861-4895",
+      "size": 1132,
+      "subject": "Labor systems"
+    },
+    {
+      "id": "HD6958.5-6976",
+      "size": 1497,
+      "subject": "Industrial relations"
+    },
+    {
+      "id": "HD7795-8027",
+      "size": 1948,
+      "subject": "Labor policy.  Labor and the state"
+    },
+    {
+      "id": "HD5481-5630.7",
+      "size": 440,
+      "subject": "Industrial arbitration.  Mediation  and"
+    },
+    {
+      "id": "HD5650-5660",
+      "size": 2030,
+      "subject": "Employee participation in management."
+    },
+    {
+      "id": "HD8038",
+      "size": 554,
+      "subject": "Professions (General).  Professional employees"
+    },
+    {
+      "id": "HD6977-7080",
+      "size": 2148,
+      "subject": "Cost and standard of living"
+    },
+    {
+      "id": "HD6941-6948",
+      "size": 135,
+      "subject": "Employers' associations"
+    },
+    {
+      "id": "HD8031",
+      "size": 36,
+      "subject": "Labor in politics.  Political activity of the"
+    },
+    {
+      "id": "HD101-1395.5",
+      "size": 16245,
+      "subject": "Land use"
+    },
+    {
+      "id": "HD1361-1395.5",
+      "size": 3918,
+      "subject": "Real estate business"
+    },
+    {
+      "id": "HD1332-1333.5",
+      "size": 1525,
+      "subject": "Land reform.  Agrarian reform"
+    },
+    {
+      "id": "HD1336-1339",
+      "size": 208,
+      "subject": "Small holdings.  Peasant proprietors."
+    },
+    {
+      "id": "HD1286-1289",
+      "size": 293,
+      "subject": "Communal ownership"
+    },
+    {
+      "id": "HD1330-1331",
+      "size": 75,
+      "subject": "Landlord and peasant"
+    },
+    {
+      "id": "HD1326-1329",
+      "size": 65,
+      "subject": "Large holdings"
+    },
+    {
+      "id": "HD1334-1335",
+      "size": 47,
+      "subject": "Consolidation of land holdings"
+    },
+    {
+      "id": "HD1301-1313",
+      "size": 130,
+      "subject": "Nationalization (Agrarian socialism)"
+    },
+    {
+      "id": "HD1290-1291",
+      "size": 13,
+      "subject": "Municipal ownership"
+    },
+    {
+      "id": "HD28-70",
+      "size": 41826,
+      "subject": "Management.  Industrial management"
+    },
+    {
+      "id": "HD69",
+      "size": 4737,
+      "subject": "Other"
+    },
+    {
+      "id": "HD9000-9999",
+      "size": 3830,
+      "subject": "Special industries and trades"
+    },
+    {
+      "id": "HD9999",
+      "size": 3019,
+      "subject": "Miscellaneous industries and trades"
+    },
+    {
+      "id": "HD9680-9714",
+      "size": 17388,
+      "subject": "Mechanical industries"
+    },
+    {
+      "id": "HD9720-9975",
+      "size": 14160,
+      "subject": "Manufacturing industries"
+    },
+    {
+      "id": "HD9000-9495",
+      "size": 29345,
+      "subject": "Agricultural industries"
+    },
+    {
+      "id": "HD9506-9624",
+      "size": 19471,
+      "subject": "Mineral industries.  Metal trade"
+    },
+    {
+      "id": "HD9650-9663",
+      "size": 2326,
+      "subject": "Chemical industries"
+    },
+    {
+      "id": "HD9715-9717.5",
+      "size": 3663,
+      "subject": "Construction industry"
+    },
+    {
+      "id": "HD9502-9502.5",
+      "size": 7067,
+      "subject": "Energy industries.  Energy policy.  Fuel trade"
+    },
+    {
+      "id": "HD9665-9675",
+      "size": 1737,
+      "subject": "Pharmaceutical industry"
+    },
+    {
+      "id": "HD56-57.5",
+      "size": 729,
+      "subject": "Industrial productivity"
+    },
+    {
+      "id": "HD66-66.2",
+      "size": 1009,
+      "subject": "Work groups.  Team work in industry."
+    },
+    {
+      "id": "HD47-47.4",
+      "size": 538,
+      "subject": "Costs"
+    },
+    {
+      "id": "HD39-40.7",
+      "size": 659,
+      "subject": "Capital.  Capital investments"
+    },
+    {
+      "id": "HD45-45.2",
+      "size": 928,
+      "subject": "Technological innovations.  Automation"
+    },
+    {
+      "id": "HD60-60.5",
+      "size": 1665,
+      "subject": "Social responsibility of business"
+    },
+    {
+      "id": "HD1401-2210",
+      "size": 22422,
+      "subject": "Agriculture"
+    },
+    {
+      "id": "HD1635-1702",
+      "size": 4143,
+      "subject": "Utilization and culture of special classes of"
+    },
+    {
+      "id": "HD1501-1542",
+      "size": 3952,
+      "subject": "Agricultural classes"
+    },
+    {
+      "id": "HD1491-1491.5",
+      "size": 1625,
+      "subject": "Cooperative agriculture"
+    },
+    {
+      "id": "HD1492-1492.5",
+      "size": 761,
+      "subject": "Collective farms"
+    },
+    {
+      "id": "HD1483-1486",
+      "size": 563,
+      "subject": "Agricultural associations, societies, etc."
+    },
+    {
+      "id": "HD1493-1493.5",
+      "size": 203,
+      "subject": "Government owned and operated farms.  State"
+    },
+    {
+      "id": "HD1470-1476",
+      "size": 1076,
+      "subject": "Size of farms"
+    },
+    {
+      "id": "HD1711-1741",
+      "size": 968,
+      "subject": "Irrigation"
+    },
+    {
+      "id": "HD1428-1431",
+      "size": 168,
+      "subject": "International cooperation"
+    },
+    {
+      "id": "HD1478",
+      "size": 68,
+      "subject": "Sharecropping"
+    },
+    {
+      "id": "HD1549",
+      "size": 1,
+      "subject": "Gleaning"
+    },
+    {
+      "id": "HD1580",
+      "size": 6,
+      "subject": "Reclamation of agricultural land.  Melioration"
+    },
+    {
+      "id": "HD72-88",
+      "size": 7787,
+      "subject": "Economic growth, development, planning"
+    },
+    {
+      "id": "HD61",
+      "size": 660,
+      "subject": "Risk in industry.  Risk management"
+    },
+    {
+      "id": "HD49-49.5",
+      "size": 309,
+      "subject": "Crisis management.  Emergency management."
+    },
+    {
+      "id": "HD50-50.5",
+      "size": 125,
+      "subject": "Delegation of authority.  Decentralization."
+    },
+    {
+      "id": "HD62",
+      "size": 110,
+      "subject": "Standardization.  Simplification.  Waste"
+    },
+    {
+      "id": "HD41",
+      "size": 307,
+      "subject": "Competition"
+    },
+    {
+      "id": "HD58",
+      "size": 285,
+      "subject": "Location of industry"
+    },
+    {
+      "id": "HG",
+      "size": 0,
+      "subject": "Finance"
+    },
+    {
+      "id": "HG1-9999",
+      "size": 9757,
+      "subject": "Finance"
+    },
+    {
+      "id": "HG1501-3550",
+      "size": 3211,
+      "subject": "Banking"
+    },
+    {
+      "id": "HG1811-2351",
+      "size": 5377,
+      "subject": "Special classes of banks and financial"
+    },
+    {
+      "id": "HG2397-3550",
+      "size": 12094,
+      "subject": "By region or country"
+    },
+    {
+      "id": "HG1710-1710.5",
+      "size": 206,
+      "subject": "Electronic funds transfers"
+    },
+    {
+      "id": "HG1706-1708",
+      "size": 246,
+      "subject": "Accounting.  Bookkeeping"
+    },
+    {
+      "id": "HG1722",
+      "size": 54,
+      "subject": "Bank mergers"
+    },
+    {
+      "id": "HG1621-1638",
+      "size": 462,
+      "subject": "Interest rates.  Interest tables"
+    },
+    {
+      "id": "HG1662",
+      "size": 120,
+      "subject": "Insurance of deposits.  Deposit insurance"
+    },
+    {
+      "id": "HG1641-1643",
+      "size": 548,
+      "subject": "Bank loans.  Bank credit.  Commercial loans"
+    },
+    {
+      "id": "HG1660",
+      "size": 229,
+      "subject": "Bank accounts.  Bank deposits.  Deposit"
+    },
+    {
+      "id": "HG1655",
+      "size": 25,
+      "subject": "Acceptances"
+    },
+    {
+      "id": "HG1725-1778",
+      "size": 249,
+      "subject": "Banks and the state.  State supervision of"
+    },
+    {
+      "id": "HG1685-1704",
+      "size": 128,
+      "subject": "Drafts.  Checks"
+    },
+    {
+      "id": "HG1656",
+      "size": 72,
+      "subject": "Bank reserves.  Bank liquidity.  Loan loss"
+    },
+    {
+      "id": "HG1651-1654",
+      "size": 48,
+      "subject": "Discount"
+    },
+    {
+      "id": "HG1709",
+      "size": 190,
+      "subject": "Data processing"
+    },
+    {
+      "id": "HG1723",
+      "size": 16,
+      "subject": "Bank stocks.  Banking as an investment"
+    },
+    {
+      "id": "HG201-1496",
+      "size": 4225,
+      "subject": "Money"
+    },
+    {
+      "id": "HG451-1496",
+      "size": 7475,
+      "subject": "By region or country"
+    },
+    {
+      "id": "HG348-353.5",
+      "size": 114,
+      "subject": "Paper money"
+    },
+    {
+      "id": "HG258-312",
+      "size": 572,
+      "subject": "Precious metals.  Bullion"
+    },
+    {
+      "id": "HG335-339",
+      "size": 79,
+      "subject": "Counterfeiting"
+    },
+    {
+      "id": "HG401-421",
+      "size": 35,
+      "subject": "Bimetallism"
+    },
+    {
+      "id": "HG361-363",
+      "size": 5,
+      "subject": "Legal tender"
+    },
+    {
+      "id": "HG315",
+      "size": 2,
+      "subject": "Small coins"
+    },
+    {
+      "id": "HG381-395",
+      "size": 20,
+      "subject": "International coinage"
+    },
+    {
+      "id": "HG321-329",
+      "size": 8,
+      "subject": "Mints.  Assaying"
+    },
+    {
+      "id": "HG8011-9999",
+      "size": 1388,
+      "subject": "Insurance"
+    },
+    {
+      "id": "HG9651-9899",
+      "size": 322,
+      "subject": "Fire insurance"
+    },
+    {
+      "id": "HG8751-9295",
+      "size": 466,
+      "subject": "Life insurance"
+    },
+    {
+      "id": "HG8941-9200.5",
+      "size": 737,
+      "subject": "By region or country"
+    },
+    {
+      "id": "HG8779-8793",
+      "size": 437,
+      "subject": "Actuarial science.  Statistical theory and"
+    },
+    {
+      "id": "HG8799-8830",
+      "size": 62,
+      "subject": "By class insured, by risk, by plan"
+    },
+    {
+      "id": "HG8835-8899",
+      "size": 420,
+      "subject": "Life insurance business.  Management"
+    },
+    {
+      "id": "HG9251-9262",
+      "size": 20,
+      "subject": "Industrial life insurance"
+    },
+    {
+      "id": "HG8901-8914",
+      "size": 28,
+      "subject": "Government policy.  State supervision"
+    },
+    {
+      "id": "HG9201-9245",
+      "size": 61,
+      "subject": "Mutual life insurance.  Assessment life"
+    },
+    {
+      "id": "HG9291-9295",
+      "size": 6,
+      "subject": "Maternity insurance"
+    },
+    {
+      "id": "HG9271",
+      "size": 2,
+      "subject": "Child insurance.  Life insurance for"
+    },
+    {
+      "id": "HG8075-8107",
+      "size": 742,
+      "subject": "Insurance business.  Insurance management"
+    },
+    {
+      "id": "HG9969.5-9999",
+      "size": 1025,
+      "subject": "Other insurance"
+    },
+    {
+      "id": "HG9371-9399",
+      "size": 949,
+      "subject": "Health insurance"
+    },
+    {
+      "id": "HG8501-8745",
+      "size": 2129,
+      "subject": "By region or country"
+    },
+    {
+      "id": "HG8059",
+      "size": 198,
+      "subject": "Business insurance"
+    },
+    {
+      "id": "HG9956-9969",
+      "size": 332,
+      "subject": "Casualty insurance"
+    },
+    {
+      "id": "HG9301-9343",
+      "size": 41,
+      "subject": "Accident insurance"
+    },
+    {
+      "id": "HG8111-8123",
+      "size": 34,
+      "subject": "Government policy.  State supervision"
+    },
+    {
+      "id": "HG8205-8220",
+      "size": 80,
+      "subject": "Government insurance"
+    },
+    {
+      "id": "HG8053.5-8054.45",
+      "size": 101,
+      "subject": "Insurance for professions.  Malpractice"
+    },
+    {
+      "id": "HG4001-4285",
+      "size": 7834,
+      "subject": "Finance management.  Business finance."
+    },
+    {
+      "id": "HG3691-3769",
+      "size": 3586,
+      "subject": "Credit.  Debt.  Loans"
+    },
+    {
+      "id": "HG179",
+      "size": 3477,
+      "subject": "Personal finance"
+    },
+    {
+      "id": "HG4501-6051",
+      "size": 6417,
+      "subject": "Investment, capital formation, speculation"
+    },
+    {
+      "id": "HG4900-5993",
+      "size": 11184,
+      "subject": "By region or country"
+    },
+    {
+      "id": "HG6001-6051",
+      "size": 2706,
+      "subject": "Speculation"
+    },
+    {
+      "id": "HG4551-4598",
+      "size": 873,
+      "subject": "Stock exchanges"
+    },
+    {
+      "id": "HG4538",
+      "size": 1044,
+      "subject": "Foreign investments"
+    },
+    {
+      "id": "HG4530",
+      "size": 537,
+      "subject": "Investment companies.  Investment trusts."
+    },
+    {
+      "id": "HG4621",
+      "size": 216,
+      "subject": "Stockbrokers.  Security dealers.  Investment"
+    },
+    {
+      "id": "HG4701-4751",
+      "size": 350,
+      "subject": "Government securities.  Industrial securities."
+    },
+    {
+      "id": "HG3810-4000",
+      "size": 10756,
+      "subject": "Foreign exchange.  International finance."
+    },
+    {
+      "id": "HG4301-4480.9",
+      "size": 239,
+      "subject": "Trust services.  Trust companies"
+    },
+    {
+      "id": "HG6105-6270.9",
+      "size": 399,
+      "subject": "Lotteries"
+    },
+    {
+      "id": "HG178",
+      "size": 16,
+      "subject": "Liquidity"
+    },
+    {
+      "id": "HB",
+      "size": 0,
+      "subject": "Economic theory.  Demography"
+    },
+    {
+      "id": "HB1-3840",
+      "size": 22208,
+      "subject": "Economic theory.  Demography"
+    },
+    {
+      "id": "HB3711-3840",
+      "size": 3308,
+      "subject": "Business cycles.  Economic fluctuations"
+    },
+    {
+      "id": "HB75-130",
+      "size": 8833,
+      "subject": "History of economics.  History of economic"
+    },
+    {
+      "id": "HB522-715",
+      "size": 291,
+      "subject": "Income.  Factor shares"
+    },
+    {
+      "id": "HB535-551",
+      "size": 304,
+      "subject": "Interest"
+    },
+    {
+      "id": "HB615-715",
+      "size": 1630,
+      "subject": "Entrepreneurship.  Risk and uncertainty."
+    },
+    {
+      "id": "HB601",
+      "size": 375,
+      "subject": "Profit"
+    },
+    {
+      "id": "HB71-74",
+      "size": 1998,
+      "subject": "Economics as a science.  Relation to other"
+    },
+    {
+      "id": "HB801-843",
+      "size": 887,
+      "subject": "Consumption.  Demand"
+    },
+    {
+      "id": "HB848-3697",
+      "size": 20551,
+      "subject": "Demography.  Population.  Vital events"
+    },
+    {
+      "id": "HB501",
+      "size": 2489,
+      "subject": "Capital.  Capitalism"
+    },
+    {
+      "id": "HB238-251",
+      "size": 639,
+      "subject": "Competition.  Production.  Wealth"
+    },
+    {
+      "id": "HB131-147",
+      "size": 288,
+      "subject": "Methodology"
+    },
+    {
+      "id": "HB135-147",
+      "size": 3261,
+      "subject": "Mathematical economics.  Quantitative methods"
+    },
+    {
+      "id": "HB221-236",
+      "size": 2789,
+      "subject": "Price"
+    },
+    {
+      "id": "HB846-846.8",
+      "size": 509,
+      "subject": "Welfare theory"
+    },
+    {
+      "id": "HB201-206",
+      "size": 670,
+      "subject": "Value.  Utility"
+    },
+    {
+      "id": "HQ",
+      "size": 0,
+      "subject": "The Family.  Marriage.  Women"
+    },
+    {
+      "id": "HQ1-2044",
+      "size": 1052,
+      "subject": "The Family.  Marriage.  Women"
+    },
+    {
+      "id": "HQ503-1064",
+      "size": 13370,
+      "subject": "The family.  Marriage.  Home"
+    },
+    {
+      "id": "HQ767.8-792.2",
+      "size": 13384,
+      "subject": "Children.  Child development"
+    },
+    {
+      "id": "HQ1060-1064",
+      "size": 6104,
+      "subject": "Aged.  Gerontology (Social aspects)."
+    },
+    {
+      "id": "HQ811-960.7",
+      "size": 1220,
+      "subject": "Divorce"
+    },
+    {
+      "id": "HQ793-799.2",
+      "size": 9630,
+      "subject": "Youth.  Adolescents.  Teenagers"
+    },
+    {
+      "id": "HQ799.95-799.97",
+      "size": 151,
+      "subject": "Adulthood"
+    },
+    {
+      "id": "HQ755.7-759.92",
+      "size": 6556,
+      "subject": "Parents.  Parenthood"
+    },
+    {
+      "id": "HQ760-767.7",
+      "size": 5481,
+      "subject": "Family size"
+    },
+    {
+      "id": "HQ801-801.83",
+      "size": 2110,
+      "subject": "Man-woman relationships.  Courtship.  Dating"
+    },
+    {
+      "id": "HQ800-800.4",
+      "size": 537,
+      "subject": "Single people"
+    },
+    {
+      "id": "HQ750-755.5",
+      "size": 538,
+      "subject": "Eugenics"
+    },
+    {
+      "id": "HQ806",
+      "size": 223,
+      "subject": "Adultery"
+    },
+    {
+      "id": "HQ799.5-799.9",
+      "size": 874,
+      "subject": "Young men and women"
+    },
+    {
+      "id": "HQ1058-1058.5",
+      "size": 266,
+      "subject": "Widows and widowers.  Widowhood"
+    },
+    {
+      "id": "HQ981-996",
+      "size": 70,
+      "subject": "Polygamy"
+    },
+    {
+      "id": "HQ998-999",
+      "size": 157,
+      "subject": "Illegitimacy.  Unmarried mothers"
+    },
+    {
+      "id": "HQ803",
+      "size": 15,
+      "subject": "Temporary marriage.  Trial marriage."
+    },
+    {
+      "id": "HQ961-967",
+      "size": 41,
+      "subject": "Free love"
+    },
+    {
+      "id": "HQ1001-1006",
+      "size": 2,
+      "subject": "The state and marriage"
+    },
+    {
+      "id": "HQ802",
+      "size": 30,
+      "subject": "Matrimonial bureaus.  Marriage brokerage"
+    },
+    {
+      "id": "HQ1051-1057",
+      "size": 43,
+      "subject": "The church and marriage"
+    },
+    {
+      "id": "HQ805",
+      "size": 13,
+      "subject": "Desertion"
+    },
+    {
+      "id": "HQ804",
+      "size": 1,
+      "subject": "Breach of promise"
+    },
+    {
+      "id": "HQ802.5",
+      "size": 8,
+      "subject": "Matrimonial advertisements"
+    },
+    {
+      "id": "HQ997",
+      "size": 4,
+      "subject": "Polyandry"
+    },
+    {
+      "id": "HQ1101-2030.7",
+      "size": 34433,
+      "subject": "Women.  Feminism"
+    },
+    {
+      "id": "HQ1871-2030.7",
+      "size": 603,
+      "subject": "Women's clubs"
+    },
+    {
+      "id": "HQ12-449",
+      "size": 1774,
+      "subject": "Sexual life"
+    },
+    {
+      "id": "HQ19-30.7",
+      "size": 2664,
+      "subject": "Sexual behavior and attitudes.  Sexuality"
+    },
+    {
+      "id": "HQ101-440.7",
+      "size": 2585,
+      "subject": "Prostitution"
+    },
+    {
+      "id": "HQ75-76.8",
+      "size": 4393,
+      "subject": "Homosexuality.  Lesbianism"
+    },
+    {
+      "id": "HQ31-64",
+      "size": 3878,
+      "subject": "Sex instruction and sexual ethics"
+    },
+    {
+      "id": "HQ74-74.2",
+      "size": 75,
+      "subject": "Bisexuality"
+    },
+    {
+      "id": "HQ71-72",
+      "size": 765,
+      "subject": "Sexual deviations"
+    },
+    {
+      "id": "HQ447",
+      "size": 39,
+      "subject": "Masturbation"
+    },
+    {
+      "id": "HQ77.7-77.95",
+      "size": 279,
+      "subject": "Transexualism"
+    },
+    {
+      "id": "HQ449",
+      "size": 57,
+      "subject": "Emasculation.  Eunuchs, etc."
+    },
+    {
+      "id": "HQ79",
+      "size": 194,
+      "subject": "Sadism.  Masochism.  Fetishism, etc."
+    },
+    {
+      "id": "HQ77-77.2",
+      "size": 125,
+      "subject": "Transvestism"
+    },
+    {
+      "id": "HQ1088-1090.7",
+      "size": 1133,
+      "subject": "Men"
+    },
+    {
+      "id": "HQ1075-1075.5",
+      "size": 1508,
+      "subject": "Sex role"
+    },
+    {
+      "id": "HQ1073-1073.5",
+      "size": 466,
+      "subject": "Thanatology.  Death.  Dying"
+    },
+    {
+      "id": "HQ450-472",
+      "size": 698,
+      "subject": "Erotica"
+    },
+    {
+      "id": "HQ2042-2044",
+      "size": 174,
+      "subject": "Life style"
+    },
+    {
+      "id": "HQ2035-2039",
+      "size": 231,
+      "subject": "Life skills.  Coping skills.  Everyday living"
+    },
+    {
+      "id": "H1-99",
+      "size": 15283,
+      "subject": "Social sciences (General)"
+    },
+    {
+      "id": "HE",
+      "size": 0,
+      "subject": "Transportation and communications"
+    },
+    {
+      "id": "HE1-9990",
+      "size": 8628,
+      "subject": "Transportation and communications"
+    },
+    {
+      "id": "HE7601-8700.9",
+      "size": 7858,
+      "subject": "Telecommunication industry.  Telegraph"
+    },
+    {
+      "id": "HE8660-8688",
+      "size": 204,
+      "subject": "Wireless telegraph.  Radiotelegraphy"
+    },
+    {
+      "id": "HE6000-7500",
+      "size": 6846,
+      "subject": "Postal service.  Stamps.  Philately"
+    },
+    {
+      "id": "HE5746-5749",
+      "size": 34,
+      "subject": "Stage lines"
+    },
+    {
+      "id": "HE380.8-971",
+      "size": 0,
+      "subject": "Water transportation"
+    },
+    {
+      "id": "HE561-971",
+      "size": 3367,
+      "subject": "Shipping"
+    },
+    {
+      "id": "HE730-943",
+      "size": 2219,
+      "subject": "Merchant marine.  Ocean shipping.  Coastwise"
+    },
+    {
+      "id": "HE380.8-560",
+      "size": 3655,
+      "subject": "Waterways"
+    },
+    {
+      "id": "HE9761-9900",
+      "size": 3346,
+      "subject": "Air transportation.  Airlines"
+    },
+    {
+      "id": "HE1001-5600",
+      "size": 10522,
+      "subject": "Railroads.  Rapid transit systems"
+    },
+    {
+      "id": "HE5880-5990",
+      "size": 101,
+      "subject": "Express service"
+    },
+    {
+      "id": "HE5751-5870",
+      "size": 208,
+      "subject": "Ferries"
+    },
+    {
+      "id": "HE8701-9680.7",
+      "size": 1231,
+      "subject": "Telephone industry"
+    },
+    {
+      "id": "HE5601-5725",
+      "size": 6340,
+      "subject": "Automotive transportation"
+    },
+    {
+      "id": "HE331-380",
+      "size": 4816,
+      "subject": "Traffic engineering.  Roads and highways."
+    },
+    {
+      "id": "HE369-373",
+      "size": 1112,
+      "subject": "Traffic surveys (General)"
+    },
+    {
+      "id": "HE374-377",
+      "size": 115,
+      "subject": "Bridges"
+    },
+    {
+      "id": "HE379-380",
+      "size": 37,
+      "subject": "Tunnels.  Vehicular tunnels"
+    },
+    {
+      "id": "HE305-311",
+      "size": 1635,
+      "subject": "Urban transportation"
+    },
+    {
+      "id": "HE9751-9756",
+      "size": 14,
+      "subject": "Messenger service"
+    },
+    {
+      "id": "HE9713-9715",
+      "size": 221,
+      "subject": "Cellular telephone services industry.  Wireless"
+    },
+    {
+      "id": "HE199-199.5",
+      "size": 747,
+      "subject": "Freight (General)"
+    },
+    {
+      "id": "HE8689-8700.95",
+      "size": 16,
+      "subject": "Radio and television broadcasting"
+    },
+    {
+      "id": "HE199.9",
+      "size": 63,
+      "subject": "Passenger traffic (General)"
+    },
+    {
+      "id": "HE323-328",
+      "size": 98,
+      "subject": "Transportation geography.  Trade routes"
+    },
+    {
+      "id": "HE9719-9721",
+      "size": 132,
+      "subject": "Artificial satellite telecommunications"
+    },
+    {
+      "id": "HE9723-9737",
+      "size": 8,
+      "subject": "Signaling"
+    },
+    {
+      "id": "HE7511-7549",
+      "size": 2,
+      "subject": "Pneumatic service"
+    },
+    {
+      "id": "HM",
+      "size": 0,
+      "subject": "Sociology"
+    },
+    {
+      "id": "HM1-1281",
+      "size": 2287,
+      "subject": "Sociology"
+    },
+    {
+      "id": "HM1-299",
+      "size": 23608,
+      "subject": "These are obsolete numbers no longer used"
+    },
+    {
+      "id": "HM711-806",
+      "size": 1362,
+      "subject": "Groups and organizations"
+    },
+    {
+      "id": "HM786-806",
+      "size": 201,
+      "subject": "Organizational sociology.  Organization theory"
+    },
+    {
+      "id": "HM756-781",
+      "size": 267,
+      "subject": "Community"
+    },
+    {
+      "id": "HM831-901",
+      "size": 2515,
+      "subject": "Social change"
+    },
+    {
+      "id": "HM435-477",
+      "size": 639,
+      "subject": "History of sociology.  History of sociological"
+    },
+    {
+      "id": "HM461-473",
+      "size": 100,
+      "subject": "Schools of sociology.  Schools of social thought"
+    },
+    {
+      "id": "HM1001-1281",
+      "size": 789,
+      "subject": "Social psychology"
+    },
+    {
+      "id": "HM1041-1101",
+      "size": 354,
+      "subject": "Social perception.  Social cognition"
+    },
+    {
+      "id": "HM1176-1281",
+      "size": 2652,
+      "subject": "Social influence.  Social pressure"
+    },
+    {
+      "id": "HM1106-1171",
+      "size": 1596,
+      "subject": "Interpersonal relations.  Social behavior"
+    },
+    {
+      "id": "HM481-554",
+      "size": 796,
+      "subject": "Theory.  Method.  Relations to other subjects"
+    },
+    {
+      "id": "HM621-656",
+      "size": 1901,
+      "subject": "Culture"
+    },
+    {
+      "id": "HM661-696",
+      "size": 807,
+      "subject": "Social control"
+    },
+    {
+      "id": "HM701",
+      "size": 99,
+      "subject": "Social systems"
+    },
+    {
+      "id": "HM811-821",
+      "size": 364,
+      "subject": "Deviant behavior.  Social deviance"
+    },
+    {
+      "id": "HM706",
+      "size": 93,
+      "subject": "Social structure"
+    },
+    {
+      "id": "HM826",
+      "size": 51,
+      "subject": "Social institutions"
+    },
+    {
+      "id": "HJ",
+      "size": 0,
+      "subject": "Public finance"
+    },
+    {
+      "id": "HJ9-9940",
+      "size": 3224,
+      "subject": "Public finance"
+    },
+    {
+      "id": "HJ2240-5908",
+      "size": 2863,
+      "subject": "Revenue.  Taxation.  Internal revenue"
+    },
+    {
+      "id": "HJ2361-3192.7",
+      "size": 3923,
+      "subject": "By region or country"
+    },
+    {
+      "id": "HJ5309-5510",
+      "size": 366,
+      "subject": "Administrative fees.  User charges."
+    },
+    {
+      "id": "HJ4629-4830",
+      "size": 2420,
+      "subject": "Income tax"
+    },
+    {
+      "id": "HJ4113-4601",
+      "size": 1711,
+      "subject": "Property tax"
+    },
+    {
+      "id": "HJ3801-3844",
+      "size": 247,
+      "subject": "Revenue from sources other than taxation"
+    },
+    {
+      "id": "HJ2321-2323",
+      "size": 186,
+      "subject": "Tax incidence.  Tax shifting.  Tax equity"
+    },
+    {
+      "id": "HJ2351",
+      "size": 39,
+      "subject": "Inflation and taxation"
+    },
+    {
+      "id": "HJ2326-2327",
+      "size": 27,
+      "subject": "Progressive taxation"
+    },
+    {
+      "id": "HJ2336-2337",
+      "size": 81,
+      "subject": "Tax exemption"
+    },
+    {
+      "id": "HJ3863-3925",
+      "size": 7,
+      "subject": "Direct taxation"
+    },
+    {
+      "id": "HJ4919-4936",
+      "size": 23,
+      "subject": "Capitation.  Poll tax"
+    },
+    {
+      "id": "HJ2338",
+      "size": 8,
+      "subject": "Taxation of government property"
+    },
+    {
+      "id": "HJ2351.4",
+      "size": 2,
+      "subject": "Tax revenue estimating"
+    },
+    {
+      "id": "HJ8001-8899",
+      "size": 317,
+      "subject": "Public debts"
+    },
+    {
+      "id": "HJ8101-8899",
+      "size": 2323,
+      "subject": "By region or country"
+    },
+    {
+      "id": "HJ8052",
+      "size": 7,
+      "subject": "Sinking funds.  Amortization"
+    },
+    {
+      "id": "HJ6603-7390",
+      "size": 1245,
+      "subject": "Customs administration"
+    },
+    {
+      "id": "HJ7461-7980",
+      "size": 543,
+      "subject": "Expenditures.  Government spending"
+    },
+    {
+      "id": "HJ9103-9695",
+      "size": 3853,
+      "subject": "Local finance.  Municipal finance"
+    },
+    {
+      "id": "HJ2005-2216",
+      "size": 3739,
+      "subject": "Income and expenditure.  Budget"
+    },
+    {
+      "id": "HJ241-1620",
+      "size": 6773,
+      "subject": "By region or country"
+    },
+    {
+      "id": "HJ9701-9940",
+      "size": 2358,
+      "subject": "Public accounting.  Auditing"
+    },
+    {
+      "id": "HJ210-240",
+      "size": 180,
+      "subject": "History"
+    },
+    {
+      "id": "HJ9-99.8",
+      "size": 7654,
+      "subject": "Periodicals.  Serials.  By region or country"
+    },
+    {
+      "id": "HN",
+      "size": 0,
+      "subject": "Social history and conditions.  Social problems."
+    },
+    {
+      "id": "HN1-995",
+      "size": 6102,
+      "subject": "Social history and conditions.  Social problems."
+    },
+    {
+      "id": "HN50-995",
+      "size": 50734,
+      "subject": "By region or country"
+    },
+    {
+      "id": "HN41-46",
+      "size": 179,
+      "subject": "Community centers.  Social centers"
+    },
+    {
+      "id": "HN30-39",
+      "size": 1444,
+      "subject": "The church and social problems"
+    },
+    {
+      "id": "HS",
+      "size": 0,
+      "subject": "Societies: secret, benevolent, etc."
+    },
+    {
+      "id": "HS1-3371",
+      "size": 442,
+      "subject": "Societies: secret, benevolent, etc."
+    },
+    {
+      "id": "HS2501-3371",
+      "size": 2322,
+      "subject": "Clubs.  Clubs and societies for special classes"
+    },
+    {
+      "id": "HS1501-2460.7",
+      "size": 0,
+      "subject": "Other societies.  By classes"
+    },
+    {
+      "id": "HS1525-1560",
+      "size": 80,
+      "subject": "Religious societies"
+    },
+    {
+      "id": "HS1601-2265",
+      "size": 199,
+      "subject": "Race societies"
+    },
+    {
+      "id": "HS2301-2460.7",
+      "size": 269,
+      "subject": "Political and \"patriotic\" societies"
+    },
+    {
+      "id": "HS1501-1510",
+      "size": 199,
+      "subject": "Benevolent and \"friendly\" societies and"
+    },
+    {
+      "id": "HS2275",
+      "size": 2,
+      "subject": "Occupation societies"
+    },
+    {
+      "id": "HS351-929",
+      "size": 2987,
+      "subject": "Freemasons"
+    },
+    {
+      "id": "HS101-330.7",
+      "size": 387,
+      "subject": "Secret societies"
+    },
+    {
+      "id": "HS951-1179",
+      "size": 76,
+      "subject": "Odd Fellows"
+    },
+    {
+      "id": "HS1201-1350",
+      "size": 23,
+      "subject": "Knights of Pythias"
+    },
+    {
+      "id": "HS1355",
+      "size": 11,
+      "subject": "Other societies"
+    },
+    {
+      "id": "HV",
+      "size": 0,
+      "subject": "Social pathology.  Social and public welfare."
+    },
+    {
+      "id": "HV1-9960",
+      "size": 3906,
+      "subject": "Social pathology.  Social and public welfare."
+    },
+    {
+      "id": "HV697-4959",
+      "size": 8,
+      "subject": "Protection, assistance and relief"
+    },
+    {
+      "id": "HV4023-4470.7",
+      "size": 1220,
+      "subject": "Poor in cities.  Slums"
+    },
+    {
+      "id": "HV697-3024",
+      "size": 17502,
+      "subject": "Special classes"
+    },
+    {
+      "id": "HV4701-4890.9",
+      "size": 849,
+      "subject": "Protection of animals.  Animal rights.  Animal"
+    },
+    {
+      "id": "HV3176-3199",
+      "size": 425,
+      "subject": "Special classes.  By race or ethnic group"
+    },
+    {
+      "id": "HV4005-4013",
+      "size": 244,
+      "subject": "Immigrants"
+    },
+    {
+      "id": "HV4905-4959",
+      "size": 154,
+      "subject": "Animal experimentation.  Anti-vivisection"
+    },
+    {
+      "id": "HV4480-4630",
+      "size": 1306,
+      "subject": "Mendicancy.  Vagabondism.  Tramps."
+    },
+    {
+      "id": "HV3025-3174",
+      "size": 0,
+      "subject": "Special classes.  By occupation"
+    },
+    {
+      "id": "HV3025-3163",
+      "size": 26,
+      "subject": "Mariners"
+    },
+    {
+      "id": "HV3174",
+      "size": 12,
+      "subject": "Other.  By occupation"
+    },
+    {
+      "id": "HV3165-3173",
+      "size": 2,
+      "subject": "Shop women, clerks, etc."
+    },
+    {
+      "id": "HV6001-7220.5",
+      "size": 2424,
+      "subject": "Criminology"
+    },
+    {
+      "id": "HV6251-6773.55",
+      "size": 25348,
+      "subject": "Crimes and offenses"
+    },
+    {
+      "id": "HV6774-7220.5",
+      "size": 4576,
+      "subject": "Crimes and criminal classes"
+    },
+    {
+      "id": "HV6250-6250.4",
+      "size": 2146,
+      "subject": "Victims of crimes.  Victimology"
+    },
+    {
+      "id": "HV6035-6197",
+      "size": 2035,
+      "subject": "Criminal anthropology"
+    },
+    {
+      "id": "HV6201-6249",
+      "size": 1876,
+      "subject": "Criminal classes"
+    },
+    {
+      "id": "HV5001-5720.5",
+      "size": 5362,
+      "subject": "Alcoholism.  Intemperance.  Temperance reform"
+    },
+    {
+      "id": "HV7231-9960",
+      "size": 1863,
+      "subject": "Criminal justice administration"
+    },
+    {
+      "id": "HV7551-8280.7",
+      "size": 2994,
+      "subject": "Police.  Detectves.  Constabulary"
+    },
+    {
+      "id": "HV8130-8280.7",
+      "size": 7424,
+      "subject": "By region or country"
+    },
+    {
+      "id": "HV7935-8025",
+      "size": 1920,
+      "subject": "Administration and organization"
+    },
+    {
+      "id": "HV8031-8080",
+      "size": 427,
+      "subject": "Police duty.  Methods of protection"
+    },
+    {
+      "id": "HV8073-8079.35",
+      "size": 2836,
+      "subject": "Investigation of crimes.  Examination"
+    },
+    {
+      "id": "HV8079.2-8079.35",
+      "size": 86,
+      "subject": "Police social work"
+    },
+    {
+      "id": "HV8079.5-8079.55",
+      "size": 224,
+      "subject": "Traffic control.  Traffic accident"
+    },
+    {
+      "id": "HV8035-8069",
+      "size": 159,
+      "subject": "Special classes of crimes, offenses"
+    },
+    {
+      "id": "HV8081-8099",
+      "size": 194,
+      "subject": "Private detectives.  Detective bureaus"
+    },
+    {
+      "id": "HV8301-9920.7",
+      "size": 5536,
+      "subject": "Penology.  Prisons.  Corrections"
+    },
+    {
+      "id": "HV9441-9920.7",
+      "size": 5813,
+      "subject": "By region or country"
+    },
+    {
+      "id": "HV9051-9230.7",
+      "size": 4949,
+      "subject": "The juvenile offender.  Juvenile delinquency."
+    },
+    {
+      "id": "HV9261-9430.7",
+      "size": 2447,
+      "subject": "Reformation and reclamation of adult"
+    },
+    {
+      "id": "HV7435-7439",
+      "size": 398,
+      "subject": "Gun control"
+    },
+    {
+      "id": "HV9950-9960",
+      "size": 1484,
+      "subject": "By region or country"
+    },
+    {
+      "id": "HV7431",
+      "size": 771,
+      "subject": "Prevention of crime, methods, etc."
+    },
+    {
+      "id": "HV8290-8291",
+      "size": 544,
+      "subject": "Private security services"
+    },
+    {
+      "id": "HV7428",
+      "size": 124,
+      "subject": "Social work with delinquents and criminals"
+    },
+    {
+      "id": "HV85-525",
+      "size": 13022,
+      "subject": "By region or country"
+    },
+    {
+      "id": "HV40-69",
+      "size": 3987,
+      "subject": "Social service.  Social work.  Charity"
+    },
+    {
+      "id": "HV701-1420.5",
+      "size": 0,
+      "subject": "Children"
+    },
+    {
+      "id": "HV873-887",
+      "size": 2972,
+      "subject": "Destitute, neglected, and abandoned"
+    },
+    {
+      "id": "HV959-1420.5",
+      "size": 764,
+      "subject": "Orphanages.  Orphans"
+    },
+    {
+      "id": "HV888-907",
+      "size": 1175,
+      "subject": "Children with disabilities"
+    },
+    {
+      "id": "HV931-941",
+      "size": 11,
+      "subject": "Fresh-air funds"
+    },
+    {
+      "id": "HV835-847",
+      "size": 41,
+      "subject": "Foundlings"
+    },
+    {
+      "id": "HV1421-1441",
+      "size": 1171,
+      "subject": "Young adults.  Youth.  Teenagers"
+    },
+    {
+      "id": "HV1450-1494",
+      "size": 3223,
+      "subject": "Aged"
+    },
+    {
+      "id": "HV1442-1448",
+      "size": 471,
+      "subject": "Women"
+    },
+    {
+      "id": "HV5800-5840",
+      "size": 8062,
+      "subject": "Drug habits.  Drug abuse"
+    },
+    {
+      "id": "HV541",
+      "size": 41,
+      "subject": "Women and charity"
+    },
+    {
+      "id": "HV5725-5770",
+      "size": 862,
+      "subject": "Tobacco habit"
+    },
+    {
+      "id": "HV551.2-639",
+      "size": 1256,
+      "subject": "Emergency management"
+    },
+    {
+      "id": "HV553-639",
+      "size": 1403,
+      "subject": "Relief in case of disasters"
+    },
+    {
+      "id": "HV560-583",
+      "size": 728,
+      "subject": "Red Cross.  Red Crescent"
+    },
+    {
+      "id": "HV599-639",
+      "size": 1092,
+      "subject": "Special types of disasters"
+    },
+    {
+      "id": "HV680-696",
+      "size": 1236,
+      "subject": "Free professional services"
+    },
+    {
+      "id": "HV640-645",
+      "size": 2604,
+      "subject": "Refugee problems"
+    },
+    {
+      "id": "HV544.5",
+      "size": 45,
+      "subject": "International social work"
+    },
+    {
+      "id": "HV675-677",
+      "size": 544,
+      "subject": "Accidents.  Prevention of accidents"
+    },
+    {
+      "id": "HV530",
+      "size": 161,
+      "subject": "The church and charity"
+    },
+    {
+      "id": "HV4961-4995",
+      "size": 47,
+      "subject": "Degeneration"
+    },
+    {
+      "id": "HV650-670",
+      "size": 30,
+      "subject": "Life saving"
+    },
+    {
+      "id": "HV547",
+      "size": 127,
+      "subject": "Self-help groups"
+    },
+    {
+      "id": "HV544",
+      "size": 8,
+      "subject": "Charity fairs, bazaars, etc."
+    },
+    {
+      "id": "HC",
+      "size": 0,
+      "subject": "Economic history and conditions"
+    },
+    {
+      "id": "HC10-1085",
+      "size": 13339,
+      "subject": "Economic history and conditions"
+    },
+    {
+      "id": "HC94-1085",
+      "size": 166899,
+      "subject": "By region or country"
+    },
+    {
+      "id": "HC79",
+      "size": 7680,
+      "subject": "Special topics"
+    },
+    {
+      "id": "HC92",
+      "size": 33,
+      "subject": "Economic geography of the oceans (General)"
+    },
+    {
+      "id": "HA",
+      "size": 0,
+      "subject": "Statistics"
+    },
+    {
+      "id": "HA1-4737",
+      "size": 1077,
+      "subject": "Statistics"
+    },
+    {
+      "id": "HA29-32",
+      "size": 2711,
+      "subject": "Theory and method of social science statistics"
+    },
+    {
+      "id": "HA36-37",
+      "size": 1723,
+      "subject": "Statistical services.  Statistical bureaus"
+    },
+    {
+      "id": "HA154-4737",
+      "size": 20,
+      "subject": "Statistical data"
+    },
+    {
+      "id": "HA154-155",
+      "size": 160,
+      "subject": "Universal statistics"
+    },
+    {
+      "id": "HA175-4737",
+      "size": 19616,
+      "subject": "By region or country"
+    },
+    {
+      "id": "HA38-39",
+      "size": 258,
+      "subject": "Registration of vital events.  Vital"
+    },
+    {
+      "id": "HT",
+      "size": 0,
+      "subject": "Communities.  Classes.  Races"
+    },
+    {
+      "id": "HT51-1595",
+      "size": 9,
+      "subject": "Communities.  Classes.  Races"
+    },
+    {
+      "id": "HT101-395",
+      "size": 8801,
+      "subject": "Urban groups.  The city.  Urban sociology"
+    },
+    {
+      "id": "HT361-384",
+      "size": 2315,
+      "subject": "Urbanization.  City and country"
+    },
+    {
+      "id": "HT390-395",
+      "size": 9905,
+      "subject": "Regional planning"
+    },
+    {
+      "id": "HT351-352",
+      "size": 240,
+      "subject": "Suburban cities and towns"
+    },
+    {
+      "id": "HT165.5-169.9",
+      "size": 10367,
+      "subject": "City planning"
+    },
+    {
+      "id": "HT170-178",
+      "size": 2255,
+      "subject": "Urban renewal.  Urban redevelopment"
+    },
+    {
+      "id": "HT330-334",
+      "size": 396,
+      "subject": "Metropolitan areas"
+    },
+    {
+      "id": "HT388",
+      "size": 306,
+      "subject": "Regional economics.  Space in economics"
+    },
+    {
+      "id": "HT321-325",
+      "size": 405,
+      "subject": "The city as an economic factor.  City"
+    },
+    {
+      "id": "HT201-221",
+      "size": 112,
+      "subject": "City population"
+    },
+    {
+      "id": "HT161-165",
+      "size": 148,
+      "subject": "Garden cities.  \"The city beautiful\""
+    },
+    {
+      "id": "HT251-265",
+      "size": 21,
+      "subject": "Mental and moral life"
+    },
+    {
+      "id": "HT231",
+      "size": 10,
+      "subject": "Effect of city life"
+    },
+    {
+      "id": "HT281",
+      "size": 6,
+      "subject": "Recreation.  Amusements"
+    },
+    {
+      "id": "HT1501-1595",
+      "size": 1255,
+      "subject": "Races"
+    },
+    {
+      "id": "HT601-1445",
+      "size": 450,
+      "subject": "Classes"
+    },
+    {
+      "id": "HT851-1445",
+      "size": 2767,
+      "subject": "Slavery"
+    },
+    {
+      "id": "HT713-725",
+      "size": 1146,
+      "subject": "Caste system"
+    },
+    {
+      "id": "HT675-690",
+      "size": 1128,
+      "subject": "Classes arising from occupation"
+    },
+    {
+      "id": "HT641-657",
+      "size": 745,
+      "subject": "Classes arising from birth"
+    },
+    {
+      "id": "HT751-815",
+      "size": 128,
+      "subject": "Serfdom"
+    },
+    {
+      "id": "HT731",
+      "size": 10,
+      "subject": "Freedmen"
+    },
+    {
+      "id": "HT621-635",
+      "size": 19,
+      "subject": "Origin of social classes"
+    },
+    {
+      "id": "HT51-65",
+      "size": 166,
+      "subject": "Human settlements.  Communities"
+    },
+    {
+      "id": "HT401-485",
+      "size": 819,
+      "subject": "Rural groups.  Rural sociology"
+    }
+  ],
+  "links": [
+    {
+      "source": "H",
+      "target": "HF"
+    },
+    {
+      "source": "HF",
+      "target": "HF1-6182"
+    },
+    {
+      "source": "HF1-6182",
+      "target": "HF5001-6182"
+    },
+    {
+      "source": "HF1-6182",
+      "target": "HF3000-4055"
+    },
+    {
+      "source": "HF1-6182",
+      "target": "HF294-343"
+    },
+    {
+      "source": "HF1-6182",
+      "target": "HF1701-2701"
+    },
+    {
+      "source": "HF1-6182",
+      "target": "HF1040-1054"
+    },
+    {
+      "source": "HF1-6182",
+      "target": "HF1021-1027"
+    },
+    {
+      "source": "HF1-6182",
+      "target": "HF1014"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5381-5386"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5601-5689"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5460-5469.5"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5446-5459"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5410-5417.5"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5549-5549.5"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5520-5541"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5546-5548.6"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5548.7-5548.85"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5801-6182"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5387-5387.5"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5717-5734.7"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5437-5444"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5482-5482.4"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5428-5429.6"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5691-5716"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5735-5746"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5469.7-5481"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5419-5422"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5761-5780"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5429.7-5430.6"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5484-5495"
+    },
+    {
+      "source": "HF5001-6182",
+      "target": "HF5482.6-5482.65"
+    },
+    {
+      "source": "H",
+      "target": "HX"
+    },
+    {
+      "source": "HX",
+      "target": "HX1-970.7"
+    },
+    {
+      "source": "HX1-970.7",
+      "target": "HX519-550"
+    },
+    {
+      "source": "HX1-970.7",
+      "target": "HX806-811"
+    },
+    {
+      "source": "HX1-970.7",
+      "target": "HX626-696"
+    },
+    {
+      "source": "H",
+      "target": "HD"
+    },
+    {
+      "source": "HD",
+      "target": "HD28-9999"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD2321-4730.9"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD4801-8943"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD101-1395.5"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD28-70"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD69"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD9000-9999"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD56-57.5"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD66-66.2"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD47-47.4"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD39-40.7"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD45-45.2"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD60-60.5"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD1401-2210"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD72-88"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD61"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD49-49.5"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD50-50.5"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD62"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD41"
+    },
+    {
+      "source": "HD28-9999",
+      "target": "HD58"
+    },
+    {
+      "source": "HD2321-4730.9",
+      "target": "HD2709-2930.7"
+    },
+    {
+      "source": "HD2321-4730.9",
+      "target": "HD2951-3575"
+    },
+    {
+      "source": "HD2321-4730.9",
+      "target": "HD3611-4730.9"
+    },
+    {
+      "source": "HD2321-4730.9",
+      "target": "HD2340.8-2346.5"
+    },
+    {
+      "source": "HD2321-4730.9",
+      "target": "HD2331-2336"
+    },
+    {
+      "source": "HD2321-4730.9",
+      "target": "HD2350.8-2356"
+    },
+    {
+      "source": "HD2321-4730.9",
+      "target": "HD2421-2429"
+    },
+    {
+      "source": "HD2321-4730.9",
+      "target": "HD2365-2385"
+    },
+    {
+      "source": "HD2321-4730.9",
+      "target": "HD2329"
+    },
+    {
+      "source": "HD2321-4730.9",
+      "target": "HD2337-2339"
+    },
+    {
+      "source": "HD2321-4730.9",
+      "target": "HD2330"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD6050-6305"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD8045-8943"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD7260-7780.8"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD8039"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD6350-6940.7"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD5306-5474"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD7088-7252"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD5701-6000.9"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD6951-6957"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD7255-7256"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD4909-5100.9"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD5106-5267"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD4861-4895"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD6958.5-6976"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD7795-8027"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD5481-5630.7"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD5650-5660"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD8038"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD6977-7080"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD6941-6948"
+    },
+    {
+      "source": "HD4801-8943",
+      "target": "HD8031"
+    },
+    {
+      "source": "HD101-1395.5",
+      "target": "HD1361-1395.5"
+    },
+    {
+      "source": "HD101-1395.5",
+      "target": "HD1332-1333.5"
+    },
+    {
+      "source": "HD101-1395.5",
+      "target": "HD1336-1339"
+    },
+    {
+      "source": "HD101-1395.5",
+      "target": "HD1286-1289"
+    },
+    {
+      "source": "HD101-1395.5",
+      "target": "HD1330-1331"
+    },
+    {
+      "source": "HD101-1395.5",
+      "target": "HD1326-1329"
+    },
+    {
+      "source": "HD101-1395.5",
+      "target": "HD1334-1335"
+    },
+    {
+      "source": "HD101-1395.5",
+      "target": "HD1301-1313"
+    },
+    {
+      "source": "HD101-1395.5",
+      "target": "HD1290-1291"
+    },
+    {
+      "source": "HD9000-9999",
+      "target": "HD9999"
+    },
+    {
+      "source": "HD9000-9999",
+      "target": "HD9680-9714"
+    },
+    {
+      "source": "HD9000-9999",
+      "target": "HD9720-9975"
+    },
+    {
+      "source": "HD9000-9999",
+      "target": "HD9000-9495"
+    },
+    {
+      "source": "HD9000-9999",
+      "target": "HD9506-9624"
+    },
+    {
+      "source": "HD9000-9999",
+      "target": "HD9650-9663"
+    },
+    {
+      "source": "HD9000-9999",
+      "target": "HD9715-9717.5"
+    },
+    {
+      "source": "HD9000-9999",
+      "target": "HD9502-9502.5"
+    },
+    {
+      "source": "HD9000-9999",
+      "target": "HD9665-9675"
+    },
+    {
+      "source": "HD1401-2210",
+      "target": "HD1635-1702"
+    },
+    {
+      "source": "HD1401-2210",
+      "target": "HD1501-1542"
+    },
+    {
+      "source": "HD1401-2210",
+      "target": "HD1491-1491.5"
+    },
+    {
+      "source": "HD1401-2210",
+      "target": "HD1492-1492.5"
+    },
+    {
+      "source": "HD1401-2210",
+      "target": "HD1483-1486"
+    },
+    {
+      "source": "HD1401-2210",
+      "target": "HD1493-1493.5"
+    },
+    {
+      "source": "HD1401-2210",
+      "target": "HD1470-1476"
+    },
+    {
+      "source": "HD1401-2210",
+      "target": "HD1711-1741"
+    },
+    {
+      "source": "HD1401-2210",
+      "target": "HD1428-1431"
+    },
+    {
+      "source": "HD1401-2210",
+      "target": "HD1478"
+    },
+    {
+      "source": "HD1401-2210",
+      "target": "HD1549"
+    },
+    {
+      "source": "HD1401-2210",
+      "target": "HD1580"
+    },
+    {
+      "source": "H",
+      "target": "HG"
+    },
+    {
+      "source": "HG",
+      "target": "HG1-9999"
+    },
+    {
+      "source": "HG1-9999",
+      "target": "HG1501-3550"
+    },
+    {
+      "source": "HG1-9999",
+      "target": "HG201-1496"
+    },
+    {
+      "source": "HG1-9999",
+      "target": "HG8011-9999"
+    },
+    {
+      "source": "HG1-9999",
+      "target": "HG4001-4285"
+    },
+    {
+      "source": "HG1-9999",
+      "target": "HG3691-3769"
+    },
+    {
+      "source": "HG1-9999",
+      "target": "HG179"
+    },
+    {
+      "source": "HG1-9999",
+      "target": "HG4501-6051"
+    },
+    {
+      "source": "HG1-9999",
+      "target": "HG3810-4000"
+    },
+    {
+      "source": "HG1-9999",
+      "target": "HG4301-4480.9"
+    },
+    {
+      "source": "HG1-9999",
+      "target": "HG6105-6270.9"
+    },
+    {
+      "source": "HG1-9999",
+      "target": "HG178"
+    },
+    {
+      "source": "HG1501-3550",
+      "target": "HG1811-2351"
+    },
+    {
+      "source": "HG1501-3550",
+      "target": "HG2397-3550"
+    },
+    {
+      "source": "HG1501-3550",
+      "target": "HG1710-1710.5"
+    },
+    {
+      "source": "HG1501-3550",
+      "target": "HG1706-1708"
+    },
+    {
+      "source": "HG1501-3550",
+      "target": "HG1722"
+    },
+    {
+      "source": "HG1501-3550",
+      "target": "HG1621-1638"
+    },
+    {
+      "source": "HG1501-3550",
+      "target": "HG1662"
+    },
+    {
+      "source": "HG1501-3550",
+      "target": "HG1641-1643"
+    },
+    {
+      "source": "HG1501-3550",
+      "target": "HG1660"
+    },
+    {
+      "source": "HG1501-3550",
+      "target": "HG1655"
+    },
+    {
+      "source": "HG1501-3550",
+      "target": "HG1725-1778"
+    },
+    {
+      "source": "HG1501-3550",
+      "target": "HG1685-1704"
+    },
+    {
+      "source": "HG1501-3550",
+      "target": "HG1656"
+    },
+    {
+      "source": "HG1501-3550",
+      "target": "HG1651-1654"
+    },
+    {
+      "source": "HG1501-3550",
+      "target": "HG1709"
+    },
+    {
+      "source": "HG1501-3550",
+      "target": "HG1723"
+    },
+    {
+      "source": "HG201-1496",
+      "target": "HG451-1496"
+    },
+    {
+      "source": "HG201-1496",
+      "target": "HG348-353.5"
+    },
+    {
+      "source": "HG201-1496",
+      "target": "HG258-312"
+    },
+    {
+      "source": "HG201-1496",
+      "target": "HG335-339"
+    },
+    {
+      "source": "HG201-1496",
+      "target": "HG401-421"
+    },
+    {
+      "source": "HG201-1496",
+      "target": "HG361-363"
+    },
+    {
+      "source": "HG201-1496",
+      "target": "HG315"
+    },
+    {
+      "source": "HG201-1496",
+      "target": "HG381-395"
+    },
+    {
+      "source": "HG201-1496",
+      "target": "HG321-329"
+    },
+    {
+      "source": "HG8011-9999",
+      "target": "HG9651-9899"
+    },
+    {
+      "source": "HG8011-9999",
+      "target": "HG8751-9295"
+    },
+    {
+      "source": "HG8011-9999",
+      "target": "HG8075-8107"
+    },
+    {
+      "source": "HG8011-9999",
+      "target": "HG9969.5-9999"
+    },
+    {
+      "source": "HG8011-9999",
+      "target": "HG9371-9399"
+    },
+    {
+      "source": "HG8011-9999",
+      "target": "HG8501-8745"
+    },
+    {
+      "source": "HG8011-9999",
+      "target": "HG8059"
+    },
+    {
+      "source": "HG8011-9999",
+      "target": "HG9956-9969"
+    },
+    {
+      "source": "HG8011-9999",
+      "target": "HG9301-9343"
+    },
+    {
+      "source": "HG8011-9999",
+      "target": "HG8111-8123"
+    },
+    {
+      "source": "HG8011-9999",
+      "target": "HG8205-8220"
+    },
+    {
+      "source": "HG8011-9999",
+      "target": "HG8053.5-8054.45"
+    },
+    {
+      "source": "HG8751-9295",
+      "target": "HG8941-9200.5"
+    },
+    {
+      "source": "HG8751-9295",
+      "target": "HG8779-8793"
+    },
+    {
+      "source": "HG8751-9295",
+      "target": "HG8799-8830"
+    },
+    {
+      "source": "HG8751-9295",
+      "target": "HG8835-8899"
+    },
+    {
+      "source": "HG8751-9295",
+      "target": "HG9251-9262"
+    },
+    {
+      "source": "HG8751-9295",
+      "target": "HG8901-8914"
+    },
+    {
+      "source": "HG8751-9295",
+      "target": "HG9201-9245"
+    },
+    {
+      "source": "HG8751-9295",
+      "target": "HG9291-9295"
+    },
+    {
+      "source": "HG8751-9295",
+      "target": "HG9271"
+    },
+    {
+      "source": "HG4501-6051",
+      "target": "HG4900-5993"
+    },
+    {
+      "source": "HG4501-6051",
+      "target": "HG6001-6051"
+    },
+    {
+      "source": "HG4501-6051",
+      "target": "HG4551-4598"
+    },
+    {
+      "source": "HG4501-6051",
+      "target": "HG4538"
+    },
+    {
+      "source": "HG4501-6051",
+      "target": "HG4530"
+    },
+    {
+      "source": "HG4501-6051",
+      "target": "HG4621"
+    },
+    {
+      "source": "HG4501-6051",
+      "target": "HG4701-4751"
+    },
+    {
+      "source": "H",
+      "target": "HB"
+    },
+    {
+      "source": "HB",
+      "target": "HB1-3840"
+    },
+    {
+      "source": "HB1-3840",
+      "target": "HB3711-3840"
+    },
+    {
+      "source": "HB1-3840",
+      "target": "HB75-130"
+    },
+    {
+      "source": "HB1-3840",
+      "target": "HB522-715"
+    },
+    {
+      "source": "HB1-3840",
+      "target": "HB71-74"
+    },
+    {
+      "source": "HB1-3840",
+      "target": "HB801-843"
+    },
+    {
+      "source": "HB1-3840",
+      "target": "HB848-3697"
+    },
+    {
+      "source": "HB1-3840",
+      "target": "HB501"
+    },
+    {
+      "source": "HB1-3840",
+      "target": "HB238-251"
+    },
+    {
+      "source": "HB1-3840",
+      "target": "HB131-147"
+    },
+    {
+      "source": "HB1-3840",
+      "target": "HB221-236"
+    },
+    {
+      "source": "HB1-3840",
+      "target": "HB846-846.8"
+    },
+    {
+      "source": "HB1-3840",
+      "target": "HB201-206"
+    },
+    {
+      "source": "HB522-715",
+      "target": "HB535-551"
+    },
+    {
+      "source": "HB522-715",
+      "target": "HB615-715"
+    },
+    {
+      "source": "HB522-715",
+      "target": "HB601"
+    },
+    {
+      "source": "HB131-147",
+      "target": "HB135-147"
+    },
+    {
+      "source": "H",
+      "target": "HQ"
+    },
+    {
+      "source": "HQ",
+      "target": "HQ1-2044"
+    },
+    {
+      "source": "HQ1-2044",
+      "target": "HQ503-1064"
+    },
+    {
+      "source": "HQ1-2044",
+      "target": "HQ1101-2030.7"
+    },
+    {
+      "source": "HQ1-2044",
+      "target": "HQ12-449"
+    },
+    {
+      "source": "HQ1-2044",
+      "target": "HQ1088-1090.7"
+    },
+    {
+      "source": "HQ1-2044",
+      "target": "HQ1075-1075.5"
+    },
+    {
+      "source": "HQ1-2044",
+      "target": "HQ1073-1073.5"
+    },
+    {
+      "source": "HQ1-2044",
+      "target": "HQ450-472"
+    },
+    {
+      "source": "HQ1-2044",
+      "target": "HQ2042-2044"
+    },
+    {
+      "source": "HQ1-2044",
+      "target": "HQ2035-2039"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ767.8-792.2"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ1060-1064"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ811-960.7"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ793-799.2"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ799.95-799.97"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ755.7-759.92"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ760-767.7"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ801-801.83"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ800-800.4"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ750-755.5"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ806"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ799.5-799.9"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ1058-1058.5"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ981-996"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ998-999"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ803"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ961-967"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ1001-1006"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ802"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ1051-1057"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ805"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ804"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ802.5"
+    },
+    {
+      "source": "HQ503-1064",
+      "target": "HQ997"
+    },
+    {
+      "source": "HQ1101-2030.7",
+      "target": "HQ1871-2030.7"
+    },
+    {
+      "source": "HQ12-449",
+      "target": "HQ19-30.7"
+    },
+    {
+      "source": "HQ12-449",
+      "target": "HQ101-440.7"
+    },
+    {
+      "source": "HQ12-449",
+      "target": "HQ75-76.8"
+    },
+    {
+      "source": "HQ12-449",
+      "target": "HQ31-64"
+    },
+    {
+      "source": "HQ12-449",
+      "target": "HQ74-74.2"
+    },
+    {
+      "source": "HQ12-449",
+      "target": "HQ71-72"
+    },
+    {
+      "source": "HQ12-449",
+      "target": "HQ447"
+    },
+    {
+      "source": "HQ12-449",
+      "target": "HQ77.7-77.95"
+    },
+    {
+      "source": "HQ12-449",
+      "target": "HQ449"
+    },
+    {
+      "source": "HQ12-449",
+      "target": "HQ79"
+    },
+    {
+      "source": "HQ12-449",
+      "target": "HQ77-77.2"
+    },
+    {
+      "source": "H",
+      "target": "H1-99"
+    },
+    {
+      "source": "H",
+      "target": "HE"
+    },
+    {
+      "source": "HE",
+      "target": "HE1-9990"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE7601-8700.9"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE6000-7500"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE5746-5749"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE380.8-971"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE9761-9900"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE1001-5600"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE5880-5990"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE5751-5870"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE8701-9680.7"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE5601-5725"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE331-380"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE305-311"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE9751-9756"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE9713-9715"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE199-199.5"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE8689-8700.95"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE199.9"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE323-328"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE9719-9721"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE9723-9737"
+    },
+    {
+      "source": "HE1-9990",
+      "target": "HE7511-7549"
+    },
+    {
+      "source": "HE7601-8700.9",
+      "target": "HE8660-8688"
+    },
+    {
+      "source": "HE380.8-971",
+      "target": "HE561-971"
+    },
+    {
+      "source": "HE380.8-971",
+      "target": "HE380.8-560"
+    },
+    {
+      "source": "HE561-971",
+      "target": "HE730-943"
+    },
+    {
+      "source": "HE331-380",
+      "target": "HE369-373"
+    },
+    {
+      "source": "HE331-380",
+      "target": "HE374-377"
+    },
+    {
+      "source": "HE331-380",
+      "target": "HE379-380"
+    },
+    {
+      "source": "H",
+      "target": "HM"
+    },
+    {
+      "source": "HM",
+      "target": "HM1-1281"
+    },
+    {
+      "source": "HM1-1281",
+      "target": "HM1-299"
+    },
+    {
+      "source": "HM1-1281",
+      "target": "HM711-806"
+    },
+    {
+      "source": "HM1-1281",
+      "target": "HM831-901"
+    },
+    {
+      "source": "HM1-1281",
+      "target": "HM435-477"
+    },
+    {
+      "source": "HM1-1281",
+      "target": "HM1001-1281"
+    },
+    {
+      "source": "HM1-1281",
+      "target": "HM481-554"
+    },
+    {
+      "source": "HM1-1281",
+      "target": "HM621-656"
+    },
+    {
+      "source": "HM1-1281",
+      "target": "HM661-696"
+    },
+    {
+      "source": "HM1-1281",
+      "target": "HM701"
+    },
+    {
+      "source": "HM1-1281",
+      "target": "HM811-821"
+    },
+    {
+      "source": "HM1-1281",
+      "target": "HM706"
+    },
+    {
+      "source": "HM1-1281",
+      "target": "HM826"
+    },
+    {
+      "source": "HM711-806",
+      "target": "HM786-806"
+    },
+    {
+      "source": "HM711-806",
+      "target": "HM756-781"
+    },
+    {
+      "source": "HM435-477",
+      "target": "HM461-473"
+    },
+    {
+      "source": "HM1001-1281",
+      "target": "HM1041-1101"
+    },
+    {
+      "source": "HM1001-1281",
+      "target": "HM1176-1281"
+    },
+    {
+      "source": "HM1001-1281",
+      "target": "HM1106-1171"
+    },
+    {
+      "source": "H",
+      "target": "HJ"
+    },
+    {
+      "source": "HJ",
+      "target": "HJ9-9940"
+    },
+    {
+      "source": "HJ9-9940",
+      "target": "HJ2240-5908"
+    },
+    {
+      "source": "HJ9-9940",
+      "target": "HJ8001-8899"
+    },
+    {
+      "source": "HJ9-9940",
+      "target": "HJ6603-7390"
+    },
+    {
+      "source": "HJ9-9940",
+      "target": "HJ7461-7980"
+    },
+    {
+      "source": "HJ9-9940",
+      "target": "HJ9103-9695"
+    },
+    {
+      "source": "HJ9-9940",
+      "target": "HJ2005-2216"
+    },
+    {
+      "source": "HJ9-9940",
+      "target": "HJ241-1620"
+    },
+    {
+      "source": "HJ9-9940",
+      "target": "HJ9701-9940"
+    },
+    {
+      "source": "HJ9-9940",
+      "target": "HJ210-240"
+    },
+    {
+      "source": "HJ9-9940",
+      "target": "HJ9-99.8"
+    },
+    {
+      "source": "HJ2240-5908",
+      "target": "HJ2361-3192.7"
+    },
+    {
+      "source": "HJ2240-5908",
+      "target": "HJ5309-5510"
+    },
+    {
+      "source": "HJ2240-5908",
+      "target": "HJ4629-4830"
+    },
+    {
+      "source": "HJ2240-5908",
+      "target": "HJ4113-4601"
+    },
+    {
+      "source": "HJ2240-5908",
+      "target": "HJ3801-3844"
+    },
+    {
+      "source": "HJ2240-5908",
+      "target": "HJ2321-2323"
+    },
+    {
+      "source": "HJ2240-5908",
+      "target": "HJ2351"
+    },
+    {
+      "source": "HJ2240-5908",
+      "target": "HJ2326-2327"
+    },
+    {
+      "source": "HJ2240-5908",
+      "target": "HJ2336-2337"
+    },
+    {
+      "source": "HJ2240-5908",
+      "target": "HJ3863-3925"
+    },
+    {
+      "source": "HJ2240-5908",
+      "target": "HJ4919-4936"
+    },
+    {
+      "source": "HJ2240-5908",
+      "target": "HJ2338"
+    },
+    {
+      "source": "HJ2240-5908",
+      "target": "HJ2351.4"
+    },
+    {
+      "source": "HJ8001-8899",
+      "target": "HJ8101-8899"
+    },
+    {
+      "source": "HJ8001-8899",
+      "target": "HJ8052"
+    },
+    {
+      "source": "H",
+      "target": "HN"
+    },
+    {
+      "source": "HN",
+      "target": "HN1-995"
+    },
+    {
+      "source": "HN1-995",
+      "target": "HN50-995"
+    },
+    {
+      "source": "HN1-995",
+      "target": "HN41-46"
+    },
+    {
+      "source": "HN1-995",
+      "target": "HN30-39"
+    },
+    {
+      "source": "H",
+      "target": "HS"
+    },
+    {
+      "source": "HS",
+      "target": "HS1-3371"
+    },
+    {
+      "source": "HS1-3371",
+      "target": "HS2501-3371"
+    },
+    {
+      "source": "HS1-3371",
+      "target": "HS1501-2460.7"
+    },
+    {
+      "source": "HS1-3371",
+      "target": "HS351-929"
+    },
+    {
+      "source": "HS1-3371",
+      "target": "HS101-330.7"
+    },
+    {
+      "source": "HS1-3371",
+      "target": "HS951-1179"
+    },
+    {
+      "source": "HS1-3371",
+      "target": "HS1201-1350"
+    },
+    {
+      "source": "HS1-3371",
+      "target": "HS1355"
+    },
+    {
+      "source": "HS1501-2460.7",
+      "target": "HS1525-1560"
+    },
+    {
+      "source": "HS1501-2460.7",
+      "target": "HS1601-2265"
+    },
+    {
+      "source": "HS1501-2460.7",
+      "target": "HS2301-2460.7"
+    },
+    {
+      "source": "HS1501-2460.7",
+      "target": "HS1501-1510"
+    },
+    {
+      "source": "HS1501-2460.7",
+      "target": "HS2275"
+    },
+    {
+      "source": "H",
+      "target": "HV"
+    },
+    {
+      "source": "HV",
+      "target": "HV1-9960"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV697-4959"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV6001-7220.5"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV5001-5720.5"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV7231-9960"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV85-525"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV40-69"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV697-3024"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV5800-5840"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV541"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV5725-5770"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV551.2-639"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV680-696"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV640-645"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV544.5"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV675-677"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV530"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV4961-4995"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV650-670"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV547"
+    },
+    {
+      "source": "HV1-9960",
+      "target": "HV544"
+    },
+    {
+      "source": "HV697-4959",
+      "target": "HV4023-4470.7"
+    },
+    {
+      "source": "HV697-4959",
+      "target": "HV697-3024"
+    },
+    {
+      "source": "HV697-4959",
+      "target": "HV4701-4890.9"
+    },
+    {
+      "source": "HV697-4959",
+      "target": "HV3176-3199"
+    },
+    {
+      "source": "HV697-4959",
+      "target": "HV4005-4013"
+    },
+    {
+      "source": "HV697-4959",
+      "target": "HV4905-4959"
+    },
+    {
+      "source": "HV697-4959",
+      "target": "HV4480-4630"
+    },
+    {
+      "source": "HV697-4959",
+      "target": "HV3025-3174"
+    },
+    {
+      "source": "HV3025-3174",
+      "target": "HV3025-3163"
+    },
+    {
+      "source": "HV3025-3174",
+      "target": "HV3174"
+    },
+    {
+      "source": "HV3025-3174",
+      "target": "HV3165-3173"
+    },
+    {
+      "source": "HV6001-7220.5",
+      "target": "HV6251-6773.55"
+    },
+    {
+      "source": "HV6001-7220.5",
+      "target": "HV6774-7220.5"
+    },
+    {
+      "source": "HV6001-7220.5",
+      "target": "HV6250-6250.4"
+    },
+    {
+      "source": "HV6001-7220.5",
+      "target": "HV6035-6197"
+    },
+    {
+      "source": "HV6001-7220.5",
+      "target": "HV6201-6249"
+    },
+    {
+      "source": "HV7231-9960",
+      "target": "HV7551-8280.7"
+    },
+    {
+      "source": "HV7231-9960",
+      "target": "HV8301-9920.7"
+    },
+    {
+      "source": "HV7231-9960",
+      "target": "HV7435-7439"
+    },
+    {
+      "source": "HV7231-9960",
+      "target": "HV9950-9960"
+    },
+    {
+      "source": "HV7231-9960",
+      "target": "HV7431"
+    },
+    {
+      "source": "HV7231-9960",
+      "target": "HV8290-8291"
+    },
+    {
+      "source": "HV7231-9960",
+      "target": "HV7428"
+    },
+    {
+      "source": "HV7551-8280.7",
+      "target": "HV8130-8280.7"
+    },
+    {
+      "source": "HV7551-8280.7",
+      "target": "HV7935-8025"
+    },
+    {
+      "source": "HV7551-8280.7",
+      "target": "HV8031-8080"
+    },
+    {
+      "source": "HV7551-8280.7",
+      "target": "HV8081-8099"
+    },
+    {
+      "source": "HV8031-8080",
+      "target": "HV8073-8079.35"
+    },
+    {
+      "source": "HV8031-8080",
+      "target": "HV8079.5-8079.55"
+    },
+    {
+      "source": "HV8031-8080",
+      "target": "HV8035-8069"
+    },
+    {
+      "source": "HV8073-8079.35",
+      "target": "HV8079.2-8079.35"
+    },
+    {
+      "source": "HV8301-9920.7",
+      "target": "HV9441-9920.7"
+    },
+    {
+      "source": "HV8301-9920.7",
+      "target": "HV9051-9230.7"
+    },
+    {
+      "source": "HV8301-9920.7",
+      "target": "HV9261-9430.7"
+    },
+    {
+      "source": "HV697-3024",
+      "target": "HV701-1420.5"
+    },
+    {
+      "source": "HV697-3024",
+      "target": "HV1421-1441"
+    },
+    {
+      "source": "HV697-3024",
+      "target": "HV1450-1494"
+    },
+    {
+      "source": "HV697-3024",
+      "target": "HV1442-1448"
+    },
+    {
+      "source": "HV701-1420.5",
+      "target": "HV873-887"
+    },
+    {
+      "source": "HV701-1420.5",
+      "target": "HV959-1420.5"
+    },
+    {
+      "source": "HV701-1420.5",
+      "target": "HV888-907"
+    },
+    {
+      "source": "HV701-1420.5",
+      "target": "HV931-941"
+    },
+    {
+      "source": "HV701-1420.5",
+      "target": "HV835-847"
+    },
+    {
+      "source": "HV551.2-639",
+      "target": "HV553-639"
+    },
+    {
+      "source": "HV553-639",
+      "target": "HV560-583"
+    },
+    {
+      "source": "HV553-639",
+      "target": "HV599-639"
+    },
+    {
+      "source": "H",
+      "target": "HC"
+    },
+    {
+      "source": "HC",
+      "target": "HC10-1085"
+    },
+    {
+      "source": "HC10-1085",
+      "target": "HC94-1085"
+    },
+    {
+      "source": "HC10-1085",
+      "target": "HC79"
+    },
+    {
+      "source": "HC10-1085",
+      "target": "HC92"
+    },
+    {
+      "source": "H",
+      "target": "HA"
+    },
+    {
+      "source": "HA",
+      "target": "HA1-4737"
+    },
+    {
+      "source": "HA1-4737",
+      "target": "HA29-32"
+    },
+    {
+      "source": "HA1-4737",
+      "target": "HA36-37"
+    },
+    {
+      "source": "HA1-4737",
+      "target": "HA154-4737"
+    },
+    {
+      "source": "HA1-4737",
+      "target": "HA38-39"
+    },
+    {
+      "source": "HA154-4737",
+      "target": "HA154-155"
+    },
+    {
+      "source": "HA154-4737",
+      "target": "HA175-4737"
+    },
+    {
+      "source": "H",
+      "target": "HT"
+    },
+    {
+      "source": "HT",
+      "target": "HT51-1595"
+    },
+    {
+      "source": "HT51-1595",
+      "target": "HT101-395"
+    },
+    {
+      "source": "HT51-1595",
+      "target": "HT1501-1595"
+    },
+    {
+      "source": "HT51-1595",
+      "target": "HT601-1445"
+    },
+    {
+      "source": "HT51-1595",
+      "target": "HT51-65"
+    },
+    {
+      "source": "HT51-1595",
+      "target": "HT401-485"
+    },
+    {
+      "source": "HT101-395",
+      "target": "HT361-384"
+    },
+    {
+      "source": "HT101-395",
+      "target": "HT390-395"
+    },
+    {
+      "source": "HT101-395",
+      "target": "HT351-352"
+    },
+    {
+      "source": "HT101-395",
+      "target": "HT165.5-169.9"
+    },
+    {
+      "source": "HT101-395",
+      "target": "HT170-178"
+    },
+    {
+      "source": "HT101-395",
+      "target": "HT330-334"
+    },
+    {
+      "source": "HT101-395",
+      "target": "HT388"
+    },
+    {
+      "source": "HT101-395",
+      "target": "HT321-325"
+    },
+    {
+      "source": "HT101-395",
+      "target": "HT201-221"
+    },
+    {
+      "source": "HT101-395",
+      "target": "HT161-165"
+    },
+    {
+      "source": "HT101-395",
+      "target": "HT251-265"
+    },
+    {
+      "source": "HT101-395",
+      "target": "HT231"
+    },
+    {
+      "source": "HT101-395",
+      "target": "HT281"
+    },
+    {
+      "source": "HT601-1445",
+      "target": "HT851-1445"
+    },
+    {
+      "source": "HT601-1445",
+      "target": "HT713-725"
+    },
+    {
+      "source": "HT601-1445",
+      "target": "HT675-690"
+    },
+    {
+      "source": "HT601-1445",
+      "target": "HT641-657"
+    },
+    {
+      "source": "HT601-1445",
+      "target": "HT751-815"
+    },
+    {
+      "source": "HT601-1445",
+      "target": "HT731"
+    },
+    {
+      "source": "HT601-1445",
+      "target": "HT621-635"
+    }
+  ],
+  "maxCount": 166899
+}

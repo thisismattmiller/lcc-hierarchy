@@ -1,0 +1,1721 @@
+{
+  "nodes": [
+    {
+      "id": "J",
+      "size": 0,
+      "subject": "Political Science"
+    },
+    {
+      "id": "JF",
+      "size": 0,
+      "subject": "Political institutions and public administration"
+    },
+    {
+      "id": "JF20-1177",
+      "size": 0,
+      "subject": "General.  Comparative government"
+    },
+    {
+      "id": "JF225-619",
+      "size": 0,
+      "subject": "Organs and functions of government"
+    },
+    {
+      "id": "JF491-619",
+      "size": 1097,
+      "subject": "Legislation.  Legislative process.  Law-making"
+    },
+    {
+      "id": "JF251-289",
+      "size": 161,
+      "subject": "Executive.  Heads of state"
+    },
+    {
+      "id": "JF331-341",
+      "size": 80,
+      "subject": "Parliamentary government"
+    },
+    {
+      "id": "JF20-2112",
+      "size": 37,
+      "subject": "Political institutions and public administration"
+    },
+    {
+      "id": "JF1338-2112",
+      "size": 4086,
+      "subject": "Public administration"
+    },
+    {
+      "id": "JF2011-2112",
+      "size": 943,
+      "subject": "Political parties"
+    },
+    {
+      "id": "JF1501-1521",
+      "size": 151,
+      "subject": "Civil service"
+    },
+    {
+      "id": "JC",
+      "size": 0,
+      "subject": "Political theory.  The state.  Theories of the state"
+    },
+    {
+      "id": "JC11-605",
+      "size": 2921,
+      "subject": "Political theory.  The state.  Theories of the state"
+    },
+    {
+      "id": "JC131-273",
+      "size": 5038,
+      "subject": "Modern state"
+    },
+    {
+      "id": "JC177-178",
+      "size": 210,
+      "subject": "Thomas Paine"
+    },
+    {
+      "id": "JC571-605",
+      "size": 12525,
+      "subject": "Purpose, functions, and relations of the state"
+    },
+    {
+      "id": "JC348-497",
+      "size": 7013,
+      "subject": "Forms of the state"
+    },
+    {
+      "id": "JC311-314",
+      "size": 1391,
+      "subject": "Nationalism.  Nation state"
+    },
+    {
+      "id": "JC51-93",
+      "size": 1229,
+      "subject": "Ancient state"
+    },
+    {
+      "id": "JC319-323",
+      "size": 829,
+      "subject": "Political geography"
+    },
+    {
+      "id": "JC345-347",
+      "size": 225,
+      "subject": "Symbolism"
+    },
+    {
+      "id": "JC328.2",
+      "size": 112,
+      "subject": "Consensus.  Consent of the governed"
+    },
+    {
+      "id": "JC327",
+      "size": 252,
+      "subject": "Sovereignty"
+    },
+    {
+      "id": "JC109-121",
+      "size": 251,
+      "subject": "Medieval state"
+    },
+    {
+      "id": "JC49",
+      "size": 524,
+      "subject": "Islamic state"
+    },
+    {
+      "id": "JC329",
+      "size": 76,
+      "subject": "Patriotism"
+    },
+    {
+      "id": "JC47",
+      "size": 5,
+      "subject": "Oriental state"
+    },
+    {
+      "id": "JK",
+      "size": 0,
+      "subject": "Political institutions and public administration"
+    },
+    {
+      "id": "JK1-9993",
+      "size": 0,
+      "subject": "Political institutions and public administration"
+    },
+    {
+      "id": "JK1-9593",
+      "size": 16621,
+      "subject": "United States"
+    },
+    {
+      "id": "JK9663-9993",
+      "size": 422,
+      "subject": "Confederate States of America"
+    },
+    {
+      "id": "JK404-1685",
+      "size": 2458,
+      "subject": "Government.  Public administration"
+    },
+    {
+      "id": "JK501-868",
+      "size": 1951,
+      "subject": "Executive branch"
+    },
+    {
+      "id": "JK631-868",
+      "size": 2113,
+      "subject": "Civil Service.  Departments and agencies"
+    },
+    {
+      "id": "JK1012-1432",
+      "size": 1341,
+      "subject": "Congress.  Legislative branch"
+    },
+    {
+      "id": "JK1154-1276",
+      "size": 300,
+      "subject": "Senate"
+    },
+    {
+      "id": "JK1308-1432",
+      "size": 382,
+      "subject": "House of Representatives"
+    },
+    {
+      "id": "JK1606-1683",
+      "size": 621,
+      "subject": "Capital.  Public buildings.  Government"
+    },
+    {
+      "id": "JK1717-2217",
+      "size": 757,
+      "subject": "Political rights.  Practical politics"
+    },
+    {
+      "id": "JK1846-1929",
+      "size": 790,
+      "subject": "Suffrage"
+    },
+    {
+      "id": "JK1965-2217",
+      "size": 1597,
+      "subject": "Electoral system"
+    },
+    {
+      "id": "JK1758-1761",
+      "size": 405,
+      "subject": "Citizenship"
+    },
+    {
+      "id": "JS",
+      "size": 0,
+      "subject": "Local government.  Municipal government"
+    },
+    {
+      "id": "JS39-8500",
+      "size": 784,
+      "subject": "Local government.  Municipal government"
+    },
+    {
+      "id": "JS3000-6949.89",
+      "size": 6029,
+      "subject": "Europe"
+    },
+    {
+      "id": "JS300-1583",
+      "size": 4382,
+      "subject": "United States"
+    },
+    {
+      "id": "JS141-163",
+      "size": 121,
+      "subject": "Executive branch.  Mayor"
+    },
+    {
+      "id": "JS2300-2778",
+      "size": 893,
+      "subject": "South America"
+    },
+    {
+      "id": "JS55-68",
+      "size": 43,
+      "subject": "History"
+    },
+    {
+      "id": "JS7525-7819.9",
+      "size": 1040,
+      "subject": "Africa"
+    },
+    {
+      "id": "JS6950-7520",
+      "size": 4978,
+      "subject": "Asia"
+    },
+    {
+      "id": "JS7520",
+      "size": 2,
+      "subject": "Islamic countries"
+    },
+    {
+      "id": "JS7510",
+      "size": 2,
+      "subject": "Arab countries"
+    },
+    {
+      "id": "JS2145-2219",
+      "size": 129,
+      "subject": "Central America"
+    },
+    {
+      "id": "JS1840-2058.9",
+      "size": 50,
+      "subject": "West Indies.  Caribbean Area"
+    },
+    {
+      "id": "JS2101-2143",
+      "size": 327,
+      "subject": "Mexico"
+    },
+    {
+      "id": "JS1701-1800",
+      "size": 363,
+      "subject": "Canada"
+    },
+    {
+      "id": "JS221-227",
+      "size": 4,
+      "subject": "Elections.  Local elections.  Municipal elections"
+    },
+    {
+      "id": "JS8001-8490.9",
+      "size": 217,
+      "subject": "Australia.  New Zealand.  Pacific Ocean islands"
+    },
+    {
+      "id": "JS241-271",
+      "size": 47,
+      "subject": "Local government other than municipal"
+    },
+    {
+      "id": "JS7900-7906.9",
+      "size": 11,
+      "subject": "Indian Ocean islands"
+    },
+    {
+      "id": "JS7820-7827.9",
+      "size": 3,
+      "subject": "Atlantic Ocean islands"
+    },
+    {
+      "id": "JV",
+      "size": 0,
+      "subject": "Colonies and colonization.  Emigration and"
+    },
+    {
+      "id": "JV1-9480",
+      "size": 0,
+      "subject": "Colonies and colonization.  Emigration and"
+    },
+    {
+      "id": "JV500-5397",
+      "size": 1419,
+      "subject": "Colonizing nations"
+    },
+    {
+      "id": "JV61-152",
+      "size": 231,
+      "subject": "History"
+    },
+    {
+      "id": "JV6001-9480",
+      "size": 526,
+      "subject": "Emigration and immigration.  International"
+    },
+    {
+      "id": "JV7200-7539",
+      "size": 1074,
+      "subject": "Canada, Latin America, etc."
+    },
+    {
+      "id": "JV6403-7127",
+      "size": 1777,
+      "subject": "United States"
+    },
+    {
+      "id": "JV7590-8339.7",
+      "size": 3138,
+      "subject": "Europe"
+    },
+    {
+      "id": "JV8490-8758",
+      "size": 720,
+      "subject": "Asia"
+    },
+    {
+      "id": "JV6201-6347",
+      "size": 518,
+      "subject": "Immigration"
+    },
+    {
+      "id": "JV8790-9024.5",
+      "size": 245,
+      "subject": "Africa"
+    },
+    {
+      "id": "JV6091-6124",
+      "size": 87,
+      "subject": "Emigration"
+    },
+    {
+      "id": "JV6021-6033",
+      "size": 153,
+      "subject": "History"
+    },
+    {
+      "id": "JV9100-9269",
+      "size": 246,
+      "subject": "Australia.  New Zealand"
+    },
+    {
+      "id": "JV9290-9470",
+      "size": 20,
+      "subject": "Pacific Ocean islands"
+    },
+    {
+      "id": "JV8760",
+      "size": 6,
+      "subject": "Arab countries"
+    },
+    {
+      "id": "JV6001-6006",
+      "size": 121,
+      "subject": "Periodicals.  Serials"
+    },
+    {
+      "id": "JV9029-9036",
+      "size": 16,
+      "subject": "Atlantic Ocean islands"
+    },
+    {
+      "id": "JV9040-9047",
+      "size": 1,
+      "subject": "Indian Ocean islands"
+    },
+    {
+      "id": "JV1-5397",
+      "size": 427,
+      "subject": "Colonies and colonization"
+    },
+    {
+      "id": "JV412-461",
+      "size": 45,
+      "subject": "Administration"
+    },
+    {
+      "id": "JV10-19",
+      "size": 15,
+      "subject": "Societies"
+    },
+    {
+      "id": "JV1-9",
+      "size": 17,
+      "subject": "Periodicals.  Serials"
+    },
+    {
+      "id": "JA",
+      "size": 0,
+      "subject": "Political science (General)"
+    },
+    {
+      "id": "JA1-92",
+      "size": 2577,
+      "subject": "Political science (General)"
+    },
+    {
+      "id": "JA71-80",
+      "size": 4311,
+      "subject": "Theory.  Relations to other subjects"
+    },
+    {
+      "id": "JA81-84",
+      "size": 3283,
+      "subject": "History"
+    },
+    {
+      "id": "JA35.5",
+      "size": 64,
+      "subject": "Congresses"
+    },
+    {
+      "id": "JA60-64",
+      "size": 587,
+      "subject": "Dictionaries and encyclopedias"
+    },
+    {
+      "id": "JA86-88",
+      "size": 834,
+      "subject": "Study and teaching.  Research"
+    },
+    {
+      "id": "JA92",
+      "size": 19,
+      "subject": "Collective biography of political scientists"
+    },
+    {
+      "id": "JA1-26",
+      "size": 866,
+      "subject": "Periodicals"
+    },
+    {
+      "id": "JA27-34",
+      "size": 90,
+      "subject": "Societies"
+    },
+    {
+      "id": "JX",
+      "size": 0,
+      "subject": "International law, see JZ and KZ"
+    },
+    {
+      "id": "JX1-6650",
+      "size": 1424,
+      "subject": "International law, see JZ and KZ"
+    },
+    {
+      "id": "JX1621-1896",
+      "size": 1753,
+      "subject": "Diplomacy"
+    },
+    {
+      "id": "JX220-1195",
+      "size": 3430,
+      "subject": "Collections, cases, etc.  By country"
+    },
+    {
+      "id": "JX1901-1995",
+      "size": 13709,
+      "subject": "International arbitration, organization, etc."
+    },
+    {
+      "id": "JX2001-6650",
+      "size": 7444,
+      "subject": "International law"
+    },
+    {
+      "id": "JX1305-1598",
+      "size": 4444,
+      "subject": "Foreign relations"
+    },
+    {
+      "id": "JX63-191",
+      "size": 500,
+      "subject": "Collections.  Documents.  Cases"
+    },
+    {
+      "id": "JX1261-1283",
+      "size": 43,
+      "subject": "Codification of international law"
+    },
+    {
+      "id": "JN",
+      "size": 0,
+      "subject": "Political institutions and public administration (Europe)"
+    },
+    {
+      "id": "JN1-9689",
+      "size": 951,
+      "subject": "Political institutions and public administration (Europe)"
+    },
+    {
+      "id": "JN8701-9599",
+      "size": 546,
+      "subject": "Switzerland"
+    },
+    {
+      "id": "JN1-97",
+      "size": 5119,
+      "subject": "General"
+    },
+    {
+      "id": "JN2301-3007",
+      "size": 3214,
+      "subject": "France"
+    },
+    {
+      "id": "JN6690-6699",
+      "size": 2452,
+      "subject": "Russia (Federation)"
+    },
+    {
+      "id": "JN101-1371",
+      "size": 4918,
+      "subject": "Great Britain"
+    },
+    {
+      "id": "JN1187-1371",
+      "size": 148,
+      "subject": "Scotland"
+    },
+    {
+      "id": "JN6750-6769",
+      "size": 1462,
+      "subject": "Poland"
+    },
+    {
+      "id": "JN7011-7066",
+      "size": 148,
+      "subject": "Scandinavia.  Northern Europe"
+    },
+    {
+      "id": "JN3201-4944",
+      "size": 6312,
+      "subject": "Germany"
+    },
+    {
+      "id": "JN8101-8399",
+      "size": 2057,
+      "subject": "Spain"
+    },
+    {
+      "id": "JN6630-6639",
+      "size": 614,
+      "subject": "Ukraine"
+    },
+    {
+      "id": "JN5201-5690",
+      "size": 3263,
+      "subject": "Italy"
+    },
+    {
+      "id": "JN6500-6598",
+      "size": 3851,
+      "subject": "Soviet Union.  Russia.  Former Soviet Republics"
+    },
+    {
+      "id": "JN2210-2229",
+      "size": 429,
+      "subject": "Czech Republic.  Czechoslovakia"
+    },
+    {
+      "id": "JN7401-7695",
+      "size": 289,
+      "subject": "Norway"
+    },
+    {
+      "id": "JN5001-5191",
+      "size": 376,
+      "subject": "Greece"
+    },
+    {
+      "id": "JN1601-2191",
+      "size": 1090,
+      "subject": "Austria-Hungary.  Austria.  Hungary"
+    },
+    {
+      "id": "JN9600-9689",
+      "size": 2230,
+      "subject": "Balkan States"
+    },
+    {
+      "id": "JN7390-7399",
+      "size": 245,
+      "subject": "Finland"
+    },
+    {
+      "id": "JN8423-8661",
+      "size": 370,
+      "subject": "Portugal"
+    },
+    {
+      "id": "JN7721-7995",
+      "size": 707,
+      "subject": "Sweden"
+    },
+    {
+      "id": "JN6101-6371",
+      "size": 444,
+      "subject": "Belgium"
+    },
+    {
+      "id": "JN5701-5999",
+      "size": 902,
+      "subject": "Netherlands"
+    },
+    {
+      "id": "JN7101-7367",
+      "size": 501,
+      "subject": "Denmark"
+    },
+    {
+      "id": "JN6615",
+      "size": 95,
+      "subject": "Estonia"
+    },
+    {
+      "id": "JN6640-6649",
+      "size": 112,
+      "subject": "Belarus"
+    },
+    {
+      "id": "JN6745",
+      "size": 118,
+      "subject": "Lithuania"
+    },
+    {
+      "id": "JN1395-1571.5",
+      "size": 385,
+      "subject": "Ireland"
+    },
+    {
+      "id": "JN2240",
+      "size": 52,
+      "subject": "Slovakia"
+    },
+    {
+      "id": "JN7380-7389",
+      "size": 28,
+      "subject": "Iceland"
+    },
+    {
+      "id": "JN6680-6689",
+      "size": 74,
+      "subject": "Moldova"
+    },
+    {
+      "id": "JN6730-6739",
+      "size": 105,
+      "subject": "Latvia"
+    },
+    {
+      "id": "JN7370-7379",
+      "size": 17,
+      "subject": "Greenland"
+    },
+    {
+      "id": "JZ",
+      "size": 0,
+      "subject": "International relations"
+    },
+    {
+      "id": "JZ5-6530",
+      "size": 783,
+      "subject": "International relations"
+    },
+    {
+      "id": "JZ1305-2060",
+      "size": 2857,
+      "subject": "Scope of international relations. Political theory."
+    },
+    {
+      "id": "JZ1464-2060",
+      "size": 2130,
+      "subject": "Scope of international relations with regard to"
+    },
+    {
+      "id": "JZ1400-1454",
+      "size": 136,
+      "subject": "Diplomatic and consular service"
+    },
+    {
+      "id": "JZ1329.5-1395",
+      "size": 41,
+      "subject": "By period"
+    },
+    {
+      "id": "JZ1249-1254",
+      "size": 204,
+      "subject": "Relation to other disciplines and topics"
+    },
+    {
+      "id": "JZ5511.2-6300",
+      "size": 1653,
+      "subject": "Promotion of peace.  Peaceful change"
+    },
+    {
+      "id": "JZ6010-6060",
+      "size": 138,
+      "subject": "Pacific settlement of international disputes"
+    },
+    {
+      "id": "JZ5587-6009",
+      "size": 1632,
+      "subject": "International security.  Disarmament.  Global survival"
+    },
+    {
+      "id": "JZ5514-5526",
+      "size": 77,
+      "subject": "Societies, associations, academies, institutes, etc.,"
+    },
+    {
+      "id": "JZ5527-5532",
+      "size": 45,
+      "subject": "Congresses and conferences"
+    },
+    {
+      "id": "JZ4835-5490",
+      "size": 70,
+      "subject": "International organizations and associations"
+    },
+    {
+      "id": "JZ4850-5490",
+      "size": 311,
+      "subject": "Intergovernmental organizations.  IGOs"
+    },
+    {
+      "id": "JZ4935-5160",
+      "size": 812,
+      "subject": "United Nations"
+    },
+    {
+      "id": "JZ4853-4934",
+      "size": 45,
+      "subject": "League of Nations"
+    },
+    {
+      "id": "JZ4841-4848",
+      "size": 224,
+      "subject": "Political non-governmental organizations."
+    },
+    {
+      "id": "JZ6385-6405",
+      "size": 176,
+      "subject": "The armed conflict.  War and order"
+    },
+    {
+      "id": "JZ63-1153",
+      "size": 9,
+      "subject": "Sources"
+    },
+    {
+      "id": "JZ221-1153",
+      "size": 92,
+      "subject": "By region or country"
+    },
+    {
+      "id": "JZ6360-6377",
+      "size": 526,
+      "subject": "Non-military coercion"
+    },
+    {
+      "id": "JZ3674-3875",
+      "size": 6,
+      "subject": "State territory and its parts"
+    },
+    {
+      "id": "JZ3686-3875",
+      "size": 23,
+      "subject": "International waters"
+    },
+    {
+      "id": "JZ3685",
+      "size": 1,
+      "subject": "Boundaries"
+    },
+    {
+      "id": "JZ24-38",
+      "size": 41,
+      "subject": "Societies, associations, academies, institutes, etc.,"
+    },
+    {
+      "id": "JZ6422-6422.5",
+      "size": 10,
+      "subject": "Neutrality.  Non-participation in wars.  Norms of"
+    },
+    {
+      "id": "JZ6530",
+      "size": 2,
+      "subject": "Humanitarian aspects of war"
+    },
+    {
+      "id": "JZ5.5-18",
+      "size": 325,
+      "subject": "Periodicals"
+    },
+    {
+      "id": "JL",
+      "size": 0,
+      "subject": "Political institutions and public administration"
+    },
+    {
+      "id": "JL1-3899",
+      "size": 1670,
+      "subject": "Political institutions and public administration"
+    },
+    {
+      "id": "JL599.5-839",
+      "size": 480,
+      "subject": "West Indies.  Caribbean Area"
+    },
+    {
+      "id": "JL1400-1679",
+      "size": 1122,
+      "subject": "Central America"
+    },
+    {
+      "id": "JL1850-3899",
+      "size": 6724,
+      "subject": "South America"
+    },
+    {
+      "id": "JL1200-1299",
+      "size": 2178,
+      "subject": "Mexico"
+    },
+    {
+      "id": "JL1-500",
+      "size": 2613,
+      "subject": "Canada"
+    },
+    {
+      "id": "J1-981",
+      "size": 166,
+      "subject": "General legislative and executive papers"
+    },
+    {
+      "id": "J80-87",
+      "size": 2940,
+      "subject": "United States"
+    },
+    {
+      "id": "J80-82",
+      "size": 165,
+      "subject": "Presidents' messages and other executive"
+    },
+    {
+      "id": "J100-981",
+      "size": 5826,
+      "subject": "Other regions and countries"
+    },
+    {
+      "id": "J1-9",
+      "size": 180,
+      "subject": "Gazettes"
+    },
+    {
+      "id": "JQ",
+      "size": 0,
+      "subject": "Political institutions and public administration (Asia,"
+    },
+    {
+      "id": "JQ21-6651",
+      "size": 2,
+      "subject": "Political institutions and public administration (Asia,"
+    },
+    {
+      "id": "JQ21-1852",
+      "size": 26027,
+      "subject": "Asia"
+    },
+    {
+      "id": "JQ1870-3981",
+      "size": 8620,
+      "subject": "Africa"
+    },
+    {
+      "id": "JQ3995-6651",
+      "size": 2137,
+      "subject": "Australia.  New Zealand.  Pacific Ocean islands"
+    },
+    {
+      "id": "JQ1758-1852",
+      "size": 0,
+      "subject": "Middle East"
+    },
+    {
+      "id": "JQ1850",
+      "size": 399,
+      "subject": "Arab countries"
+    },
+    {
+      "id": "JQ1852",
+      "size": 37,
+      "subject": "Islamic countries"
+    },
+    {
+      "id": "JQ3981.5-3986.7",
+      "size": 3,
+      "subject": "Atlantic Ocean islands"
+    },
+    {
+      "id": "JJ",
+      "size": 0,
+      "subject": "Political institutions and public administration"
+    },
+    {
+      "id": "JJ1000-1019",
+      "size": 10,
+      "subject": "Political institutions and public administration"
+    }
+  ],
+  "links": [
+    {
+      "source": "J",
+      "target": "JF"
+    },
+    {
+      "source": "JF",
+      "target": "JF20-1177"
+    },
+    {
+      "source": "JF",
+      "target": "JF20-2112"
+    },
+    {
+      "source": "JF20-1177",
+      "target": "JF225-619"
+    },
+    {
+      "source": "JF225-619",
+      "target": "JF491-619"
+    },
+    {
+      "source": "JF225-619",
+      "target": "JF251-289"
+    },
+    {
+      "source": "JF225-619",
+      "target": "JF331-341"
+    },
+    {
+      "source": "JF20-2112",
+      "target": "JF20-1177"
+    },
+    {
+      "source": "JF20-2112",
+      "target": "JF1338-2112"
+    },
+    {
+      "source": "JF1338-2112",
+      "target": "JF2011-2112"
+    },
+    {
+      "source": "JF1338-2112",
+      "target": "JF1501-1521"
+    },
+    {
+      "source": "J",
+      "target": "JC"
+    },
+    {
+      "source": "JC",
+      "target": "JC11-605"
+    },
+    {
+      "source": "JC11-605",
+      "target": "JC131-273"
+    },
+    {
+      "source": "JC11-605",
+      "target": "JC571-605"
+    },
+    {
+      "source": "JC11-605",
+      "target": "JC348-497"
+    },
+    {
+      "source": "JC11-605",
+      "target": "JC311-314"
+    },
+    {
+      "source": "JC11-605",
+      "target": "JC51-93"
+    },
+    {
+      "source": "JC11-605",
+      "target": "JC319-323"
+    },
+    {
+      "source": "JC11-605",
+      "target": "JC345-347"
+    },
+    {
+      "source": "JC11-605",
+      "target": "JC328.2"
+    },
+    {
+      "source": "JC11-605",
+      "target": "JC327"
+    },
+    {
+      "source": "JC11-605",
+      "target": "JC109-121"
+    },
+    {
+      "source": "JC11-605",
+      "target": "JC49"
+    },
+    {
+      "source": "JC11-605",
+      "target": "JC329"
+    },
+    {
+      "source": "JC11-605",
+      "target": "JC47"
+    },
+    {
+      "source": "JC131-273",
+      "target": "JC177-178"
+    },
+    {
+      "source": "J",
+      "target": "JK"
+    },
+    {
+      "source": "JK",
+      "target": "JK1-9993"
+    },
+    {
+      "source": "JK",
+      "target": "JK1-9593"
+    },
+    {
+      "source": "JK1-9993",
+      "target": "JK1-9593"
+    },
+    {
+      "source": "JK1-9993",
+      "target": "JK9663-9993"
+    },
+    {
+      "source": "JK1-9593",
+      "target": "JK404-1685"
+    },
+    {
+      "source": "JK1-9593",
+      "target": "JK1717-2217"
+    },
+    {
+      "source": "JK404-1685",
+      "target": "JK501-868"
+    },
+    {
+      "source": "JK404-1685",
+      "target": "JK1012-1432"
+    },
+    {
+      "source": "JK404-1685",
+      "target": "JK1606-1683"
+    },
+    {
+      "source": "JK501-868",
+      "target": "JK631-868"
+    },
+    {
+      "source": "JK1012-1432",
+      "target": "JK1154-1276"
+    },
+    {
+      "source": "JK1012-1432",
+      "target": "JK1308-1432"
+    },
+    {
+      "source": "JK1717-2217",
+      "target": "JK1846-1929"
+    },
+    {
+      "source": "JK1717-2217",
+      "target": "JK1965-2217"
+    },
+    {
+      "source": "JK1717-2217",
+      "target": "JK1758-1761"
+    },
+    {
+      "source": "J",
+      "target": "JS"
+    },
+    {
+      "source": "JS",
+      "target": "JS39-8500"
+    },
+    {
+      "source": "JS39-8500",
+      "target": "JS3000-6949.89"
+    },
+    {
+      "source": "JS39-8500",
+      "target": "JS300-1583"
+    },
+    {
+      "source": "JS39-8500",
+      "target": "JS141-163"
+    },
+    {
+      "source": "JS39-8500",
+      "target": "JS2300-2778"
+    },
+    {
+      "source": "JS39-8500",
+      "target": "JS55-68"
+    },
+    {
+      "source": "JS39-8500",
+      "target": "JS7525-7819.9"
+    },
+    {
+      "source": "JS39-8500",
+      "target": "JS6950-7520"
+    },
+    {
+      "source": "JS39-8500",
+      "target": "JS2145-2219"
+    },
+    {
+      "source": "JS39-8500",
+      "target": "JS1840-2058.9"
+    },
+    {
+      "source": "JS39-8500",
+      "target": "JS2101-2143"
+    },
+    {
+      "source": "JS39-8500",
+      "target": "JS1701-1800"
+    },
+    {
+      "source": "JS39-8500",
+      "target": "JS221-227"
+    },
+    {
+      "source": "JS39-8500",
+      "target": "JS8001-8490.9"
+    },
+    {
+      "source": "JS39-8500",
+      "target": "JS241-271"
+    },
+    {
+      "source": "JS39-8500",
+      "target": "JS7900-7906.9"
+    },
+    {
+      "source": "JS39-8500",
+      "target": "JS7820-7827.9"
+    },
+    {
+      "source": "JS6950-7520",
+      "target": "JS7520"
+    },
+    {
+      "source": "JS6950-7520",
+      "target": "JS7510"
+    },
+    {
+      "source": "J",
+      "target": "JV"
+    },
+    {
+      "source": "JV",
+      "target": "JV1-9480"
+    },
+    {
+      "source": "JV1-9480",
+      "target": "JV500-5397"
+    },
+    {
+      "source": "JV1-9480",
+      "target": "JV61-152"
+    },
+    {
+      "source": "JV1-9480",
+      "target": "JV6001-9480"
+    },
+    {
+      "source": "JV1-9480",
+      "target": "JV1-5397"
+    },
+    {
+      "source": "JV1-9480",
+      "target": "JV412-461"
+    },
+    {
+      "source": "JV1-9480",
+      "target": "JV10-19"
+    },
+    {
+      "source": "JV1-9480",
+      "target": "JV1-9"
+    },
+    {
+      "source": "JV6001-9480",
+      "target": "JV7200-7539"
+    },
+    {
+      "source": "JV6001-9480",
+      "target": "JV6403-7127"
+    },
+    {
+      "source": "JV6001-9480",
+      "target": "JV7590-8339.7"
+    },
+    {
+      "source": "JV6001-9480",
+      "target": "JV8490-8758"
+    },
+    {
+      "source": "JV6001-9480",
+      "target": "JV6201-6347"
+    },
+    {
+      "source": "JV6001-9480",
+      "target": "JV8790-9024.5"
+    },
+    {
+      "source": "JV6001-9480",
+      "target": "JV6091-6124"
+    },
+    {
+      "source": "JV6001-9480",
+      "target": "JV6021-6033"
+    },
+    {
+      "source": "JV6001-9480",
+      "target": "JV9100-9269"
+    },
+    {
+      "source": "JV6001-9480",
+      "target": "JV9290-9470"
+    },
+    {
+      "source": "JV6001-9480",
+      "target": "JV8760"
+    },
+    {
+      "source": "JV6001-9480",
+      "target": "JV6001-6006"
+    },
+    {
+      "source": "JV6001-9480",
+      "target": "JV9029-9036"
+    },
+    {
+      "source": "JV6001-9480",
+      "target": "JV9040-9047"
+    },
+    {
+      "source": "J",
+      "target": "JA"
+    },
+    {
+      "source": "JA",
+      "target": "JA1-92"
+    },
+    {
+      "source": "JA1-92",
+      "target": "JA71-80"
+    },
+    {
+      "source": "JA1-92",
+      "target": "JA81-84"
+    },
+    {
+      "source": "JA1-92",
+      "target": "JA35.5"
+    },
+    {
+      "source": "JA1-92",
+      "target": "JA60-64"
+    },
+    {
+      "source": "JA1-92",
+      "target": "JA86-88"
+    },
+    {
+      "source": "JA1-92",
+      "target": "JA92"
+    },
+    {
+      "source": "JA1-92",
+      "target": "JA1-26"
+    },
+    {
+      "source": "JA1-92",
+      "target": "JA27-34"
+    },
+    {
+      "source": "J",
+      "target": "JX"
+    },
+    {
+      "source": "JX",
+      "target": "JX1-6650"
+    },
+    {
+      "source": "JX1-6650",
+      "target": "JX1621-1896"
+    },
+    {
+      "source": "JX1-6650",
+      "target": "JX220-1195"
+    },
+    {
+      "source": "JX1-6650",
+      "target": "JX1901-1995"
+    },
+    {
+      "source": "JX1-6650",
+      "target": "JX2001-6650"
+    },
+    {
+      "source": "JX1-6650",
+      "target": "JX1305-1598"
+    },
+    {
+      "source": "JX1-6650",
+      "target": "JX63-191"
+    },
+    {
+      "source": "JX1-6650",
+      "target": "JX1261-1283"
+    },
+    {
+      "source": "J",
+      "target": "JN"
+    },
+    {
+      "source": "JN",
+      "target": "JN1-9689"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN8701-9599"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN1-97"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN2301-3007"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN6690-6699"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN101-1371"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN6750-6769"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN7011-7066"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN3201-4944"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN8101-8399"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN6630-6639"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN5201-5690"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN6500-6598"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN2210-2229"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN7401-7695"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN5001-5191"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN1601-2191"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN9600-9689"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN7390-7399"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN8423-8661"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN7721-7995"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN6101-6371"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN5701-5999"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN7101-7367"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN6615"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN6640-6649"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN6745"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN1395-1571.5"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN2240"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN7380-7389"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN6680-6689"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN6730-6739"
+    },
+    {
+      "source": "JN1-9689",
+      "target": "JN7370-7379"
+    },
+    {
+      "source": "JN101-1371",
+      "target": "JN1187-1371"
+    },
+    {
+      "source": "J",
+      "target": "JZ"
+    },
+    {
+      "source": "JZ",
+      "target": "JZ5-6530"
+    },
+    {
+      "source": "JZ5-6530",
+      "target": "JZ1305-2060"
+    },
+    {
+      "source": "JZ5-6530",
+      "target": "JZ1249-1254"
+    },
+    {
+      "source": "JZ5-6530",
+      "target": "JZ5511.2-6300"
+    },
+    {
+      "source": "JZ5-6530",
+      "target": "JZ4835-5490"
+    },
+    {
+      "source": "JZ5-6530",
+      "target": "JZ6385-6405"
+    },
+    {
+      "source": "JZ5-6530",
+      "target": "JZ63-1153"
+    },
+    {
+      "source": "JZ5-6530",
+      "target": "JZ6360-6377"
+    },
+    {
+      "source": "JZ5-6530",
+      "target": "JZ3674-3875"
+    },
+    {
+      "source": "JZ5-6530",
+      "target": "JZ24-38"
+    },
+    {
+      "source": "JZ5-6530",
+      "target": "JZ6422-6422.5"
+    },
+    {
+      "source": "JZ5-6530",
+      "target": "JZ6530"
+    },
+    {
+      "source": "JZ5-6530",
+      "target": "JZ5.5-18"
+    },
+    {
+      "source": "JZ1305-2060",
+      "target": "JZ1464-2060"
+    },
+    {
+      "source": "JZ1305-2060",
+      "target": "JZ1400-1454"
+    },
+    {
+      "source": "JZ1305-2060",
+      "target": "JZ1329.5-1395"
+    },
+    {
+      "source": "JZ5511.2-6300",
+      "target": "JZ6010-6060"
+    },
+    {
+      "source": "JZ5511.2-6300",
+      "target": "JZ5587-6009"
+    },
+    {
+      "source": "JZ5511.2-6300",
+      "target": "JZ5514-5526"
+    },
+    {
+      "source": "JZ5511.2-6300",
+      "target": "JZ5527-5532"
+    },
+    {
+      "source": "JZ4835-5490",
+      "target": "JZ4850-5490"
+    },
+    {
+      "source": "JZ4835-5490",
+      "target": "JZ4841-4848"
+    },
+    {
+      "source": "JZ4850-5490",
+      "target": "JZ4935-5160"
+    },
+    {
+      "source": "JZ4850-5490",
+      "target": "JZ4853-4934"
+    },
+    {
+      "source": "JZ63-1153",
+      "target": "JZ221-1153"
+    },
+    {
+      "source": "JZ3674-3875",
+      "target": "JZ3686-3875"
+    },
+    {
+      "source": "JZ3674-3875",
+      "target": "JZ3685"
+    },
+    {
+      "source": "J",
+      "target": "JL"
+    },
+    {
+      "source": "JL",
+      "target": "JL1-3899"
+    },
+    {
+      "source": "JL1-3899",
+      "target": "JL599.5-839"
+    },
+    {
+      "source": "JL1-3899",
+      "target": "JL1400-1679"
+    },
+    {
+      "source": "JL1-3899",
+      "target": "JL1850-3899"
+    },
+    {
+      "source": "JL1-3899",
+      "target": "JL1200-1299"
+    },
+    {
+      "source": "JL1-3899",
+      "target": "JL1-500"
+    },
+    {
+      "source": "J",
+      "target": "J1-981"
+    },
+    {
+      "source": "J1-981",
+      "target": "J80-87"
+    },
+    {
+      "source": "J1-981",
+      "target": "J100-981"
+    },
+    {
+      "source": "J1-981",
+      "target": "J1-9"
+    },
+    {
+      "source": "J80-87",
+      "target": "J80-82"
+    },
+    {
+      "source": "J",
+      "target": "JQ"
+    },
+    {
+      "source": "JQ",
+      "target": "JQ21-6651"
+    },
+    {
+      "source": "JQ21-6651",
+      "target": "JQ21-1852"
+    },
+    {
+      "source": "JQ21-6651",
+      "target": "JQ1870-3981"
+    },
+    {
+      "source": "JQ21-6651",
+      "target": "JQ3995-6651"
+    },
+    {
+      "source": "JQ21-6651",
+      "target": "JQ1758-1852"
+    },
+    {
+      "source": "JQ21-6651",
+      "target": "JQ3981.5-3986.7"
+    },
+    {
+      "source": "JQ1758-1852",
+      "target": "JQ1850"
+    },
+    {
+      "source": "JQ1758-1852",
+      "target": "JQ1852"
+    },
+    {
+      "source": "J",
+      "target": "JJ"
+    },
+    {
+      "source": "JJ",
+      "target": "JJ1000-1019"
+    }
+  ],
+  "maxCount": 26027
+}

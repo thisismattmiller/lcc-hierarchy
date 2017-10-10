@@ -1,0 +1,858 @@
+{
+  "nodes": [
+    {
+      "id": "C",
+      "size": 0,
+      "subject": "Auxiliary Sciences of History (General)"
+    },
+    {
+      "id": "CT",
+      "size": 0,
+      "subject": "Biography"
+    },
+    {
+      "id": "CT21-9999",
+      "size": 460,
+      "subject": "Biography"
+    },
+    {
+      "id": "CT210-3150",
+      "size": 21083,
+      "subject": "National biography"
+    },
+    {
+      "id": "CT3200-9999",
+      "size": 10,
+      "subject": "Biography.  By subject"
+    },
+    {
+      "id": "CT3200-3830",
+      "size": 1302,
+      "subject": "Biography of women (Collective)"
+    },
+    {
+      "id": "CT9960-9998",
+      "size": 367,
+      "subject": "Other miscellaneous groups"
+    },
+    {
+      "id": "CT3990",
+      "size": 1055,
+      "subject": "Academicians.  Scholars. Savants"
+    },
+    {
+      "id": "CT9999",
+      "size": 9,
+      "subject": "Blank books for personal records, diaries, etc."
+    },
+    {
+      "id": "CT93-206",
+      "size": 2352,
+      "subject": "General collective biography"
+    },
+    {
+      "id": "CT206",
+      "size": 4,
+      "subject": "Portraits"
+    },
+    {
+      "id": "CT21-22",
+      "size": 302,
+      "subject": "Biography as an art or literary form"
+    },
+    {
+      "id": "CT31-83",
+      "size": 105,
+      "subject": "History of biographical literature.  Lives of biographers"
+    },
+    {
+      "id": "CS",
+      "size": 0,
+      "subject": "Genealogy"
+    },
+    {
+      "id": "CS1-3090",
+      "size": 1016,
+      "subject": "Genealogy"
+    },
+    {
+      "id": "CS42-2209",
+      "size": 54091,
+      "subject": "By region or country"
+    },
+    {
+      "id": "CS2300-3090",
+      "size": 2816,
+      "subject": "Personal and family names"
+    },
+    {
+      "id": "CS38-39",
+      "size": 89,
+      "subject": "Family history covering more than one country"
+    },
+    {
+      "id": "CS23-35",
+      "size": 163,
+      "subject": "Genealogical lists, etc., covering more than one country"
+    },
+    {
+      "id": "CR",
+      "size": 0,
+      "subject": "Heraldry"
+    },
+    {
+      "id": "CR1-6305",
+      "size": 351,
+      "subject": "Heraldry"
+    },
+    {
+      "id": "CR101-115",
+      "size": 612,
+      "subject": "Flags, banners, and standards"
+    },
+    {
+      "id": "CR4501-6305",
+      "size": 345,
+      "subject": "Chivalry and knighthood (Orders, decorations, etc.)"
+    },
+    {
+      "id": "CR4547-4553",
+      "size": 25,
+      "subject": "Ceremonials, pageants, tournaments, etc."
+    },
+    {
+      "id": "CR4571-4595",
+      "size": 128,
+      "subject": "Duels and dueling"
+    },
+    {
+      "id": "CR4651-6305",
+      "size": 1672,
+      "subject": "Orders, etc."
+    },
+    {
+      "id": "CR191-1020",
+      "size": 880,
+      "subject": "Public and official heraldry"
+    },
+    {
+      "id": "CR1179-3395",
+      "size": 683,
+      "subject": "Family heraldry"
+    },
+    {
+      "id": "CR3499-4420",
+      "size": 171,
+      "subject": "Titles of honor, rank, precedence, etc."
+    },
+    {
+      "id": "CR4480-4485",
+      "size": 50,
+      "subject": "Royalty.  Insignia.  Regalia, crown and coronets, etc."
+    },
+    {
+      "id": "CR51-79",
+      "size": 138,
+      "subject": "Crests, monograms, devices, badges, mottoes, etc."
+    },
+    {
+      "id": "CR1101-1131",
+      "size": 53,
+      "subject": "Ecclesiastical and sacred heraldry"
+    },
+    {
+      "id": "CB",
+      "size": 0,
+      "subject": "History of Civilization"
+    },
+    {
+      "id": "CB3-482",
+      "size": 2900,
+      "subject": "History of Civilization"
+    },
+    {
+      "id": "CB195-281",
+      "size": 2502,
+      "subject": "Civilization and race"
+    },
+    {
+      "id": "CB305-430",
+      "size": 4419,
+      "subject": "By period"
+    },
+    {
+      "id": "CB440-482",
+      "size": 173,
+      "subject": "Relation to special topics"
+    },
+    {
+      "id": "CB478",
+      "size": 423,
+      "subject": "Technology"
+    },
+    {
+      "id": "CB481",
+      "size": 49,
+      "subject": "War and civilization"
+    },
+    {
+      "id": "CB450",
+      "size": 8,
+      "subject": "Geography and civilization"
+    },
+    {
+      "id": "CB482",
+      "size": 15,
+      "subject": "Water and civilization"
+    },
+    {
+      "id": "CB158-161",
+      "size": 947,
+      "subject": "Forecasts of future progress"
+    },
+    {
+      "id": "CB156",
+      "size": 170,
+      "subject": "Terrestrial evidence of interplanetary voyages"
+    },
+    {
+      "id": "CJ",
+      "size": 0,
+      "subject": "Numismatics"
+    },
+    {
+      "id": "CJ1-6661",
+      "size": 2,
+      "subject": "Numismatics"
+    },
+    {
+      "id": "CJ1509-4625",
+      "size": 3533,
+      "subject": "Medieval and modern"
+    },
+    {
+      "id": "CJ1-4625",
+      "size": 2637,
+      "subject": "Coins"
+    },
+    {
+      "id": "CJ4801-5450",
+      "size": 4,
+      "subject": "Tokens"
+    },
+    {
+      "id": "CJ4901-5336",
+      "size": 177,
+      "subject": "By region or country"
+    },
+    {
+      "id": "CJ4861-4889",
+      "size": 10,
+      "subject": "By period"
+    },
+    {
+      "id": "CJ5350-5450",
+      "size": 39,
+      "subject": "Special uses of tokens"
+    },
+    {
+      "id": "CJ5501-6661",
+      "size": 45,
+      "subject": "Medals and medallions"
+    },
+    {
+      "id": "CJ5795-6661",
+      "size": 519,
+      "subject": "By region or country"
+    },
+    {
+      "id": "CJ5723-5793",
+      "size": 77,
+      "subject": "Medieval and modern"
+    },
+    {
+      "id": "CJ5581-5690",
+      "size": 22,
+      "subject": "Ancient"
+    },
+    {
+      "id": "CC",
+      "size": 0,
+      "subject": "Archaeology"
+    },
+    {
+      "id": "CC1-960",
+      "size": 1685,
+      "subject": "Archaeology"
+    },
+    {
+      "id": "CC83-97",
+      "size": 147,
+      "subject": "Study and teaching.  Research"
+    },
+    {
+      "id": "CC72-81",
+      "size": 248,
+      "subject": "Philosophy.  Theory"
+    },
+    {
+      "id": "CC73-81",
+      "size": 2016,
+      "subject": "Methodology"
+    },
+    {
+      "id": "CC135-137",
+      "size": 457,
+      "subject": "Preservation, restoration, and conservation of"
+    },
+    {
+      "id": "CC200-260",
+      "size": 165,
+      "subject": "Bells.  Campanology.  Cowbells"
+    },
+    {
+      "id": "CC300-350",
+      "size": 160,
+      "subject": "Crosses"
+    },
+    {
+      "id": "CC710",
+      "size": 9,
+      "subject": "Hill figures"
+    },
+    {
+      "id": "CC140",
+      "size": 17,
+      "subject": "Forgeries of antiquities"
+    },
+    {
+      "id": "CC960",
+      "size": 1,
+      "subject": "Lanterns of the dead"
+    },
+    {
+      "id": "CC600-605",
+      "size": 13,
+      "subject": "Boundary stones"
+    },
+    {
+      "id": "CC700-705",
+      "size": 1,
+      "subject": "Stone heaps, cairns, etc., of unknown purpose"
+    },
+    {
+      "id": "CN",
+      "size": 0,
+      "subject": "Inscriptions.  Epigraphy"
+    },
+    {
+      "id": "CN1-1355",
+      "size": 60,
+      "subject": "Inscriptions.  Epigraphy"
+    },
+    {
+      "id": "CN120-740",
+      "size": 922,
+      "subject": "Ancient inscriptions"
+    },
+    {
+      "id": "CN750-753",
+      "size": 48,
+      "subject": "Early Christian inscriptions"
+    },
+    {
+      "id": "CN870-1355",
+      "size": 827,
+      "subject": "By region or country"
+    },
+    {
+      "id": "CN805-865",
+      "size": 15,
+      "subject": "By language"
+    },
+    {
+      "id": "CN760",
+      "size": 2,
+      "subject": "Modern inscriptions (General)"
+    },
+    {
+      "id": "CN755",
+      "size": 6,
+      "subject": "Medieval inscriptions (General)"
+    },
+    {
+      "id": "CD",
+      "size": 0,
+      "subject": "Diplomatics.  Archives.  Seals"
+    },
+    {
+      "id": "CD1-6471",
+      "size": 14,
+      "subject": "Diplomatics.  Archives.  Seals"
+    },
+    {
+      "id": "CD921-4280",
+      "size": 773,
+      "subject": "Archives"
+    },
+    {
+      "id": "CD995-4280",
+      "size": 21,
+      "subject": "History and statistics"
+    },
+    {
+      "id": "CD1000-4280",
+      "size": 9252,
+      "subject": "By region or country"
+    },
+    {
+      "id": "CD997",
+      "size": 47,
+      "subject": "Biography of archivists"
+    },
+    {
+      "id": "CD91-392",
+      "size": 114,
+      "subject": "Collection of documents, facsimiles, etc., for study"
+    },
+    {
+      "id": "CD5001-6471",
+      "size": 37,
+      "subject": "Seals"
+    },
+    {
+      "id": "CD5575-6471",
+      "size": 883,
+      "subject": "Modern"
+    },
+    {
+      "id": "CD5201-5391",
+      "size": 206,
+      "subject": "Ancient"
+    },
+    {
+      "id": "CD5501-5557",
+      "size": 25,
+      "subject": "Medieval"
+    },
+    {
+      "id": "CD1-511",
+      "size": 277,
+      "subject": "Diplomatics"
+    },
+    {
+      "id": "CD80-81",
+      "size": 7,
+      "subject": "Formularies"
+    },
+    {
+      "id": "CE",
+      "size": 0,
+      "subject": "Technical chronology.  Calendar"
+    },
+    {
+      "id": "CE1-97",
+      "size": 252,
+      "subject": "Technical chronology.  Calendar"
+    },
+    {
+      "id": "CE51-85",
+      "size": 461,
+      "subject": "Medieval and modern"
+    },
+    {
+      "id": "CE21-46",
+      "size": 303,
+      "subject": "Ancient"
+    },
+    {
+      "id": "CE91-92",
+      "size": 36,
+      "subject": "Perpetual calendars.  Century calendars, etc."
+    },
+    {
+      "id": "C1-51",
+      "size": 66,
+      "subject": "Auxiliary Sciences of History (General)"
+    }
+  ],
+  "links": [
+    {
+      "source": "C",
+      "target": "CT"
+    },
+    {
+      "source": "CT",
+      "target": "CT21-9999"
+    },
+    {
+      "source": "CT21-9999",
+      "target": "CT210-3150"
+    },
+    {
+      "source": "CT21-9999",
+      "target": "CT3200-9999"
+    },
+    {
+      "source": "CT21-9999",
+      "target": "CT93-206"
+    },
+    {
+      "source": "CT21-9999",
+      "target": "CT21-22"
+    },
+    {
+      "source": "CT21-9999",
+      "target": "CT31-83"
+    },
+    {
+      "source": "CT3200-9999",
+      "target": "CT3200-3830"
+    },
+    {
+      "source": "CT3200-9999",
+      "target": "CT9960-9998"
+    },
+    {
+      "source": "CT3200-9999",
+      "target": "CT3990"
+    },
+    {
+      "source": "CT3200-9999",
+      "target": "CT9999"
+    },
+    {
+      "source": "CT93-206",
+      "target": "CT206"
+    },
+    {
+      "source": "C",
+      "target": "CS"
+    },
+    {
+      "source": "CS",
+      "target": "CS1-3090"
+    },
+    {
+      "source": "CS1-3090",
+      "target": "CS42-2209"
+    },
+    {
+      "source": "CS1-3090",
+      "target": "CS2300-3090"
+    },
+    {
+      "source": "CS1-3090",
+      "target": "CS38-39"
+    },
+    {
+      "source": "CS1-3090",
+      "target": "CS23-35"
+    },
+    {
+      "source": "C",
+      "target": "CR"
+    },
+    {
+      "source": "CR",
+      "target": "CR1-6305"
+    },
+    {
+      "source": "CR1-6305",
+      "target": "CR101-115"
+    },
+    {
+      "source": "CR1-6305",
+      "target": "CR4501-6305"
+    },
+    {
+      "source": "CR1-6305",
+      "target": "CR191-1020"
+    },
+    {
+      "source": "CR1-6305",
+      "target": "CR1179-3395"
+    },
+    {
+      "source": "CR1-6305",
+      "target": "CR3499-4420"
+    },
+    {
+      "source": "CR1-6305",
+      "target": "CR4480-4485"
+    },
+    {
+      "source": "CR1-6305",
+      "target": "CR51-79"
+    },
+    {
+      "source": "CR1-6305",
+      "target": "CR1101-1131"
+    },
+    {
+      "source": "CR4501-6305",
+      "target": "CR4547-4553"
+    },
+    {
+      "source": "CR4501-6305",
+      "target": "CR4571-4595"
+    },
+    {
+      "source": "CR4501-6305",
+      "target": "CR4651-6305"
+    },
+    {
+      "source": "C",
+      "target": "CB"
+    },
+    {
+      "source": "CB",
+      "target": "CB3-482"
+    },
+    {
+      "source": "CB3-482",
+      "target": "CB195-281"
+    },
+    {
+      "source": "CB3-482",
+      "target": "CB305-430"
+    },
+    {
+      "source": "CB3-482",
+      "target": "CB440-482"
+    },
+    {
+      "source": "CB3-482",
+      "target": "CB158-161"
+    },
+    {
+      "source": "CB3-482",
+      "target": "CB156"
+    },
+    {
+      "source": "CB440-482",
+      "target": "CB478"
+    },
+    {
+      "source": "CB440-482",
+      "target": "CB481"
+    },
+    {
+      "source": "CB440-482",
+      "target": "CB450"
+    },
+    {
+      "source": "CB440-482",
+      "target": "CB482"
+    },
+    {
+      "source": "C",
+      "target": "CJ"
+    },
+    {
+      "source": "CJ",
+      "target": "CJ1-6661"
+    },
+    {
+      "source": "CJ1-6661",
+      "target": "CJ1509-4625"
+    },
+    {
+      "source": "CJ1-6661",
+      "target": "CJ1-4625"
+    },
+    {
+      "source": "CJ1-6661",
+      "target": "CJ4801-5450"
+    },
+    {
+      "source": "CJ1-6661",
+      "target": "CJ5501-6661"
+    },
+    {
+      "source": "CJ4801-5450",
+      "target": "CJ4901-5336"
+    },
+    {
+      "source": "CJ4801-5450",
+      "target": "CJ4861-4889"
+    },
+    {
+      "source": "CJ4801-5450",
+      "target": "CJ5350-5450"
+    },
+    {
+      "source": "CJ5501-6661",
+      "target": "CJ5795-6661"
+    },
+    {
+      "source": "CJ5501-6661",
+      "target": "CJ5723-5793"
+    },
+    {
+      "source": "CJ5501-6661",
+      "target": "CJ5581-5690"
+    },
+    {
+      "source": "C",
+      "target": "CC"
+    },
+    {
+      "source": "CC",
+      "target": "CC1-960"
+    },
+    {
+      "source": "CC1-960",
+      "target": "CC83-97"
+    },
+    {
+      "source": "CC1-960",
+      "target": "CC72-81"
+    },
+    {
+      "source": "CC1-960",
+      "target": "CC135-137"
+    },
+    {
+      "source": "CC1-960",
+      "target": "CC200-260"
+    },
+    {
+      "source": "CC1-960",
+      "target": "CC300-350"
+    },
+    {
+      "source": "CC1-960",
+      "target": "CC710"
+    },
+    {
+      "source": "CC1-960",
+      "target": "CC140"
+    },
+    {
+      "source": "CC1-960",
+      "target": "CC960"
+    },
+    {
+      "source": "CC1-960",
+      "target": "CC600-605"
+    },
+    {
+      "source": "CC1-960",
+      "target": "CC700-705"
+    },
+    {
+      "source": "CC72-81",
+      "target": "CC73-81"
+    },
+    {
+      "source": "C",
+      "target": "CN"
+    },
+    {
+      "source": "CN",
+      "target": "CN1-1355"
+    },
+    {
+      "source": "CN1-1355",
+      "target": "CN120-740"
+    },
+    {
+      "source": "CN1-1355",
+      "target": "CN750-753"
+    },
+    {
+      "source": "CN1-1355",
+      "target": "CN870-1355"
+    },
+    {
+      "source": "CN1-1355",
+      "target": "CN805-865"
+    },
+    {
+      "source": "CN1-1355",
+      "target": "CN760"
+    },
+    {
+      "source": "CN1-1355",
+      "target": "CN755"
+    },
+    {
+      "source": "C",
+      "target": "CD"
+    },
+    {
+      "source": "CD",
+      "target": "CD1-6471"
+    },
+    {
+      "source": "CD1-6471",
+      "target": "CD921-4280"
+    },
+    {
+      "source": "CD1-6471",
+      "target": "CD91-392"
+    },
+    {
+      "source": "CD1-6471",
+      "target": "CD5001-6471"
+    },
+    {
+      "source": "CD1-6471",
+      "target": "CD1-511"
+    },
+    {
+      "source": "CD1-6471",
+      "target": "CD80-81"
+    },
+    {
+      "source": "CD921-4280",
+      "target": "CD995-4280"
+    },
+    {
+      "source": "CD995-4280",
+      "target": "CD1000-4280"
+    },
+    {
+      "source": "CD995-4280",
+      "target": "CD997"
+    },
+    {
+      "source": "CD5001-6471",
+      "target": "CD5575-6471"
+    },
+    {
+      "source": "CD5001-6471",
+      "target": "CD5201-5391"
+    },
+    {
+      "source": "CD5001-6471",
+      "target": "CD5501-5557"
+    },
+    {
+      "source": "C",
+      "target": "CE"
+    },
+    {
+      "source": "CE",
+      "target": "CE1-97"
+    },
+    {
+      "source": "CE1-97",
+      "target": "CE51-85"
+    },
+    {
+      "source": "CE1-97",
+      "target": "CE21-46"
+    },
+    {
+      "source": "CE1-97",
+      "target": "CE91-92"
+    },
+    {
+      "source": "C",
+      "target": "C1-51"
+    }
+  ],
+  "maxCount": 54091
+}

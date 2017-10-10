@@ -1,0 +1,1339 @@
+{
+  "nodes": [
+    {
+      "id": "E",
+      "size": 0,
+      "subject": "United States"
+    },
+    {
+      "id": "E151-889",
+      "size": 27,
+      "subject": "United States"
+    },
+    {
+      "id": "E171-183.9",
+      "size": 8,
+      "subject": "History"
+    },
+    {
+      "id": "E171-180",
+      "size": 7725,
+      "subject": "General"
+    },
+    {
+      "id": "E181",
+      "size": 492,
+      "subject": "Military history"
+    },
+    {
+      "id": "E182",
+      "size": 311,
+      "subject": "Naval history"
+    },
+    {
+      "id": "E183.7-183.9",
+      "size": 543,
+      "subject": "Diplomatic history.  Foreign and general relations."
+    },
+    {
+      "id": "E183.8",
+      "size": 6057,
+      "subject": "Relations with individual countries"
+    },
+    {
+      "id": "E179.5",
+      "size": 345,
+      "subject": "Historical geography"
+    },
+    {
+      "id": "E175-175.7",
+      "size": 671,
+      "subject": "Historiography"
+    },
+    {
+      "id": "E183-183.3",
+      "size": 366,
+      "subject": "Political history"
+    },
+    {
+      "id": "E300-453",
+      "size": 0,
+      "subject": "Revolution to the Civil War, 1775/1783-1861"
+    },
+    {
+      "id": "E441-453",
+      "size": 3836,
+      "subject": "Slavery in the United States.  Antislavery"
+    },
+    {
+      "id": "E303-440.5",
+      "size": 0,
+      "subject": "By period"
+    },
+    {
+      "id": "E415.6-440.5",
+      "size": 0,
+      "subject": "Middle nineteenth century, 1845/1848-1861"
+    },
+    {
+      "id": "E415.6-415.9",
+      "size": 150,
+      "subject": "General"
+    },
+    {
+      "id": "E415.8-415.9",
+      "size": 535,
+      "subject": "Biography"
+    },
+    {
+      "id": "E415.6",
+      "size": 50,
+      "subject": "Collected works of American statesmen"
+    },
+    {
+      "id": "E426-430",
+      "size": 62,
+      "subject": "Fillmore's administration, July 9, 1850-1853"
+    },
+    {
+      "id": "E421-423",
+      "size": 79,
+      "subject": "Taylor's administration, 1849-July 9, 1850"
+    },
+    {
+      "id": "E423",
+      "size": 97,
+      "subject": "Slavery question, 1849-1853"
+    },
+    {
+      "id": "E416-420",
+      "size": 118,
+      "subject": "Polk's administration, 1845-1849"
+    },
+    {
+      "id": "E431-435",
+      "size": 99,
+      "subject": "Pierce's administration, 1853-1857"
+    },
+    {
+      "id": "E433",
+      "size": 73,
+      "subject": "Slavery question, 1853-1857"
+    },
+    {
+      "id": "E436-440.5",
+      "size": 144,
+      "subject": "Buchanan's administration, 1857-1861"
+    },
+    {
+      "id": "E440.5",
+      "size": 175,
+      "subject": "State of the country, November 1860-"
+    },
+    {
+      "id": "E438",
+      "size": 71,
+      "subject": "Slavery question, 1857-1861"
+    },
+    {
+      "id": "E310-337",
+      "size": 81,
+      "subject": "1789-1809.  Constitutional period"
+    },
+    {
+      "id": "E311-320",
+      "size": 1632,
+      "subject": "Washington's administrations, 1789-1797"
+    },
+    {
+      "id": "E331-337",
+      "size": 671,
+      "subject": "Jefferson's administrations, 1801-1809"
+    },
+    {
+      "id": "E333",
+      "size": 68,
+      "subject": "Purchase of Louisiana, 1803"
+    },
+    {
+      "id": "E336-336.5",
+      "size": 32,
+      "subject": "Neutral trade and its restrictions, 1800-1810"
+    },
+    {
+      "id": "E335",
+      "size": 39,
+      "subject": "War with Tripoli, 1801-1805"
+    },
+    {
+      "id": "E321-330",
+      "size": 315,
+      "subject": "John Adams' administration, 1797-1801"
+    },
+    {
+      "id": "E323",
+      "size": 69,
+      "subject": "Troubles with France, 1796-1800"
+    },
+    {
+      "id": "E310.7",
+      "size": 18,
+      "subject": "Diplomatic history.  Foreign and general"
+    },
+    {
+      "id": "E401-415.2",
+      "size": 534,
+      "subject": "Mexican War, 1846-1848"
+    },
+    {
+      "id": "E408",
+      "size": 22,
+      "subject": "Mexican cessions of 1848"
+    },
+    {
+      "id": "E337.8-400",
+      "size": 0,
+      "subject": "Early nineteenth century, 1801/1809-1845"
+    },
+    {
+      "id": "E381-385",
+      "size": 277,
+      "subject": "Jackson's administrations, 1829-1837"
+    },
+    {
+      "id": "E384.3",
+      "size": 30,
+      "subject": "Nullification"
+    },
+    {
+      "id": "E341-370",
+      "size": 176,
+      "subject": "Madison's administrations, 1809-1817"
+    },
+    {
+      "id": "E351.5-364.9",
+      "size": 923,
+      "subject": "War of 1812"
+    },
+    {
+      "id": "E365",
+      "size": 2,
+      "subject": "War with Algeria, 1815"
+    },
+    {
+      "id": "E337.8-340",
+      "size": 712,
+      "subject": "General"
+    },
+    {
+      "id": "E371-375",
+      "size": 72,
+      "subject": "Monroe's administrations, 1817-1825"
+    },
+    {
+      "id": "E374",
+      "size": 5,
+      "subject": "Diplomatic history.  Foreign relations"
+    },
+    {
+      "id": "E373",
+      "size": 21,
+      "subject": "Missouri Compromise, 1820"
+    },
+    {
+      "id": "E386-390",
+      "size": 89,
+      "subject": "Van Buren's administration, 1837-1841"
+    },
+    {
+      "id": "E396-400",
+      "size": 75,
+      "subject": "Tyler's administration, April 4, 1841-1845"
+    },
+    {
+      "id": "E398",
+      "size": 34,
+      "subject": "Northeastern boundary disputes, 1783-1845"
+    },
+    {
+      "id": "E391-392",
+      "size": 87,
+      "subject": "William H. Harrison's administration, March 4-"
+    },
+    {
+      "id": "E376-380",
+      "size": 122,
+      "subject": "John Quincy Adams' administration, 1825-1829"
+    },
+    {
+      "id": "E303-309",
+      "size": 173,
+      "subject": "1775-1789.  The Confederation, 1783-1789"
+    },
+    {
+      "id": "E337.5",
+      "size": 30,
+      "subject": "Nineteenth century (General)"
+    },
+    {
+      "id": "E300-302.6",
+      "size": 149,
+      "subject": "General"
+    },
+    {
+      "id": "E302.1",
+      "size": 90,
+      "subject": "Political history"
+    },
+    {
+      "id": "E302.5-302.6",
+      "size": 1600,
+      "subject": "Biography (Late eighteenth century)"
+    },
+    {
+      "id": "E302",
+      "size": 465,
+      "subject": "Collected works of American statesmen"
+    },
+    {
+      "id": "E151-169.12",
+      "size": 9515,
+      "subject": "General"
+    },
+    {
+      "id": "E456-655",
+      "size": 0,
+      "subject": "Civil War period, 1861-1865"
+    },
+    {
+      "id": "E461-655",
+      "size": 8180,
+      "subject": "The Civil War, 1861-1865"
+    },
+    {
+      "id": "E491-586",
+      "size": 3633,
+      "subject": "Armies.  Troops"
+    },
+    {
+      "id": "E591-600",
+      "size": 335,
+      "subject": "Naval history"
+    },
+    {
+      "id": "E482-489",
+      "size": 468,
+      "subject": "Confederate States of America"
+    },
+    {
+      "id": "E456-459",
+      "size": 3771,
+      "subject": "Lincoln's administrations, 1861-April 15, 1865"
+    },
+    {
+      "id": "E660-738",
+      "size": 0,
+      "subject": "Late nineteenth century, 1865-1900"
+    },
+    {
+      "id": "E711-738",
+      "size": 91,
+      "subject": "McKinley's first administration, 1897-1901"
+    },
+    {
+      "id": "E714-735",
+      "size": 496,
+      "subject": "War of 1898 (Spanish-American War)"
+    },
+    {
+      "id": "E713",
+      "size": 94,
+      "subject": "Annexation in 1898 of Hawaii, the Philippines,"
+    },
+    {
+      "id": "E663-664",
+      "size": 785,
+      "subject": "Biography"
+    },
+    {
+      "id": "E681-685",
+      "size": 67,
+      "subject": "Hayes' administration, 1877-1881"
+    },
+    {
+      "id": "E691-695",
+      "size": 34,
+      "subject": "Arthur's administration, September 19, 1881-1885"
+    },
+    {
+      "id": "E671-680",
+      "size": 333,
+      "subject": "Grant's administrations, 1869-1877"
+    },
+    {
+      "id": "E696-700",
+      "size": 70,
+      "subject": "Cleveland's first administration, 1885-1889"
+    },
+    {
+      "id": "E701-705",
+      "size": 33,
+      "subject": "Benjamin Harrison's administration, 1889-1893"
+    },
+    {
+      "id": "E666-670",
+      "size": 145,
+      "subject": "Johnson's administration, April 15, 1865-1869"
+    },
+    {
+      "id": "E669",
+      "size": 17,
+      "subject": "Purchase of Alaska, 1867"
+    },
+    {
+      "id": "E668",
+      "size": 291,
+      "subject": "Reconstruction, 1865-1877"
+    },
+    {
+      "id": "E660-664",
+      "size": 385,
+      "subject": "General"
+    },
+    {
+      "id": "E660",
+      "size": 95,
+      "subject": "Collected works of American statesmen"
+    },
+    {
+      "id": "E706-710",
+      "size": 18,
+      "subject": "Cleveland's second administration, 1893-1897"
+    },
+    {
+      "id": "E661.7",
+      "size": 46,
+      "subject": "Diplomatic history.  Foreign and general"
+    },
+    {
+      "id": "E686-687.9",
+      "size": 104,
+      "subject": "Garfield's administration, March 4-September"
+    },
+    {
+      "id": "E201-298",
+      "size": 6637,
+      "subject": "The Revolution, 1775-1783"
+    },
+    {
+      "id": "E184-185.98",
+      "size": 10123,
+      "subject": "Elements in the population"
+    },
+    {
+      "id": "E184.5-185.98",
+      "size": 2525,
+      "subject": "Afro-Americans"
+    },
+    {
+      "id": "E185.96-185.98",
+      "size": 2393,
+      "subject": "Biography.  Genealogy"
+    },
+    {
+      "id": "E185.2-185.89",
+      "size": 5254,
+      "subject": "Status and development since emancipation"
+    },
+    {
+      "id": "E838-889",
+      "size": 2,
+      "subject": "Later twentieth century, 1961-2000"
+    },
+    {
+      "id": "E840.6-840.8",
+      "size": 1321,
+      "subject": "Biography (General)"
+    },
+    {
+      "id": "E885-889",
+      "size": 631,
+      "subject": "Clinton's administrations, 1993-2001"
+    },
+    {
+      "id": "E841-843",
+      "size": 892,
+      "subject": "Kennedy's administration, 1961-November 22, 1963"
+    },
+    {
+      "id": "E842.9",
+      "size": 496,
+      "subject": "Assassination, funeral, memorial services, etc."
+    },
+    {
+      "id": "E840-840.2",
+      "size": 700,
+      "subject": "Diplomatic history.  Foreign and general"
+    },
+    {
+      "id": "E872-875",
+      "size": 302,
+      "subject": "Carter's administration, 1977-1981"
+    },
+    {
+      "id": "E846-851",
+      "size": 373,
+      "subject": "Johnson's administrations, November 22, 1963-1969"
+    },
+    {
+      "id": "E865-868",
+      "size": 138,
+      "subject": "Ford's administration, August 9, 1974-1977"
+    },
+    {
+      "id": "E876-880",
+      "size": 840,
+      "subject": "Reagan's administrations, 1981-1989"
+    },
+    {
+      "id": "E877.3",
+      "size": 6,
+      "subject": "Assassination attempt"
+    },
+    {
+      "id": "E855-861",
+      "size": 453,
+      "subject": "Nixon's administrations, 1969-August 9, 1974"
+    },
+    {
+      "id": "E860-861",
+      "size": 172,
+      "subject": "Watergate Affair.  Resignation"
+    },
+    {
+      "id": "E881-884",
+      "size": 264,
+      "subject": "George H.W. Bush's administration, 1989-1993"
+    },
+    {
+      "id": "E838-840.8",
+      "size": 773,
+      "subject": "General"
+    },
+    {
+      "id": "E839.5-839.8",
+      "size": 0,
+      "subject": "Political history"
+    },
+    {
+      "id": "E839.8",
+      "size": 33,
+      "subject": "Un-American activities"
+    },
+    {
+      "id": "E838.3",
+      "size": 12,
+      "subject": "Sources and documents"
+    },
+    {
+      "id": "E740-837.7",
+      "size": 1,
+      "subject": "Twentieth century"
+    },
+    {
+      "id": "E740-749",
+      "size": 4562,
+      "subject": "General"
+    },
+    {
+      "id": "E756-760",
+      "size": 448,
+      "subject": "Theodore Roosevelt's administrations,"
+    },
+    {
+      "id": "E784-805",
+      "size": 125,
+      "subject": "1919-1933.  Harding-Coolidge-Hoover era.  \"The"
+    },
+    {
+      "id": "E785-786",
+      "size": 85,
+      "subject": "Harding's administration, 1921-August 2, 1923"
+    },
+    {
+      "id": "E791-796",
+      "size": 108,
+      "subject": "Coolidge's administration, August 2, 1923-1929"
+    },
+    {
+      "id": "E801-805",
+      "size": 183,
+      "subject": "Hoover's administration, 1919-1933"
+    },
+    {
+      "id": "E761-765",
+      "size": 74,
+      "subject": "Taft's administration, 1909-1913"
+    },
+    {
+      "id": "E835-837.7",
+      "size": 429,
+      "subject": "Eisenhower's administrations, 1953-1961"
+    },
+    {
+      "id": "E806-812",
+      "size": 1285,
+      "subject": "Franklin Delano Roosevelt's administrations,"
+    },
+    {
+      "id": "E766-783",
+      "size": 318,
+      "subject": "Wilson's administrations, 1913-1921"
+    },
+    {
+      "id": "E768",
+      "size": 48,
+      "subject": "Purchase of Danish West Indies (Virgin"
+    },
+    {
+      "id": "E780",
+      "size": 18,
+      "subject": "Internal history during World War I"
+    },
+    {
+      "id": "E813-816",
+      "size": 425,
+      "subject": "Truman's administrations, April 12, 1945-1953"
+    },
+    {
+      "id": "E751",
+      "size": 5,
+      "subject": "McKinley's second administration, March 4-"
+    },
+    {
+      "id": "E186-199",
+      "size": 1,
+      "subject": "Colonial history (1607-1775)"
+    },
+    {
+      "id": "E191-199",
+      "size": 1,
+      "subject": "By period"
+    },
+    {
+      "id": "E195-199",
+      "size": 107,
+      "subject": "1689-1775"
+    },
+    {
+      "id": "E199",
+      "size": 441,
+      "subject": "French and Indian War, 1755-1763"
+    },
+    {
+      "id": "E198",
+      "size": 42,
+      "subject": "King George's War, 1744-1748"
+    },
+    {
+      "id": "E196",
+      "size": 14,
+      "subject": "King William's War, 1689-1697"
+    },
+    {
+      "id": "E197",
+      "size": 19,
+      "subject": "Queen Anne's War, 1702-1713"
+    },
+    {
+      "id": "E191",
+      "size": 36,
+      "subject": "1607-1689"
+    },
+    {
+      "id": "E186-189",
+      "size": 890,
+      "subject": "General"
+    },
+    {
+      "id": "E743-743.5",
+      "size": 0,
+      "subject": "Political history"
+    },
+    {
+      "id": "E743.5",
+      "size": 290,
+      "subject": "Un-American activities"
+    },
+    {
+      "id": "E11-143",
+      "size": 75,
+      "subject": "America"
+    },
+    {
+      "id": "E75-99",
+      "size": 14412,
+      "subject": "Indians of North America"
+    },
+    {
+      "id": "E99",
+      "size": 11378,
+      "subject": "Indian tribes and cultures"
+    },
+    {
+      "id": "E81-83",
+      "size": 131,
+      "subject": "Indian wars"
+    },
+    {
+      "id": "E51-73",
+      "size": 2576,
+      "subject": "Pre-Columbian America.  The Indians"
+    },
+    {
+      "id": "E101-135",
+      "size": 250,
+      "subject": "Discovery of America and early explorations"
+    },
+    {
+      "id": "E111-120",
+      "size": 1321,
+      "subject": "Columbus"
+    },
+    {
+      "id": "E121-135",
+      "size": 1595,
+      "subject": "Post-Columbian period.  El Dorado"
+    },
+    {
+      "id": "E103-110",
+      "size": 418,
+      "subject": "Pre-Columbian period"
+    },
+    {
+      "id": "E31-49.2",
+      "size": 399,
+      "subject": "North America"
+    },
+    {
+      "id": "E11-29",
+      "size": 939,
+      "subject": "General"
+    },
+    {
+      "id": "E141-143",
+      "size": 304,
+      "subject": "Descriptive accounts of America.  Earliest to 1810"
+    },
+    {
+      "id": "E895-904",
+      "size": 1048,
+      "subject": "Twenty-first century"
+    },
+    {
+      "id": "E902-906",
+      "size": 53,
+      "subject": "George W. Bush's administrations, 2001-2009"
+    },
+    {
+      "id": "E907-909",
+      "size": 390,
+      "subject": "Barack Obama's administration, 2009-"
+    }
+  ],
+  "links": [
+    {
+      "source": "E",
+      "target": "E151-889"
+    },
+    {
+      "source": "E",
+      "target": "E11-143"
+    },
+    {
+      "source": "E",
+      "target": "E895-904"
+    },
+    {
+      "source": "E",
+      "target": "E902-906"
+    },
+    {
+      "source": "E",
+      "target": "E907-909"
+    },
+    {
+      "source": "E151-889",
+      "target": "E171-183.9"
+    },
+    {
+      "source": "E151-889",
+      "target": "E300-453"
+    },
+    {
+      "source": "E151-889",
+      "target": "E151-169.12"
+    },
+    {
+      "source": "E151-889",
+      "target": "E456-655"
+    },
+    {
+      "source": "E151-889",
+      "target": "E660-738"
+    },
+    {
+      "source": "E151-889",
+      "target": "E201-298"
+    },
+    {
+      "source": "E151-889",
+      "target": "E184-185.98"
+    },
+    {
+      "source": "E151-889",
+      "target": "E838-889"
+    },
+    {
+      "source": "E151-889",
+      "target": "E740-837.7"
+    },
+    {
+      "source": "E151-889",
+      "target": "E186-199"
+    },
+    {
+      "source": "E151-889",
+      "target": "E740-749"
+    },
+    {
+      "source": "E171-183.9",
+      "target": "E171-180"
+    },
+    {
+      "source": "E171-183.9",
+      "target": "E181"
+    },
+    {
+      "source": "E171-183.9",
+      "target": "E182"
+    },
+    {
+      "source": "E171-183.9",
+      "target": "E183.7-183.9"
+    },
+    {
+      "source": "E171-183.9",
+      "target": "E179.5"
+    },
+    {
+      "source": "E171-183.9",
+      "target": "E175-175.7"
+    },
+    {
+      "source": "E171-183.9",
+      "target": "E183-183.3"
+    },
+    {
+      "source": "E183.7-183.9",
+      "target": "E183.8"
+    },
+    {
+      "source": "E300-453",
+      "target": "E441-453"
+    },
+    {
+      "source": "E300-453",
+      "target": "E303-440.5"
+    },
+    {
+      "source": "E300-453",
+      "target": "E300-302.6"
+    },
+    {
+      "source": "E300-453",
+      "target": "E302.1"
+    },
+    {
+      "source": "E300-453",
+      "target": "E302.5-302.6"
+    },
+    {
+      "source": "E300-453",
+      "target": "E302"
+    },
+    {
+      "source": "E303-440.5",
+      "target": "E415.6-440.5"
+    },
+    {
+      "source": "E303-440.5",
+      "target": "E310-337"
+    },
+    {
+      "source": "E303-440.5",
+      "target": "E401-415.2"
+    },
+    {
+      "source": "E303-440.5",
+      "target": "E337.8-400"
+    },
+    {
+      "source": "E303-440.5",
+      "target": "E303-309"
+    },
+    {
+      "source": "E303-440.5",
+      "target": "E337.5"
+    },
+    {
+      "source": "E415.6-440.5",
+      "target": "E415.6-415.9"
+    },
+    {
+      "source": "E415.6-440.5",
+      "target": "E415.8-415.9"
+    },
+    {
+      "source": "E415.6-440.5",
+      "target": "E415.6"
+    },
+    {
+      "source": "E415.6-440.5",
+      "target": "E426-430"
+    },
+    {
+      "source": "E415.6-440.5",
+      "target": "E421-423"
+    },
+    {
+      "source": "E415.6-440.5",
+      "target": "E416-420"
+    },
+    {
+      "source": "E415.6-440.5",
+      "target": "E431-435"
+    },
+    {
+      "source": "E415.6-440.5",
+      "target": "E436-440.5"
+    },
+    {
+      "source": "E421-423",
+      "target": "E423"
+    },
+    {
+      "source": "E431-435",
+      "target": "E433"
+    },
+    {
+      "source": "E436-440.5",
+      "target": "E440.5"
+    },
+    {
+      "source": "E436-440.5",
+      "target": "E438"
+    },
+    {
+      "source": "E310-337",
+      "target": "E311-320"
+    },
+    {
+      "source": "E310-337",
+      "target": "E331-337"
+    },
+    {
+      "source": "E310-337",
+      "target": "E321-330"
+    },
+    {
+      "source": "E310-337",
+      "target": "E310.7"
+    },
+    {
+      "source": "E331-337",
+      "target": "E333"
+    },
+    {
+      "source": "E331-337",
+      "target": "E336-336.5"
+    },
+    {
+      "source": "E331-337",
+      "target": "E335"
+    },
+    {
+      "source": "E321-330",
+      "target": "E323"
+    },
+    {
+      "source": "E401-415.2",
+      "target": "E408"
+    },
+    {
+      "source": "E337.8-400",
+      "target": "E381-385"
+    },
+    {
+      "source": "E337.8-400",
+      "target": "E341-370"
+    },
+    {
+      "source": "E337.8-400",
+      "target": "E337.8-340"
+    },
+    {
+      "source": "E337.8-400",
+      "target": "E371-375"
+    },
+    {
+      "source": "E337.8-400",
+      "target": "E386-390"
+    },
+    {
+      "source": "E337.8-400",
+      "target": "E396-400"
+    },
+    {
+      "source": "E337.8-400",
+      "target": "E391-392"
+    },
+    {
+      "source": "E337.8-400",
+      "target": "E376-380"
+    },
+    {
+      "source": "E381-385",
+      "target": "E384.3"
+    },
+    {
+      "source": "E341-370",
+      "target": "E351.5-364.9"
+    },
+    {
+      "source": "E341-370",
+      "target": "E365"
+    },
+    {
+      "source": "E371-375",
+      "target": "E374"
+    },
+    {
+      "source": "E371-375",
+      "target": "E373"
+    },
+    {
+      "source": "E396-400",
+      "target": "E398"
+    },
+    {
+      "source": "E456-655",
+      "target": "E461-655"
+    },
+    {
+      "source": "E456-655",
+      "target": "E456-459"
+    },
+    {
+      "source": "E461-655",
+      "target": "E491-586"
+    },
+    {
+      "source": "E461-655",
+      "target": "E591-600"
+    },
+    {
+      "source": "E461-655",
+      "target": "E482-489"
+    },
+    {
+      "source": "E660-738",
+      "target": "E711-738"
+    },
+    {
+      "source": "E660-738",
+      "target": "E663-664"
+    },
+    {
+      "source": "E660-738",
+      "target": "E681-685"
+    },
+    {
+      "source": "E660-738",
+      "target": "E691-695"
+    },
+    {
+      "source": "E660-738",
+      "target": "E671-680"
+    },
+    {
+      "source": "E660-738",
+      "target": "E696-700"
+    },
+    {
+      "source": "E660-738",
+      "target": "E701-705"
+    },
+    {
+      "source": "E660-738",
+      "target": "E666-670"
+    },
+    {
+      "source": "E660-738",
+      "target": "E660-664"
+    },
+    {
+      "source": "E660-738",
+      "target": "E660"
+    },
+    {
+      "source": "E660-738",
+      "target": "E706-710"
+    },
+    {
+      "source": "E660-738",
+      "target": "E661.7"
+    },
+    {
+      "source": "E660-738",
+      "target": "E686-687.9"
+    },
+    {
+      "source": "E711-738",
+      "target": "E714-735"
+    },
+    {
+      "source": "E711-738",
+      "target": "E713"
+    },
+    {
+      "source": "E666-670",
+      "target": "E669"
+    },
+    {
+      "source": "E666-670",
+      "target": "E668"
+    },
+    {
+      "source": "E184-185.98",
+      "target": "E184.5-185.98"
+    },
+    {
+      "source": "E184.5-185.98",
+      "target": "E185.96-185.98"
+    },
+    {
+      "source": "E184.5-185.98",
+      "target": "E185.2-185.89"
+    },
+    {
+      "source": "E838-889",
+      "target": "E840.6-840.8"
+    },
+    {
+      "source": "E838-889",
+      "target": "E885-889"
+    },
+    {
+      "source": "E838-889",
+      "target": "E841-843"
+    },
+    {
+      "source": "E838-889",
+      "target": "E840-840.2"
+    },
+    {
+      "source": "E838-889",
+      "target": "E872-875"
+    },
+    {
+      "source": "E838-889",
+      "target": "E846-851"
+    },
+    {
+      "source": "E838-889",
+      "target": "E865-868"
+    },
+    {
+      "source": "E838-889",
+      "target": "E876-880"
+    },
+    {
+      "source": "E838-889",
+      "target": "E855-861"
+    },
+    {
+      "source": "E838-889",
+      "target": "E881-884"
+    },
+    {
+      "source": "E838-889",
+      "target": "E838-840.8"
+    },
+    {
+      "source": "E838-889",
+      "target": "E839.5-839.8"
+    },
+    {
+      "source": "E838-889",
+      "target": "E838.3"
+    },
+    {
+      "source": "E841-843",
+      "target": "E842.9"
+    },
+    {
+      "source": "E876-880",
+      "target": "E877.3"
+    },
+    {
+      "source": "E855-861",
+      "target": "E860-861"
+    },
+    {
+      "source": "E839.5-839.8",
+      "target": "E839.8"
+    },
+    {
+      "source": "E740-837.7",
+      "target": "E740-749"
+    },
+    {
+      "source": "E740-837.7",
+      "target": "E756-760"
+    },
+    {
+      "source": "E740-837.7",
+      "target": "E784-805"
+    },
+    {
+      "source": "E740-837.7",
+      "target": "E761-765"
+    },
+    {
+      "source": "E740-837.7",
+      "target": "E835-837.7"
+    },
+    {
+      "source": "E740-837.7",
+      "target": "E806-812"
+    },
+    {
+      "source": "E740-837.7",
+      "target": "E766-783"
+    },
+    {
+      "source": "E740-837.7",
+      "target": "E813-816"
+    },
+    {
+      "source": "E740-837.7",
+      "target": "E751"
+    },
+    {
+      "source": "E784-805",
+      "target": "E785-786"
+    },
+    {
+      "source": "E784-805",
+      "target": "E791-796"
+    },
+    {
+      "source": "E784-805",
+      "target": "E801-805"
+    },
+    {
+      "source": "E766-783",
+      "target": "E768"
+    },
+    {
+      "source": "E766-783",
+      "target": "E780"
+    },
+    {
+      "source": "E186-199",
+      "target": "E191-199"
+    },
+    {
+      "source": "E186-199",
+      "target": "E186-189"
+    },
+    {
+      "source": "E191-199",
+      "target": "E195-199"
+    },
+    {
+      "source": "E191-199",
+      "target": "E191"
+    },
+    {
+      "source": "E195-199",
+      "target": "E199"
+    },
+    {
+      "source": "E195-199",
+      "target": "E198"
+    },
+    {
+      "source": "E195-199",
+      "target": "E196"
+    },
+    {
+      "source": "E195-199",
+      "target": "E197"
+    },
+    {
+      "source": "E740-749",
+      "target": "E743-743.5"
+    },
+    {
+      "source": "E743-743.5",
+      "target": "E743.5"
+    },
+    {
+      "source": "E11-143",
+      "target": "E75-99"
+    },
+    {
+      "source": "E11-143",
+      "target": "E51-73"
+    },
+    {
+      "source": "E11-143",
+      "target": "E101-135"
+    },
+    {
+      "source": "E11-143",
+      "target": "E31-49.2"
+    },
+    {
+      "source": "E11-143",
+      "target": "E11-29"
+    },
+    {
+      "source": "E11-143",
+      "target": "E141-143"
+    },
+    {
+      "source": "E75-99",
+      "target": "E99"
+    },
+    {
+      "source": "E75-99",
+      "target": "E81-83"
+    },
+    {
+      "source": "E101-135",
+      "target": "E111-120"
+    },
+    {
+      "source": "E101-135",
+      "target": "E121-135"
+    },
+    {
+      "source": "E101-135",
+      "target": "E103-110"
+    }
+  ],
+  "maxCount": 14412
+}

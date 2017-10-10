@@ -1,0 +1,1245 @@
+{
+  "nodes": [
+    {
+      "id": "Q",
+      "size": 0,
+      "subject": "Science"
+    },
+    {
+      "id": "QR",
+      "size": 0,
+      "subject": "Microbiology"
+    },
+    {
+      "id": "QR1-502",
+      "size": 1508,
+      "subject": "Microbiology"
+    },
+    {
+      "id": "QR1-74.5",
+      "size": 3304,
+      "subject": "General"
+    },
+    {
+      "id": "QR180-189.5",
+      "size": 2961,
+      "subject": "Immunology"
+    },
+    {
+      "id": "QR100-130",
+      "size": 1118,
+      "subject": "Microbial ecology"
+    },
+    {
+      "id": "QR355-502",
+      "size": 851,
+      "subject": "Virology"
+    },
+    {
+      "id": "QR75-99.5",
+      "size": 1256,
+      "subject": "Bacteria"
+    },
+    {
+      "id": "QR171",
+      "size": 87,
+      "subject": "Microorganisms in the animal body"
+    },
+    {
+      "id": "QR99.6-99.8",
+      "size": 42,
+      "subject": "Cyanobacteria"
+    },
+    {
+      "id": "QK",
+      "size": 0,
+      "subject": "Botany"
+    },
+    {
+      "id": "QK1-989",
+      "size": 11,
+      "subject": "Botany"
+    },
+    {
+      "id": "QK1-474.5",
+      "size": 17482,
+      "subject": "General"
+    },
+    {
+      "id": "QK710-899",
+      "size": 3641,
+      "subject": "Plant physiology"
+    },
+    {
+      "id": "QK474.8-495",
+      "size": 1302,
+      "subject": "Spermatophyta.    Phanerogams"
+    },
+    {
+      "id": "QK494-494.5",
+      "size": 262,
+      "subject": "Gymnosperms"
+    },
+    {
+      "id": "QK495",
+      "size": 3538,
+      "subject": "Angiosperms"
+    },
+    {
+      "id": "QK504-638",
+      "size": 5095,
+      "subject": "Cryptogams"
+    },
+    {
+      "id": "QK900-989",
+      "size": 2044,
+      "subject": "Plant ecology"
+    },
+    {
+      "id": "QK640-707",
+      "size": 1254,
+      "subject": "Plant anatomy"
+    },
+    {
+      "id": "QL",
+      "size": 0,
+      "subject": "Zoology"
+    },
+    {
+      "id": "QL1-991",
+      "size": 4,
+      "subject": "Zoology"
+    },
+    {
+      "id": "QL750-795",
+      "size": 4179,
+      "subject": "Animal behavior"
+    },
+    {
+      "id": "QL791-795",
+      "size": 1316,
+      "subject": "Stories and anecdotes"
+    },
+    {
+      "id": "QL605-739.8",
+      "size": 413,
+      "subject": "Chordates.    Vertebrates"
+    },
+    {
+      "id": "QL671-699",
+      "size": 13030,
+      "subject": "Birds"
+    },
+    {
+      "id": "QL700-739.8",
+      "size": 13888,
+      "subject": "Mammals"
+    },
+    {
+      "id": "QL640-669.3",
+      "size": 4591,
+      "subject": "Reptiles and amphibians"
+    },
+    {
+      "id": "QL614-639.8",
+      "size": 6003,
+      "subject": "Fishes"
+    },
+    {
+      "id": "QL1-355",
+      "size": 16215,
+      "subject": "General"
+    },
+    {
+      "id": "QL360-599.82",
+      "size": 7816,
+      "subject": "Invertebrates"
+    },
+    {
+      "id": "QL461-599.82",
+      "size": 10648,
+      "subject": "Insects"
+    },
+    {
+      "id": "QL951-991",
+      "size": 893,
+      "subject": "Embryology"
+    },
+    {
+      "id": "QL801-950.9",
+      "size": 1715,
+      "subject": "Anatomy"
+    },
+    {
+      "id": "QL799-799.5",
+      "size": 102,
+      "subject": "Morphology"
+    },
+    {
+      "id": "QB",
+      "size": 0,
+      "subject": "Astronomy"
+    },
+    {
+      "id": "QB1-991",
+      "size": 106,
+      "subject": "Astronomy"
+    },
+    {
+      "id": "QB1-139",
+      "size": 9973,
+      "subject": "General"
+    },
+    {
+      "id": "QB495-903",
+      "size": 963,
+      "subject": "Descriptive astronomy"
+    },
+    {
+      "id": "QB500.5-785",
+      "size": 6101,
+      "subject": "Solar system"
+    },
+    {
+      "id": "QB799-903",
+      "size": 2698,
+      "subject": "Stars"
+    },
+    {
+      "id": "QB275-343",
+      "size": 1674,
+      "subject": "Geodesy"
+    },
+    {
+      "id": "QB980-991",
+      "size": 1360,
+      "subject": "Cosmogony.    Cosmology"
+    },
+    {
+      "id": "QB140-237",
+      "size": 1110,
+      "subject": "Practical and spherical astronomy"
+    },
+    {
+      "id": "QB460-466",
+      "size": 1013,
+      "subject": "Astrophysics"
+    },
+    {
+      "id": "QB468-480",
+      "size": 552,
+      "subject": "Non-optical methods of astronomy"
+    },
+    {
+      "id": "QB349-421",
+      "size": 577,
+      "subject": "Theoretical astronomy and celestial mechanics"
+    },
+    {
+      "id": "QB455-456",
+      "size": 12,
+      "subject": "Astrogeology"
+    },
+    {
+      "id": "QA",
+      "size": 0,
+      "subject": "Mathematics"
+    },
+    {
+      "id": "QA1-939",
+      "size": 3044,
+      "subject": "Mathematics"
+    },
+    {
+      "id": "QA440-699",
+      "size": 10402,
+      "subject": "Geometry.    Trigonometry.    Topology"
+    },
+    {
+      "id": "QA299.6-433",
+      "size": 18661,
+      "subject": "Analysis"
+    },
+    {
+      "id": "QA101-145",
+      "size": 5428,
+      "subject": "Elementary mathematics.    Arithmetic"
+    },
+    {
+      "id": "QA1-43",
+      "size": 20091,
+      "subject": "General"
+    },
+    {
+      "id": "QA150-272.5",
+      "size": 15335,
+      "subject": "Algebra"
+    },
+    {
+      "id": "QA801-939",
+      "size": 4843,
+      "subject": "Analytic mechanics"
+    },
+    {
+      "id": "QA71-90",
+      "size": 493,
+      "subject": "Instruments and machines"
+    },
+    {
+      "id": "QA75-76.95",
+      "size": 322,
+      "subject": "Calculating machines"
+    },
+    {
+      "id": "QA75.5-76.95",
+      "size": 48176,
+      "subject": "Electronic computers.    Computer science"
+    },
+    {
+      "id": "QA76.75-76.765",
+      "size": 13247,
+      "subject": "Computer software"
+    },
+    {
+      "id": "QA273-280",
+      "size": 10253,
+      "subject": "Probabilities.    Mathematical statistics"
+    },
+    {
+      "id": "QA47-59",
+      "size": 470,
+      "subject": "Tables"
+    },
+    {
+      "id": "Q1-390",
+      "size": 1,
+      "subject": "Science (General)"
+    },
+    {
+      "id": "Q1-295",
+      "size": 45396,
+      "subject": "General"
+    },
+    {
+      "id": "Q300-390",
+      "size": 2979,
+      "subject": "Cybernetics"
+    },
+    {
+      "id": "Q350-390",
+      "size": 699,
+      "subject": "Information theory"
+    },
+    {
+      "id": "QP",
+      "size": 0,
+      "subject": "Physiology"
+    },
+    {
+      "id": "QP1-981",
+      "size": 2,
+      "subject": "Physiology"
+    },
+    {
+      "id": "QP1-345",
+      "size": 17031,
+      "subject": "General"
+    },
+    {
+      "id": "QP351-495",
+      "size": 9683,
+      "subject": "Neurophysiology and neuropsychology"
+    },
+    {
+      "id": "QP501-801",
+      "size": 11158,
+      "subject": "Animal biochemistry"
+    },
+    {
+      "id": "QP901-981",
+      "size": 651,
+      "subject": "Experimental pharmacology"
+    },
+    {
+      "id": "QH",
+      "size": 0,
+      "subject": "Biology (General)"
+    },
+    {
+      "id": "QH1-278.5",
+      "size": 0,
+      "subject": "Natural history (General)"
+    },
+    {
+      "id": "QH1-199.5",
+      "size": 28721,
+      "subject": "General"
+    },
+    {
+      "id": "QH201-278.5",
+      "size": 1298,
+      "subject": "Microscopy"
+    },
+    {
+      "id": "QH301-705.5",
+      "size": 9395,
+      "subject": "Biology (General)"
+    },
+    {
+      "id": "QH359-425",
+      "size": 2955,
+      "subject": "Evolution"
+    },
+    {
+      "id": "QH573-671",
+      "size": 4038,
+      "subject": "Cytology"
+    },
+    {
+      "id": "QH540-549.5",
+      "size": 9285,
+      "subject": "Ecology"
+    },
+    {
+      "id": "QH426-470",
+      "size": 5152,
+      "subject": "Genetics"
+    },
+    {
+      "id": "QH501-531",
+      "size": 2180,
+      "subject": "Life"
+    },
+    {
+      "id": "QH471-489",
+      "size": 162,
+      "subject": "Reproduction"
+    },
+    {
+      "id": "QH705-705.5",
+      "size": 33,
+      "subject": "Economic biology"
+    },
+    {
+      "id": "QD",
+      "size": 0,
+      "subject": "Chemistry"
+    },
+    {
+      "id": "QD1-999",
+      "size": 68,
+      "subject": "Chemistry"
+    },
+    {
+      "id": "QD450-801",
+      "size": 10522,
+      "subject": "Physical and theoretical chemistry"
+    },
+    {
+      "id": "QD701-731",
+      "size": 209,
+      "subject": "Photochemistry"
+    },
+    {
+      "id": "QD625-655",
+      "size": 107,
+      "subject": "Radiation chemistry"
+    },
+    {
+      "id": "QD1-65",
+      "size": 9606,
+      "subject": "General"
+    },
+    {
+      "id": "QD146-197",
+      "size": 3090,
+      "subject": "Inorganic chemistry"
+    },
+    {
+      "id": "QD241-441",
+      "size": 8928,
+      "subject": "Organic chemistry"
+    },
+    {
+      "id": "QD415-436",
+      "size": 938,
+      "subject": "Biochemistry"
+    },
+    {
+      "id": "QD901-999",
+      "size": 2170,
+      "subject": "Crystallography"
+    },
+    {
+      "id": "QD71-142",
+      "size": 4782,
+      "subject": "Analytical chemistry"
+    },
+    {
+      "id": "QE",
+      "size": 0,
+      "subject": "Geology"
+    },
+    {
+      "id": "QE1-996.5",
+      "size": 1,
+      "subject": "Geology"
+    },
+    {
+      "id": "QE1-350.62",
+      "size": 30148,
+      "subject": "General"
+    },
+    {
+      "id": "QE420-499",
+      "size": 5294,
+      "subject": "Petrology"
+    },
+    {
+      "id": "QE760.8-899.2",
+      "size": 6707,
+      "subject": "Paleozoology"
+    },
+    {
+      "id": "QE500-639.5",
+      "size": 5967,
+      "subject": "Dynamic and structural geology"
+    },
+    {
+      "id": "QE521-545",
+      "size": 4670,
+      "subject": "Volcanoes and earthquakes"
+    },
+    {
+      "id": "QE601-613.5",
+      "size": 1698,
+      "subject": "Structural geology"
+    },
+    {
+      "id": "QE701-760",
+      "size": 3747,
+      "subject": "Paleontology"
+    },
+    {
+      "id": "QE640-699",
+      "size": 4907,
+      "subject": "Stratigraphy"
+    },
+    {
+      "id": "QE351-399.2",
+      "size": 4708,
+      "subject": "Mineralogy"
+    },
+    {
+      "id": "QE901-996.5",
+      "size": 1394,
+      "subject": "Paleobotany"
+    },
+    {
+      "id": "QC",
+      "size": 0,
+      "subject": "Physics"
+    },
+    {
+      "id": "QC1-999",
+      "size": 54,
+      "subject": "Physics"
+    },
+    {
+      "id": "QC501-766",
+      "size": 0,
+      "subject": "Electricity and magnetism"
+    },
+    {
+      "id": "QC501-721",
+      "size": 7717,
+      "subject": "Electricity"
+    },
+    {
+      "id": "QC750-766",
+      "size": 1588,
+      "subject": "Magnetism"
+    },
+    {
+      "id": "QC701-715.4",
+      "size": 675,
+      "subject": "Electric discharge"
+    },
+    {
+      "id": "QC350-467",
+      "size": 3423,
+      "subject": "Optics.    Light"
+    },
+    {
+      "id": "QC450-467",
+      "size": 1851,
+      "subject": "Spectroscopy"
+    },
+    {
+      "id": "QC1-75",
+      "size": 13124,
+      "subject": "General"
+    },
+    {
+      "id": "QC251-338.5",
+      "size": 1696,
+      "subject": "Heat"
+    },
+    {
+      "id": "QC310.15-319",
+      "size": 836,
+      "subject": "Thermodynamics"
+    },
+    {
+      "id": "QC170-197",
+      "size": 10813,
+      "subject": "Atomic physics.    Constitution and properties of matter"
+    },
+    {
+      "id": "QC851-999",
+      "size": 12816,
+      "subject": "Meteorology.    Climatology"
+    },
+    {
+      "id": "QC980-999",
+      "size": 6650,
+      "subject": "Climatology and weather"
+    },
+    {
+      "id": "QC994.95-999",
+      "size": 557,
+      "subject": "Weather forecasting"
+    },
+    {
+      "id": "QC974.5-976",
+      "size": 310,
+      "subject": "Meteorological optics"
+    },
+    {
+      "id": "QC221-246",
+      "size": 1124,
+      "subject": "Acoustics.    Sound"
+    },
+    {
+      "id": "QC120-168.85",
+      "size": 1951,
+      "subject": "Descriptive and experimental mechanics"
+    },
+    {
+      "id": "QC474-496.9",
+      "size": 2201,
+      "subject": "Radiation physics (General)"
+    },
+    {
+      "id": "QC770-798",
+      "size": 5461,
+      "subject": "Atomic  energy."
+    },
+    {
+      "id": "QC793-793.5",
+      "size": 2942,
+      "subject": "Elementary particle physics"
+    },
+    {
+      "id": "QC794.95-798",
+      "size": 552,
+      "subject": "Radioactivity and radioactive substances"
+    },
+    {
+      "id": "QC801-809",
+      "size": 2037,
+      "subject": "Geophysics.    Cosmic physics"
+    },
+    {
+      "id": "QC81-114",
+      "size": 3651,
+      "subject": "Weights and measures"
+    },
+    {
+      "id": "QC811-849",
+      "size": 795,
+      "subject": "Geomagnetism"
+    },
+    {
+      "id": "QM",
+      "size": 0,
+      "subject": "Human anatomy"
+    },
+    {
+      "id": "QM1-695",
+      "size": 0,
+      "subject": "Human anatomy"
+    },
+    {
+      "id": "QM1-511",
+      "size": 3535,
+      "subject": "General"
+    },
+    {
+      "id": "QM601-695",
+      "size": 564,
+      "subject": "Human embryology"
+    },
+    {
+      "id": "QM550-577.8",
+      "size": 684,
+      "subject": "Human and comparative histology"
+    },
+    {
+      "id": "QM531-549",
+      "size": 471,
+      "subject": "Regional anatomy"
+    }
+  ],
+  "links": [
+    {
+      "source": "Q",
+      "target": "QR"
+    },
+    {
+      "source": "QR",
+      "target": "QR1-502"
+    },
+    {
+      "source": "QR1-502",
+      "target": "QR1-74.5"
+    },
+    {
+      "source": "QR1-502",
+      "target": "QR180-189.5"
+    },
+    {
+      "source": "QR1-502",
+      "target": "QR100-130"
+    },
+    {
+      "source": "QR1-502",
+      "target": "QR355-502"
+    },
+    {
+      "source": "QR1-502",
+      "target": "QR75-99.5"
+    },
+    {
+      "source": "QR1-502",
+      "target": "QR171"
+    },
+    {
+      "source": "QR1-502",
+      "target": "QR99.6-99.8"
+    },
+    {
+      "source": "Q",
+      "target": "QK"
+    },
+    {
+      "source": "QK",
+      "target": "QK1-989"
+    },
+    {
+      "source": "QK1-989",
+      "target": "QK1-474.5"
+    },
+    {
+      "source": "QK1-989",
+      "target": "QK710-899"
+    },
+    {
+      "source": "QK1-989",
+      "target": "QK474.8-495"
+    },
+    {
+      "source": "QK1-989",
+      "target": "QK504-638"
+    },
+    {
+      "source": "QK1-989",
+      "target": "QK900-989"
+    },
+    {
+      "source": "QK1-989",
+      "target": "QK640-707"
+    },
+    {
+      "source": "QK474.8-495",
+      "target": "QK494-494.5"
+    },
+    {
+      "source": "QK474.8-495",
+      "target": "QK495"
+    },
+    {
+      "source": "Q",
+      "target": "QL"
+    },
+    {
+      "source": "QL",
+      "target": "QL1-991"
+    },
+    {
+      "source": "QL1-991",
+      "target": "QL750-795"
+    },
+    {
+      "source": "QL1-991",
+      "target": "QL605-739.8"
+    },
+    {
+      "source": "QL1-991",
+      "target": "QL1-355"
+    },
+    {
+      "source": "QL1-991",
+      "target": "QL360-599.82"
+    },
+    {
+      "source": "QL1-991",
+      "target": "QL951-991"
+    },
+    {
+      "source": "QL1-991",
+      "target": "QL801-950.9"
+    },
+    {
+      "source": "QL1-991",
+      "target": "QL799-799.5"
+    },
+    {
+      "source": "QL750-795",
+      "target": "QL791-795"
+    },
+    {
+      "source": "QL605-739.8",
+      "target": "QL671-699"
+    },
+    {
+      "source": "QL605-739.8",
+      "target": "QL700-739.8"
+    },
+    {
+      "source": "QL605-739.8",
+      "target": "QL640-669.3"
+    },
+    {
+      "source": "QL605-739.8",
+      "target": "QL614-639.8"
+    },
+    {
+      "source": "QL360-599.82",
+      "target": "QL461-599.82"
+    },
+    {
+      "source": "Q",
+      "target": "QB"
+    },
+    {
+      "source": "QB",
+      "target": "QB1-991"
+    },
+    {
+      "source": "QB1-991",
+      "target": "QB1-139"
+    },
+    {
+      "source": "QB1-991",
+      "target": "QB495-903"
+    },
+    {
+      "source": "QB1-991",
+      "target": "QB275-343"
+    },
+    {
+      "source": "QB1-991",
+      "target": "QB980-991"
+    },
+    {
+      "source": "QB1-991",
+      "target": "QB140-237"
+    },
+    {
+      "source": "QB1-991",
+      "target": "QB460-466"
+    },
+    {
+      "source": "QB1-991",
+      "target": "QB468-480"
+    },
+    {
+      "source": "QB1-991",
+      "target": "QB349-421"
+    },
+    {
+      "source": "QB1-991",
+      "target": "QB455-456"
+    },
+    {
+      "source": "QB495-903",
+      "target": "QB500.5-785"
+    },
+    {
+      "source": "QB495-903",
+      "target": "QB799-903"
+    },
+    {
+      "source": "Q",
+      "target": "QA"
+    },
+    {
+      "source": "QA",
+      "target": "QA1-939"
+    },
+    {
+      "source": "QA1-939",
+      "target": "QA440-699"
+    },
+    {
+      "source": "QA1-939",
+      "target": "QA299.6-433"
+    },
+    {
+      "source": "QA1-939",
+      "target": "QA101-145"
+    },
+    {
+      "source": "QA1-939",
+      "target": "QA1-43"
+    },
+    {
+      "source": "QA1-939",
+      "target": "QA150-272.5"
+    },
+    {
+      "source": "QA1-939",
+      "target": "QA801-939"
+    },
+    {
+      "source": "QA1-939",
+      "target": "QA71-90"
+    },
+    {
+      "source": "QA1-939",
+      "target": "QA273-280"
+    },
+    {
+      "source": "QA1-939",
+      "target": "QA47-59"
+    },
+    {
+      "source": "QA71-90",
+      "target": "QA75-76.95"
+    },
+    {
+      "source": "QA75-76.95",
+      "target": "QA75.5-76.95"
+    },
+    {
+      "source": "QA75.5-76.95",
+      "target": "QA76.75-76.765"
+    },
+    {
+      "source": "Q",
+      "target": "Q1-390"
+    },
+    {
+      "source": "Q1-390",
+      "target": "Q1-295"
+    },
+    {
+      "source": "Q1-390",
+      "target": "Q300-390"
+    },
+    {
+      "source": "Q300-390",
+      "target": "Q350-390"
+    },
+    {
+      "source": "Q",
+      "target": "QP"
+    },
+    {
+      "source": "QP",
+      "target": "QP1-981"
+    },
+    {
+      "source": "QP1-981",
+      "target": "QP1-345"
+    },
+    {
+      "source": "QP1-981",
+      "target": "QP351-495"
+    },
+    {
+      "source": "QP1-981",
+      "target": "QP501-801"
+    },
+    {
+      "source": "QP1-981",
+      "target": "QP901-981"
+    },
+    {
+      "source": "Q",
+      "target": "QH"
+    },
+    {
+      "source": "QH",
+      "target": "QH1-278.5"
+    },
+    {
+      "source": "QH",
+      "target": "QH301-705.5"
+    },
+    {
+      "source": "QH1-278.5",
+      "target": "QH1-199.5"
+    },
+    {
+      "source": "QH1-278.5",
+      "target": "QH201-278.5"
+    },
+    {
+      "source": "QH301-705.5",
+      "target": "QH359-425"
+    },
+    {
+      "source": "QH301-705.5",
+      "target": "QH573-671"
+    },
+    {
+      "source": "QH301-705.5",
+      "target": "QH540-549.5"
+    },
+    {
+      "source": "QH301-705.5",
+      "target": "QH426-470"
+    },
+    {
+      "source": "QH301-705.5",
+      "target": "QH501-531"
+    },
+    {
+      "source": "QH301-705.5",
+      "target": "QH471-489"
+    },
+    {
+      "source": "QH301-705.5",
+      "target": "QH705-705.5"
+    },
+    {
+      "source": "Q",
+      "target": "QD"
+    },
+    {
+      "source": "QD",
+      "target": "QD1-999"
+    },
+    {
+      "source": "QD1-999",
+      "target": "QD450-801"
+    },
+    {
+      "source": "QD1-999",
+      "target": "QD1-65"
+    },
+    {
+      "source": "QD1-999",
+      "target": "QD146-197"
+    },
+    {
+      "source": "QD1-999",
+      "target": "QD241-441"
+    },
+    {
+      "source": "QD1-999",
+      "target": "QD901-999"
+    },
+    {
+      "source": "QD1-999",
+      "target": "QD71-142"
+    },
+    {
+      "source": "QD450-801",
+      "target": "QD701-731"
+    },
+    {
+      "source": "QD450-801",
+      "target": "QD625-655"
+    },
+    {
+      "source": "QD241-441",
+      "target": "QD415-436"
+    },
+    {
+      "source": "Q",
+      "target": "QE"
+    },
+    {
+      "source": "QE",
+      "target": "QE1-996.5"
+    },
+    {
+      "source": "QE1-996.5",
+      "target": "QE1-350.62"
+    },
+    {
+      "source": "QE1-996.5",
+      "target": "QE420-499"
+    },
+    {
+      "source": "QE1-996.5",
+      "target": "QE760.8-899.2"
+    },
+    {
+      "source": "QE1-996.5",
+      "target": "QE500-639.5"
+    },
+    {
+      "source": "QE1-996.5",
+      "target": "QE701-760"
+    },
+    {
+      "source": "QE1-996.5",
+      "target": "QE640-699"
+    },
+    {
+      "source": "QE1-996.5",
+      "target": "QE351-399.2"
+    },
+    {
+      "source": "QE1-996.5",
+      "target": "QE901-996.5"
+    },
+    {
+      "source": "QE500-639.5",
+      "target": "QE521-545"
+    },
+    {
+      "source": "QE500-639.5",
+      "target": "QE601-613.5"
+    },
+    {
+      "source": "Q",
+      "target": "QC"
+    },
+    {
+      "source": "QC",
+      "target": "QC1-999"
+    },
+    {
+      "source": "QC1-999",
+      "target": "QC501-766"
+    },
+    {
+      "source": "QC1-999",
+      "target": "QC350-467"
+    },
+    {
+      "source": "QC1-999",
+      "target": "QC1-75"
+    },
+    {
+      "source": "QC1-999",
+      "target": "QC251-338.5"
+    },
+    {
+      "source": "QC1-999",
+      "target": "QC170-197"
+    },
+    {
+      "source": "QC1-999",
+      "target": "QC851-999"
+    },
+    {
+      "source": "QC1-999",
+      "target": "QC221-246"
+    },
+    {
+      "source": "QC1-999",
+      "target": "QC120-168.85"
+    },
+    {
+      "source": "QC1-999",
+      "target": "QC474-496.9"
+    },
+    {
+      "source": "QC1-999",
+      "target": "QC770-798"
+    },
+    {
+      "source": "QC1-999",
+      "target": "QC801-809"
+    },
+    {
+      "source": "QC1-999",
+      "target": "QC81-114"
+    },
+    {
+      "source": "QC1-999",
+      "target": "QC811-849"
+    },
+    {
+      "source": "QC501-766",
+      "target": "QC501-721"
+    },
+    {
+      "source": "QC501-766",
+      "target": "QC750-766"
+    },
+    {
+      "source": "QC501-766",
+      "target": "QC701-715.4"
+    },
+    {
+      "source": "QC350-467",
+      "target": "QC450-467"
+    },
+    {
+      "source": "QC251-338.5",
+      "target": "QC310.15-319"
+    },
+    {
+      "source": "QC851-999",
+      "target": "QC980-999"
+    },
+    {
+      "source": "QC851-999",
+      "target": "QC974.5-976"
+    },
+    {
+      "source": "QC980-999",
+      "target": "QC994.95-999"
+    },
+    {
+      "source": "QC770-798",
+      "target": "QC793-793.5"
+    },
+    {
+      "source": "QC770-798",
+      "target": "QC794.95-798"
+    },
+    {
+      "source": "Q",
+      "target": "QM"
+    },
+    {
+      "source": "QM",
+      "target": "QM1-695"
+    },
+    {
+      "source": "QM1-695",
+      "target": "QM1-511"
+    },
+    {
+      "source": "QM1-695",
+      "target": "QM601-695"
+    },
+    {
+      "source": "QM1-695",
+      "target": "QM550-577.8"
+    },
+    {
+      "source": "QM1-695",
+      "target": "QM531-549"
+    }
+  ],
+  "maxCount": 48176
+}

@@ -1,0 +1,2208 @@
+{
+  "nodes": [
+    {
+      "id": "T",
+      "size": 0,
+      "subject": "Technology"
+    },
+    {
+      "id": "TN",
+      "size": 0,
+      "subject": "Mining engineering.    Metallurgy"
+    },
+    {
+      "id": "TN1-997",
+      "size": 10685,
+      "subject": "Mining engineering.    Metallurgy"
+    },
+    {
+      "id": "TN799.5-948",
+      "size": 11082,
+      "subject": "Nonmetallic minerals"
+    },
+    {
+      "id": "TN400-580",
+      "size": 3347,
+      "subject": "Ore deposits and mining of particular metals"
+    },
+    {
+      "id": "TN263-271",
+      "size": 2435,
+      "subject": "Mineral deposits.    Metallic ore deposits."
+    },
+    {
+      "id": "TN950-997",
+      "size": 584,
+      "subject": "Building and ornamental stones"
+    },
+    {
+      "id": "TN600-799",
+      "size": 6308,
+      "subject": "Metallurgy"
+    },
+    {
+      "id": "TN275-325",
+      "size": 3390,
+      "subject": "Practical mining operations.    Safety measures"
+    },
+    {
+      "id": "TN331-347",
+      "size": 497,
+      "subject": "Mine transportation, haulage and hoisting."
+    },
+    {
+      "id": "TR",
+      "size": 0,
+      "subject": "Photography"
+    },
+    {
+      "id": "TR1-1050",
+      "size": 7212,
+      "subject": "Photography"
+    },
+    {
+      "id": "TR510-545",
+      "size": 287,
+      "subject": "Color photography"
+    },
+    {
+      "id": "TR287-500",
+      "size": 923,
+      "subject": "Photographic processing.    Darkroom technique"
+    },
+    {
+      "id": "TR624-835",
+      "size": 18031,
+      "subject": "Applied photography"
+    },
+    {
+      "id": "TR845-899",
+      "size": 3244,
+      "subject": "Cinematography.    Motion pictures"
+    },
+    {
+      "id": "TR590-620",
+      "size": 492,
+      "subject": "Lighting"
+    },
+    {
+      "id": "TR550-581",
+      "size": 401,
+      "subject": "Studio and laboratory"
+    },
+    {
+      "id": "TR250-265",
+      "size": 869,
+      "subject": "Cameras"
+    },
+    {
+      "id": "TR925-1050",
+      "size": 342,
+      "subject": "Photomechanical processes"
+    },
+    {
+      "id": "TR504-508",
+      "size": 102,
+      "subject": "Transparencies.    Diapositives"
+    },
+    {
+      "id": "TC",
+      "size": 0,
+      "subject": "Hydraulic engineering"
+    },
+    {
+      "id": "TC1-978",
+      "size": 2097,
+      "subject": "Hydraulic engineering"
+    },
+    {
+      "id": "TC160-181",
+      "size": 1540,
+      "subject": "Technical hydraulics"
+    },
+    {
+      "id": "TC401-506",
+      "size": 3589,
+      "subject": "River, lake, and water-supply engineering"
+    },
+    {
+      "id": "TC601-791",
+      "size": 705,
+      "subject": "Canals and inland navigation.    Waterways"
+    },
+    {
+      "id": "TC540-558",
+      "size": 1196,
+      "subject": "Dams.    Barrages"
+    },
+    {
+      "id": "TC530-537",
+      "size": 184,
+      "subject": "River protective works.    Regulation."
+    },
+    {
+      "id": "TC183-201",
+      "size": 150,
+      "subject": "General preliminary operations.    Dredging."
+    },
+    {
+      "id": "TC203-380",
+      "size": 1150,
+      "subject": "Harbors and coast protective works.    Coastal"
+    },
+    {
+      "id": "TC801-978",
+      "size": 1938,
+      "subject": "Irrigation engineering.    Reclamation of"
+    },
+    {
+      "id": "TC1501-1800",
+      "size": 480,
+      "subject": "Ocean engineering"
+    },
+    {
+      "id": "TD",
+      "size": 0,
+      "subject": "Environmental technology.    Sanitary engineering"
+    },
+    {
+      "id": "TD1-1066",
+      "size": 2626,
+      "subject": "Environmental technology.    Sanitary engineering"
+    },
+    {
+      "id": "TD895-899",
+      "size": 14,
+      "subject": "Industrial and factory sanitation"
+    },
+    {
+      "id": "TD896-899",
+      "size": 2520,
+      "subject": "Industrial and factory wastes"
+    },
+    {
+      "id": "TD201-500",
+      "size": 12359,
+      "subject": "Water supply for domestic and industrial purposes"
+    },
+    {
+      "id": "TD429.5-480.7",
+      "size": 1603,
+      "subject": "Water purification.    Water treatment and"
+    },
+    {
+      "id": "TD419-428",
+      "size": 2928,
+      "subject": "Water pollution"
+    },
+    {
+      "id": "TD481-493",
+      "size": 411,
+      "subject": "Water distribution systems"
+    },
+    {
+      "id": "TD511-780",
+      "size": 2972,
+      "subject": "Sewage collection and disposal systems."
+    },
+    {
+      "id": "TD1020-1066",
+      "size": 1054,
+      "subject": "Hazardous substances and their disposal"
+    },
+    {
+      "id": "TD172-193.5",
+      "size": 2424,
+      "subject": "Environmental pollution"
+    },
+    {
+      "id": "TD783-812.5",
+      "size": 3262,
+      "subject": "Municipal refuse.    Solid wastes"
+    },
+    {
+      "id": "TD194-195",
+      "size": 3729,
+      "subject": "Environmental effects of industries and plants"
+    },
+    {
+      "id": "TD169-171.8",
+      "size": 3020,
+      "subject": "Environmental protection"
+    },
+    {
+      "id": "TD878-894",
+      "size": 6023,
+      "subject": "Special types of environment"
+    },
+    {
+      "id": "TD813-870",
+      "size": 115,
+      "subject": "Street cleaning.    Litter and its removal"
+    },
+    {
+      "id": "TD920-934",
+      "size": 281,
+      "subject": "Rural and farm sanitary engineering"
+    },
+    {
+      "id": "TD159-168",
+      "size": 119,
+      "subject": "Municipal engineering"
+    },
+    {
+      "id": "TD940-949",
+      "size": 7,
+      "subject": "Low temperature sanitary engineering"
+    },
+    {
+      "id": "TX",
+      "size": 0,
+      "subject": "Home economics"
+    },
+    {
+      "id": "TX1-1110",
+      "size": 2753,
+      "subject": "Home economics"
+    },
+    {
+      "id": "TX301-339",
+      "size": 2253,
+      "subject": "The house"
+    },
+    {
+      "id": "TX901-946.5",
+      "size": 7409,
+      "subject": "Hospitality industry.    Hotels, clubs,"
+    },
+    {
+      "id": "TX642-840",
+      "size": 44665,
+      "subject": "Cooking"
+    },
+    {
+      "id": "TX341-641",
+      "size": 10926,
+      "subject": "Nutrition.    Foods and food supply"
+    },
+    {
+      "id": "TX950-953",
+      "size": 953,
+      "subject": "Taverns, barrooms, saloons"
+    },
+    {
+      "id": "TX851-885",
+      "size": 249,
+      "subject": "Dining-room service"
+    },
+    {
+      "id": "TX1110",
+      "size": 37,
+      "subject": "ERROR, could not find"
+    },
+    {
+      "id": "TX955-985",
+      "size": 153,
+      "subject": "Building operation and housekeeping"
+    },
+    {
+      "id": "TX1100-1105",
+      "size": 35,
+      "subject": "Mobile home living"
+    },
+    {
+      "id": "TP",
+      "size": 0,
+      "subject": "Chemical technology"
+    },
+    {
+      "id": "TP1-1185",
+      "size": 5395,
+      "subject": "Chemical technology"
+    },
+    {
+      "id": "TP934-945",
+      "size": 580,
+      "subject": "Paints, pigments, varnishes, etc."
+    },
+    {
+      "id": "TP480-498",
+      "size": 821,
+      "subject": "Low temperature engineering.    Cryogenic"
+    },
+    {
+      "id": "TP670-699",
+      "size": 542,
+      "subject": "Oils, fats, and waxes"
+    },
+    {
+      "id": "TP690-692.5",
+      "size": 1318,
+      "subject": "Petroleum refining.    Petroleum products"
+    },
+    {
+      "id": "TP315-360",
+      "size": 3332,
+      "subject": "Fuel"
+    },
+    {
+      "id": "TP1080-1185",
+      "size": 2141,
+      "subject": "Polymers and polymer manufacture"
+    },
+    {
+      "id": "TP785-869",
+      "size": 2388,
+      "subject": "Clay industries.    Ceramics.    Glass"
+    },
+    {
+      "id": "TP248.13-248.65",
+      "size": 2437,
+      "subject": "Biotechnology"
+    },
+    {
+      "id": "TP155-156",
+      "size": 2892,
+      "subject": "Chemical engineering"
+    },
+    {
+      "id": "TP368-456",
+      "size": 2704,
+      "subject": "Food processing and manufacture"
+    },
+    {
+      "id": "TP500-660",
+      "size": 5203,
+      "subject": "Fermentation industries.    Beverages.    Alcohol"
+    },
+    {
+      "id": "TP890-933",
+      "size": 786,
+      "subject": "Textile bleaching, dyeing, printing, etc."
+    },
+    {
+      "id": "TP200-248",
+      "size": 1711,
+      "subject": "Chemicals: Manufacture, use, etc."
+    },
+    {
+      "id": "TP267.5-301",
+      "size": 439,
+      "subject": "Explosives and pyrotechnics"
+    },
+    {
+      "id": "TP875-888",
+      "size": 553,
+      "subject": "Cement industries"
+    },
+    {
+      "id": "TP751-762",
+      "size": 667,
+      "subject": "Gas industry"
+    },
+    {
+      "id": "TP700-746",
+      "size": 289,
+      "subject": "Illuminating industries (Nonelectric)"
+    },
+    {
+      "id": "TP250-261",
+      "size": 132,
+      "subject": "Industrial electrochemistry"
+    },
+    {
+      "id": "TK",
+      "size": 0,
+      "subject": "Electrical engineering.    Electronics.    Nuclear"
+    },
+    {
+      "id": "TK1-9971",
+      "size": 5907,
+      "subject": "Electrical engineering.    Electronics.    Nuclear"
+    },
+    {
+      "id": "TK5101-6720",
+      "size": 26528,
+      "subject": "Telecommunication"
+    },
+    {
+      "id": "TK7800-8360",
+      "size": 19123,
+      "subject": "Electronics"
+    },
+    {
+      "id": "TK7885-7895",
+      "size": 3624,
+      "subject": "Computer engineering.    Computer hardware"
+    },
+    {
+      "id": "TK8300-8360",
+      "size": 525,
+      "subject": "Photoelectronic devices (General)"
+    },
+    {
+      "id": "TK9001-9401",
+      "size": 4740,
+      "subject": "Nuclear engineering.    Atomic power"
+    },
+    {
+      "id": "TK1001-1841",
+      "size": 4707,
+      "subject": "Production of electric energy or power."
+    },
+    {
+      "id": "TK4125-4399",
+      "size": 561,
+      "subject": "Electric lighting"
+    },
+    {
+      "id": "TK2000-2891",
+      "size": 2349,
+      "subject": "Dynamoelectric machinery and auxiliaries"
+    },
+    {
+      "id": "TK452-454.4",
+      "size": 1184,
+      "subject": "Electric apparatus and materials.    Electric"
+    },
+    {
+      "id": "TK4001-4102",
+      "size": 581,
+      "subject": "Applications of electric power"
+    },
+    {
+      "id": "TK3001-3521",
+      "size": 2498,
+      "subject": "Distribution or transmission of electric power"
+    },
+    {
+      "id": "TK2896-2985",
+      "size": 1006,
+      "subject": "Production of electricity by direct energy"
+    },
+    {
+      "id": "TK4601-4661",
+      "size": 581,
+      "subject": "Electric heating"
+    },
+    {
+      "id": "TK9900-9971",
+      "size": 1204,
+      "subject": "Electricity for amateurs.    Amateur"
+    },
+    {
+      "id": "TK301-399",
+      "size": 261,
+      "subject": "Electric meters"
+    },
+    {
+      "id": "TA",
+      "size": 0,
+      "subject": "Engineering (General).    Civil engineering (General)"
+    },
+    {
+      "id": "TA1-2040",
+      "size": 8560,
+      "subject": "Engineering (General).    Civil engineering (General)"
+    },
+    {
+      "id": "TA501-625",
+      "size": 2000,
+      "subject": "Surveying"
+    },
+    {
+      "id": "TA401-492",
+      "size": 17483,
+      "subject": "Materials of engineering and construction."
+    },
+    {
+      "id": "TA166-167",
+      "size": 600,
+      "subject": "Human engineering"
+    },
+    {
+      "id": "TA715-787",
+      "size": 1374,
+      "subject": "Earthwork.    Foundations"
+    },
+    {
+      "id": "TA165",
+      "size": 525,
+      "subject": "Engineering instruments, meters, etc."
+    },
+    {
+      "id": "TA1501-1820",
+      "size": 6090,
+      "subject": "Applied optics.    Photonics"
+    },
+    {
+      "id": "TA168",
+      "size": 587,
+      "subject": "Systems engineering"
+    },
+    {
+      "id": "TA630-695",
+      "size": 7251,
+      "subject": "Structural engineering (General)"
+    },
+    {
+      "id": "TA329-348",
+      "size": 2161,
+      "subject": "Engineering mathematics.    Engineering analysis"
+    },
+    {
+      "id": "TA1001-1280",
+      "size": 1014,
+      "subject": "Transportation engineering"
+    },
+    {
+      "id": "TA703-712",
+      "size": 2841,
+      "subject": "Engineering geology.    Rock mechanics.    Soil"
+    },
+    {
+      "id": "TA349-359",
+      "size": 3623,
+      "subject": "Mechanics of engineering.    Applied mechanics"
+    },
+    {
+      "id": "TA800-820",
+      "size": 339,
+      "subject": "Tunneling.    Tunnels"
+    },
+    {
+      "id": "TA174",
+      "size": 993,
+      "subject": "Engineering design"
+    },
+    {
+      "id": "TA177.4-185",
+      "size": 358,
+      "subject": "Engineering economy"
+    },
+    {
+      "id": "TA190-194",
+      "size": 372,
+      "subject": "Management of engineering works"
+    },
+    {
+      "id": "TA2001-2040",
+      "size": 93,
+      "subject": "Plasma engineering"
+    },
+    {
+      "id": "TA170-171",
+      "size": 188,
+      "subject": "Environmental engineering"
+    },
+    {
+      "id": "TA365-367",
+      "size": 236,
+      "subject": "Acoustics in engineering.    Acoustical"
+    },
+    {
+      "id": "TA213-215",
+      "size": 30,
+      "subject": "Engineering machinery, tools, and implements"
+    },
+    {
+      "id": "TA197-198",
+      "size": 15,
+      "subject": "Engineering meteorology"
+    },
+    {
+      "id": "TA164",
+      "size": 95,
+      "subject": "Bioengineering"
+    },
+    {
+      "id": "TA495",
+      "size": 15,
+      "subject": "Disasters and engineering"
+    },
+    {
+      "id": "TS",
+      "size": 0,
+      "subject": "Manufactures"
+    },
+    {
+      "id": "TS1-2301",
+      "size": 1749,
+      "subject": "Manufactures"
+    },
+    {
+      "id": "TS1950-1982",
+      "size": 468,
+      "subject": "Animal products"
+    },
+    {
+      "id": "TS1870-1935",
+      "size": 654,
+      "subject": "Rubber industry"
+    },
+    {
+      "id": "TS1300-1865",
+      "size": 3753,
+      "subject": "Textile industries"
+    },
+    {
+      "id": "TS200-770",
+      "size": 10802,
+      "subject": "Metal manufactures.    Metalworking"
+    },
+    {
+      "id": "TS1080-1268",
+      "size": 2302,
+      "subject": "Paper manufacture and trade"
+    },
+    {
+      "id": "TS155-194",
+      "size": 10051,
+      "subject": "Production management.    Operations"
+    },
+    {
+      "id": "TS195-198.8",
+      "size": 431,
+      "subject": "Packaging"
+    },
+    {
+      "id": "TS2220-2283",
+      "size": 231,
+      "subject": "Tobacco industry"
+    },
+    {
+      "id": "TS800-937",
+      "size": 764,
+      "subject": "Wood technology.    Lumber"
+    },
+    {
+      "id": "TS840-915",
+      "size": 880,
+      "subject": "Wood products.    Furniture"
+    },
+    {
+      "id": "TS920-937",
+      "size": 113,
+      "subject": "Chemical processing of wood"
+    },
+    {
+      "id": "TS940-1047",
+      "size": 558,
+      "subject": "Leather industries.    Tanning"
+    },
+    {
+      "id": "TS2120-2159",
+      "size": 297,
+      "subject": "Cereals and grain.    Milling industry"
+    },
+    {
+      "id": "TS1060-1070",
+      "size": 36,
+      "subject": "Furs"
+    },
+    {
+      "id": "TS780-788",
+      "size": 4,
+      "subject": "Stonework"
+    },
+    {
+      "id": "TS2284-2288",
+      "size": 5,
+      "subject": "Animal feeds and feed mills.    Pet food industry"
+    },
+    {
+      "id": "TJ",
+      "size": 0,
+      "subject": "Mechanical engineering and machinery"
+    },
+    {
+      "id": "TJ1-1570",
+      "size": 4404,
+      "subject": "Mechanical engineering and machinery"
+    },
+    {
+      "id": "TJ1040-1119",
+      "size": 1248,
+      "subject": "Machinery exclusive of prime movers"
+    },
+    {
+      "id": "TJ212-225",
+      "size": 3622,
+      "subject": "Control engineering systems.    Automatic"
+    },
+    {
+      "id": "TJ268-740",
+      "size": 1761,
+      "subject": "Steam engineering"
+    },
+    {
+      "id": "TJ603-695",
+      "size": 2032,
+      "subject": "Locomotives"
+    },
+    {
+      "id": "TJ751-805",
+      "size": 1596,
+      "subject": "Miscellaneous motors and engines"
+    },
+    {
+      "id": "TJ1125-1345",
+      "size": 3806,
+      "subject": "Machine shops and machine shop practice"
+    },
+    {
+      "id": "TJ181-210",
+      "size": 732,
+      "subject": "Mechanical movements"
+    },
+    {
+      "id": "TJ163.13-163.25",
+      "size": 2897,
+      "subject": "Power resources"
+    },
+    {
+      "id": "TJ1350-1418",
+      "size": 490,
+      "subject": "Hoisting and conveying machinery"
+    },
+    {
+      "id": "TJ210.2-211.47",
+      "size": 1582,
+      "subject": "Mechanical devices and figures.    Automata."
+    },
+    {
+      "id": "TJ227-240",
+      "size": 473,
+      "subject": "Machine design and drawing"
+    },
+    {
+      "id": "TJ266-267.5",
+      "size": 325,
+      "subject": "Turbines.    Turbomachines (General)"
+    },
+    {
+      "id": "TJ170-179",
+      "size": 526,
+      "subject": "Mechanics applied to machinery.    Dynamics"
+    },
+    {
+      "id": "TJ836-927",
+      "size": 1435,
+      "subject": "Hydraulic machinery"
+    },
+    {
+      "id": "TJ255-265",
+      "size": 1850,
+      "subject": "Heat engines"
+    },
+    {
+      "id": "TJ807-830",
+      "size": 2672,
+      "subject": "Renewable energy sources"
+    },
+    {
+      "id": "TJ163.26-163.5",
+      "size": 1908,
+      "subject": "Energy conservation"
+    },
+    {
+      "id": "TJ241-254.7",
+      "size": 641,
+      "subject": "Machine construction (General)"
+    },
+    {
+      "id": "TJ950-1030",
+      "size": 359,
+      "subject": "Pneumatic machinery"
+    },
+    {
+      "id": "TJ1480-1496",
+      "size": 93,
+      "subject": "Agricultural machinery.    Farm machinery"
+    },
+    {
+      "id": "TJ1501-1519",
+      "size": 49,
+      "subject": "Sewing machines"
+    },
+    {
+      "id": "TJ940-940.5",
+      "size": 129,
+      "subject": "Vacuum technology"
+    },
+    {
+      "id": "TJ1425-1475",
+      "size": 44,
+      "subject": "Lifting and pressing machinery"
+    },
+    {
+      "id": "TT",
+      "size": 0,
+      "subject": "Handicrafts.    Arts and crafts"
+    },
+    {
+      "id": "TT1-999",
+      "size": 4745,
+      "subject": "Handicrafts.    Arts and crafts"
+    },
+    {
+      "id": "TT980-999",
+      "size": 113,
+      "subject": "Laundry work"
+    },
+    {
+      "id": "TT490-695",
+      "size": 4812,
+      "subject": "Clothing manufacture.    Dressmaking.    Tailoring"
+    },
+    {
+      "id": "TT697-927",
+      "size": 15646,
+      "subject": "Home arts.    Homecrafts"
+    },
+    {
+      "id": "TT205-267",
+      "size": 1090,
+      "subject": "Metalworking"
+    },
+    {
+      "id": "TT174-176",
+      "size": 1062,
+      "subject": "Articles for children"
+    },
+    {
+      "id": "TT950-979",
+      "size": 795,
+      "subject": "Hairdressing.    Beauty culture.    Barbers' work"
+    },
+    {
+      "id": "TT180-200",
+      "size": 3300,
+      "subject": "Woodworking.    Furniture making.    Upholstering"
+    },
+    {
+      "id": "TT387-410",
+      "size": 297,
+      "subject": "Soft home furnishings"
+    },
+    {
+      "id": "TT300-382.8",
+      "size": 748,
+      "subject": "Painting.    Wood finishing"
+    },
+    {
+      "id": "TT201-203",
+      "size": 230,
+      "subject": "Lathework.    Turning"
+    },
+    {
+      "id": "TT161-170.7",
+      "size": 252,
+      "subject": "Manual training.    School shops"
+    },
+    {
+      "id": "T1-995",
+      "size": 10155,
+      "subject": "Technology (General)"
+    },
+    {
+      "id": "T351-385",
+      "size": 5164,
+      "subject": "Mechanical drawing.    Engineering graphics"
+    },
+    {
+      "id": "T55.4-60.8",
+      "size": 1238,
+      "subject": "Industrial engineering.    Management"
+    },
+    {
+      "id": "T58.5-58.64",
+      "size": 1404,
+      "subject": "Information technology"
+    },
+    {
+      "id": "T58.6-58.62",
+      "size": 1287,
+      "subject": "Management information systems"
+    },
+    {
+      "id": "T59.7-59.77",
+      "size": 229,
+      "subject": "Human engineering in industry.    Man-"
+    },
+    {
+      "id": "T58.7-58.8",
+      "size": 133,
+      "subject": "Production capacity.    Manufacturing capacity"
+    },
+    {
+      "id": "T57-57.97",
+      "size": 238,
+      "subject": "Applied mathematics.    Quantitative methods"
+    },
+    {
+      "id": "T57.6-57.97",
+      "size": 2180,
+      "subject": "Operations research.    Systems analysis"
+    },
+    {
+      "id": "T59.5",
+      "size": 202,
+      "subject": "Automation"
+    },
+    {
+      "id": "T60-60.8",
+      "size": 406,
+      "subject": "Work measurement.    Methods engineering"
+    },
+    {
+      "id": "T59-59.2",
+      "size": 349,
+      "subject": "Standardization"
+    },
+    {
+      "id": "T58.4",
+      "size": 4,
+      "subject": "Managerial control systems"
+    },
+    {
+      "id": "T55-55.3",
+      "size": 1921,
+      "subject": "Industrial safety.    Industrial accident"
+    },
+    {
+      "id": "T173.2-174.5",
+      "size": 1927,
+      "subject": "Technological change"
+    },
+    {
+      "id": "T61-173",
+      "size": 3677,
+      "subject": "Technical education.    Technical schools"
+    },
+    {
+      "id": "T10.5-11.9",
+      "size": 1381,
+      "subject": "Communication of technical information"
+    },
+    {
+      "id": "T201-342",
+      "size": 1589,
+      "subject": "Patents.    Trademarks"
+    },
+    {
+      "id": "T175-178",
+      "size": 1633,
+      "subject": "Industrial research.    Research and development"
+    },
+    {
+      "id": "T391-995",
+      "size": 1255,
+      "subject": "Exhibitions.    Trade shows.    World's fairs"
+    },
+    {
+      "id": "T11.95-12.5",
+      "size": 398,
+      "subject": "Industrial directories"
+    },
+    {
+      "id": "TH",
+      "size": 0,
+      "subject": "Building construction"
+    },
+    {
+      "id": "TH1-9745",
+      "size": 5519,
+      "subject": "Building construction"
+    },
+    {
+      "id": "TH1000-1725",
+      "size": 1954,
+      "subject": "Systems of building construction"
+    },
+    {
+      "id": "TH2025-3000",
+      "size": 1477,
+      "subject": "Details in building design and construction"
+    },
+    {
+      "id": "TH5011-5701",
+      "size": 901,
+      "subject": "Construction by phase of the work (Building trades)"
+    },
+    {
+      "id": "TH9025-9745",
+      "size": 4496,
+      "subject": "Protection of buildings"
+    },
+    {
+      "id": "TH4021-4977",
+      "size": 4498,
+      "subject": "Buildings: Construction with reference to use"
+    },
+    {
+      "id": "TH7005-7699",
+      "size": 2872,
+      "subject": "Heating and ventilation.    Air conditioning"
+    },
+    {
+      "id": "TH845-895",
+      "size": 441,
+      "subject": "Architectural engineering.    Structural"
+    },
+    {
+      "id": "TH6101-6887",
+      "size": 880,
+      "subject": "Plumbing and pipefitting"
+    },
+    {
+      "id": "TH7700-7975",
+      "size": 342,
+      "subject": "Illumination.    Lighting"
+    },
+    {
+      "id": "TH3301-3411",
+      "size": 406,
+      "subject": "Maintenance and repair"
+    },
+    {
+      "id": "TH8001-8581",
+      "size": 186,
+      "subject": "Decoration and decorative furnishings"
+    },
+    {
+      "id": "TH6014-6081",
+      "size": 314,
+      "subject": "Environmental engineering of buildings."
+    },
+    {
+      "id": "TH900-915",
+      "size": 194,
+      "subject": "Construction equipment in building"
+    },
+    {
+      "id": "TF",
+      "size": 0,
+      "subject": "Railroad engineering and operation"
+    },
+    {
+      "id": "TF1-1620",
+      "size": 5927,
+      "subject": "Railroad engineering and operation"
+    },
+    {
+      "id": "TF200-320",
+      "size": 970,
+      "subject": "Railway construction"
+    },
+    {
+      "id": "TF855-1127",
+      "size": 479,
+      "subject": "Electric railways"
+    },
+    {
+      "id": "TF340-499",
+      "size": 594,
+      "subject": "Railway equipment and supplies"
+    },
+    {
+      "id": "TF670-851",
+      "size": 956,
+      "subject": "Local and light railways"
+    },
+    {
+      "id": "TF840-851",
+      "size": 318,
+      "subject": "Elevated railways and subways"
+    },
+    {
+      "id": "TF1300-1620",
+      "size": 130,
+      "subject": "High speed ground transporation"
+    },
+    {
+      "id": "TF501-668",
+      "size": 759,
+      "subject": "Railway operation and management"
+    },
+    {
+      "id": "TL",
+      "size": 0,
+      "subject": "Motor vehicles.    Aeronautics.    Astronautics"
+    },
+    {
+      "id": "TL1-4050",
+      "size": 92,
+      "subject": "Motor vehicles.    Aeronautics.    Astronautics"
+    },
+    {
+      "id": "TL1-484",
+      "size": 23588,
+      "subject": "Motor vehicles.    Cycles"
+    },
+    {
+      "id": "TL787-4050",
+      "size": 8228,
+      "subject": "Astronautics.    Space travel"
+    },
+    {
+      "id": "TL500-777",
+      "size": 23029,
+      "subject": "Aeronautics.    Aeronautical engineering"
+    },
+    {
+      "id": "TL780-785.8",
+      "size": 896,
+      "subject": "Rocket propulsion.    Rockets"
+    },
+    {
+      "id": "TG",
+      "size": 0,
+      "subject": "Bridge engineering"
+    },
+    {
+      "id": "TG1-470",
+      "size": 3191,
+      "subject": "Bridge engineering"
+    },
+    {
+      "id": "TE",
+      "size": 0,
+      "subject": "Highway engineering.    Roads and pavements"
+    },
+    {
+      "id": "TE1-450",
+      "size": 4318,
+      "subject": "Highway engineering.    Roads and pavements"
+    },
+    {
+      "id": "TE250-278.8",
+      "size": 970,
+      "subject": "Pavements and paved roads"
+    },
+    {
+      "id": "TE210-228.3",
+      "size": 1259,
+      "subject": "Construction details"
+    },
+    {
+      "id": "TE175-176.5",
+      "size": 318,
+      "subject": "Highway design.    Interchanges and intersections"
+    },
+    {
+      "id": "TE279.5-298",
+      "size": 41,
+      "subject": "Pedestrian facilities"
+    },
+    {
+      "id": "TE298",
+      "size": 4,
+      "subject": "Curbs.    Curbstones"
+    },
+    {
+      "id": "TE280-295",
+      "size": 8,
+      "subject": "Sidewalks.    Footpaths.    Flagging"
+    },
+    {
+      "id": "TE206-209.5",
+      "size": 71,
+      "subject": "Location engineering"
+    },
+    {
+      "id": "TE177-178.8",
+      "size": 93,
+      "subject": "Roadside development.    Landscaping"
+    },
+    {
+      "id": "TE200-205",
+      "size": 180,
+      "subject": "Materials for roadmaking"
+    },
+    {
+      "id": "TE279",
+      "size": 35,
+      "subject": "Streets"
+    }
+  ],
+  "links": [
+    {
+      "source": "T",
+      "target": "TN"
+    },
+    {
+      "source": "TN",
+      "target": "TN1-997"
+    },
+    {
+      "source": "TN1-997",
+      "target": "TN799.5-948"
+    },
+    {
+      "source": "TN1-997",
+      "target": "TN400-580"
+    },
+    {
+      "source": "TN1-997",
+      "target": "TN263-271"
+    },
+    {
+      "source": "TN1-997",
+      "target": "TN950-997"
+    },
+    {
+      "source": "TN1-997",
+      "target": "TN600-799"
+    },
+    {
+      "source": "TN1-997",
+      "target": "TN275-325"
+    },
+    {
+      "source": "TN1-997",
+      "target": "TN331-347"
+    },
+    {
+      "source": "T",
+      "target": "TR"
+    },
+    {
+      "source": "TR",
+      "target": "TR1-1050"
+    },
+    {
+      "source": "TR1-1050",
+      "target": "TR510-545"
+    },
+    {
+      "source": "TR1-1050",
+      "target": "TR287-500"
+    },
+    {
+      "source": "TR1-1050",
+      "target": "TR624-835"
+    },
+    {
+      "source": "TR1-1050",
+      "target": "TR845-899"
+    },
+    {
+      "source": "TR1-1050",
+      "target": "TR590-620"
+    },
+    {
+      "source": "TR1-1050",
+      "target": "TR550-581"
+    },
+    {
+      "source": "TR1-1050",
+      "target": "TR250-265"
+    },
+    {
+      "source": "TR1-1050",
+      "target": "TR925-1050"
+    },
+    {
+      "source": "TR1-1050",
+      "target": "TR504-508"
+    },
+    {
+      "source": "T",
+      "target": "TC"
+    },
+    {
+      "source": "TC",
+      "target": "TC1-978"
+    },
+    {
+      "source": "TC",
+      "target": "TC1501-1800"
+    },
+    {
+      "source": "TC1-978",
+      "target": "TC160-181"
+    },
+    {
+      "source": "TC1-978",
+      "target": "TC401-506"
+    },
+    {
+      "source": "TC1-978",
+      "target": "TC601-791"
+    },
+    {
+      "source": "TC1-978",
+      "target": "TC540-558"
+    },
+    {
+      "source": "TC1-978",
+      "target": "TC530-537"
+    },
+    {
+      "source": "TC1-978",
+      "target": "TC183-201"
+    },
+    {
+      "source": "TC1-978",
+      "target": "TC203-380"
+    },
+    {
+      "source": "TC1-978",
+      "target": "TC801-978"
+    },
+    {
+      "source": "T",
+      "target": "TD"
+    },
+    {
+      "source": "TD",
+      "target": "TD1-1066"
+    },
+    {
+      "source": "TD1-1066",
+      "target": "TD895-899"
+    },
+    {
+      "source": "TD1-1066",
+      "target": "TD201-500"
+    },
+    {
+      "source": "TD1-1066",
+      "target": "TD511-780"
+    },
+    {
+      "source": "TD1-1066",
+      "target": "TD1020-1066"
+    },
+    {
+      "source": "TD1-1066",
+      "target": "TD172-193.5"
+    },
+    {
+      "source": "TD1-1066",
+      "target": "TD783-812.5"
+    },
+    {
+      "source": "TD1-1066",
+      "target": "TD194-195"
+    },
+    {
+      "source": "TD1-1066",
+      "target": "TD169-171.8"
+    },
+    {
+      "source": "TD1-1066",
+      "target": "TD878-894"
+    },
+    {
+      "source": "TD1-1066",
+      "target": "TD813-870"
+    },
+    {
+      "source": "TD1-1066",
+      "target": "TD920-934"
+    },
+    {
+      "source": "TD1-1066",
+      "target": "TD159-168"
+    },
+    {
+      "source": "TD1-1066",
+      "target": "TD940-949"
+    },
+    {
+      "source": "TD895-899",
+      "target": "TD896-899"
+    },
+    {
+      "source": "TD201-500",
+      "target": "TD429.5-480.7"
+    },
+    {
+      "source": "TD201-500",
+      "target": "TD419-428"
+    },
+    {
+      "source": "TD201-500",
+      "target": "TD481-493"
+    },
+    {
+      "source": "T",
+      "target": "TX"
+    },
+    {
+      "source": "TX",
+      "target": "TX1-1110"
+    },
+    {
+      "source": "TX1-1110",
+      "target": "TX301-339"
+    },
+    {
+      "source": "TX1-1110",
+      "target": "TX901-946.5"
+    },
+    {
+      "source": "TX1-1110",
+      "target": "TX642-840"
+    },
+    {
+      "source": "TX1-1110",
+      "target": "TX341-641"
+    },
+    {
+      "source": "TX1-1110",
+      "target": "TX950-953"
+    },
+    {
+      "source": "TX1-1110",
+      "target": "TX851-885"
+    },
+    {
+      "source": "TX1-1110",
+      "target": "TX1110"
+    },
+    {
+      "source": "TX1-1110",
+      "target": "TX955-985"
+    },
+    {
+      "source": "TX1-1110",
+      "target": "TX1100-1105"
+    },
+    {
+      "source": "T",
+      "target": "TP"
+    },
+    {
+      "source": "TP",
+      "target": "TP1-1185"
+    },
+    {
+      "source": "TP1-1185",
+      "target": "TP934-945"
+    },
+    {
+      "source": "TP1-1185",
+      "target": "TP480-498"
+    },
+    {
+      "source": "TP1-1185",
+      "target": "TP670-699"
+    },
+    {
+      "source": "TP1-1185",
+      "target": "TP315-360"
+    },
+    {
+      "source": "TP1-1185",
+      "target": "TP1080-1185"
+    },
+    {
+      "source": "TP1-1185",
+      "target": "TP785-869"
+    },
+    {
+      "source": "TP1-1185",
+      "target": "TP248.13-248.65"
+    },
+    {
+      "source": "TP1-1185",
+      "target": "TP155-156"
+    },
+    {
+      "source": "TP1-1185",
+      "target": "TP368-456"
+    },
+    {
+      "source": "TP1-1185",
+      "target": "TP500-660"
+    },
+    {
+      "source": "TP1-1185",
+      "target": "TP890-933"
+    },
+    {
+      "source": "TP1-1185",
+      "target": "TP200-248"
+    },
+    {
+      "source": "TP1-1185",
+      "target": "TP267.5-301"
+    },
+    {
+      "source": "TP1-1185",
+      "target": "TP875-888"
+    },
+    {
+      "source": "TP1-1185",
+      "target": "TP751-762"
+    },
+    {
+      "source": "TP1-1185",
+      "target": "TP700-746"
+    },
+    {
+      "source": "TP1-1185",
+      "target": "TP250-261"
+    },
+    {
+      "source": "TP670-699",
+      "target": "TP690-692.5"
+    },
+    {
+      "source": "T",
+      "target": "TK"
+    },
+    {
+      "source": "TK",
+      "target": "TK1-9971"
+    },
+    {
+      "source": "TK1-9971",
+      "target": "TK5101-6720"
+    },
+    {
+      "source": "TK1-9971",
+      "target": "TK7800-8360"
+    },
+    {
+      "source": "TK1-9971",
+      "target": "TK9001-9401"
+    },
+    {
+      "source": "TK1-9971",
+      "target": "TK1001-1841"
+    },
+    {
+      "source": "TK1-9971",
+      "target": "TK4125-4399"
+    },
+    {
+      "source": "TK1-9971",
+      "target": "TK2000-2891"
+    },
+    {
+      "source": "TK1-9971",
+      "target": "TK452-454.4"
+    },
+    {
+      "source": "TK1-9971",
+      "target": "TK4001-4102"
+    },
+    {
+      "source": "TK1-9971",
+      "target": "TK3001-3521"
+    },
+    {
+      "source": "TK1-9971",
+      "target": "TK2896-2985"
+    },
+    {
+      "source": "TK1-9971",
+      "target": "TK4601-4661"
+    },
+    {
+      "source": "TK1-9971",
+      "target": "TK9900-9971"
+    },
+    {
+      "source": "TK1-9971",
+      "target": "TK301-399"
+    },
+    {
+      "source": "TK7800-8360",
+      "target": "TK7885-7895"
+    },
+    {
+      "source": "TK7800-8360",
+      "target": "TK8300-8360"
+    },
+    {
+      "source": "T",
+      "target": "TA"
+    },
+    {
+      "source": "TA",
+      "target": "TA1-2040"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA501-625"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA401-492"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA166-167"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA715-787"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA165"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA1501-1820"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA168"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA630-695"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA329-348"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA1001-1280"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA703-712"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA349-359"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA800-820"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA174"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA177.4-185"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA190-194"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA2001-2040"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA170-171"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA365-367"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA213-215"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA197-198"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA164"
+    },
+    {
+      "source": "TA1-2040",
+      "target": "TA495"
+    },
+    {
+      "source": "T",
+      "target": "TS"
+    },
+    {
+      "source": "TS",
+      "target": "TS1-2301"
+    },
+    {
+      "source": "TS1-2301",
+      "target": "TS1950-1982"
+    },
+    {
+      "source": "TS1-2301",
+      "target": "TS1870-1935"
+    },
+    {
+      "source": "TS1-2301",
+      "target": "TS1300-1865"
+    },
+    {
+      "source": "TS1-2301",
+      "target": "TS200-770"
+    },
+    {
+      "source": "TS1-2301",
+      "target": "TS1080-1268"
+    },
+    {
+      "source": "TS1-2301",
+      "target": "TS155-194"
+    },
+    {
+      "source": "TS1-2301",
+      "target": "TS195-198.8"
+    },
+    {
+      "source": "TS1-2301",
+      "target": "TS2220-2283"
+    },
+    {
+      "source": "TS1-2301",
+      "target": "TS800-937"
+    },
+    {
+      "source": "TS1-2301",
+      "target": "TS940-1047"
+    },
+    {
+      "source": "TS1-2301",
+      "target": "TS2120-2159"
+    },
+    {
+      "source": "TS1-2301",
+      "target": "TS1060-1070"
+    },
+    {
+      "source": "TS1-2301",
+      "target": "TS780-788"
+    },
+    {
+      "source": "TS1-2301",
+      "target": "TS2284-2288"
+    },
+    {
+      "source": "TS800-937",
+      "target": "TS840-915"
+    },
+    {
+      "source": "TS800-937",
+      "target": "TS920-937"
+    },
+    {
+      "source": "T",
+      "target": "TJ"
+    },
+    {
+      "source": "TJ",
+      "target": "TJ1-1570"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ1040-1119"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ212-225"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ268-740"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ751-805"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ1125-1345"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ181-210"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ163.13-163.25"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ1350-1418"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ210.2-211.47"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ227-240"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ266-267.5"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ170-179"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ836-927"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ255-265"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ807-830"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ163.26-163.5"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ241-254.7"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ950-1030"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ1480-1496"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ1501-1519"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ940-940.5"
+    },
+    {
+      "source": "TJ1-1570",
+      "target": "TJ1425-1475"
+    },
+    {
+      "source": "TJ268-740",
+      "target": "TJ603-695"
+    },
+    {
+      "source": "T",
+      "target": "TT"
+    },
+    {
+      "source": "TT",
+      "target": "TT1-999"
+    },
+    {
+      "source": "TT1-999",
+      "target": "TT980-999"
+    },
+    {
+      "source": "TT1-999",
+      "target": "TT490-695"
+    },
+    {
+      "source": "TT1-999",
+      "target": "TT697-927"
+    },
+    {
+      "source": "TT1-999",
+      "target": "TT205-267"
+    },
+    {
+      "source": "TT1-999",
+      "target": "TT174-176"
+    },
+    {
+      "source": "TT1-999",
+      "target": "TT950-979"
+    },
+    {
+      "source": "TT1-999",
+      "target": "TT180-200"
+    },
+    {
+      "source": "TT1-999",
+      "target": "TT387-410"
+    },
+    {
+      "source": "TT1-999",
+      "target": "TT300-382.8"
+    },
+    {
+      "source": "TT1-999",
+      "target": "TT201-203"
+    },
+    {
+      "source": "TT1-999",
+      "target": "TT161-170.7"
+    },
+    {
+      "source": "T",
+      "target": "T1-995"
+    },
+    {
+      "source": "T1-995",
+      "target": "T351-385"
+    },
+    {
+      "source": "T1-995",
+      "target": "T55.4-60.8"
+    },
+    {
+      "source": "T1-995",
+      "target": "T55-55.3"
+    },
+    {
+      "source": "T1-995",
+      "target": "T173.2-174.5"
+    },
+    {
+      "source": "T1-995",
+      "target": "T61-173"
+    },
+    {
+      "source": "T1-995",
+      "target": "T10.5-11.9"
+    },
+    {
+      "source": "T1-995",
+      "target": "T201-342"
+    },
+    {
+      "source": "T1-995",
+      "target": "T175-178"
+    },
+    {
+      "source": "T1-995",
+      "target": "T391-995"
+    },
+    {
+      "source": "T1-995",
+      "target": "T11.95-12.5"
+    },
+    {
+      "source": "T55.4-60.8",
+      "target": "T58.5-58.64"
+    },
+    {
+      "source": "T55.4-60.8",
+      "target": "T59.7-59.77"
+    },
+    {
+      "source": "T55.4-60.8",
+      "target": "T58.7-58.8"
+    },
+    {
+      "source": "T55.4-60.8",
+      "target": "T57-57.97"
+    },
+    {
+      "source": "T55.4-60.8",
+      "target": "T59.5"
+    },
+    {
+      "source": "T55.4-60.8",
+      "target": "T60-60.8"
+    },
+    {
+      "source": "T55.4-60.8",
+      "target": "T59-59.2"
+    },
+    {
+      "source": "T55.4-60.8",
+      "target": "T58.4"
+    },
+    {
+      "source": "T58.5-58.64",
+      "target": "T58.6-58.62"
+    },
+    {
+      "source": "T57-57.97",
+      "target": "T57.6-57.97"
+    },
+    {
+      "source": "T",
+      "target": "TH"
+    },
+    {
+      "source": "TH",
+      "target": "TH1-9745"
+    },
+    {
+      "source": "TH1-9745",
+      "target": "TH1000-1725"
+    },
+    {
+      "source": "TH1-9745",
+      "target": "TH2025-3000"
+    },
+    {
+      "source": "TH1-9745",
+      "target": "TH5011-5701"
+    },
+    {
+      "source": "TH1-9745",
+      "target": "TH9025-9745"
+    },
+    {
+      "source": "TH1-9745",
+      "target": "TH4021-4977"
+    },
+    {
+      "source": "TH1-9745",
+      "target": "TH7005-7699"
+    },
+    {
+      "source": "TH1-9745",
+      "target": "TH845-895"
+    },
+    {
+      "source": "TH1-9745",
+      "target": "TH6101-6887"
+    },
+    {
+      "source": "TH1-9745",
+      "target": "TH7700-7975"
+    },
+    {
+      "source": "TH1-9745",
+      "target": "TH3301-3411"
+    },
+    {
+      "source": "TH1-9745",
+      "target": "TH8001-8581"
+    },
+    {
+      "source": "TH1-9745",
+      "target": "TH6014-6081"
+    },
+    {
+      "source": "TH1-9745",
+      "target": "TH900-915"
+    },
+    {
+      "source": "T",
+      "target": "TF"
+    },
+    {
+      "source": "TF",
+      "target": "TF1-1620"
+    },
+    {
+      "source": "TF1-1620",
+      "target": "TF200-320"
+    },
+    {
+      "source": "TF1-1620",
+      "target": "TF855-1127"
+    },
+    {
+      "source": "TF1-1620",
+      "target": "TF340-499"
+    },
+    {
+      "source": "TF1-1620",
+      "target": "TF670-851"
+    },
+    {
+      "source": "TF1-1620",
+      "target": "TF1300-1620"
+    },
+    {
+      "source": "TF1-1620",
+      "target": "TF501-668"
+    },
+    {
+      "source": "TF670-851",
+      "target": "TF840-851"
+    },
+    {
+      "source": "T",
+      "target": "TL"
+    },
+    {
+      "source": "TL",
+      "target": "TL1-4050"
+    },
+    {
+      "source": "TL1-4050",
+      "target": "TL1-484"
+    },
+    {
+      "source": "TL1-4050",
+      "target": "TL787-4050"
+    },
+    {
+      "source": "TL1-4050",
+      "target": "TL500-777"
+    },
+    {
+      "source": "TL1-4050",
+      "target": "TL780-785.8"
+    },
+    {
+      "source": "T",
+      "target": "TG"
+    },
+    {
+      "source": "TG",
+      "target": "TG1-470"
+    },
+    {
+      "source": "T",
+      "target": "TE"
+    },
+    {
+      "source": "TE",
+      "target": "TE1-450"
+    },
+    {
+      "source": "TE1-450",
+      "target": "TE250-278.8"
+    },
+    {
+      "source": "TE1-450",
+      "target": "TE210-228.3"
+    },
+    {
+      "source": "TE1-450",
+      "target": "TE175-176.5"
+    },
+    {
+      "source": "TE1-450",
+      "target": "TE279.5-298"
+    },
+    {
+      "source": "TE1-450",
+      "target": "TE206-209.5"
+    },
+    {
+      "source": "TE1-450",
+      "target": "TE177-178.8"
+    },
+    {
+      "source": "TE1-450",
+      "target": "TE200-205"
+    },
+    {
+      "source": "TE1-450",
+      "target": "TE279"
+    },
+    {
+      "source": "TE279.5-298",
+      "target": "TE298"
+    },
+    {
+      "source": "TE279.5-298",
+      "target": "TE280-295"
+    }
+  ],
+  "maxCount": 44665
+}

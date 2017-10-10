@@ -1,0 +1,2586 @@
+{
+  "nodes": [
+    {
+      "id": "L",
+      "size": 0,
+      "subject": "Education"
+    },
+    {
+      "id": "LB",
+      "size": 0,
+      "subject": "Theory and practice of education"
+    },
+    {
+      "id": "LB5-3640",
+      "size": 336,
+      "subject": "Theory and practice of education"
+    },
+    {
+      "id": "LB1141-1489",
+      "size": 769,
+      "subject": "Kindergarten"
+    },
+    {
+      "id": "LB3401-3495",
+      "size": 1275,
+      "subject": "School hygiene.    School health services"
+    },
+    {
+      "id": "LB3201-3325",
+      "size": 1989,
+      "subject": "School architecture and equipment.    School physical"
+    },
+    {
+      "id": "LB1705-2286",
+      "size": 5362,
+      "subject": "Education and training of teachers and"
+    },
+    {
+      "id": "LB1805-2151",
+      "size": 5,
+      "subject": "State teachers colleges"
+    },
+    {
+      "id": "LB1811-1987",
+      "size": 267,
+      "subject": "United States"
+    },
+    {
+      "id": "LB1991-2151",
+      "size": 652,
+      "subject": "Other regions or countries"
+    },
+    {
+      "id": "LB1775-1785",
+      "size": 2140,
+      "subject": "Professional aspects of teaching and school"
+    },
+    {
+      "id": "LB1771-1773",
+      "size": 272,
+      "subject": "Certification of teachers"
+    },
+    {
+      "id": "LB2165-2278",
+      "size": 335,
+      "subject": "Teacher training in universities and colleges"
+    },
+    {
+      "id": "LB1555-1602",
+      "size": 11530,
+      "subject": "Elementary or public school education"
+    },
+    {
+      "id": "LB51-885",
+      "size": 5298,
+      "subject": "Systems of individual educators and writers"
+    },
+    {
+      "id": "LB1603-1696.6",
+      "size": 3517,
+      "subject": "Secondary education.    High schools"
+    },
+    {
+      "id": "LB2300-2430",
+      "size": 9473,
+      "subject": "Higher education"
+    },
+    {
+      "id": "LB2341-2341.95",
+      "size": 1655,
+      "subject": "Supervision and administration.    Business"
+    },
+    {
+      "id": "LB2331.7-2335.8",
+      "size": 977,
+      "subject": "Teaching personnel"
+    },
+    {
+      "id": "LB2326.4-2330",
+      "size": 1156,
+      "subject": "Institutions of higher education"
+    },
+    {
+      "id": "LB2361-2365",
+      "size": 615,
+      "subject": "Curriculum"
+    },
+    {
+      "id": "LB2371-2372",
+      "size": 398,
+      "subject": "Graduate education"
+    },
+    {
+      "id": "LB2351-2359",
+      "size": 1649,
+      "subject": "Admissions and entrance requirements"
+    },
+    {
+      "id": "LB2337.2-2340.8",
+      "size": 1432,
+      "subject": "Student financial aid"
+    },
+    {
+      "id": "LB2366-2367.75",
+      "size": 438,
+      "subject": "College examinations"
+    },
+    {
+      "id": "LB2335.86-2335.885",
+      "size": 68,
+      "subject": "Trade unions"
+    },
+    {
+      "id": "LB2381-2391",
+      "size": 488,
+      "subject": "Academic degrees"
+    },
+    {
+      "id": "LB2335.95-2337",
+      "size": 214,
+      "subject": "Endowments, trusts, etc."
+    },
+    {
+      "id": "LB1025-1050.75",
+      "size": 19624,
+      "subject": "Teaching (Principles and practice)"
+    },
+    {
+      "id": "LB1049.9-1050.75",
+      "size": 3023,
+      "subject": "Reading (General)"
+    },
+    {
+      "id": "LB1050.9-1091",
+      "size": 5471,
+      "subject": "Educational psychology"
+    },
+    {
+      "id": "LB2801-3095",
+      "size": 12407,
+      "subject": "School administration and organization"
+    },
+    {
+      "id": "LB3011-3095",
+      "size": 3656,
+      "subject": "School management and discipline"
+    },
+    {
+      "id": "LB3050-3060.87",
+      "size": 3076,
+      "subject": "Educational tests, measurements, evaluations"
+    },
+    {
+      "id": "LB3045-3048",
+      "size": 665,
+      "subject": "Textbooks"
+    },
+    {
+      "id": "LB2832-2844.1",
+      "size": 3203,
+      "subject": "Teaching personnel"
+    },
+    {
+      "id": "LB2831.6-2831.99",
+      "size": 909,
+      "subject": "Administrative personnel"
+    },
+    {
+      "id": "LB2844.52-2844.63",
+      "size": 373,
+      "subject": "Trade unions"
+    },
+    {
+      "id": "LB5-45",
+      "size": 4749,
+      "subject": "General"
+    },
+    {
+      "id": "LB1139.2-1139.5",
+      "size": 1631,
+      "subject": "Early childhood education"
+    },
+    {
+      "id": "LB1140-1140.5",
+      "size": 2232,
+      "subject": "Preschool education.    Nursery schools"
+    },
+    {
+      "id": "LB1501-1547",
+      "size": 2180,
+      "subject": "Primary education"
+    },
+    {
+      "id": "LB1101-1139",
+      "size": 3309,
+      "subject": "Child study"
+    },
+    {
+      "id": "LB3602-3640",
+      "size": 1240,
+      "subject": "School life.    Student manners and customs"
+    },
+    {
+      "id": "LB3525-3575",
+      "size": 46,
+      "subject": "Special days"
+    },
+    {
+      "id": "LB3497-3499",
+      "size": 44,
+      "subject": "Hygiene in universities and colleges"
+    },
+    {
+      "id": "LB2799-2799.3",
+      "size": 26,
+      "subject": "Educational consultants and consulting"
+    },
+    {
+      "id": "LT",
+      "size": 0,
+      "subject": "Textbooks"
+    },
+    {
+      "id": "LT6-1001",
+      "size": 129,
+      "subject": "Textbooks"
+    },
+    {
+      "id": "LA",
+      "size": 0,
+      "subject": "History of education"
+    },
+    {
+      "id": "LA5-2396",
+      "size": 18,
+      "subject": "History of education"
+    },
+    {
+      "id": "LA201-398",
+      "size": 6551,
+      "subject": "United States"
+    },
+    {
+      "id": "LA2301-2396",
+      "size": 3999,
+      "subject": "Biography"
+    },
+    {
+      "id": "LA5-25",
+      "size": 694,
+      "subject": "General"
+    },
+    {
+      "id": "LA173-186",
+      "size": 284,
+      "subject": "Higher education"
+    },
+    {
+      "id": "LA410-2284",
+      "size": 33128,
+      "subject": "Other regions or countries"
+    },
+    {
+      "id": "LA31-135",
+      "size": 1003,
+      "subject": "By period"
+    },
+    {
+      "id": "LD",
+      "size": 0,
+      "subject": "United States"
+    },
+    {
+      "id": "LD13-7501",
+      "size": 1,
+      "subject": "United States"
+    },
+    {
+      "id": "LD13-7251",
+      "size": 7163,
+      "subject": "Universities.    Colleges"
+    },
+    {
+      "id": "LD7501",
+      "size": 869,
+      "subject": "Secondary and elementary schools"
+    },
+    {
+      "id": "LD6501",
+      "size": 148,
+      "subject": "Community colleges.    Junior colleges"
+    },
+    {
+      "id": "LC",
+      "size": 0,
+      "subject": "Special aspects of education"
+    },
+    {
+      "id": "LC8-6691",
+      "size": 79,
+      "subject": "Special aspects of education"
+    },
+    {
+      "id": "LC1390-5160.3",
+      "size": 107,
+      "subject": "Education of special classes of persons"
+    },
+    {
+      "id": "LC2699-2913",
+      "size": 1367,
+      "subject": "Blacks.    African Americans"
+    },
+    {
+      "id": "LC3950-4806.5",
+      "size": 1507,
+      "subject": "Exceptional children and youth.    Special"
+    },
+    {
+      "id": "LC4001-4806.5",
+      "size": 7338,
+      "subject": "Children and youth with disabilities.    Learning"
+    },
+    {
+      "id": "LC3991-4000",
+      "size": 915,
+      "subject": "Gifted children and youth"
+    },
+    {
+      "id": "LC4812-5160.3",
+      "size": 2448,
+      "subject": "Other special classes"
+    },
+    {
+      "id": "LC2667-2698",
+      "size": 184,
+      "subject": "Latin Americans.    Hispanic Americans"
+    },
+    {
+      "id": "LC2680-2688",
+      "size": 117,
+      "subject": "Mexican Americans.    Mexicans in the United States"
+    },
+    {
+      "id": "LC2690-2698",
+      "size": 23,
+      "subject": "Puerto Ricans.    Puerto Ricans in the United"
+    },
+    {
+      "id": "LC1401-2572",
+      "size": 2049,
+      "subject": "Women"
+    },
+    {
+      "id": "LC3701-3740",
+      "size": 1786,
+      "subject": "Immigrants or ethnic and linguistic minorities."
+    },
+    {
+      "id": "LC2601-2611",
+      "size": 362,
+      "subject": "Education in developing countries"
+    },
+    {
+      "id": "LC1390",
+      "size": 41,
+      "subject": "Boys"
+    },
+    {
+      "id": "LC2580-2582",
+      "size": 11,
+      "subject": "Student-athletes"
+    },
+    {
+      "id": "LC3001-3501",
+      "size": 573,
+      "subject": "Asians"
+    },
+    {
+      "id": "LC3551-3593",
+      "size": 74,
+      "subject": "Jews"
+    },
+    {
+      "id": "LC3745-3747",
+      "size": 301,
+      "subject": "Children of immigrants (First generation)"
+    },
+    {
+      "id": "LC3503-3520",
+      "size": 73,
+      "subject": "Romanies.    Gypsies"
+    },
+    {
+      "id": "LC2630-2638",
+      "size": 38,
+      "subject": "Asian Americans.    Asians in the United States"
+    },
+    {
+      "id": "LC3530-3540",
+      "size": 10,
+      "subject": "Lapps"
+    },
+    {
+      "id": "LC2574-2576",
+      "size": 13,
+      "subject": "Gays.    Lesbians.    Bisexuals"
+    },
+    {
+      "id": "LC5201-6660.4",
+      "size": 4463,
+      "subject": "Education extension.    Adult education.    Continuing"
+    },
+    {
+      "id": "LC6501-6560.4",
+      "size": 212,
+      "subject": "Lyceums and lecture courses.    Forums"
+    },
+    {
+      "id": "LC5800-5808",
+      "size": 708,
+      "subject": "Distance education"
+    },
+    {
+      "id": "LC6571-6581",
+      "size": 122,
+      "subject": "Radio and television extension courses."
+    },
+    {
+      "id": "LC6601-6660.4",
+      "size": 68,
+      "subject": "Reading circles and correspondence clubs"
+    },
+    {
+      "id": "LC6201-6401",
+      "size": 479,
+      "subject": "University extension"
+    },
+    {
+      "id": "LC5451-5493",
+      "size": 83,
+      "subject": "Aged education"
+    },
+    {
+      "id": "LC5701-5771",
+      "size": 91,
+      "subject": "Vacation schools.    Summer schools"
+    },
+    {
+      "id": "LC5900-6101",
+      "size": 165,
+      "subject": "Correspondence schools"
+    },
+    {
+      "id": "LC5501-5560",
+      "size": 91,
+      "subject": "Evening schools"
+    },
+    {
+      "id": "LC980-1099.5",
+      "size": 166,
+      "subject": "Types of education"
+    },
+    {
+      "id": "LC1037-1037.8",
+      "size": 400,
+      "subject": "Career education"
+    },
+    {
+      "id": "LC1031-1034.5",
+      "size": 169,
+      "subject": "Competency based education"
+    },
+    {
+      "id": "LC1099-1099.5",
+      "size": 1227,
+      "subject": "Multicultural education (General)"
+    },
+    {
+      "id": "LC1090-1091",
+      "size": 704,
+      "subject": "Political education"
+    },
+    {
+      "id": "LC1051-1072",
+      "size": 472,
+      "subject": "Professional education"
+    },
+    {
+      "id": "LC1041-1048",
+      "size": 3561,
+      "subject": "Vocational education (General)"
+    },
+    {
+      "id": "LC1001-1024",
+      "size": 694,
+      "subject": "Humanistic education.    Liberal education"
+    },
+    {
+      "id": "LC1022-1022.25",
+      "size": 4,
+      "subject": "Computer-assisted education"
+    },
+    {
+      "id": "LC1049-1049.8",
+      "size": 78,
+      "subject": "Cooperative education"
+    },
+    {
+      "id": "LC1081-1087.4",
+      "size": 487,
+      "subject": "Industrial education (General)"
+    },
+    {
+      "id": "LC1035-1035.8",
+      "size": 265,
+      "subject": "Basic education.    Basic skills education"
+    },
+    {
+      "id": "LC1036-1036.8",
+      "size": 81,
+      "subject": "Community education"
+    },
+    {
+      "id": "LC1030",
+      "size": 107,
+      "subject": "Communist education"
+    },
+    {
+      "id": "LC1025-1027",
+      "size": 40,
+      "subject": "Collective education"
+    },
+    {
+      "id": "LC1200-1203",
+      "size": 363,
+      "subject": "Inclusive education"
+    },
+    {
+      "id": "LC65-245",
+      "size": 11,
+      "subject": "Social aspects of education"
+    },
+    {
+      "id": "LC215-238.4",
+      "size": 654,
+      "subject": "Community and the school"
+    },
+    {
+      "id": "LC225-226.7",
+      "size": 696,
+      "subject": "Home and school"
+    },
+    {
+      "id": "LC237-238.4",
+      "size": 180,
+      "subject": "College-university and the community"
+    },
+    {
+      "id": "LC230-235",
+      "size": 114,
+      "subject": "Parent-teacher associations.    Home and"
+    },
+    {
+      "id": "LC223",
+      "size": 9,
+      "subject": "Schools as community centers"
+    },
+    {
+      "id": "LC165-182",
+      "size": 707,
+      "subject": "Higher education and the state"
+    },
+    {
+      "id": "LC189-214.53",
+      "size": 4180,
+      "subject": "Educational sociology"
+    },
+    {
+      "id": "LC212-212.863",
+      "size": 679,
+      "subject": "Discrimination in education"
+    },
+    {
+      "id": "LC213-214.53",
+      "size": 960,
+      "subject": "Educational equalization.    Right to education"
+    },
+    {
+      "id": "LC212.9-212.93",
+      "size": 156,
+      "subject": "Sex differences in education"
+    },
+    {
+      "id": "LC71-120.4",
+      "size": 3600,
+      "subject": "Education and the state"
+    },
+    {
+      "id": "LC107-120.4",
+      "size": 366,
+      "subject": "Public school question.    Secularization."
+    },
+    {
+      "id": "LC72-72.5",
+      "size": 163,
+      "subject": "Academic freedom"
+    },
+    {
+      "id": "LC142-148.5",
+      "size": 1427,
+      "subject": "Attendance.    Dropouts"
+    },
+    {
+      "id": "LC241-245",
+      "size": 119,
+      "subject": "Foundations, endowments, funds"
+    },
+    {
+      "id": "LC149-161",
+      "size": 1707,
+      "subject": "Literacy.    Illiteracy"
+    },
+    {
+      "id": "LC65-67.68",
+      "size": 1123,
+      "subject": "Economic aspects of education"
+    },
+    {
+      "id": "LC129-139",
+      "size": 434,
+      "subject": "Compulsory education"
+    },
+    {
+      "id": "LC68-70",
+      "size": 83,
+      "subject": "Demographic aspects of education"
+    },
+    {
+      "id": "LC184-188",
+      "size": 6,
+      "subject": "Taxation of schools and colleges"
+    },
+    {
+      "id": "LC251-951",
+      "size": 0,
+      "subject": "Moral and religious education"
+    },
+    {
+      "id": "LC251-318",
+      "size": 1481,
+      "subject": "Moral education.    Character building"
+    },
+    {
+      "id": "LC321-951",
+      "size": 34,
+      "subject": "Religion and education.    Education under"
+    },
+    {
+      "id": "LC361-629",
+      "size": 491,
+      "subject": "Christian education.    Church education"
+    },
+    {
+      "id": "LC531-629",
+      "size": 295,
+      "subject": "Protestant"
+    },
+    {
+      "id": "LC461-510",
+      "size": 1082,
+      "subject": "Roman Catholic"
+    },
+    {
+      "id": "LC446-454",
+      "size": 20,
+      "subject": "Orthodox Eastern Church"
+    },
+    {
+      "id": "LC901-915",
+      "size": 676,
+      "subject": "Islamic education"
+    },
+    {
+      "id": "LC701-775",
+      "size": 350,
+      "subject": "Jewish education"
+    },
+    {
+      "id": "LC921-929.7",
+      "size": 7,
+      "subject": "Buddhist education"
+    },
+    {
+      "id": "LC951",
+      "size": 1,
+      "subject": "Other"
+    },
+    {
+      "id": "LC8-59",
+      "size": 1286,
+      "subject": "Forms of education"
+    },
+    {
+      "id": "LC47-58.7",
+      "size": 0,
+      "subject": "Private school education"
+    },
+    {
+      "id": "LC58-58.7",
+      "size": 29,
+      "subject": "Preparatory schools.    Preparatory school"
+    },
+    {
+      "id": "LC25-33",
+      "size": 172,
+      "subject": "Self-education.    Self-culture"
+    },
+    {
+      "id": "LC45-45.8",
+      "size": 280,
+      "subject": "Nonformal education"
+    },
+    {
+      "id": "LC5161-5163",
+      "size": 169,
+      "subject": "Fundamental education"
+    },
+    {
+      "id": "LC6691",
+      "size": 1,
+      "subject": "Traveling educational exhibits"
+    },
+    {
+      "id": "LC6681",
+      "size": 31,
+      "subject": "Education and travel"
+    },
+    {
+      "id": "L7-991",
+      "size": 157,
+      "subject": "Education (General)"
+    },
+    {
+      "id": "L900-991",
+      "size": 2517,
+      "subject": "Directories of educational institutions"
+    },
+    {
+      "id": "L111-791",
+      "size": 5137,
+      "subject": "Official documents, reports, etc."
+    },
+    {
+      "id": "L107",
+      "size": 140,
+      "subject": "Congresses"
+    },
+    {
+      "id": "L7-97",
+      "size": 3112,
+      "subject": "Periodicals.    Societies"
+    },
+    {
+      "id": "L797-898",
+      "size": 39,
+      "subject": "Educational exhibitions and museums"
+    },
+    {
+      "id": "L101",
+      "size": 70,
+      "subject": "Yearbooks"
+    },
+    {
+      "id": "L899",
+      "size": 2,
+      "subject": "School fairs"
+    },
+    {
+      "id": "LF",
+      "size": 0,
+      "subject": "Individual institutions"
+    },
+    {
+      "id": "LF14-5627",
+      "size": 1,
+      "subject": "Individual institutions"
+    },
+    {
+      "id": "LF14-1257",
+      "size": 1533,
+      "subject": "Great Britain"
+    },
+    {
+      "id": "LF2402-3197",
+      "size": 1291,
+      "subject": "Germany"
+    },
+    {
+      "id": "LF4440-4441",
+      "size": 57,
+      "subject": "Estonia"
+    },
+    {
+      "id": "LF1541-1549",
+      "size": 31,
+      "subject": "Czech Republic"
+    },
+    {
+      "id": "LF5051-5627",
+      "size": 374,
+      "subject": "Turkey and the Baltic states"
+    },
+    {
+      "id": "LF4610-4827",
+      "size": 382,
+      "subject": "Spain"
+    },
+    {
+      "id": "LF1311-1537",
+      "size": 226,
+      "subject": "Austria"
+    },
+    {
+      "id": "LF1711-2397",
+      "size": 280,
+      "subject": "France"
+    },
+    {
+      "id": "LF3211-3247",
+      "size": 39,
+      "subject": "Greece"
+    },
+    {
+      "id": "LF4211-4437",
+      "size": 525,
+      "subject": "Russia (Federation)"
+    },
+    {
+      "id": "LF4493-4537",
+      "size": 71,
+      "subject": "Norway"
+    },
+    {
+      "id": "LF4901-5047",
+      "size": 123,
+      "subject": "Switzerland"
+    },
+    {
+      "id": "LF4539-4607",
+      "size": 140,
+      "subject": "Sweden"
+    },
+    {
+      "id": "LF3248-3897",
+      "size": 379,
+      "subject": "Italy"
+    },
+    {
+      "id": "LF1705-1709",
+      "size": 98,
+      "subject": "Finland"
+    },
+    {
+      "id": "LF4203-4209",
+      "size": 292,
+      "subject": "Poland"
+    },
+    {
+      "id": "LF4449.2-4449.5",
+      "size": 87,
+      "subject": "Ukraine"
+    },
+    {
+      "id": "LF1561-1697",
+      "size": 105,
+      "subject": "Hungary"
+    },
+    {
+      "id": "LF4489-4491",
+      "size": 18,
+      "subject": "Iceland"
+    },
+    {
+      "id": "LF3911-4067",
+      "size": 112,
+      "subject": "Belgium"
+    },
+    {
+      "id": "LF4071-4197",
+      "size": 145,
+      "subject": "Netherlands"
+    },
+    {
+      "id": "LF4451-4487",
+      "size": 92,
+      "subject": "Denmark"
+    },
+    {
+      "id": "LF4831-4887",
+      "size": 103,
+      "subject": "Portugal"
+    },
+    {
+      "id": "LF4445-4446",
+      "size": 66,
+      "subject": "Lithuania"
+    },
+    {
+      "id": "LF4443-4444",
+      "size": 32,
+      "subject": "Latvia"
+    },
+    {
+      "id": "LF4447.2-4447.5",
+      "size": 16,
+      "subject": "Belarus"
+    },
+    {
+      "id": "LF4488-4488.2",
+      "size": 2,
+      "subject": "Faroe Islands"
+    },
+    {
+      "id": "LF1550-1550.8",
+      "size": 7,
+      "subject": "Slovakia"
+    },
+    {
+      "id": "LF4448-4448.5",
+      "size": 12,
+      "subject": "Moldova"
+    },
+    {
+      "id": "LF3899",
+      "size": 4,
+      "subject": "Malta"
+    },
+    {
+      "id": "LG",
+      "size": 0,
+      "subject": "Individual institutions"
+    },
+    {
+      "id": "LG21-961",
+      "size": 24,
+      "subject": "Individual institutions"
+    },
+    {
+      "id": "LG55-57",
+      "size": 70,
+      "subject": "Taiwan"
+    },
+    {
+      "id": "LG240-277",
+      "size": 662,
+      "subject": "Japan"
+    },
+    {
+      "id": "LG200-227",
+      "size": 126,
+      "subject": "Philippines"
+    },
+    {
+      "id": "LG181-184",
+      "size": 225,
+      "subject": "Indonesia"
+    },
+    {
+      "id": "LG60-170.2",
+      "size": 504,
+      "subject": "India.    Pakistan.    Bangladesh.    Burma.    Sri"
+    },
+    {
+      "id": "LG401-681",
+      "size": 69,
+      "subject": "Africa"
+    },
+    {
+      "id": "LG581-593",
+      "size": 36,
+      "subject": "German Africa (Former)"
+    },
+    {
+      "id": "LG405-411",
+      "size": 69,
+      "subject": "South Africa"
+    },
+    {
+      "id": "LG431-438",
+      "size": 18,
+      "subject": "Natal"
+    },
+    {
+      "id": "LG481-505",
+      "size": 25,
+      "subject": "West Africa"
+    },
+    {
+      "id": "LG481-483",
+      "size": 209,
+      "subject": "Nigeria"
+    },
+    {
+      "id": "LG497-499",
+      "size": 22,
+      "subject": "Ghana"
+    },
+    {
+      "id": "LG641-651",
+      "size": 12,
+      "subject": "Portuguese Africa (Former)"
+    },
+    {
+      "id": "LG615",
+      "size": 31,
+      "subject": "Zaire"
+    },
+    {
+      "id": "LG513-514",
+      "size": 15,
+      "subject": "Sudan"
+    },
+    {
+      "id": "LG621",
+      "size": 19,
+      "subject": "Liberia"
+    },
+    {
+      "id": "LG471-475",
+      "size": 44,
+      "subject": "Transvaal"
+    },
+    {
+      "id": "LG521",
+      "size": 6,
+      "subject": "Algeria and Tunisia"
+    },
+    {
+      "id": "LG511",
+      "size": 68,
+      "subject": "Egypt"
+    },
+    {
+      "id": "LG421-423",
+      "size": 47,
+      "subject": "Uganda"
+    },
+    {
+      "id": "LG418",
+      "size": 58,
+      "subject": "Kenya"
+    },
+    {
+      "id": "LG468",
+      "size": 31,
+      "subject": "Tanzania"
+    },
+    {
+      "id": "LG469",
+      "size": 34,
+      "subject": "Zambia"
+    },
+    {
+      "id": "LG401",
+      "size": 23,
+      "subject": "Ethiopia"
+    },
+    {
+      "id": "LG451",
+      "size": 2,
+      "subject": "Orange Free State"
+    },
+    {
+      "id": "LG631-632",
+      "size": 10,
+      "subject": "Morocco"
+    },
+    {
+      "id": "LG561",
+      "size": 2,
+      "subject": "Mali"
+    },
+    {
+      "id": "LG441-443",
+      "size": 9,
+      "subject": "Malawi"
+    },
+    {
+      "id": "LG461-462",
+      "size": 24,
+      "subject": "Zimbabwe"
+    },
+    {
+      "id": "LG681",
+      "size": 4,
+      "subject": "Libya"
+    },
+    {
+      "id": "LG559-560",
+      "size": 6,
+      "subject": "Ivory Coast"
+    },
+    {
+      "id": "LG478",
+      "size": 3,
+      "subject": "Zululand"
+    },
+    {
+      "id": "LG525",
+      "size": 9,
+      "subject": "Burundi"
+    },
+    {
+      "id": "LG454",
+      "size": 10,
+      "subject": "Swaziland"
+    },
+    {
+      "id": "LG551-552",
+      "size": 11,
+      "subject": "Senegal"
+    },
+    {
+      "id": "LG545-547",
+      "size": 11,
+      "subject": "Rwanda"
+    },
+    {
+      "id": "LG601-611",
+      "size": 3,
+      "subject": "Italian Africa (Former)"
+    },
+    {
+      "id": "LG541-543",
+      "size": 4,
+      "subject": "Madagascar"
+    },
+    {
+      "id": "LG416",
+      "size": 16,
+      "subject": "Botswana"
+    },
+    {
+      "id": "LG531-536",
+      "size": 7,
+      "subject": "French Equatorial Africa.    French Congo"
+    },
+    {
+      "id": "LG419",
+      "size": 18,
+      "subject": "Lesotho"
+    },
+    {
+      "id": "LG459",
+      "size": 2,
+      "subject": "Venda"
+    },
+    {
+      "id": "LG457",
+      "size": 1,
+      "subject": "Transkei"
+    },
+    {
+      "id": "LG671",
+      "size": 1,
+      "subject": "Spanish Africa"
+    },
+    {
+      "id": "LG553-554",
+      "size": 1,
+      "subject": "Benin"
+    },
+    {
+      "id": "LG51-53",
+      "size": 767,
+      "subject": "China"
+    },
+    {
+      "id": "LG302.2-320",
+      "size": 47,
+      "subject": "Former Soviet republics in Asia"
+    },
+    {
+      "id": "LG715-720",
+      "size": 194,
+      "subject": "Australia"
+    },
+    {
+      "id": "LG961",
+      "size": 78,
+      "subject": "Pacific islands"
+    },
+    {
+      "id": "LG331-331.5",
+      "size": 29,
+      "subject": "Armenia (Republic)"
+    },
+    {
+      "id": "LG741-745",
+      "size": 139,
+      "subject": "New Zealand"
+    },
+    {
+      "id": "LG173",
+      "size": 58,
+      "subject": "Malaysia"
+    },
+    {
+      "id": "LG361-367",
+      "size": 10,
+      "subject": "Syria"
+    },
+    {
+      "id": "LG351-357",
+      "size": 44,
+      "subject": "Lebanon"
+    },
+    {
+      "id": "LG341-345",
+      "size": 192,
+      "subject": "Israel.    Palestine"
+    },
+    {
+      "id": "LG171-172",
+      "size": 38,
+      "subject": "Indochina"
+    },
+    {
+      "id": "LG281-285",
+      "size": 291,
+      "subject": "Korea"
+    },
+    {
+      "id": "LG291",
+      "size": 10,
+      "subject": "Iran"
+    },
+    {
+      "id": "LG395",
+      "size": 146,
+      "subject": "Other"
+    },
+    {
+      "id": "LG185-187",
+      "size": 8,
+      "subject": "Papua-New Guinea (Ter.)"
+    },
+    {
+      "id": "LG338",
+      "size": 12,
+      "subject": "Iraq"
+    },
+    {
+      "id": "LG21-395",
+      "size": 51,
+      "subject": "Asia"
+    },
+    {
+      "id": "LG690",
+      "size": 16,
+      "subject": "Indian Ocean islands"
+    },
+    {
+      "id": "LG21",
+      "size": 1,
+      "subject": "Afghanistan"
+    },
+    {
+      "id": "LG347",
+      "size": 8,
+      "subject": "Kuwait"
+    },
+    {
+      "id": "LG346",
+      "size": 17,
+      "subject": "Jordan"
+    },
+    {
+      "id": "LG332.2-332.5",
+      "size": 10,
+      "subject": "Azerbaijan"
+    },
+    {
+      "id": "LG370",
+      "size": 13,
+      "subject": "Yeman (Yemen Arab Republic)"
+    },
+    {
+      "id": "LG358",
+      "size": 12,
+      "subject": "Qatar"
+    },
+    {
+      "id": "LG332.7-332.9",
+      "size": 14,
+      "subject": "Georgia (Republic)"
+    },
+    {
+      "id": "LG359",
+      "size": 13,
+      "subject": "Saudi Arabia"
+    },
+    {
+      "id": "LG333",
+      "size": 4,
+      "subject": "Bahrain"
+    },
+    {
+      "id": "LJ",
+      "size": 0,
+      "subject": "Student fraternities and societies, United States"
+    },
+    {
+      "id": "LJ3-165",
+      "size": 515,
+      "subject": "Student fraternities and societies, United States"
+    },
+    {
+      "id": "LE",
+      "size": 0,
+      "subject": "America (except United States)"
+    },
+    {
+      "id": "LE3-78",
+      "size": 0,
+      "subject": "America (except United States)"
+    },
+    {
+      "id": "LE15-17",
+      "size": 162,
+      "subject": "West Indies"
+    },
+    {
+      "id": "LE21-78",
+      "size": 0,
+      "subject": "South America"
+    },
+    {
+      "id": "LE66-68",
+      "size": 95,
+      "subject": "Peru"
+    },
+    {
+      "id": "LE36-38",
+      "size": 85,
+      "subject": "Chile"
+    },
+    {
+      "id": "LE31-33",
+      "size": 580,
+      "subject": "Brazil"
+    },
+    {
+      "id": "LE21-23",
+      "size": 219,
+      "subject": "Argentina"
+    },
+    {
+      "id": "LE76-78",
+      "size": 115,
+      "subject": "Venezuela"
+    },
+    {
+      "id": "LE27-29",
+      "size": 55,
+      "subject": "Bolivia"
+    },
+    {
+      "id": "LE41-43",
+      "size": 146,
+      "subject": "Colombia"
+    },
+    {
+      "id": "LE46-48",
+      "size": 38,
+      "subject": "Ecuador"
+    },
+    {
+      "id": "LE71-73",
+      "size": 31,
+      "subject": "Uruguay"
+    },
+    {
+      "id": "LE61-63",
+      "size": 16,
+      "subject": "Paraguay"
+    },
+    {
+      "id": "LE51-59",
+      "size": 13,
+      "subject": "Guianas"
+    },
+    {
+      "id": "LE7-9",
+      "size": 651,
+      "subject": "Mexico"
+    },
+    {
+      "id": "LE3-5",
+      "size": 319,
+      "subject": "Canada"
+    },
+    {
+      "id": "LE11-13",
+      "size": 148,
+      "subject": "Central America"
+    },
+    {
+      "id": "LH",
+      "size": 0,
+      "subject": "College and school magazines and papers"
+    },
+    {
+      "id": "LH1-9",
+      "size": 892,
+      "subject": "College and school magazines and papers"
+    }
+  ],
+  "links": [
+    {
+      "source": "L",
+      "target": "LB"
+    },
+    {
+      "source": "LB",
+      "target": "LB5-3640"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB1141-1489"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB3401-3495"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB3201-3325"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB1705-2286"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB1555-1602"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB51-885"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB1603-1696.6"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB2300-2430"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB1025-1050.75"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB1050.9-1091"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB2801-3095"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB5-45"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB1139.2-1139.5"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB1140-1140.5"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB1501-1547"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB1101-1139"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB3602-3640"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB3525-3575"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB3497-3499"
+    },
+    {
+      "source": "LB5-3640",
+      "target": "LB2799-2799.3"
+    },
+    {
+      "source": "LB1705-2286",
+      "target": "LB1805-2151"
+    },
+    {
+      "source": "LB1705-2286",
+      "target": "LB1775-1785"
+    },
+    {
+      "source": "LB1705-2286",
+      "target": "LB1771-1773"
+    },
+    {
+      "source": "LB1705-2286",
+      "target": "LB2165-2278"
+    },
+    {
+      "source": "LB1805-2151",
+      "target": "LB1811-1987"
+    },
+    {
+      "source": "LB1805-2151",
+      "target": "LB1991-2151"
+    },
+    {
+      "source": "LB2300-2430",
+      "target": "LB2341-2341.95"
+    },
+    {
+      "source": "LB2300-2430",
+      "target": "LB2331.7-2335.8"
+    },
+    {
+      "source": "LB2300-2430",
+      "target": "LB2326.4-2330"
+    },
+    {
+      "source": "LB2300-2430",
+      "target": "LB2361-2365"
+    },
+    {
+      "source": "LB2300-2430",
+      "target": "LB2371-2372"
+    },
+    {
+      "source": "LB2300-2430",
+      "target": "LB2351-2359"
+    },
+    {
+      "source": "LB2300-2430",
+      "target": "LB2337.2-2340.8"
+    },
+    {
+      "source": "LB2300-2430",
+      "target": "LB2366-2367.75"
+    },
+    {
+      "source": "LB2300-2430",
+      "target": "LB2335.86-2335.885"
+    },
+    {
+      "source": "LB2300-2430",
+      "target": "LB2381-2391"
+    },
+    {
+      "source": "LB2300-2430",
+      "target": "LB2335.95-2337"
+    },
+    {
+      "source": "LB1025-1050.75",
+      "target": "LB1049.9-1050.75"
+    },
+    {
+      "source": "LB2801-3095",
+      "target": "LB3011-3095"
+    },
+    {
+      "source": "LB2801-3095",
+      "target": "LB2832-2844.1"
+    },
+    {
+      "source": "LB2801-3095",
+      "target": "LB2831.6-2831.99"
+    },
+    {
+      "source": "LB2801-3095",
+      "target": "LB2844.52-2844.63"
+    },
+    {
+      "source": "LB3011-3095",
+      "target": "LB3050-3060.87"
+    },
+    {
+      "source": "LB3011-3095",
+      "target": "LB3045-3048"
+    },
+    {
+      "source": "L",
+      "target": "LT"
+    },
+    {
+      "source": "LT",
+      "target": "LT6-1001"
+    },
+    {
+      "source": "L",
+      "target": "LA"
+    },
+    {
+      "source": "LA",
+      "target": "LA5-2396"
+    },
+    {
+      "source": "LA5-2396",
+      "target": "LA201-398"
+    },
+    {
+      "source": "LA5-2396",
+      "target": "LA2301-2396"
+    },
+    {
+      "source": "LA5-2396",
+      "target": "LA5-25"
+    },
+    {
+      "source": "LA5-2396",
+      "target": "LA173-186"
+    },
+    {
+      "source": "LA5-2396",
+      "target": "LA410-2284"
+    },
+    {
+      "source": "LA5-2396",
+      "target": "LA31-135"
+    },
+    {
+      "source": "L",
+      "target": "LD"
+    },
+    {
+      "source": "LD",
+      "target": "LD13-7501"
+    },
+    {
+      "source": "LD13-7501",
+      "target": "LD13-7251"
+    },
+    {
+      "source": "LD13-7501",
+      "target": "LD7501"
+    },
+    {
+      "source": "LD13-7501",
+      "target": "LD6501"
+    },
+    {
+      "source": "L",
+      "target": "LC"
+    },
+    {
+      "source": "LC",
+      "target": "LC8-6691"
+    },
+    {
+      "source": "LC8-6691",
+      "target": "LC1390-5160.3"
+    },
+    {
+      "source": "LC8-6691",
+      "target": "LC5201-6660.4"
+    },
+    {
+      "source": "LC8-6691",
+      "target": "LC980-1099.5"
+    },
+    {
+      "source": "LC8-6691",
+      "target": "LC1200-1203"
+    },
+    {
+      "source": "LC8-6691",
+      "target": "LC65-245"
+    },
+    {
+      "source": "LC8-6691",
+      "target": "LC251-951"
+    },
+    {
+      "source": "LC8-6691",
+      "target": "LC8-59"
+    },
+    {
+      "source": "LC8-6691",
+      "target": "LC47-58.7"
+    },
+    {
+      "source": "LC8-6691",
+      "target": "LC25-33"
+    },
+    {
+      "source": "LC8-6691",
+      "target": "LC45-45.8"
+    },
+    {
+      "source": "LC8-6691",
+      "target": "LC5161-5163"
+    },
+    {
+      "source": "LC8-6691",
+      "target": "LC6691"
+    },
+    {
+      "source": "LC8-6691",
+      "target": "LC6681"
+    },
+    {
+      "source": "LC1390-5160.3",
+      "target": "LC2699-2913"
+    },
+    {
+      "source": "LC1390-5160.3",
+      "target": "LC3950-4806.5"
+    },
+    {
+      "source": "LC1390-5160.3",
+      "target": "LC4812-5160.3"
+    },
+    {
+      "source": "LC1390-5160.3",
+      "target": "LC2667-2698"
+    },
+    {
+      "source": "LC1390-5160.3",
+      "target": "LC1401-2572"
+    },
+    {
+      "source": "LC1390-5160.3",
+      "target": "LC3701-3740"
+    },
+    {
+      "source": "LC1390-5160.3",
+      "target": "LC2601-2611"
+    },
+    {
+      "source": "LC1390-5160.3",
+      "target": "LC1390"
+    },
+    {
+      "source": "LC1390-5160.3",
+      "target": "LC2580-2582"
+    },
+    {
+      "source": "LC1390-5160.3",
+      "target": "LC3001-3501"
+    },
+    {
+      "source": "LC1390-5160.3",
+      "target": "LC3551-3593"
+    },
+    {
+      "source": "LC1390-5160.3",
+      "target": "LC3745-3747"
+    },
+    {
+      "source": "LC1390-5160.3",
+      "target": "LC3503-3520"
+    },
+    {
+      "source": "LC1390-5160.3",
+      "target": "LC2630-2638"
+    },
+    {
+      "source": "LC1390-5160.3",
+      "target": "LC3530-3540"
+    },
+    {
+      "source": "LC1390-5160.3",
+      "target": "LC2574-2576"
+    },
+    {
+      "source": "LC3950-4806.5",
+      "target": "LC4001-4806.5"
+    },
+    {
+      "source": "LC3950-4806.5",
+      "target": "LC3991-4000"
+    },
+    {
+      "source": "LC2667-2698",
+      "target": "LC2680-2688"
+    },
+    {
+      "source": "LC2667-2698",
+      "target": "LC2690-2698"
+    },
+    {
+      "source": "LC5201-6660.4",
+      "target": "LC6501-6560.4"
+    },
+    {
+      "source": "LC5201-6660.4",
+      "target": "LC5800-5808"
+    },
+    {
+      "source": "LC5201-6660.4",
+      "target": "LC6571-6581"
+    },
+    {
+      "source": "LC5201-6660.4",
+      "target": "LC6601-6660.4"
+    },
+    {
+      "source": "LC5201-6660.4",
+      "target": "LC6201-6401"
+    },
+    {
+      "source": "LC5201-6660.4",
+      "target": "LC5451-5493"
+    },
+    {
+      "source": "LC5201-6660.4",
+      "target": "LC5701-5771"
+    },
+    {
+      "source": "LC5201-6660.4",
+      "target": "LC5900-6101"
+    },
+    {
+      "source": "LC5201-6660.4",
+      "target": "LC5501-5560"
+    },
+    {
+      "source": "LC980-1099.5",
+      "target": "LC1037-1037.8"
+    },
+    {
+      "source": "LC980-1099.5",
+      "target": "LC1031-1034.5"
+    },
+    {
+      "source": "LC980-1099.5",
+      "target": "LC1099-1099.5"
+    },
+    {
+      "source": "LC980-1099.5",
+      "target": "LC1090-1091"
+    },
+    {
+      "source": "LC980-1099.5",
+      "target": "LC1051-1072"
+    },
+    {
+      "source": "LC980-1099.5",
+      "target": "LC1041-1048"
+    },
+    {
+      "source": "LC980-1099.5",
+      "target": "LC1001-1024"
+    },
+    {
+      "source": "LC980-1099.5",
+      "target": "LC1049-1049.8"
+    },
+    {
+      "source": "LC980-1099.5",
+      "target": "LC1081-1087.4"
+    },
+    {
+      "source": "LC980-1099.5",
+      "target": "LC1035-1035.8"
+    },
+    {
+      "source": "LC980-1099.5",
+      "target": "LC1036-1036.8"
+    },
+    {
+      "source": "LC980-1099.5",
+      "target": "LC1030"
+    },
+    {
+      "source": "LC980-1099.5",
+      "target": "LC1025-1027"
+    },
+    {
+      "source": "LC1001-1024",
+      "target": "LC1022-1022.25"
+    },
+    {
+      "source": "LC65-245",
+      "target": "LC215-238.4"
+    },
+    {
+      "source": "LC65-245",
+      "target": "LC165-182"
+    },
+    {
+      "source": "LC65-245",
+      "target": "LC189-214.53"
+    },
+    {
+      "source": "LC65-245",
+      "target": "LC71-120.4"
+    },
+    {
+      "source": "LC65-245",
+      "target": "LC142-148.5"
+    },
+    {
+      "source": "LC65-245",
+      "target": "LC241-245"
+    },
+    {
+      "source": "LC65-245",
+      "target": "LC149-161"
+    },
+    {
+      "source": "LC65-245",
+      "target": "LC65-67.68"
+    },
+    {
+      "source": "LC65-245",
+      "target": "LC129-139"
+    },
+    {
+      "source": "LC65-245",
+      "target": "LC68-70"
+    },
+    {
+      "source": "LC65-245",
+      "target": "LC184-188"
+    },
+    {
+      "source": "LC215-238.4",
+      "target": "LC225-226.7"
+    },
+    {
+      "source": "LC215-238.4",
+      "target": "LC237-238.4"
+    },
+    {
+      "source": "LC215-238.4",
+      "target": "LC230-235"
+    },
+    {
+      "source": "LC215-238.4",
+      "target": "LC223"
+    },
+    {
+      "source": "LC189-214.53",
+      "target": "LC212-212.863"
+    },
+    {
+      "source": "LC189-214.53",
+      "target": "LC213-214.53"
+    },
+    {
+      "source": "LC189-214.53",
+      "target": "LC212.9-212.93"
+    },
+    {
+      "source": "LC71-120.4",
+      "target": "LC107-120.4"
+    },
+    {
+      "source": "LC71-120.4",
+      "target": "LC72-72.5"
+    },
+    {
+      "source": "LC251-951",
+      "target": "LC251-318"
+    },
+    {
+      "source": "LC251-951",
+      "target": "LC321-951"
+    },
+    {
+      "source": "LC321-951",
+      "target": "LC361-629"
+    },
+    {
+      "source": "LC321-951",
+      "target": "LC901-915"
+    },
+    {
+      "source": "LC321-951",
+      "target": "LC701-775"
+    },
+    {
+      "source": "LC321-951",
+      "target": "LC921-929.7"
+    },
+    {
+      "source": "LC321-951",
+      "target": "LC951"
+    },
+    {
+      "source": "LC361-629",
+      "target": "LC531-629"
+    },
+    {
+      "source": "LC361-629",
+      "target": "LC461-510"
+    },
+    {
+      "source": "LC361-629",
+      "target": "LC446-454"
+    },
+    {
+      "source": "LC47-58.7",
+      "target": "LC58-58.7"
+    },
+    {
+      "source": "L",
+      "target": "L7-991"
+    },
+    {
+      "source": "L7-991",
+      "target": "L900-991"
+    },
+    {
+      "source": "L7-991",
+      "target": "L111-791"
+    },
+    {
+      "source": "L7-991",
+      "target": "L107"
+    },
+    {
+      "source": "L7-991",
+      "target": "L7-97"
+    },
+    {
+      "source": "L7-991",
+      "target": "L797-898"
+    },
+    {
+      "source": "L7-991",
+      "target": "L101"
+    },
+    {
+      "source": "L7-991",
+      "target": "L899"
+    },
+    {
+      "source": "L",
+      "target": "LF"
+    },
+    {
+      "source": "LF",
+      "target": "LF14-5627"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF14-1257"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF2402-3197"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF4440-4441"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF1541-1549"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF5051-5627"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF4610-4827"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF1311-1537"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF1711-2397"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF3211-3247"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF4211-4437"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF4493-4537"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF4901-5047"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF4539-4607"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF3248-3897"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF1705-1709"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF4203-4209"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF4449.2-4449.5"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF1561-1697"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF4489-4491"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF3911-4067"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF4071-4197"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF4451-4487"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF4831-4887"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF4445-4446"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF4443-4444"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF4447.2-4447.5"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF4488-4488.2"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF1550-1550.8"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF4448-4448.5"
+    },
+    {
+      "source": "LF14-5627",
+      "target": "LF3899"
+    },
+    {
+      "source": "L",
+      "target": "LG"
+    },
+    {
+      "source": "LG",
+      "target": "LG21-961"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG55-57"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG240-277"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG200-227"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG181-184"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG60-170.2"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG401-681"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG51-53"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG302.2-320"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG715-720"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG961"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG331-331.5"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG741-745"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG173"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG361-367"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG351-357"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG341-345"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG171-172"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG281-285"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG291"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG395"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG185-187"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG338"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG21-395"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG690"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG21"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG347"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG346"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG332.2-332.5"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG370"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG358"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG332.7-332.9"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG359"
+    },
+    {
+      "source": "LG21-961",
+      "target": "LG333"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG581-593"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG405-411"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG431-438"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG481-505"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG641-651"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG615"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG513-514"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG621"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG471-475"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG521"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG511"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG421-423"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG418"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG468"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG469"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG401"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG451"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG631-632"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG561"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG441-443"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG461-462"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG681"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG559-560"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG478"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG525"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG454"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG551-552"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG545-547"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG601-611"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG541-543"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG416"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG531-536"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG419"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG459"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG457"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG671"
+    },
+    {
+      "source": "LG401-681",
+      "target": "LG553-554"
+    },
+    {
+      "source": "LG481-505",
+      "target": "LG481-483"
+    },
+    {
+      "source": "LG481-505",
+      "target": "LG497-499"
+    },
+    {
+      "source": "L",
+      "target": "LJ"
+    },
+    {
+      "source": "LJ",
+      "target": "LJ3-165"
+    },
+    {
+      "source": "L",
+      "target": "LE"
+    },
+    {
+      "source": "LE",
+      "target": "LE3-78"
+    },
+    {
+      "source": "LE3-78",
+      "target": "LE15-17"
+    },
+    {
+      "source": "LE3-78",
+      "target": "LE21-78"
+    },
+    {
+      "source": "LE3-78",
+      "target": "LE7-9"
+    },
+    {
+      "source": "LE3-78",
+      "target": "LE3-5"
+    },
+    {
+      "source": "LE3-78",
+      "target": "LE11-13"
+    },
+    {
+      "source": "LE21-78",
+      "target": "LE66-68"
+    },
+    {
+      "source": "LE21-78",
+      "target": "LE36-38"
+    },
+    {
+      "source": "LE21-78",
+      "target": "LE31-33"
+    },
+    {
+      "source": "LE21-78",
+      "target": "LE21-23"
+    },
+    {
+      "source": "LE21-78",
+      "target": "LE76-78"
+    },
+    {
+      "source": "LE21-78",
+      "target": "LE27-29"
+    },
+    {
+      "source": "LE21-78",
+      "target": "LE41-43"
+    },
+    {
+      "source": "LE21-78",
+      "target": "LE46-48"
+    },
+    {
+      "source": "LE21-78",
+      "target": "LE71-73"
+    },
+    {
+      "source": "LE21-78",
+      "target": "LE61-63"
+    },
+    {
+      "source": "LE21-78",
+      "target": "LE51-59"
+    },
+    {
+      "source": "L",
+      "target": "LH"
+    },
+    {
+      "source": "LH",
+      "target": "LH1-9"
+    }
+  ],
+  "maxCount": 33128
+}

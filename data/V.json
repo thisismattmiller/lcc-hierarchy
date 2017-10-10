@@ -1,0 +1,813 @@
+{
+  "nodes": [
+    {
+      "id": "V",
+      "size": 0,
+      "subject": "Naval Science"
+    },
+    {
+      "id": "VA",
+      "size": 0,
+      "subject": "Navies: Organization, distribution, naval situation"
+    },
+    {
+      "id": "VA10-750",
+      "size": 126,
+      "subject": "Navies: Organization, distribution, naval situation"
+    },
+    {
+      "id": "VA49-395",
+      "size": 1169,
+      "subject": "United States"
+    },
+    {
+      "id": "VA400-750",
+      "size": 2153,
+      "subject": "Other regions or countries"
+    },
+    {
+      "id": "VM",
+      "size": 0,
+      "subject": "Naval architecture.    Shipbuilding.    Marine engineering"
+    },
+    {
+      "id": "VM1-989",
+      "size": 2935,
+      "subject": "Naval architecture.    Shipbuilding.    Marine engineering"
+    },
+    {
+      "id": "VM311-466",
+      "size": 3035,
+      "subject": "Special types of vessels"
+    },
+    {
+      "id": "VM15-124",
+      "size": 854,
+      "subject": "History"
+    },
+    {
+      "id": "VM595-989",
+      "size": 1430,
+      "subject": "Marine engineering"
+    },
+    {
+      "id": "VM975-989",
+      "size": 234,
+      "subject": "ERROR, could not find"
+    },
+    {
+      "id": "VM298.5-301",
+      "size": 571,
+      "subject": "Shipbuilding industry.    Shipyards"
+    },
+    {
+      "id": "VM165-276",
+      "size": 23,
+      "subject": "Study and teaching"
+    },
+    {
+      "id": "VM295-296",
+      "size": 10,
+      "subject": "Contracts and specifications"
+    },
+    {
+      "id": "VK",
+      "size": 0,
+      "subject": "Navigation.    Merchant marine"
+    },
+    {
+      "id": "VK1-1661",
+      "size": 1473,
+      "subject": "Navigation.    Merchant marine"
+    },
+    {
+      "id": "VK1000-1249",
+      "size": 789,
+      "subject": "Lighthouse service"
+    },
+    {
+      "id": "VK401-529",
+      "size": 125,
+      "subject": "Study and teaching"
+    },
+    {
+      "id": "VK549-572",
+      "size": 912,
+      "subject": "Science of navigation"
+    },
+    {
+      "id": "VK15-124",
+      "size": 966,
+      "subject": "History, conditions, etc."
+    },
+    {
+      "id": "VK573-587",
+      "size": 147,
+      "subject": "Nautical instruments"
+    },
+    {
+      "id": "VK798-997",
+      "size": 1444,
+      "subject": "Sailing directions.    Pilot guides"
+    },
+    {
+      "id": "VK1300-1491",
+      "size": 347,
+      "subject": "Saving of life and property"
+    },
+    {
+      "id": "VK1250-1299",
+      "size": 349,
+      "subject": "Shipwrecks and fires"
+    },
+    {
+      "id": "VK381-397",
+      "size": 208,
+      "subject": "Signaling"
+    },
+    {
+      "id": "VK1299.5-1299.6",
+      "size": 9,
+      "subject": "Icebreaking operations"
+    },
+    {
+      "id": "VK588-597",
+      "size": 214,
+      "subject": "Marine hydrography.    Hydrographic surveying"
+    },
+    {
+      "id": "VK321-369.8",
+      "size": 91,
+      "subject": "Harbors.    Ports"
+    },
+    {
+      "id": "VK1500-1661",
+      "size": 99,
+      "subject": "Pilots and pilotage"
+    },
+    {
+      "id": "VK600-794",
+      "size": 191,
+      "subject": "Tide and current tables"
+    },
+    {
+      "id": "VG",
+      "size": 0,
+      "subject": "Minor services of navies"
+    },
+    {
+      "id": "VG20-2029",
+      "size": 222,
+      "subject": "Minor services of navies"
+    },
+    {
+      "id": "VG90-95",
+      "size": 570,
+      "subject": "Naval aviation"
+    },
+    {
+      "id": "VG50-55",
+      "size": 218,
+      "subject": "Coast guard and coast signal service"
+    },
+    {
+      "id": "VG100-475",
+      "size": 156,
+      "subject": "Medical service"
+    },
+    {
+      "id": "VG70-85",
+      "size": 40,
+      "subject": "Naval communication by telegraphy, telephone, etc."
+    },
+    {
+      "id": "VG20-25",
+      "size": 24,
+      "subject": "Chaplains"
+    },
+    {
+      "id": "VG2020-2029",
+      "size": 4,
+      "subject": "Recreation and information service"
+    },
+    {
+      "id": "VG500-505",
+      "size": 7,
+      "subject": "Public relations.    Press.    War    correspondents"
+    },
+    {
+      "id": "VG2000-2005",
+      "size": 1,
+      "subject": "Social work.    Social welfare services"
+    },
+    {
+      "id": "V1-995",
+      "size": 1895,
+      "subject": "Naval science (General)"
+    },
+    {
+      "id": "V750-995",
+      "size": 1698,
+      "subject": "War vessels: Construction, armament, etc."
+    },
+    {
+      "id": "V25-55",
+      "size": 313,
+      "subject": "History and antiquities of naval science"
+    },
+    {
+      "id": "V400-695",
+      "size": 424,
+      "subject": "Naval education"
+    },
+    {
+      "id": "V720-743",
+      "size": 137,
+      "subject": "Naval life, manners and customs, antiquities, etc."
+    },
+    {
+      "id": "V390-395",
+      "size": 84,
+      "subject": "Naval research"
+    },
+    {
+      "id": "V160-165",
+      "size": 87,
+      "subject": "Strategy"
+    },
+    {
+      "id": "V167-178",
+      "size": 51,
+      "subject": "Tactics"
+    },
+    {
+      "id": "V210-214.5",
+      "size": 125,
+      "subject": "Submarine warfare"
+    },
+    {
+      "id": "V396-396.5",
+      "size": 13,
+      "subject": "Military oceanography"
+    },
+    {
+      "id": "V399",
+      "size": 1,
+      "subject": "Automation in the naval sciences"
+    },
+    {
+      "id": "V66-69",
+      "size": 6,
+      "subject": "Navy clubs"
+    },
+    {
+      "id": "VB",
+      "size": 0,
+      "subject": "Naval administration"
+    },
+    {
+      "id": "VB15-955",
+      "size": 307,
+      "subject": "Naval administration"
+    },
+    {
+      "id": "VB310-315",
+      "size": 58,
+      "subject": "Officers"
+    },
+    {
+      "id": "VB21-124",
+      "size": 44,
+      "subject": "By region or country"
+    },
+    {
+      "id": "VB170-187",
+      "size": 17,
+      "subject": "Civil department"
+    },
+    {
+      "id": "VB260-275",
+      "size": 34,
+      "subject": "Enlisted personnel"
+    },
+    {
+      "id": "VB320-325",
+      "size": 35,
+      "subject": "Minorities, women, etc. in navies"
+    },
+    {
+      "id": "VB307-309",
+      "size": 3,
+      "subject": "Warrant officers"
+    },
+    {
+      "id": "VE",
+      "size": 0,
+      "subject": "Marines"
+    },
+    {
+      "id": "VE7-500",
+      "size": 172,
+      "subject": "Marines"
+    },
+    {
+      "id": "VE23-124",
+      "size": 475,
+      "subject": "By region or country"
+    },
+    {
+      "id": "VE160-302",
+      "size": 3,
+      "subject": "Drill regulations"
+    },
+    {
+      "id": "VE330-335",
+      "size": 1,
+      "subject": "Shooting"
+    },
+    {
+      "id": "VE430-435",
+      "size": 22,
+      "subject": "Training camps"
+    },
+    {
+      "id": "VE420-425",
+      "size": 4,
+      "subject": "Barracks, quarters, etc."
+    },
+    {
+      "id": "VF",
+      "size": 0,
+      "subject": "Naval ordnance"
+    },
+    {
+      "id": "VF1-580",
+      "size": 77,
+      "subject": "Naval ordnance"
+    },
+    {
+      "id": "VF350-375",
+      "size": 22,
+      "subject": "Ordnance and arms (General)"
+    },
+    {
+      "id": "VF346-348",
+      "size": 59,
+      "subject": "Naval weapons systems"
+    },
+    {
+      "id": "VF160-302",
+      "size": 22,
+      "subject": "Ordnance instructions and drill books"
+    },
+    {
+      "id": "VF21-124",
+      "size": 22,
+      "subject": "By region or country"
+    },
+    {
+      "id": "VF390-510",
+      "size": 20,
+      "subject": "Ordnance material (Ordnance proper)"
+    },
+    {
+      "id": "VF310-315",
+      "size": 3,
+      "subject": "Target practice"
+    },
+    {
+      "id": "VC",
+      "size": 0,
+      "subject": "Naval maintenance"
+    },
+    {
+      "id": "VC10-580",
+      "size": 45,
+      "subject": "Naval maintenance"
+    },
+    {
+      "id": "VC260-268",
+      "size": 99,
+      "subject": "Supplies and stores"
+    },
+    {
+      "id": "VC280-345",
+      "size": 69,
+      "subject": "Clothing and equipment"
+    },
+    {
+      "id": "VC270-279",
+      "size": 25,
+      "subject": "Equipment of vessels, supplies, allowances, etc."
+    },
+    {
+      "id": "VC20-258",
+      "size": 15,
+      "subject": "Organization of service"
+    },
+    {
+      "id": "VC350-410",
+      "size": 35,
+      "subject": "Subsistence.    Provisioning"
+    },
+    {
+      "id": "VC412-425",
+      "size": 12,
+      "subject": "Navy yards and stations.    Shore facilities"
+    },
+    {
+      "id": "VD",
+      "size": 0,
+      "subject": "Naval personnel"
+    },
+    {
+      "id": "VD7-430",
+      "size": 11,
+      "subject": "Naval personnel"
+    },
+    {
+      "id": "VD21-124",
+      "size": 13,
+      "subject": "By region or country"
+    },
+    {
+      "id": "VD360-390",
+      "size": 10,
+      "subject": "Small arms"
+    },
+    {
+      "id": "VD160-302",
+      "size": 1,
+      "subject": "Drill regulations"
+    },
+    {
+      "id": "VD330-335",
+      "size": 2,
+      "subject": "Shooting"
+    },
+    {
+      "id": "VD400-405",
+      "size": 2,
+      "subject": "Small boat service"
+    }
+  ],
+  "links": [
+    {
+      "source": "V",
+      "target": "VA"
+    },
+    {
+      "source": "VA",
+      "target": "VA10-750"
+    },
+    {
+      "source": "VA10-750",
+      "target": "VA49-395"
+    },
+    {
+      "source": "VA10-750",
+      "target": "VA400-750"
+    },
+    {
+      "source": "V",
+      "target": "VM"
+    },
+    {
+      "source": "VM",
+      "target": "VM1-989"
+    },
+    {
+      "source": "VM1-989",
+      "target": "VM311-466"
+    },
+    {
+      "source": "VM1-989",
+      "target": "VM15-124"
+    },
+    {
+      "source": "VM1-989",
+      "target": "VM595-989"
+    },
+    {
+      "source": "VM1-989",
+      "target": "VM298.5-301"
+    },
+    {
+      "source": "VM1-989",
+      "target": "VM165-276"
+    },
+    {
+      "source": "VM1-989",
+      "target": "VM295-296"
+    },
+    {
+      "source": "VM595-989",
+      "target": "VM975-989"
+    },
+    {
+      "source": "V",
+      "target": "VK"
+    },
+    {
+      "source": "VK",
+      "target": "VK1-1661"
+    },
+    {
+      "source": "VK1-1661",
+      "target": "VK1000-1249"
+    },
+    {
+      "source": "VK1-1661",
+      "target": "VK401-529"
+    },
+    {
+      "source": "VK1-1661",
+      "target": "VK549-572"
+    },
+    {
+      "source": "VK1-1661",
+      "target": "VK15-124"
+    },
+    {
+      "source": "VK1-1661",
+      "target": "VK573-587"
+    },
+    {
+      "source": "VK1-1661",
+      "target": "VK798-997"
+    },
+    {
+      "source": "VK1-1661",
+      "target": "VK1300-1491"
+    },
+    {
+      "source": "VK1-1661",
+      "target": "VK1250-1299"
+    },
+    {
+      "source": "VK1-1661",
+      "target": "VK381-397"
+    },
+    {
+      "source": "VK1-1661",
+      "target": "VK1299.5-1299.6"
+    },
+    {
+      "source": "VK1-1661",
+      "target": "VK588-597"
+    },
+    {
+      "source": "VK1-1661",
+      "target": "VK321-369.8"
+    },
+    {
+      "source": "VK1-1661",
+      "target": "VK1500-1661"
+    },
+    {
+      "source": "VK1-1661",
+      "target": "VK600-794"
+    },
+    {
+      "source": "V",
+      "target": "VG"
+    },
+    {
+      "source": "VG",
+      "target": "VG20-2029"
+    },
+    {
+      "source": "VG20-2029",
+      "target": "VG90-95"
+    },
+    {
+      "source": "VG20-2029",
+      "target": "VG50-55"
+    },
+    {
+      "source": "VG20-2029",
+      "target": "VG100-475"
+    },
+    {
+      "source": "VG20-2029",
+      "target": "VG70-85"
+    },
+    {
+      "source": "VG20-2029",
+      "target": "VG20-25"
+    },
+    {
+      "source": "VG20-2029",
+      "target": "VG2020-2029"
+    },
+    {
+      "source": "VG20-2029",
+      "target": "VG500-505"
+    },
+    {
+      "source": "VG20-2029",
+      "target": "VG2000-2005"
+    },
+    {
+      "source": "V",
+      "target": "V1-995"
+    },
+    {
+      "source": "V1-995",
+      "target": "V750-995"
+    },
+    {
+      "source": "V1-995",
+      "target": "V25-55"
+    },
+    {
+      "source": "V1-995",
+      "target": "V400-695"
+    },
+    {
+      "source": "V1-995",
+      "target": "V720-743"
+    },
+    {
+      "source": "V1-995",
+      "target": "V390-395"
+    },
+    {
+      "source": "V1-995",
+      "target": "V160-165"
+    },
+    {
+      "source": "V1-995",
+      "target": "V167-178"
+    },
+    {
+      "source": "V1-995",
+      "target": "V210-214.5"
+    },
+    {
+      "source": "V1-995",
+      "target": "V396-396.5"
+    },
+    {
+      "source": "V1-995",
+      "target": "V399"
+    },
+    {
+      "source": "V1-995",
+      "target": "V66-69"
+    },
+    {
+      "source": "V",
+      "target": "VB"
+    },
+    {
+      "source": "VB",
+      "target": "VB15-955"
+    },
+    {
+      "source": "VB15-955",
+      "target": "VB310-315"
+    },
+    {
+      "source": "VB15-955",
+      "target": "VB21-124"
+    },
+    {
+      "source": "VB15-955",
+      "target": "VB170-187"
+    },
+    {
+      "source": "VB15-955",
+      "target": "VB260-275"
+    },
+    {
+      "source": "VB15-955",
+      "target": "VB320-325"
+    },
+    {
+      "source": "VB15-955",
+      "target": "VB307-309"
+    },
+    {
+      "source": "V",
+      "target": "VE"
+    },
+    {
+      "source": "VE",
+      "target": "VE7-500"
+    },
+    {
+      "source": "VE7-500",
+      "target": "VE23-124"
+    },
+    {
+      "source": "VE7-500",
+      "target": "VE160-302"
+    },
+    {
+      "source": "VE7-500",
+      "target": "VE330-335"
+    },
+    {
+      "source": "VE7-500",
+      "target": "VE430-435"
+    },
+    {
+      "source": "VE7-500",
+      "target": "VE420-425"
+    },
+    {
+      "source": "V",
+      "target": "VF"
+    },
+    {
+      "source": "VF",
+      "target": "VF1-580"
+    },
+    {
+      "source": "VF1-580",
+      "target": "VF350-375"
+    },
+    {
+      "source": "VF1-580",
+      "target": "VF346-348"
+    },
+    {
+      "source": "VF1-580",
+      "target": "VF160-302"
+    },
+    {
+      "source": "VF1-580",
+      "target": "VF21-124"
+    },
+    {
+      "source": "VF1-580",
+      "target": "VF390-510"
+    },
+    {
+      "source": "VF1-580",
+      "target": "VF310-315"
+    },
+    {
+      "source": "V",
+      "target": "VC"
+    },
+    {
+      "source": "VC",
+      "target": "VC10-580"
+    },
+    {
+      "source": "VC10-580",
+      "target": "VC260-268"
+    },
+    {
+      "source": "VC10-580",
+      "target": "VC280-345"
+    },
+    {
+      "source": "VC10-580",
+      "target": "VC270-279"
+    },
+    {
+      "source": "VC10-580",
+      "target": "VC20-258"
+    },
+    {
+      "source": "VC10-580",
+      "target": "VC350-410"
+    },
+    {
+      "source": "VC10-580",
+      "target": "VC412-425"
+    },
+    {
+      "source": "V",
+      "target": "VD"
+    },
+    {
+      "source": "VD",
+      "target": "VD7-430"
+    },
+    {
+      "source": "VD7-430",
+      "target": "VD21-124"
+    },
+    {
+      "source": "VD7-430",
+      "target": "VD360-390"
+    },
+    {
+      "source": "VD7-430",
+      "target": "VD160-302"
+    },
+    {
+      "source": "VD7-430",
+      "target": "VD330-335"
+    },
+    {
+      "source": "VD7-430",
+      "target": "VD400-405"
+    }
+  ],
+  "maxCount": 3035
+}

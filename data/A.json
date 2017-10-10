@@ -1,0 +1,398 @@
+{
+  "nodes": [
+    {
+      "id": "A",
+      "size": 0,
+      "subject": "General Works"
+    },
+    {
+      "id": "AC",
+      "size": 0,
+      "subject": "Collections.  Series.  Collected works"
+    },
+    {
+      "id": "AC1-195",
+      "size": 0,
+      "subject": "Collections of monographs, essays, etc."
+    },
+    {
+      "id": "AC1-8",
+      "size": 3082,
+      "subject": "American and English"
+    },
+    {
+      "id": "AC9-195",
+      "size": 8267,
+      "subject": "Other languages"
+    },
+    {
+      "id": "AC1-999",
+      "size": 3,
+      "subject": "Collections.  Series.  Collected works"
+    },
+    {
+      "id": "AC901-995",
+      "size": 9289,
+      "subject": "Pamphlet collections"
+    },
+    {
+      "id": "AC801-895",
+      "size": 27,
+      "subject": "Inaugural and program dissertations"
+    },
+    {
+      "id": "AC999",
+      "size": 3,
+      "subject": "Scrapbooks"
+    },
+    {
+      "id": "AE",
+      "size": 0,
+      "subject": "Encyclopedias"
+    },
+    {
+      "id": "AE1-90",
+      "size": 330,
+      "subject": "Encyclopedias"
+    },
+    {
+      "id": "AE5-90",
+      "size": 1276,
+      "subject": "By language"
+    },
+    {
+      "id": "AG",
+      "size": 0,
+      "subject": "Dictionaries and other general reference works"
+    },
+    {
+      "id": "AG2-600",
+      "size": 3104,
+      "subject": "Dictionaries and other general reference works"
+    },
+    {
+      "id": "AZ",
+      "size": 0,
+      "subject": "History of scholarship and learning.  The humanities"
+    },
+    {
+      "id": "AZ20-999",
+      "size": 415,
+      "subject": "History of scholarship and learning.  The humanities"
+    },
+    {
+      "id": "AZ200-361",
+      "size": 291,
+      "subject": "History"
+    },
+    {
+      "id": "AZ101-181",
+      "size": 367,
+      "subject": "Philosophy.  Theory"
+    },
+    {
+      "id": "AZ501-908",
+      "size": 849,
+      "subject": "By region or country"
+    },
+    {
+      "id": "AZ191-193",
+      "size": 23,
+      "subject": "Evaluation"
+    },
+    {
+      "id": "AM",
+      "size": 0,
+      "subject": "Museums.  Collectors and collecting"
+    },
+    {
+      "id": "AM1-501",
+      "size": 2511,
+      "subject": "Museums.  Collectors and collecting"
+    },
+    {
+      "id": "AM10-100",
+      "size": 2046,
+      "subject": "By country"
+    },
+    {
+      "id": "AM200-501",
+      "size": 356,
+      "subject": "Collectors and collecting"
+    },
+    {
+      "id": "AM111-160",
+      "size": 607,
+      "subject": "Museology.  Museum methods, technique, etc."
+    },
+    {
+      "id": "AS",
+      "size": 0,
+      "subject": "Academies and learned societies"
+    },
+    {
+      "id": "AS1-945",
+      "size": 1029,
+      "subject": "Academies and learned societies"
+    },
+    {
+      "id": "AS11-785",
+      "size": 19806,
+      "subject": "By region or country"
+    },
+    {
+      "id": "AS2.5-4",
+      "size": 842,
+      "subject": "International associations, congresses, conferences, etc."
+    },
+    {
+      "id": "AP",
+      "size": 0,
+      "subject": "Periodicals"
+    },
+    {
+      "id": "AP1-271",
+      "size": 10324,
+      "subject": "Periodicals"
+    },
+    {
+      "id": "AP200-230",
+      "size": 331,
+      "subject": "Juvenile periodicals"
+    },
+    {
+      "id": "AP101-115",
+      "size": 174,
+      "subject": "Humorous periodicals"
+    },
+    {
+      "id": "AP250-265",
+      "size": 6,
+      "subject": "Periodicals for women"
+    },
+    {
+      "id": "AP270-271",
+      "size": 4,
+      "subject": "Periodicals for Blacks"
+    },
+    {
+      "id": "AY",
+      "size": 0,
+      "subject": "Yearbooks.  Almanacs.  Directories"
+    },
+    {
+      "id": "AY10-2001",
+      "size": 1,
+      "subject": "Yearbooks.  Almanacs.  Directories"
+    },
+    {
+      "id": "AY30-1730",
+      "size": 2272,
+      "subject": "Almanacs"
+    },
+    {
+      "id": "AY10-29",
+      "size": 133,
+      "subject": "Annuals"
+    },
+    {
+      "id": "AY2001",
+      "size": 14,
+      "subject": "Directories"
+    },
+    {
+      "id": "AI",
+      "size": 0,
+      "subject": "Indexes"
+    },
+    {
+      "id": "AI1-21",
+      "size": 798,
+      "subject": "Indexes"
+    },
+    {
+      "id": "AN",
+      "size": 0,
+      "subject": "Newspapers"
+    }
+  ],
+  "links": [
+    {
+      "source": "A",
+      "target": "AC"
+    },
+    {
+      "source": "AC",
+      "target": "AC1-195"
+    },
+    {
+      "source": "AC",
+      "target": "AC1-999"
+    },
+    {
+      "source": "AC1-195",
+      "target": "AC1-8"
+    },
+    {
+      "source": "AC1-195",
+      "target": "AC9-195"
+    },
+    {
+      "source": "AC1-999",
+      "target": "AC901-995"
+    },
+    {
+      "source": "AC1-999",
+      "target": "AC801-895"
+    },
+    {
+      "source": "AC1-999",
+      "target": "AC999"
+    },
+    {
+      "source": "A",
+      "target": "AE"
+    },
+    {
+      "source": "AE",
+      "target": "AE1-90"
+    },
+    {
+      "source": "AE1-90",
+      "target": "AE5-90"
+    },
+    {
+      "source": "A",
+      "target": "AG"
+    },
+    {
+      "source": "AG",
+      "target": "AG2-600"
+    },
+    {
+      "source": "A",
+      "target": "AZ"
+    },
+    {
+      "source": "AZ",
+      "target": "AZ20-999"
+    },
+    {
+      "source": "AZ20-999",
+      "target": "AZ200-361"
+    },
+    {
+      "source": "AZ20-999",
+      "target": "AZ101-181"
+    },
+    {
+      "source": "AZ20-999",
+      "target": "AZ501-908"
+    },
+    {
+      "source": "AZ20-999",
+      "target": "AZ191-193"
+    },
+    {
+      "source": "A",
+      "target": "AM"
+    },
+    {
+      "source": "AM",
+      "target": "AM1-501"
+    },
+    {
+      "source": "AM1-501",
+      "target": "AM10-100"
+    },
+    {
+      "source": "AM1-501",
+      "target": "AM200-501"
+    },
+    {
+      "source": "AM1-501",
+      "target": "AM111-160"
+    },
+    {
+      "source": "A",
+      "target": "AS"
+    },
+    {
+      "source": "AS",
+      "target": "AS1-945"
+    },
+    {
+      "source": "AS1-945",
+      "target": "AS11-785"
+    },
+    {
+      "source": "AS1-945",
+      "target": "AS2.5-4"
+    },
+    {
+      "source": "A",
+      "target": "AP"
+    },
+    {
+      "source": "AP",
+      "target": "AP1-271"
+    },
+    {
+      "source": "AP1-271",
+      "target": "AP200-230"
+    },
+    {
+      "source": "AP1-271",
+      "target": "AP101-115"
+    },
+    {
+      "source": "AP1-271",
+      "target": "AP250-265"
+    },
+    {
+      "source": "AP1-271",
+      "target": "AP270-271"
+    },
+    {
+      "source": "A",
+      "target": "AY"
+    },
+    {
+      "source": "AY",
+      "target": "AY10-2001"
+    },
+    {
+      "source": "AY10-2001",
+      "target": "AY30-1730"
+    },
+    {
+      "source": "AY10-2001",
+      "target": "AY10-29"
+    },
+    {
+      "source": "AY10-2001",
+      "target": "AY2001"
+    },
+    {
+      "source": "A",
+      "target": "AI"
+    },
+    {
+      "source": "AI",
+      "target": "AI1-21"
+    },
+    {
+      "source": "A",
+      "target": "AN"
+    },
+    {
+      "source": "AN",
+      "target": "AN"
+    },
+    {
+      "source": "A",
+      "target": "AN"
+    }
+  ],
+  "maxCount": 19806
+}

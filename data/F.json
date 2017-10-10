@@ -1,0 +1,1366 @@
+{
+  "nodes": [
+    {
+      "id": "F",
+      "size": 0,
+      "subject": "Latin America.  Spanish America"
+    },
+    {
+      "id": "F1-975",
+      "size": 220,
+      "subject": "United States local history"
+    },
+    {
+      "id": "F676-690",
+      "size": 1263,
+      "subject": "Kansas"
+    },
+    {
+      "id": "F176-190",
+      "size": 2508,
+      "subject": "Maryland"
+    },
+    {
+      "id": "F31-45",
+      "size": 1077,
+      "subject": "New Hampshire"
+    },
+    {
+      "id": "F536-550",
+      "size": 4160,
+      "subject": "Illinois"
+    },
+    {
+      "id": "F901-951",
+      "size": 1879,
+      "subject": "Alaska"
+    },
+    {
+      "id": "F951",
+      "size": 37,
+      "subject": "Bering Sea and Aleutian Islands"
+    },
+    {
+      "id": "F366-380",
+      "size": 2118,
+      "subject": "Louisiana"
+    },
+    {
+      "id": "F61-75",
+      "size": 5389,
+      "subject": "Massachusetts"
+    },
+    {
+      "id": "F616-630",
+      "size": 1202,
+      "subject": "Iowa"
+    },
+    {
+      "id": "F221-235",
+      "size": 4885,
+      "subject": "Virginia"
+    },
+    {
+      "id": "F431-445",
+      "size": 2465,
+      "subject": "Tennessee"
+    },
+    {
+      "id": "F381-395",
+      "size": 6546,
+      "subject": "Texas"
+    },
+    {
+      "id": "F461-475",
+      "size": 2016,
+      "subject": "Missouri"
+    },
+    {
+      "id": "F576-590",
+      "size": 1529,
+      "subject": "Wisconsin"
+    },
+    {
+      "id": "F771-785",
+      "size": 1979,
+      "subject": "Colorado"
+    },
+    {
+      "id": "F146-160",
+      "size": 5503,
+      "subject": "Pennsylvania"
+    },
+    {
+      "id": "F590.3-596.3",
+      "size": 4291,
+      "subject": "The West.  Trans-Mississippi Region.  Great Plains"
+    },
+    {
+      "id": "F871-885",
+      "size": 1766,
+      "subject": "Oregon"
+    },
+    {
+      "id": "F486-500",
+      "size": 3480,
+      "subject": "Ohio"
+    },
+    {
+      "id": "F91-105",
+      "size": 1411,
+      "subject": "Connecticut"
+    },
+    {
+      "id": "F821-835",
+      "size": 904,
+      "subject": "Utah"
+    },
+    {
+      "id": "F131-145",
+      "size": 1895,
+      "subject": "New Jersey"
+    },
+    {
+      "id": "F206-220",
+      "size": 1634,
+      "subject": "The South.  South Atlantic States"
+    },
+    {
+      "id": "F726-740",
+      "size": 916,
+      "subject": "Montana"
+    },
+    {
+      "id": "F116-130",
+      "size": 8744,
+      "subject": "New York"
+    },
+    {
+      "id": "F756-770",
+      "size": 659,
+      "subject": "Wyoming"
+    },
+    {
+      "id": "F601-615",
+      "size": 1495,
+      "subject": "Minnesota"
+    },
+    {
+      "id": "F856-870",
+      "size": 9350,
+      "subject": "California"
+    },
+    {
+      "id": "F350.5-355",
+      "size": 663,
+      "subject": "Mississippi River and Valley.  Middle West"
+    },
+    {
+      "id": "F281-295",
+      "size": 2909,
+      "subject": "Georgia"
+    },
+    {
+      "id": "F836-850",
+      "size": 761,
+      "subject": "Nevada"
+    },
+    {
+      "id": "F266-280",
+      "size": 2055,
+      "subject": "South Carolina"
+    },
+    {
+      "id": "F741-755",
+      "size": 612,
+      "subject": "Idaho"
+    },
+    {
+      "id": "F191-205",
+      "size": 1847,
+      "subject": "District of Columbia.  Washington"
+    },
+    {
+      "id": "F721-722",
+      "size": 400,
+      "subject": "Rocky Mountains.  Yellowstone National Park"
+    },
+    {
+      "id": "F306-320",
+      "size": 2813,
+      "subject": "Florida"
+    },
+    {
+      "id": "F1-15",
+      "size": 1129,
+      "subject": "New England"
+    },
+    {
+      "id": "F597",
+      "size": 246,
+      "subject": "The Northwest"
+    },
+    {
+      "id": "F786-790",
+      "size": 1405,
+      "subject": "New Southwest.  Colorado River, Canyon, and Valley"
+    },
+    {
+      "id": "F561-575",
+      "size": 2348,
+      "subject": "Michigan"
+    },
+    {
+      "id": "F852-854",
+      "size": 344,
+      "subject": "Pacific Northwest.  Columbia River and Valley."
+    },
+    {
+      "id": "F406-420",
+      "size": 1112,
+      "subject": "Arkansas"
+    },
+    {
+      "id": "F806-820",
+      "size": 1337,
+      "subject": "Arizona"
+    },
+    {
+      "id": "F321-335",
+      "size": 1612,
+      "subject": "Alabama"
+    },
+    {
+      "id": "F691-705",
+      "size": 910,
+      "subject": "Oklahoma"
+    },
+    {
+      "id": "F251-265",
+      "size": 3014,
+      "subject": "North Carolina"
+    },
+    {
+      "id": "F446-460",
+      "size": 2656,
+      "subject": "Kentucky"
+    },
+    {
+      "id": "F521-535",
+      "size": 2223,
+      "subject": "Indiana"
+    },
+    {
+      "id": "F550.5-553.2",
+      "size": 203,
+      "subject": "The Lake region.  Great Lakes"
+    },
+    {
+      "id": "F336-350",
+      "size": 997,
+      "subject": "Mississippi"
+    },
+    {
+      "id": "F106",
+      "size": 368,
+      "subject": "Atlantic coast.  Middle Atlantic States"
+    },
+    {
+      "id": "F16-30",
+      "size": 1794,
+      "subject": "Maine"
+    },
+    {
+      "id": "F646-660",
+      "size": 744,
+      "subject": "South Dakota"
+    },
+    {
+      "id": "F886-900",
+      "size": 2129,
+      "subject": "Washington"
+    },
+    {
+      "id": "F791-805",
+      "size": 1737,
+      "subject": "New Mexico"
+    },
+    {
+      "id": "F598",
+      "size": 77,
+      "subject": "Missouri River and Valley"
+    },
+    {
+      "id": "F965",
+      "size": 7,
+      "subject": "The territories of the United States (General)"
+    },
+    {
+      "id": "F850.5-851.5",
+      "size": 348,
+      "subject": "Pacific States"
+    },
+    {
+      "id": "F46-60",
+      "size": 887,
+      "subject": "Vermont"
+    },
+    {
+      "id": "F661-675",
+      "size": 769,
+      "subject": "Nebraska"
+    },
+    {
+      "id": "F76-90",
+      "size": 800,
+      "subject": "Rhode Island"
+    },
+    {
+      "id": "F236-250",
+      "size": 1139,
+      "subject": "West Virginia"
+    },
+    {
+      "id": "F396",
+      "size": 77,
+      "subject": "Old Southwest.  Lower Mississippi Valley"
+    },
+    {
+      "id": "F631-645",
+      "size": 447,
+      "subject": "North Dakota"
+    },
+    {
+      "id": "F516-520",
+      "size": 186,
+      "subject": "Ohio River and Valley"
+    },
+    {
+      "id": "F161-175",
+      "size": 469,
+      "subject": "Delaware"
+    },
+    {
+      "id": "F476-485",
+      "size": 163,
+      "subject": "Old Northwest.  Northwest Territory"
+    },
+    {
+      "id": "F296-301",
+      "size": 79,
+      "subject": "Gulf States.  West Florida"
+    },
+    {
+      "id": "F970",
+      "size": 36,
+      "subject": "Insular possessions of the United States (General)"
+    },
+    {
+      "id": "F975",
+      "size": 2,
+      "subject": "Central American, West Indian, and other countries"
+    },
+    {
+      "id": "F851.7",
+      "size": 17,
+      "subject": "Cascade Range"
+    },
+    {
+      "id": "F1201-3799",
+      "size": 4,
+      "subject": "Latin America.  Spanish America"
+    },
+    {
+      "id": "F1601-1629",
+      "size": 589,
+      "subject": "West Indies"
+    },
+    {
+      "id": "F2155-2191",
+      "size": 898,
+      "subject": "Caribbean area.  Caribbean Sea"
+    },
+    {
+      "id": "F1421-1440",
+      "size": 1385,
+      "subject": "Central America"
+    },
+    {
+      "id": "F1435-1435.3",
+      "size": 2036,
+      "subject": "Mayas"
+    },
+    {
+      "id": "F2201-3799",
+      "size": 29,
+      "subject": "South America"
+    },
+    {
+      "id": "F2201-2239",
+      "size": 4571,
+      "subject": "General"
+    },
+    {
+      "id": "F2501-2659",
+      "size": 19935,
+      "subject": "Brazil"
+    },
+    {
+      "id": "F2251-2299",
+      "size": 5418,
+      "subject": "Colombia"
+    },
+    {
+      "id": "F3401-3619",
+      "size": 6975,
+      "subject": "Peru"
+    },
+    {
+      "id": "F2801-3021",
+      "size": 11883,
+      "subject": "Argentina"
+    },
+    {
+      "id": "F2301-2349",
+      "size": 4690,
+      "subject": "Venezuela"
+    },
+    {
+      "id": "F2441-2471",
+      "size": 211,
+      "subject": "French Guiana"
+    },
+    {
+      "id": "F3051-3285",
+      "size": 4365,
+      "subject": "Chile"
+    },
+    {
+      "id": "F3301-3359",
+      "size": 3000,
+      "subject": "Bolivia"
+    },
+    {
+      "id": "F2701-2799",
+      "size": 2112,
+      "subject": "Uruguay"
+    },
+    {
+      "id": "F2661-2699",
+      "size": 1994,
+      "subject": "Paraguay"
+    },
+    {
+      "id": "F2361-2391",
+      "size": 371,
+      "subject": "Guyana.  British Guiana"
+    },
+    {
+      "id": "F3701-3799",
+      "size": 2776,
+      "subject": "Ecuador"
+    },
+    {
+      "id": "F3031-3031.5",
+      "size": 516,
+      "subject": "Falkland Islands"
+    },
+    {
+      "id": "F2401-2431",
+      "size": 348,
+      "subject": "Surinam"
+    },
+    {
+      "id": "F2351",
+      "size": 43,
+      "subject": "Guiana"
+    },
+    {
+      "id": "F1201-1392",
+      "size": 16988,
+      "subject": "Mexico"
+    },
+    {
+      "id": "F1461-1477",
+      "size": 1882,
+      "subject": "Guatemala"
+    },
+    {
+      "id": "F1741-1991",
+      "size": 21,
+      "subject": "Greater Antilles"
+    },
+    {
+      "id": "F1900-1941",
+      "size": 177,
+      "subject": "Haiti (Island).  Hispaniola"
+    },
+    {
+      "id": "F1931-1941",
+      "size": 1706,
+      "subject": "Dominican Republic"
+    },
+    {
+      "id": "F1912-1930",
+      "size": 1181,
+      "subject": "Haiti (Republic)"
+    },
+    {
+      "id": "F1751-1854.9",
+      "size": 3687,
+      "subject": "Cuba"
+    },
+    {
+      "id": "F1788-1788.22",
+      "size": 1366,
+      "subject": "Communist regime"
+    },
+    {
+      "id": "F1951-1983",
+      "size": 1571,
+      "subject": "Puerto Rico"
+    },
+    {
+      "id": "F1861-1896",
+      "size": 515,
+      "subject": "Jamaica"
+    },
+    {
+      "id": "F1991",
+      "size": 1,
+      "subject": "Navassa"
+    },
+    {
+      "id": "F2001-2151",
+      "size": 167,
+      "subject": "Lesser Antilles"
+    },
+    {
+      "id": "F2033-2129",
+      "size": 1521,
+      "subject": "Individual islands"
+    },
+    {
+      "id": "F2131-2133",
+      "size": 166,
+      "subject": "British West Indies"
+    },
+    {
+      "id": "F2136",
+      "size": 97,
+      "subject": "Virgin Islands of the United States"
+    },
+    {
+      "id": "F2141",
+      "size": 98,
+      "subject": "Netherlands West Indies.  Dutch West Indies"
+    },
+    {
+      "id": "F2151",
+      "size": 130,
+      "subject": "French West Indies"
+    },
+    {
+      "id": "F2006",
+      "size": 15,
+      "subject": "Leeward islands"
+    },
+    {
+      "id": "F2016",
+      "size": 1,
+      "subject": "Islands along Venezuela coast"
+    },
+    {
+      "id": "F2011",
+      "size": 9,
+      "subject": "Windward Islands"
+    },
+    {
+      "id": "F1481-1497",
+      "size": 737,
+      "subject": "Salvador (El Salvador)"
+    },
+    {
+      "id": "F1650-1660",
+      "size": 213,
+      "subject": "Bahamas"
+    },
+    {
+      "id": "F1521-1537",
+      "size": 1609,
+      "subject": "Nicaragua"
+    },
+    {
+      "id": "F1541-1557",
+      "size": 1092,
+      "subject": "Costa Rica"
+    },
+    {
+      "id": "F1401-1419",
+      "size": 7886,
+      "subject": "Latin America (General)"
+    },
+    {
+      "id": "F1441-1457",
+      "size": 305,
+      "subject": "Belize"
+    },
+    {
+      "id": "F1561-1577",
+      "size": 954,
+      "subject": "Panama"
+    },
+    {
+      "id": "F1569",
+      "size": 182,
+      "subject": "Canal Zone.  Panama Canal"
+    },
+    {
+      "id": "F1501-1517",
+      "size": 745,
+      "subject": "Honduras"
+    },
+    {
+      "id": "F1630-1640",
+      "size": 147,
+      "subject": "Bermudas"
+    },
+    {
+      "id": "F1001-1145.2",
+      "size": 12,
+      "subject": "Canada"
+    },
+    {
+      "id": "F1001-1035",
+      "size": 6250,
+      "subject": "General"
+    },
+    {
+      "id": "F1060-1060.97",
+      "size": 1001,
+      "subject": "Canadian Northwest.  Northwest Territories"
+    },
+    {
+      "id": "F1056-1059.7",
+      "size": 2344,
+      "subject": "Ontario"
+    },
+    {
+      "id": "F1086-1089.7",
+      "size": 1409,
+      "subject": "British Columbia"
+    },
+    {
+      "id": "F1070-1074.7",
+      "size": 392,
+      "subject": "Saskatchewan"
+    },
+    {
+      "id": "F1051-1055",
+      "size": 3008,
+      "subject": "Quebec"
+    },
+    {
+      "id": "F1075-1080",
+      "size": 759,
+      "subject": "Alberta"
+    },
+    {
+      "id": "F1041-1045",
+      "size": 299,
+      "subject": "New Brunswick"
+    },
+    {
+      "id": "F1091-1095.5",
+      "size": 203,
+      "subject": "Yukon"
+    },
+    {
+      "id": "F1061-1065",
+      "size": 526,
+      "subject": "Manitoba"
+    },
+    {
+      "id": "F1036-1040",
+      "size": 882,
+      "subject": "Nova Scotia.  Acadia"
+    },
+    {
+      "id": "F1121-1139",
+      "size": 345,
+      "subject": "Newfoundland"
+    },
+    {
+      "id": "F1135-1139",
+      "size": 107,
+      "subject": "Labrador"
+    },
+    {
+      "id": "F1046-1049.7",
+      "size": 146,
+      "subject": "Prince Edward Island"
+    },
+    {
+      "id": "F1035.8",
+      "size": 125,
+      "subject": "Maritime provinces.  Atlantic coast of Canada"
+    },
+    {
+      "id": "F1090.5",
+      "size": 124,
+      "subject": "Arctic regions"
+    },
+    {
+      "id": "F1090",
+      "size": 84,
+      "subject": "Rocky Mountains of Canada"
+    },
+    {
+      "id": "F1141-1145.2",
+      "size": 9,
+      "subject": "Nunavut"
+    },
+    {
+      "id": "F1140",
+      "size": 14,
+      "subject": "The Labrador Peninsula"
+    },
+    {
+      "id": "F1096-1100.5",
+      "size": 65,
+      "subject": "Mackenzie"
+    },
+    {
+      "id": "F1106-1110.5",
+      "size": 7,
+      "subject": "Keewatin"
+    },
+    {
+      "id": "F1050",
+      "size": 50,
+      "subject": "St. Lawrence Gulf, River and Valley (General)"
+    },
+    {
+      "id": "F1101-1105.7",
+      "size": 37,
+      "subject": "Franklin"
+    },
+    {
+      "id": "F1218.5-1221",
+      "size": 5973,
+      "subject": "Antiquities.  Indians"
+    },
+    {
+      "id": "F1170",
+      "size": 20,
+      "subject": "Saint Pierre and Miquelon"
+    }
+  ],
+  "links": [
+    {
+      "source": "F",
+      "target": "F1-975"
+    },
+    {
+      "source": "F",
+      "target": "F1201-3799"
+    },
+    {
+      "source": "F",
+      "target": "F1001-1145.2"
+    },
+    {
+      "source": "F",
+      "target": "F1201-1392"
+    },
+    {
+      "source": "F",
+      "target": "F1170"
+    },
+    {
+      "source": "F1-975",
+      "target": "F676-690"
+    },
+    {
+      "source": "F1-975",
+      "target": "F176-190"
+    },
+    {
+      "source": "F1-975",
+      "target": "F31-45"
+    },
+    {
+      "source": "F1-975",
+      "target": "F536-550"
+    },
+    {
+      "source": "F1-975",
+      "target": "F901-951"
+    },
+    {
+      "source": "F1-975",
+      "target": "F366-380"
+    },
+    {
+      "source": "F1-975",
+      "target": "F61-75"
+    },
+    {
+      "source": "F1-975",
+      "target": "F616-630"
+    },
+    {
+      "source": "F1-975",
+      "target": "F221-235"
+    },
+    {
+      "source": "F1-975",
+      "target": "F431-445"
+    },
+    {
+      "source": "F1-975",
+      "target": "F381-395"
+    },
+    {
+      "source": "F1-975",
+      "target": "F461-475"
+    },
+    {
+      "source": "F1-975",
+      "target": "F576-590"
+    },
+    {
+      "source": "F1-975",
+      "target": "F771-785"
+    },
+    {
+      "source": "F1-975",
+      "target": "F146-160"
+    },
+    {
+      "source": "F1-975",
+      "target": "F590.3-596.3"
+    },
+    {
+      "source": "F1-975",
+      "target": "F871-885"
+    },
+    {
+      "source": "F1-975",
+      "target": "F486-500"
+    },
+    {
+      "source": "F1-975",
+      "target": "F91-105"
+    },
+    {
+      "source": "F1-975",
+      "target": "F821-835"
+    },
+    {
+      "source": "F1-975",
+      "target": "F131-145"
+    },
+    {
+      "source": "F1-975",
+      "target": "F206-220"
+    },
+    {
+      "source": "F1-975",
+      "target": "F726-740"
+    },
+    {
+      "source": "F1-975",
+      "target": "F116-130"
+    },
+    {
+      "source": "F1-975",
+      "target": "F756-770"
+    },
+    {
+      "source": "F1-975",
+      "target": "F601-615"
+    },
+    {
+      "source": "F1-975",
+      "target": "F856-870"
+    },
+    {
+      "source": "F1-975",
+      "target": "F350.5-355"
+    },
+    {
+      "source": "F1-975",
+      "target": "F281-295"
+    },
+    {
+      "source": "F1-975",
+      "target": "F836-850"
+    },
+    {
+      "source": "F1-975",
+      "target": "F266-280"
+    },
+    {
+      "source": "F1-975",
+      "target": "F741-755"
+    },
+    {
+      "source": "F1-975",
+      "target": "F191-205"
+    },
+    {
+      "source": "F1-975",
+      "target": "F721-722"
+    },
+    {
+      "source": "F1-975",
+      "target": "F306-320"
+    },
+    {
+      "source": "F1-975",
+      "target": "F1-15"
+    },
+    {
+      "source": "F1-975",
+      "target": "F597"
+    },
+    {
+      "source": "F1-975",
+      "target": "F786-790"
+    },
+    {
+      "source": "F1-975",
+      "target": "F561-575"
+    },
+    {
+      "source": "F1-975",
+      "target": "F852-854"
+    },
+    {
+      "source": "F1-975",
+      "target": "F406-420"
+    },
+    {
+      "source": "F1-975",
+      "target": "F806-820"
+    },
+    {
+      "source": "F1-975",
+      "target": "F321-335"
+    },
+    {
+      "source": "F1-975",
+      "target": "F691-705"
+    },
+    {
+      "source": "F1-975",
+      "target": "F251-265"
+    },
+    {
+      "source": "F1-975",
+      "target": "F446-460"
+    },
+    {
+      "source": "F1-975",
+      "target": "F521-535"
+    },
+    {
+      "source": "F1-975",
+      "target": "F550.5-553.2"
+    },
+    {
+      "source": "F1-975",
+      "target": "F336-350"
+    },
+    {
+      "source": "F1-975",
+      "target": "F106"
+    },
+    {
+      "source": "F1-975",
+      "target": "F16-30"
+    },
+    {
+      "source": "F1-975",
+      "target": "F646-660"
+    },
+    {
+      "source": "F1-975",
+      "target": "F886-900"
+    },
+    {
+      "source": "F1-975",
+      "target": "F791-805"
+    },
+    {
+      "source": "F1-975",
+      "target": "F598"
+    },
+    {
+      "source": "F1-975",
+      "target": "F965"
+    },
+    {
+      "source": "F1-975",
+      "target": "F850.5-851.5"
+    },
+    {
+      "source": "F1-975",
+      "target": "F46-60"
+    },
+    {
+      "source": "F1-975",
+      "target": "F661-675"
+    },
+    {
+      "source": "F1-975",
+      "target": "F76-90"
+    },
+    {
+      "source": "F1-975",
+      "target": "F236-250"
+    },
+    {
+      "source": "F1-975",
+      "target": "F396"
+    },
+    {
+      "source": "F1-975",
+      "target": "F631-645"
+    },
+    {
+      "source": "F1-975",
+      "target": "F516-520"
+    },
+    {
+      "source": "F1-975",
+      "target": "F161-175"
+    },
+    {
+      "source": "F1-975",
+      "target": "F476-485"
+    },
+    {
+      "source": "F1-975",
+      "target": "F296-301"
+    },
+    {
+      "source": "F1-975",
+      "target": "F970"
+    },
+    {
+      "source": "F1-975",
+      "target": "F975"
+    },
+    {
+      "source": "F1-975",
+      "target": "F851.7"
+    },
+    {
+      "source": "F901-951",
+      "target": "F951"
+    },
+    {
+      "source": "F1201-3799",
+      "target": "F1601-1629"
+    },
+    {
+      "source": "F1201-3799",
+      "target": "F2155-2191"
+    },
+    {
+      "source": "F1201-3799",
+      "target": "F1421-1440"
+    },
+    {
+      "source": "F1201-3799",
+      "target": "F2201-3799"
+    },
+    {
+      "source": "F1201-3799",
+      "target": "F1201-1392"
+    },
+    {
+      "source": "F1201-3799",
+      "target": "F1461-1477"
+    },
+    {
+      "source": "F1201-3799",
+      "target": "F1741-1991"
+    },
+    {
+      "source": "F1201-3799",
+      "target": "F2001-2151"
+    },
+    {
+      "source": "F1201-3799",
+      "target": "F1481-1497"
+    },
+    {
+      "source": "F1201-3799",
+      "target": "F1650-1660"
+    },
+    {
+      "source": "F1201-3799",
+      "target": "F1521-1537"
+    },
+    {
+      "source": "F1201-3799",
+      "target": "F1541-1557"
+    },
+    {
+      "source": "F1201-3799",
+      "target": "F1401-1419"
+    },
+    {
+      "source": "F1201-3799",
+      "target": "F1441-1457"
+    },
+    {
+      "source": "F1201-3799",
+      "target": "F1561-1577"
+    },
+    {
+      "source": "F1201-3799",
+      "target": "F1501-1517"
+    },
+    {
+      "source": "F1201-3799",
+      "target": "F1630-1640"
+    },
+    {
+      "source": "F1421-1440",
+      "target": "F1435-1435.3"
+    },
+    {
+      "source": "F2201-3799",
+      "target": "F2201-2239"
+    },
+    {
+      "source": "F2201-3799",
+      "target": "F2501-2659"
+    },
+    {
+      "source": "F2201-3799",
+      "target": "F2251-2299"
+    },
+    {
+      "source": "F2201-3799",
+      "target": "F3401-3619"
+    },
+    {
+      "source": "F2201-3799",
+      "target": "F2801-3021"
+    },
+    {
+      "source": "F2201-3799",
+      "target": "F2301-2349"
+    },
+    {
+      "source": "F2201-3799",
+      "target": "F2441-2471"
+    },
+    {
+      "source": "F2201-3799",
+      "target": "F3051-3285"
+    },
+    {
+      "source": "F2201-3799",
+      "target": "F3301-3359"
+    },
+    {
+      "source": "F2201-3799",
+      "target": "F2701-2799"
+    },
+    {
+      "source": "F2201-3799",
+      "target": "F2661-2699"
+    },
+    {
+      "source": "F2201-3799",
+      "target": "F2361-2391"
+    },
+    {
+      "source": "F2201-3799",
+      "target": "F3701-3799"
+    },
+    {
+      "source": "F2201-3799",
+      "target": "F3031-3031.5"
+    },
+    {
+      "source": "F2201-3799",
+      "target": "F2401-2431"
+    },
+    {
+      "source": "F2201-3799",
+      "target": "F2351"
+    },
+    {
+      "source": "F1741-1991",
+      "target": "F1900-1941"
+    },
+    {
+      "source": "F1741-1991",
+      "target": "F1751-1854.9"
+    },
+    {
+      "source": "F1741-1991",
+      "target": "F1951-1983"
+    },
+    {
+      "source": "F1741-1991",
+      "target": "F1861-1896"
+    },
+    {
+      "source": "F1741-1991",
+      "target": "F1991"
+    },
+    {
+      "source": "F1900-1941",
+      "target": "F1931-1941"
+    },
+    {
+      "source": "F1900-1941",
+      "target": "F1912-1930"
+    },
+    {
+      "source": "F1751-1854.9",
+      "target": "F1788-1788.22"
+    },
+    {
+      "source": "F2001-2151",
+      "target": "F2033-2129"
+    },
+    {
+      "source": "F2001-2151",
+      "target": "F2131-2133"
+    },
+    {
+      "source": "F2001-2151",
+      "target": "F2136"
+    },
+    {
+      "source": "F2001-2151",
+      "target": "F2141"
+    },
+    {
+      "source": "F2001-2151",
+      "target": "F2151"
+    },
+    {
+      "source": "F2001-2151",
+      "target": "F2006"
+    },
+    {
+      "source": "F2001-2151",
+      "target": "F2016"
+    },
+    {
+      "source": "F2001-2151",
+      "target": "F2011"
+    },
+    {
+      "source": "F1561-1577",
+      "target": "F1569"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1001-1035"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1060-1060.97"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1056-1059.7"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1086-1089.7"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1070-1074.7"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1051-1055"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1075-1080"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1041-1045"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1091-1095.5"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1061-1065"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1036-1040"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1121-1139"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1046-1049.7"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1035.8"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1090.5"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1090"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1141-1145.2"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1140"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1096-1100.5"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1106-1110.5"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1050"
+    },
+    {
+      "source": "F1001-1145.2",
+      "target": "F1101-1105.7"
+    },
+    {
+      "source": "F1121-1139",
+      "target": "F1135-1139"
+    },
+    {
+      "source": "F1201-1392",
+      "target": "F1218.5-1221"
+    }
+  ],
+  "maxCount": 19935
+}

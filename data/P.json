@@ -1,0 +1,7888 @@
+{
+  "nodes": [
+    {
+      "id": "P",
+      "size": 0,
+      "subject": "Language and Literature"
+    },
+    {
+      "id": "PZ",
+      "size": 0,
+      "subject": "Fiction and juvenile belles lettres"
+    },
+    {
+      "id": "PZ1-90",
+      "size": 0,
+      "subject": "Fiction and juvenile belles lettres"
+    },
+    {
+      "id": "PZ1-4",
+      "size": 107281,
+      "subject": "Fiction in English"
+    },
+    {
+      "id": "PZ5-90",
+      "size": 186634,
+      "subject": "Juvenile belles lettres"
+    },
+    {
+      "id": "PR",
+      "size": 0,
+      "subject": "English"
+    },
+    {
+      "id": "PR1-9680",
+      "size": 2357,
+      "subject": "English literature"
+    },
+    {
+      "id": "PR8309-9680",
+      "size": 48498,
+      "subject": "English literature: Provincial, local, etc."
+    },
+    {
+      "id": "PR6000-6049",
+      "size": 41814,
+      "subject": "1900-1960"
+    },
+    {
+      "id": "PR3991-5990",
+      "size": 34798,
+      "subject": "19th century, 1770/1800-1890/1900"
+    },
+    {
+      "id": "PR161-488",
+      "size": 49,
+      "subject": "By period"
+    },
+    {
+      "id": "PR251-369",
+      "size": 598,
+      "subject": "Medieval.    Middle English (1066-1500)"
+    },
+    {
+      "id": "PR401-488",
+      "size": 519,
+      "subject": "Modern"
+    },
+    {
+      "id": "PR451-469",
+      "size": 1223,
+      "subject": "19th century"
+    },
+    {
+      "id": "PR441-449",
+      "size": 605,
+      "subject": "18th century"
+    },
+    {
+      "id": "PR471-479",
+      "size": 695,
+      "subject": "20th century"
+    },
+    {
+      "id": "PR421-429",
+      "size": 505,
+      "subject": "Elizabethan era (1550-1640)"
+    },
+    {
+      "id": "PR431-439",
+      "size": 237,
+      "subject": "17th century"
+    },
+    {
+      "id": "PR481-488",
+      "size": 5,
+      "subject": "21st century"
+    },
+    {
+      "id": "PR171-236",
+      "size": 261,
+      "subject": "Anglo-Saxon (Beginnings through 1066)"
+    },
+    {
+      "id": "PR3291-3785",
+      "size": 9916,
+      "subject": "17th and 18th centuries (1640-1770)"
+    },
+    {
+      "id": "PR2199-3195",
+      "size": 16419,
+      "subject": "English renaissance (1500-1640)"
+    },
+    {
+      "id": "PR1803-2165",
+      "size": 2487,
+      "subject": "Anglo-Norman period.    Early English.    Middle"
+    },
+    {
+      "id": "PR1098-1369",
+      "size": 775,
+      "subject": "Collections of English literature"
+    },
+    {
+      "id": "PR1170-1228",
+      "size": 3578,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PR1241-1273",
+      "size": 1540,
+      "subject": "Drama"
+    },
+    {
+      "id": "PR1281-1309",
+      "size": 1064,
+      "subject": "Prose (General)"
+    },
+    {
+      "id": "PR1110",
+      "size": 92,
+      "subject": "Special classes of authors"
+    },
+    {
+      "id": "PR1119-1151",
+      "size": 897,
+      "subject": "By period"
+    },
+    {
+      "id": "PR1361-1369",
+      "size": 270,
+      "subject": "Essays"
+    },
+    {
+      "id": "PR1341-1349",
+      "size": 47,
+      "subject": "Letters"
+    },
+    {
+      "id": "PR1321-1329",
+      "size": 20,
+      "subject": "Oratory"
+    },
+    {
+      "id": "PR1330",
+      "size": 8,
+      "subject": "Diaries"
+    },
+    {
+      "id": "PR1490-1799",
+      "size": 697,
+      "subject": "Anglo-Saxon literature"
+    },
+    {
+      "id": "PR931-938",
+      "size": 159,
+      "subject": "Wit and humor"
+    },
+    {
+      "id": "PR500-614",
+      "size": 883,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PR521-614",
+      "size": 1702,
+      "subject": "By period"
+    },
+    {
+      "id": "PR6050-6076",
+      "size": 41584,
+      "subject": "1961-2000"
+    },
+    {
+      "id": "PR750-890",
+      "size": 136,
+      "subject": "Prose"
+    },
+    {
+      "id": "PR821-890",
+      "size": 3145,
+      "subject": "Prose fiction.    The novel"
+    },
+    {
+      "id": "PR767-818",
+      "size": 205,
+      "subject": "By period"
+    },
+    {
+      "id": "PR621-744",
+      "size": 271,
+      "subject": "Drama"
+    },
+    {
+      "id": "PR641-744",
+      "size": 1497,
+      "subject": "By period"
+    },
+    {
+      "id": "PR1-56",
+      "size": 1074,
+      "subject": "Literary history and criticism"
+    },
+    {
+      "id": "PR125-138.5",
+      "size": 407,
+      "subject": "Relations to other literatures and countries"
+    },
+    {
+      "id": "PR111-116",
+      "size": 267,
+      "subject": "Women authors"
+    },
+    {
+      "id": "PR6100-6126",
+      "size": 5797,
+      "subject": "2001-"
+    },
+    {
+      "id": "PR57-78",
+      "size": 180,
+      "subject": "Criticism"
+    },
+    {
+      "id": "PR908",
+      "size": 23,
+      "subject": "Diaries"
+    },
+    {
+      "id": "PR951-981",
+      "size": 283,
+      "subject": "Folk literature"
+    },
+    {
+      "id": "PR911-918",
+      "size": 28,
+      "subject": "Letters"
+    },
+    {
+      "id": "PR921-928",
+      "size": 56,
+      "subject": "Essays"
+    },
+    {
+      "id": "PR901-907.2",
+      "size": 5,
+      "subject": "Oratory"
+    },
+    {
+      "id": "PS",
+      "size": 0,
+      "subject": "American literature"
+    },
+    {
+      "id": "PS1-3576",
+      "size": 2935,
+      "subject": "American literature"
+    },
+    {
+      "id": "PS700-3576",
+      "size": 9,
+      "subject": "Individual authors"
+    },
+    {
+      "id": "PS991-3390",
+      "size": 24084,
+      "subject": "19th century"
+    },
+    {
+      "id": "PS3500-3549",
+      "size": 69193,
+      "subject": "1900-1960"
+    },
+    {
+      "id": "PS700-893",
+      "size": 767,
+      "subject": "Colonial period (17th and 18th centuries)"
+    },
+    {
+      "id": "PS3550-3576",
+      "size": 121752,
+      "subject": "1961-"
+    },
+    {
+      "id": "PS501-689",
+      "size": 2392,
+      "subject": "Collections of American literature"
+    },
+    {
+      "id": "PS623-635",
+      "size": 727,
+      "subject": "Drama"
+    },
+    {
+      "id": "PS537-574",
+      "size": 25,
+      "subject": "By region"
+    },
+    {
+      "id": "PS561-572",
+      "size": 843,
+      "subject": "West and Central"
+    },
+    {
+      "id": "PS551-559",
+      "size": 536,
+      "subject": "South"
+    },
+    {
+      "id": "PS538-549",
+      "size": 325,
+      "subject": "North"
+    },
+    {
+      "id": "PS580-619",
+      "size": 2093,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PS593",
+      "size": 153,
+      "subject": "By form"
+    },
+    {
+      "id": "PS601-617",
+      "size": 1091,
+      "subject": "By period"
+    },
+    {
+      "id": "PS642-659.5",
+      "size": 3968,
+      "subject": "Prose (General)"
+    },
+    {
+      "id": "PS651-659.2",
+      "size": 180,
+      "subject": "By period"
+    },
+    {
+      "id": "PS660-668.2",
+      "size": 84,
+      "subject": "Oratory"
+    },
+    {
+      "id": "PS666-668.2",
+      "size": 23,
+      "subject": "By period"
+    },
+    {
+      "id": "PS530-536.3",
+      "size": 710,
+      "subject": "By period"
+    },
+    {
+      "id": "PS680-689",
+      "size": 167,
+      "subject": "Essays"
+    },
+    {
+      "id": "PS670-678.2",
+      "size": 14,
+      "subject": "Letters"
+    },
+    {
+      "id": "PS490",
+      "size": 104,
+      "subject": "Juvenile literature (General)"
+    },
+    {
+      "id": "PS163-173",
+      "size": 540,
+      "subject": "Treatment of special subjects, classes"
+    },
+    {
+      "id": "PS185-231",
+      "size": 0,
+      "subject": "By period"
+    },
+    {
+      "id": "PS221-228",
+      "size": 877,
+      "subject": "20th century"
+    },
+    {
+      "id": "PS201-217",
+      "size": 488,
+      "subject": "19th century"
+    },
+    {
+      "id": "PS185-195",
+      "size": 90,
+      "subject": "17th-18th centuries"
+    },
+    {
+      "id": "PS229-231",
+      "size": 9,
+      "subject": "21st century"
+    },
+    {
+      "id": "PS301-326",
+      "size": 1103,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PS126-138",
+      "size": 225,
+      "subject": "Biography, memoirs, letters, etc."
+    },
+    {
+      "id": "PS360-380",
+      "size": 234,
+      "subject": "Prose"
+    },
+    {
+      "id": "PS370-380",
+      "size": 2616,
+      "subject": "Prose fiction"
+    },
+    {
+      "id": "PS147-152",
+      "size": 255,
+      "subject": "Women authors"
+    },
+    {
+      "id": "PS241-286",
+      "size": 17,
+      "subject": "Special regions, states, etc."
+    },
+    {
+      "id": "PS271-285",
+      "size": 292,
+      "subject": "West and Central"
+    },
+    {
+      "id": "PS261-267",
+      "size": 447,
+      "subject": "South"
+    },
+    {
+      "id": "PS241-255",
+      "size": 153,
+      "subject": "North"
+    },
+    {
+      "id": "PS330-353",
+      "size": 407,
+      "subject": "Drama"
+    },
+    {
+      "id": "PS430-439",
+      "size": 108,
+      "subject": "Wit and humor.    Satire"
+    },
+    {
+      "id": "PS451-478",
+      "size": 80,
+      "subject": "Folk literature"
+    },
+    {
+      "id": "PS420-429",
+      "size": 15,
+      "subject": "Essays"
+    },
+    {
+      "id": "PS400-408.2",
+      "size": 24,
+      "subject": "Oratory"
+    },
+    {
+      "id": "PS409",
+      "size": 8,
+      "subject": "Diaries"
+    },
+    {
+      "id": "PS410-419",
+      "size": 6,
+      "subject": "Letters"
+    },
+    {
+      "id": "PS8001-8599",
+      "size": 155,
+      "subject": "Canadian    literature"
+    },
+    {
+      "id": "PQ",
+      "size": 0,
+      "subject": "French literature"
+    },
+    {
+      "id": "PQ1-3999",
+      "size": 41,
+      "subject": "French literature"
+    },
+    {
+      "id": "PQ1600-2726",
+      "size": 11,
+      "subject": "Modern literature"
+    },
+    {
+      "id": "PQ2149-2551",
+      "size": 11936,
+      "subject": "19th century"
+    },
+    {
+      "id": "PQ2600-2651",
+      "size": 28322,
+      "subject": "1900-1960"
+    },
+    {
+      "id": "PQ1947-2147",
+      "size": 3728,
+      "subject": "18th century"
+    },
+    {
+      "id": "PQ1710-1935",
+      "size": 2974,
+      "subject": "17th century"
+    },
+    {
+      "id": "PQ2660-2686",
+      "size": 29928,
+      "subject": "1961-2000"
+    },
+    {
+      "id": "PQ1600-1709",
+      "size": 1791,
+      "subject": "16th century"
+    },
+    {
+      "id": "PQ2700-2726",
+      "size": 1800,
+      "subject": "2001-"
+    },
+    {
+      "id": "PQ1-771",
+      "size": 2935,
+      "subject": "History and criticism"
+    },
+    {
+      "id": "PQ1100-1297",
+      "size": 13,
+      "subject": "Collections"
+    },
+    {
+      "id": "PQ1243-1297",
+      "size": 420,
+      "subject": "Prose"
+    },
+    {
+      "id": "PQ1160-1193",
+      "size": 694,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PQ1100-1145",
+      "size": 523,
+      "subject": "General"
+    },
+    {
+      "id": "PQ1211-1241",
+      "size": 326,
+      "subject": "Drama"
+    },
+    {
+      "id": "PQ601-771",
+      "size": 1297,
+      "subject": "Prose and prose fiction"
+    },
+    {
+      "id": "PQ1300-1595",
+      "size": 2,
+      "subject": "Old French literature"
+    },
+    {
+      "id": "PQ1551-1595",
+      "size": 470,
+      "subject": "(14th-) 15th century (to ca. 1525)"
+    },
+    {
+      "id": "PQ1411-1545",
+      "size": 1890,
+      "subject": "To 1350/1400"
+    },
+    {
+      "id": "PQ1300-1391",
+      "size": 320,
+      "subject": "Collections"
+    },
+    {
+      "id": "PQ3800-3999",
+      "size": 17235,
+      "subject": "Provincial, local, colonial, etc."
+    },
+    {
+      "id": "PQ500-591",
+      "size": 550,
+      "subject": "Drama"
+    },
+    {
+      "id": "PQ400-491",
+      "size": 738,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PQ1-150",
+      "size": 2340,
+      "subject": "General"
+    },
+    {
+      "id": "PQ781-841",
+      "size": 23,
+      "subject": "Folk literature"
+    },
+    {
+      "id": "PQ845",
+      "size": 19,
+      "subject": "Juvenile literature"
+    },
+    {
+      "id": "PQ4001-5999",
+      "size": 22,
+      "subject": "Italian literature"
+    },
+    {
+      "id": "PQ4265-4556",
+      "size": 3770,
+      "subject": "Individual authors and works to 1400"
+    },
+    {
+      "id": "PQ4561-4664",
+      "size": 2251,
+      "subject": "Individual authors, 1400-1700"
+    },
+    {
+      "id": "PQ4860-4886",
+      "size": 13763,
+      "subject": "Individual authors, 1961-2000"
+    },
+    {
+      "id": "PQ4001-4199.5",
+      "size": 3028,
+      "subject": "History and criticism"
+    },
+    {
+      "id": "PQ4201-4263",
+      "size": 3,
+      "subject": "Collections"
+    },
+    {
+      "id": "PQ4247-4263",
+      "size": 414,
+      "subject": "Prose"
+    },
+    {
+      "id": "PQ4207-4225",
+      "size": 596,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PQ4227-4245",
+      "size": 102,
+      "subject": "Drama"
+    },
+    {
+      "id": "PQ4201-4204",
+      "size": 313,
+      "subject": "General"
+    },
+    {
+      "id": "PQ4205-4206",
+      "size": 19,
+      "subject": "Translations"
+    },
+    {
+      "id": "PQ4800-4851",
+      "size": 9684,
+      "subject": "Individual authors, 1900-1960"
+    },
+    {
+      "id": "PQ5901-5999",
+      "size": 736,
+      "subject": "Regional, provincial, local, etc."
+    },
+    {
+      "id": "PQ4675-4734",
+      "size": 4010,
+      "subject": "Individual authors, 1701-1900"
+    },
+    {
+      "id": "PQ4900-4926",
+      "size": 1668,
+      "subject": "Individual authors, 2001-"
+    },
+    {
+      "id": "PQ6001-8929",
+      "size": 8,
+      "subject": "Spanish literature"
+    },
+    {
+      "id": "PQ6600-6647",
+      "size": 11634,
+      "subject": "Individual authors, 1868-1960"
+    },
+    {
+      "id": "PQ6500-6576",
+      "size": 2441,
+      "subject": "Individual authors, 1700-ca. 1868"
+    },
+    {
+      "id": "PQ7000-8929",
+      "size": 1179,
+      "subject": "Provincial, local, colonial, etc."
+    },
+    {
+      "id": "PQ7081-8560",
+      "size": 71147,
+      "subject": "Spanish America"
+    },
+    {
+      "id": "PQ6001-6168",
+      "size": 4210,
+      "subject": "History and criticism"
+    },
+    {
+      "id": "PQ6170-6269",
+      "size": 1,
+      "subject": "Collections"
+    },
+    {
+      "id": "PQ6247-6264",
+      "size": 531,
+      "subject": "Prose"
+    },
+    {
+      "id": "PQ6265-6269",
+      "size": 117,
+      "subject": "Translations"
+    },
+    {
+      "id": "PQ6170-6174.9",
+      "size": 399,
+      "subject": "General"
+    },
+    {
+      "id": "PQ6174.95-6215",
+      "size": 1028,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PQ6217-6241",
+      "size": 176,
+      "subject": "Drama"
+    },
+    {
+      "id": "PQ6271-6498",
+      "size": 6399,
+      "subject": "Individual authors and works to 1700"
+    },
+    {
+      "id": "PQ6650-6676",
+      "size": 13483,
+      "subject": "Individual authors, 1961-2000"
+    },
+    {
+      "id": "PQ6700-6726",
+      "size": 3144,
+      "subject": "Individual authors, 2001-"
+    },
+    {
+      "id": "PQ4064-4075",
+      "size": 178,
+      "subject": "Early to 1500"
+    },
+    {
+      "id": "PQ4133-4160",
+      "size": 338,
+      "subject": "Drama"
+    },
+    {
+      "id": "PQ4091-4131",
+      "size": 691,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PQ4199.5",
+      "size": 22,
+      "subject": "Juvenile literature (General)"
+    },
+    {
+      "id": "PQ4161-4185",
+      "size": 470,
+      "subject": "Prose"
+    },
+    {
+      "id": "PQ4186-4199",
+      "size": 40,
+      "subject": "Folk literature"
+    },
+    {
+      "id": "PQ6075-6098",
+      "size": 705,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PQ9000-9999",
+      "size": 5,
+      "subject": "Portuguese literature"
+    },
+    {
+      "id": "PQ9261",
+      "size": 3178,
+      "subject": "Individual authors, 1701-1960"
+    },
+    {
+      "id": "PQ9400-9999",
+      "size": 2664,
+      "subject": "Provincial, local, colonial, etc."
+    },
+    {
+      "id": "PQ9500-9698.36",
+      "size": 19209,
+      "subject": "Brazil"
+    },
+    {
+      "id": "PQ9262-9288",
+      "size": 2419,
+      "subject": "Individual authors, 1961-2000"
+    },
+    {
+      "id": "PQ9191-9255",
+      "size": 698,
+      "subject": "Individual authors and works, 1500-1700"
+    },
+    {
+      "id": "PQ9000-9034",
+      "size": 396,
+      "subject": "General"
+    },
+    {
+      "id": "PQ9035-9055",
+      "size": 216,
+      "subject": "Special periods"
+    },
+    {
+      "id": "PQ9061-9081",
+      "size": 115,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PQ9131-9188",
+      "size": 2,
+      "subject": "Collections"
+    },
+    {
+      "id": "PQ9149-9163",
+      "size": 188,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PQ9131-9144",
+      "size": 67,
+      "subject": "General"
+    },
+    {
+      "id": "PQ9137",
+      "size": 5,
+      "subject": "Translations"
+    },
+    {
+      "id": "PQ9164-9170",
+      "size": 14,
+      "subject": "Drama"
+    },
+    {
+      "id": "PQ9172-9188",
+      "size": 50,
+      "subject": "Prose"
+    },
+    {
+      "id": "PQ9189",
+      "size": 54,
+      "subject": "Individual authors and works to 1500"
+    },
+    {
+      "id": "PQ9097-9119",
+      "size": 60,
+      "subject": "Prose"
+    },
+    {
+      "id": "PQ9121-9128",
+      "size": 5,
+      "subject": "Folk literature"
+    },
+    {
+      "id": "PQ9300-9326",
+      "size": 298,
+      "subject": "Individual authors, 2001-"
+    },
+    {
+      "id": "PQ9083-9095",
+      "size": 26,
+      "subject": "Drama"
+    },
+    {
+      "id": "PQ9129",
+      "size": 11,
+      "subject": "Juvenile literature (General)"
+    },
+    {
+      "id": "PQ9000-9129",
+      "size": 2,
+      "subject": "History and criticism"
+    },
+    {
+      "id": "PE",
+      "size": 0,
+      "subject": "English"
+    },
+    {
+      "id": "PE1-3729",
+      "size": 1304,
+      "subject": "English"
+    },
+    {
+      "id": "PE1001-1693",
+      "size": 31567,
+      "subject": "Modern English"
+    },
+    {
+      "id": "PE1700-3602",
+      "size": 2069,
+      "subject": "Dialects.    Provincialisms, etc."
+    },
+    {
+      "id": "PE101-458",
+      "size": 468,
+      "subject": "Anglo-Saxon.    Old English"
+    },
+    {
+      "id": "PE3701-3729",
+      "size": 312,
+      "subject": "Slang.    Argot, etc."
+    },
+    {
+      "id": "PE501-693",
+      "size": 225,
+      "subject": "Middle English"
+    },
+    {
+      "id": "PE814-896",
+      "size": 34,
+      "subject": "Early Modern English"
+    },
+    {
+      "id": "PN",
+      "size": 0,
+      "subject": "Literature (General)"
+    },
+    {
+      "id": "PN1-6790",
+      "size": 1967,
+      "subject": "Literature (General)"
+    },
+    {
+      "id": "PN1600-3307",
+      "size": 1200,
+      "subject": "Drama"
+    },
+    {
+      "id": "PN2000-3307",
+      "size": 12291,
+      "subject": "Dramatic representation.    The theater"
+    },
+    {
+      "id": "PN2219.3-3030",
+      "size": 29661,
+      "subject": "Special regions or countries"
+    },
+    {
+      "id": "PN2131-2193",
+      "size": 0,
+      "subject": "By period"
+    },
+    {
+      "id": "PN2181-2193",
+      "size": 315,
+      "subject": "Modern"
+    },
+    {
+      "id": "PN2152-2160",
+      "size": 27,
+      "subject": "Medieval"
+    },
+    {
+      "id": "PN2131-2145",
+      "size": 10,
+      "subject": "Ancient"
+    },
+    {
+      "id": "PN2171-2179",
+      "size": 19,
+      "subject": "Renaissance"
+    },
+    {
+      "id": "PN3151-3171",
+      "size": 1082,
+      "subject": "Amateur theater"
+    },
+    {
+      "id": "PN2061-2071",
+      "size": 1545,
+      "subject": "Art of acting"
+    },
+    {
+      "id": "PN2085-2091",
+      "size": 842,
+      "subject": "The stage and accessories"
+    },
+    {
+      "id": "PN3035",
+      "size": 165,
+      "subject": "The Jewish theater"
+    },
+    {
+      "id": "PN3203-3299",
+      "size": 335,
+      "subject": "Tableaux, pageants, \"Happenings,\" etc."
+    },
+    {
+      "id": "PN3175-3191",
+      "size": 185,
+      "subject": "College and school theatricals"
+    },
+    {
+      "id": "PN1993-1999",
+      "size": 34538,
+      "subject": "Motion pictures"
+    },
+    {
+      "id": "PN1997-1997.85",
+      "size": 7317,
+      "subject": "Plays, scenarios, etc."
+    },
+    {
+      "id": "PN1990-1992.92",
+      "size": 525,
+      "subject": "Broadcasting"
+    },
+    {
+      "id": "PN1991-1991.9",
+      "size": 1915,
+      "subject": "Radio broadcasts"
+    },
+    {
+      "id": "PN1992-1992.92",
+      "size": 7042,
+      "subject": "Television broadcasts"
+    },
+    {
+      "id": "PN1992.93-1992.95",
+      "size": 261,
+      "subject": "Nonbroadcast video recordings"
+    },
+    {
+      "id": "PN1865-1988",
+      "size": 2865,
+      "subject": "Special types"
+    },
+    {
+      "id": "PN1660-1693",
+      "size": 424,
+      "subject": "Technique of dramatic composition"
+    },
+    {
+      "id": "PN1720-1861",
+      "size": 881,
+      "subject": "History"
+    },
+    {
+      "id": "PN1635-1650",
+      "size": 221,
+      "subject": "Relation to, and treatment of, special"
+    },
+    {
+      "id": "PN441-1009.5",
+      "size": 1874,
+      "subject": "Literary history"
+    },
+    {
+      "id": "PN610-779",
+      "size": 14,
+      "subject": "By period"
+    },
+    {
+      "id": "PN695-779",
+      "size": 2961,
+      "subject": "Modern"
+    },
+    {
+      "id": "PN715-749",
+      "size": 207,
+      "subject": "Renaissance (1500-1700)"
+    },
+    {
+      "id": "PN661-694",
+      "size": 767,
+      "subject": "Medieval (to 1500)"
+    },
+    {
+      "id": "PN683-687",
+      "size": 481,
+      "subject": "Legends"
+    },
+    {
+      "id": "PN688-691",
+      "size": 121,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PN692-693",
+      "size": 21,
+      "subject": "Prose.    Prose fiction"
+    },
+    {
+      "id": "PN611-649",
+      "size": 33,
+      "subject": "Ancient"
+    },
+    {
+      "id": "PN905-1008",
+      "size": 60,
+      "subject": "Folk literature"
+    },
+    {
+      "id": "PN980-995",
+      "size": 334,
+      "subject": "Fables"
+    },
+    {
+      "id": "PN1008.2-1009.5",
+      "size": 1867,
+      "subject": "Juvenile literature"
+    },
+    {
+      "id": "PN500-519",
+      "size": 1709,
+      "subject": "Collections"
+    },
+    {
+      "id": "PN451-497",
+      "size": 845,
+      "subject": "Biography"
+    },
+    {
+      "id": "PN842",
+      "size": 62,
+      "subject": "Jewish literature in various languages"
+    },
+    {
+      "id": "PN851-884",
+      "size": 737,
+      "subject": "Comparative literature"
+    },
+    {
+      "id": "PN801-820",
+      "size": 294,
+      "subject": "Romance literature"
+    },
+    {
+      "id": "PN841",
+      "size": 38,
+      "subject": "Black literature (General)"
+    },
+    {
+      "id": "PN597-605",
+      "size": 229,
+      "subject": "Special relations, movements, and"
+    },
+    {
+      "id": "PN821-840",
+      "size": 37,
+      "subject": "Germanic literature"
+    },
+    {
+      "id": "PN4001-4355",
+      "size": 3488,
+      "subject": "Oratory.    Elocution, etc."
+    },
+    {
+      "id": "PN4199-4321",
+      "size": 901,
+      "subject": "Recitations (in English)"
+    },
+    {
+      "id": "PN4177-4191",
+      "size": 387,
+      "subject": "Debating"
+    },
+    {
+      "id": "PN4331-4355",
+      "size": 39,
+      "subject": "Recitations in foreign languages"
+    },
+    {
+      "id": "PN4071-4095",
+      "size": 172,
+      "subject": "Study and teaching"
+    },
+    {
+      "id": "PN101-245",
+      "size": 3408,
+      "subject": "Authorship"
+    },
+    {
+      "id": "PN172-239",
+      "size": 1523,
+      "subject": "Technique.    Literary composition, etc."
+    },
+    {
+      "id": "PN241-241.5",
+      "size": 488,
+      "subject": "Translating as a literary pursuit"
+    },
+    {
+      "id": "PN6010-6790",
+      "size": 3193,
+      "subject": "Collections of general literature"
+    },
+    {
+      "id": "PN6146.5-6231",
+      "size": 5889,
+      "subject": "Wit and humor"
+    },
+    {
+      "id": "PN6157-6222",
+      "size": 4706,
+      "subject": "By region or country"
+    },
+    {
+      "id": "PN6110.5-6120",
+      "size": 2977,
+      "subject": "Drama"
+    },
+    {
+      "id": "PN6400-6525",
+      "size": 4059,
+      "subject": "Proverbs"
+    },
+    {
+      "id": "PN6366-6377",
+      "size": 1203,
+      "subject": "Riddles, acrostics, charades,"
+    },
+    {
+      "id": "PN6090-6110",
+      "size": 0,
+      "subject": "German"
+    },
+    {
+      "id": "PN6099-6110",
+      "size": 2822,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PN6269-6278",
+      "size": 869,
+      "subject": "Aphorisms.    Apothegms"
+    },
+    {
+      "id": "PN6141-6145",
+      "size": 64,
+      "subject": "Essays"
+    },
+    {
+      "id": "PN6080-6095",
+      "size": 827,
+      "subject": "Quotations"
+    },
+    {
+      "id": "PN6081-6084",
+      "size": 2521,
+      "subject": "English"
+    },
+    {
+      "id": "PN6086-6089",
+      "size": 86,
+      "subject": "French"
+    },
+    {
+      "id": "PN6700-6790",
+      "size": 13185,
+      "subject": "Comic books, strips, etc."
+    },
+    {
+      "id": "PN6259-6268",
+      "size": 520,
+      "subject": "Anecdotes.    Table talk"
+    },
+    {
+      "id": "PN6340-6348",
+      "size": 93,
+      "subject": "Toasts"
+    },
+    {
+      "id": "PN6121-6129",
+      "size": 166,
+      "subject": "Orations"
+    },
+    {
+      "id": "PN6120.15-6120.95",
+      "size": 560,
+      "subject": "Fiction"
+    },
+    {
+      "id": "PN6299-6308",
+      "size": 216,
+      "subject": "Maxims"
+    },
+    {
+      "id": "PN6319-6328",
+      "size": 182,
+      "subject": "Sayings, bon mots, etc."
+    },
+    {
+      "id": "PN6288.5-6298",
+      "size": 127,
+      "subject": "Epitaphs"
+    },
+    {
+      "id": "PN6348.5-6358",
+      "size": 76,
+      "subject": "Emblems, devices"
+    },
+    {
+      "id": "PN6329-6338",
+      "size": 354,
+      "subject": "Thoughts"
+    },
+    {
+      "id": "PN6130-6140",
+      "size": 137,
+      "subject": "Letters"
+    },
+    {
+      "id": "PN6279-6288",
+      "size": 228,
+      "subject": "Epigrams"
+    },
+    {
+      "id": "PN6249-6258",
+      "size": 25,
+      "subject": "Ana"
+    },
+    {
+      "id": "PN6233-6238",
+      "size": 35,
+      "subject": "Anacreontic literature"
+    },
+    {
+      "id": "PN6309-6318",
+      "size": 24,
+      "subject": "Mottoes"
+    },
+    {
+      "id": "PN6244-6246",
+      "size": 69,
+      "subject": "Literary extracts.    Commonplace books"
+    },
+    {
+      "id": "PN6066-6069",
+      "size": 102,
+      "subject": "Special classes of authors"
+    },
+    {
+      "id": "PN6361",
+      "size": 6,
+      "subject": "Paradoxes"
+    },
+    {
+      "id": "PN1010-1525",
+      "size": 1206,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PN1065-1085",
+      "size": 340,
+      "subject": "Relations to, and treatment of,"
+    },
+    {
+      "id": "PN1301-1333",
+      "size": 89,
+      "subject": "Epic poetry"
+    },
+    {
+      "id": "PN1031-1049",
+      "size": 1844,
+      "subject": "Theory, philosophy, relations, etc."
+    },
+    {
+      "id": "PN1110-1279",
+      "size": 798,
+      "subject": "History and criticism"
+    },
+    {
+      "id": "PN1351-1389",
+      "size": 154,
+      "subject": "Lyric poetry"
+    },
+    {
+      "id": "PN1341-1347",
+      "size": 50,
+      "subject": "Folk poetry"
+    },
+    {
+      "id": "PN45-57",
+      "size": 10110,
+      "subject": "Theory.    Philosophy.    Esthetics"
+    },
+    {
+      "id": "PN3311-3503",
+      "size": 404,
+      "subject": "Prose.    Prose fiction"
+    },
+    {
+      "id": "PN3355-3383",
+      "size": 1623,
+      "subject": "Technique.    Authorship"
+    },
+    {
+      "id": "PN3427-3448",
+      "size": 1711,
+      "subject": "Special kinds of fiction.    Fiction genres"
+    },
+    {
+      "id": "PN3451-3503",
+      "size": 865,
+      "subject": "History"
+    },
+    {
+      "id": "PN3329-3352",
+      "size": 538,
+      "subject": "Philosophy, theory, etc."
+    },
+    {
+      "id": "PN4699-5650",
+      "size": 2974,
+      "subject": "Journalism.    The periodical press, etc."
+    },
+    {
+      "id": "PN4840-5648",
+      "size": 22278,
+      "subject": "By region or country"
+    },
+    {
+      "id": "PN4775-4784",
+      "size": 3065,
+      "subject": "Technique.    Practical journalism"
+    },
+    {
+      "id": "PN4832-4836",
+      "size": 455,
+      "subject": "Magazines and other periodicals"
+    },
+    {
+      "id": "PN4735-4748",
+      "size": 886,
+      "subject": "Relation to the state.    Government and"
+    },
+    {
+      "id": "PN5650",
+      "size": 101,
+      "subject": "The Jewish press"
+    },
+    {
+      "id": "PN4825-4830",
+      "size": 24,
+      "subject": "Amateur journalism"
+    },
+    {
+      "id": "PN80-99",
+      "size": 3599,
+      "subject": "Criticism"
+    },
+    {
+      "id": "PN1560-1590",
+      "size": 973,
+      "subject": "The performing arts.    Show business"
+    },
+    {
+      "id": "PN1585-1589",
+      "size": 101,
+      "subject": "Centers for the performing arts"
+    },
+    {
+      "id": "PN59-72",
+      "size": 452,
+      "subject": "Study and teaching"
+    },
+    {
+      "id": "PN4390",
+      "size": 83,
+      "subject": "Diaries"
+    },
+    {
+      "id": "PN1530",
+      "size": 14,
+      "subject": "The monologue"
+    },
+    {
+      "id": "PN4400",
+      "size": 54,
+      "subject": "Letters (Literary history)"
+    },
+    {
+      "id": "PN1-9",
+      "size": 1081,
+      "subject": "Periodicals"
+    },
+    {
+      "id": "PN20-30",
+      "size": 52,
+      "subject": "Societies"
+    },
+    {
+      "id": "PN4500",
+      "size": 95,
+      "subject": "Essays (Literary history)"
+    },
+    {
+      "id": "PN1551",
+      "size": 38,
+      "subject": "The dialogue"
+    },
+    {
+      "id": "PT",
+      "size": 0,
+      "subject": "German literature"
+    },
+    {
+      "id": "PT1-4897",
+      "size": 188,
+      "subject": "German literature"
+    },
+    {
+      "id": "PT3701-3971",
+      "size": 2359,
+      "subject": "Provincial, local, colonial, etc."
+    },
+    {
+      "id": "PT3701-3746",
+      "size": 498,
+      "subject": "East Germany"
+    },
+    {
+      "id": "PT1501-2688",
+      "size": 1,
+      "subject": "Individual authors or works"
+    },
+    {
+      "id": "PT1799-2592",
+      "size": 10601,
+      "subject": "1700-ca. 1860/70"
+    },
+    {
+      "id": "PT1891-2239",
+      "size": 12,
+      "subject": "Goethe"
+    },
+    {
+      "id": "PT2044-2239",
+      "size": 1604,
+      "subject": "Biography and criticism"
+    },
+    {
+      "id": "PT2026-2039",
+      "size": 321,
+      "subject": "Translations"
+    },
+    {
+      "id": "PT1891-2017",
+      "size": 1088,
+      "subject": "Works"
+    },
+    {
+      "id": "PT2600-2653",
+      "size": 27156,
+      "subject": "1860/70-1960"
+    },
+    {
+      "id": "PT2660-2688",
+      "size": 18994,
+      "subject": "1961-2000"
+    },
+    {
+      "id": "PT1501-1695",
+      "size": 1856,
+      "subject": "Middle High German, ca. 1050-1450/1500"
+    },
+    {
+      "id": "PT1701-1797",
+      "size": 855,
+      "subject": "1500-ca. 1700"
+    },
+    {
+      "id": "PT1100-1479",
+      "size": 13,
+      "subject": "Collections"
+    },
+    {
+      "id": "PT1151-1241",
+      "size": 834,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PT1375-1479",
+      "size": 241,
+      "subject": "Middle High German"
+    },
+    {
+      "id": "PT1301-1360",
+      "size": 548,
+      "subject": "Prose"
+    },
+    {
+      "id": "PT1100-1141",
+      "size": 1104,
+      "subject": "General"
+    },
+    {
+      "id": "PT1251-1299",
+      "size": 170,
+      "subject": "Drama"
+    },
+    {
+      "id": "PT1371-1374",
+      "size": 34,
+      "subject": "Early to 1950.    Old and Middle High German"
+    },
+    {
+      "id": "PT83-873",
+      "size": 1839,
+      "subject": "History of German literature"
+    },
+    {
+      "id": "PT236-405",
+      "size": 3381,
+      "subject": "Modern"
+    },
+    {
+      "id": "PT711-871",
+      "size": 1201,
+      "subject": "Prose"
+    },
+    {
+      "id": "PT605-709",
+      "size": 629,
+      "subject": "Drama"
+    },
+    {
+      "id": "PT500-597",
+      "size": 594,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PT175-230",
+      "size": 804,
+      "subject": "Medieval"
+    },
+    {
+      "id": "PT1-80",
+      "size": 969,
+      "subject": "Literary history and criticism"
+    },
+    {
+      "id": "PT881-951",
+      "size": 301,
+      "subject": "Folk literature"
+    },
+    {
+      "id": "PT923-937",
+      "size": 72,
+      "subject": "Faust legend"
+    },
+    {
+      "id": "PT4801-4897",
+      "size": 289,
+      "subject": "Low German literature"
+    },
+    {
+      "id": "PT2700-2728",
+      "size": 905,
+      "subject": "2001-"
+    },
+    {
+      "id": "PT8301-9155",
+      "size": 7,
+      "subject": "Norwegian literature"
+    },
+    {
+      "id": "PT9100-9155",
+      "size": 103,
+      "subject": "Provincial, local, foreign"
+    },
+    {
+      "id": "PT8750-8952.36",
+      "size": 2,
+      "subject": "Individual authors or works"
+    },
+    {
+      "id": "PT8800-8942",
+      "size": 379,
+      "subject": "19th century"
+    },
+    {
+      "id": "PT8851-8900",
+      "size": 612,
+      "subject": "Ibsen, Henrik"
+    },
+    {
+      "id": "PT8949-8950",
+      "size": 1928,
+      "subject": "1900-1960"
+    },
+    {
+      "id": "PT8951-8951.36",
+      "size": 2747,
+      "subject": "1961-2000"
+    },
+    {
+      "id": "PT8750-8775",
+      "size": 30,
+      "subject": "16th-18th centuries"
+    },
+    {
+      "id": "PT8952-8952.36",
+      "size": 299,
+      "subject": "2001-"
+    },
+    {
+      "id": "PT8650-8733",
+      "size": 65,
+      "subject": "Collections"
+    },
+    {
+      "id": "PT8675-8695",
+      "size": 54,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PT8719-8723",
+      "size": 34,
+      "subject": "Prose"
+    },
+    {
+      "id": "PT8699-8718",
+      "size": 5,
+      "subject": "Drama"
+    },
+    {
+      "id": "PT8301-8574",
+      "size": 269,
+      "subject": "Literary history and criticism"
+    },
+    {
+      "id": "PT9000-9094",
+      "size": 0,
+      "subject": "Landsmaal or New Norwegian"
+    },
+    {
+      "id": "PT9064-9094",
+      "size": 890,
+      "subject": "Individual authors"
+    },
+    {
+      "id": "PT9000-9019",
+      "size": 4,
+      "subject": "Literary history and criticism"
+    },
+    {
+      "id": "PT9025-9055",
+      "size": 14,
+      "subject": "Collections"
+    },
+    {
+      "id": "PT8600-8637",
+      "size": 13,
+      "subject": "Folk literature"
+    },
+    {
+      "id": "PT8640",
+      "size": 14,
+      "subject": "Juvenile literature (General)"
+    },
+    {
+      "id": "PT5001-5980",
+      "size": 0,
+      "subject": "Dutch literature"
+    },
+    {
+      "id": "PT5555-5881.36",
+      "size": 1,
+      "subject": "Individual authors or works"
+    },
+    {
+      "id": "PT5881-5881.36",
+      "size": 5588,
+      "subject": "1961-2000"
+    },
+    {
+      "id": "PT5600-5739",
+      "size": 330,
+      "subject": "16th-18th centuries"
+    },
+    {
+      "id": "PT5620-5637",
+      "size": 17,
+      "subject": "Cats, Jacob"
+    },
+    {
+      "id": "PT5700-5732",
+      "size": 59,
+      "subject": "Vondel, Joost van den"
+    },
+    {
+      "id": "PT5800-5880",
+      "size": 2511,
+      "subject": "1800-1960"
+    },
+    {
+      "id": "PT5555-5595",
+      "size": 187,
+      "subject": "Medieval"
+    },
+    {
+      "id": "PT5121-5185",
+      "size": 328,
+      "subject": "Special periods"
+    },
+    {
+      "id": "PT5300-5348",
+      "size": 65,
+      "subject": "Prose"
+    },
+    {
+      "id": "PT5398",
+      "size": 26,
+      "subject": "Juvenile literature (General)"
+    },
+    {
+      "id": "PT5400-5547",
+      "size": 0,
+      "subject": "Collections"
+    },
+    {
+      "id": "PT5470-5488",
+      "size": 163,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PT5517-5547",
+      "size": 120,
+      "subject": "Prose"
+    },
+    {
+      "id": "PT5420-5460",
+      "size": 148,
+      "subject": "Special periods"
+    },
+    {
+      "id": "PT5490-5515",
+      "size": 24,
+      "subject": "Drama"
+    },
+    {
+      "id": "PT5410-5414",
+      "size": 13,
+      "subject": "Translations"
+    },
+    {
+      "id": "PT5400-5409",
+      "size": 47,
+      "subject": "General"
+    },
+    {
+      "id": "PT5201-5243",
+      "size": 112,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PT5901-5980",
+      "size": 101,
+      "subject": "Provincial, local, foreign"
+    },
+    {
+      "id": "PT5250-5295",
+      "size": 36,
+      "subject": "Drama"
+    },
+    {
+      "id": "PT5001-5112",
+      "size": 295,
+      "subject": "General"
+    },
+    {
+      "id": "PT5351-5395",
+      "size": 20,
+      "subject": "Folk literature"
+    },
+    {
+      "id": "PT5001-5348",
+      "size": 2,
+      "subject": "Literary history and criticism"
+    },
+    {
+      "id": "PT5882-5882.36",
+      "size": 327,
+      "subject": "2001-"
+    },
+    {
+      "id": "PT9201-9999",
+      "size": 1,
+      "subject": "Swedish literature"
+    },
+    {
+      "id": "PT9650-9877.36",
+      "size": 18,
+      "subject": "Individual authors or works"
+    },
+    {
+      "id": "PT9876-9876.36",
+      "size": 5164,
+      "subject": "1961-2000"
+    },
+    {
+      "id": "PT9870-9875",
+      "size": 3007,
+      "subject": "1900-1960"
+    },
+    {
+      "id": "PT9725-9850",
+      "size": 406,
+      "subject": "19th century"
+    },
+    {
+      "id": "PT9800-9817",
+      "size": 530,
+      "subject": "Strindberg, Johan August"
+    },
+    {
+      "id": "PT9759-9771",
+      "size": 107,
+      "subject": "Lagerlöf, Selma"
+    },
+    {
+      "id": "PT9820-9838",
+      "size": 34,
+      "subject": "Tegnér, Esaias"
+    },
+    {
+      "id": "PT9650-9651",
+      "size": 11,
+      "subject": "Medieval"
+    },
+    {
+      "id": "PT9674-9715",
+      "size": 127,
+      "subject": "16th-18th centuries"
+    },
+    {
+      "id": "PT9877-9877.36",
+      "size": 292,
+      "subject": "2001-"
+    },
+    {
+      "id": "PT9375-9404",
+      "size": 70,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PT9320-9370",
+      "size": 127,
+      "subject": "Special periods"
+    },
+    {
+      "id": "PT9950-9999",
+      "size": 158,
+      "subject": "Provincial, local, foreign"
+    },
+    {
+      "id": "PT9544",
+      "size": 55,
+      "subject": "Juvenile literature (General)"
+    },
+    {
+      "id": "PT9201-9499",
+      "size": 228,
+      "subject": "Literary history and criticism"
+    },
+    {
+      "id": "PT9460-9499",
+      "size": 52,
+      "subject": "Prose"
+    },
+    {
+      "id": "PT9547-9639",
+      "size": 133,
+      "subject": "Collections"
+    },
+    {
+      "id": "PT9565-9570",
+      "size": 4,
+      "subject": "Translations"
+    },
+    {
+      "id": "PT9605-9625",
+      "size": 11,
+      "subject": "Drama"
+    },
+    {
+      "id": "PT9580-9599",
+      "size": 96,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PT9626-9639",
+      "size": 56,
+      "subject": "Prose"
+    },
+    {
+      "id": "PT9509-9542",
+      "size": 7,
+      "subject": "Folk literature"
+    },
+    {
+      "id": "PT9415-9449",
+      "size": 13,
+      "subject": "Drama"
+    },
+    {
+      "id": "PT7101-7338",
+      "size": 11,
+      "subject": "Old Norse literature: Old Icelandic and Old Norwegian"
+    },
+    {
+      "id": "PT7263-7296",
+      "size": 434,
+      "subject": "Individual sagas and historical works"
+    },
+    {
+      "id": "PT7101-7211",
+      "size": 191,
+      "subject": "Literary history and criticism"
+    },
+    {
+      "id": "PT7220-7262.5",
+      "size": 47,
+      "subject": "Collections"
+    },
+    {
+      "id": "PT7230-7252",
+      "size": 136,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PT7255-7262.5",
+      "size": 24,
+      "subject": "Prose"
+    },
+    {
+      "id": "PT7261-7262.5",
+      "size": 43,
+      "subject": "Sagas"
+    },
+    {
+      "id": "PT7312-7318",
+      "size": 30,
+      "subject": "Scientific and learned literature"
+    },
+    {
+      "id": "PT7177-7211",
+      "size": 0,
+      "subject": "Prose"
+    },
+    {
+      "id": "PT7181-7193",
+      "size": 110,
+      "subject": "Sagas"
+    },
+    {
+      "id": "PT7326-7338",
+      "size": 33,
+      "subject": "Individual authors or works before 1540"
+    },
+    {
+      "id": "PT7298-7309",
+      "size": 9,
+      "subject": "Religious works"
+    },
+    {
+      "id": "PT7601-8260",
+      "size": 0,
+      "subject": "Danish literature"
+    },
+    {
+      "id": "PT8050-8177.36",
+      "size": 3,
+      "subject": "Individual authors or works"
+    },
+    {
+      "id": "PT8176-8176.36",
+      "size": 2584,
+      "subject": "1961-2000"
+    },
+    {
+      "id": "PT8100-8167",
+      "size": 493,
+      "subject": "19th century"
+    },
+    {
+      "id": "PT8102-8120",
+      "size": 487,
+      "subject": "Andersen, Hans Christian"
+    },
+    {
+      "id": "PT8145-8157",
+      "size": 36,
+      "subject": "Oehlenschläger, Adam Gottlob"
+    },
+    {
+      "id": "PT8174-8175",
+      "size": 2268,
+      "subject": "1900-1960"
+    },
+    {
+      "id": "PT8060-8098",
+      "size": 62,
+      "subject": "16th-18th centuries"
+    },
+    {
+      "id": "PT8070-8094.5",
+      "size": 147,
+      "subject": "Holberg, Ludvig"
+    },
+    {
+      "id": "PT8050",
+      "size": 7,
+      "subject": "Medieval"
+    },
+    {
+      "id": "PT8177-8177.36",
+      "size": 102,
+      "subject": "2001-"
+    },
+    {
+      "id": "PT7601-7869",
+      "size": 402,
+      "subject": "Literary history and criticism"
+    },
+    {
+      "id": "PT7945-8046",
+      "size": 83,
+      "subject": "Collections"
+    },
+    {
+      "id": "PT8021-8046",
+      "size": 105,
+      "subject": "Prose"
+    },
+    {
+      "id": "PT7975-7994",
+      "size": 82,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PT7999-8020",
+      "size": 11,
+      "subject": "Drama"
+    },
+    {
+      "id": "PT8205-8260",
+      "size": 16,
+      "subject": "Provincial, local, foreign"
+    },
+    {
+      "id": "PT7900-7930",
+      "size": 23,
+      "subject": "Folk literature"
+    },
+    {
+      "id": "PT7935",
+      "size": 15,
+      "subject": "Juvenile literature (General)"
+    },
+    {
+      "id": "PT7351-7550",
+      "size": 1,
+      "subject": "Modern Icelandic literature"
+    },
+    {
+      "id": "PT7500-7511",
+      "size": 0,
+      "subject": "Individual authors or works"
+    },
+    {
+      "id": "PT7510-7511",
+      "size": 1084,
+      "subject": "19th-20th centuries"
+    },
+    {
+      "id": "PT7500-7501",
+      "size": 22,
+      "subject": "16th-18th centuries"
+    },
+    {
+      "id": "PT7351-7418",
+      "size": 77,
+      "subject": "Literary history and criticism"
+    },
+    {
+      "id": "PT7450-7495",
+      "size": 60,
+      "subject": "Collections"
+    },
+    {
+      "id": "PT7420-7438",
+      "size": 2,
+      "subject": "Folk literature"
+    },
+    {
+      "id": "PT7442",
+      "size": 3,
+      "subject": "Juvenile literature (General)"
+    },
+    {
+      "id": "PT7520-7550",
+      "size": 4,
+      "subject": "Provincial, local, foreign"
+    },
+    {
+      "id": "PT7512-7513",
+      "size": 23,
+      "subject": "21st century"
+    },
+    {
+      "id": "PT6500-6593.36",
+      "size": 1,
+      "subject": "Afrikaans literature"
+    },
+    {
+      "id": "PT6590-6593.36",
+      "size": 1510,
+      "subject": "Individual authors or works"
+    },
+    {
+      "id": "PT6550-6575",
+      "size": 105,
+      "subject": "Collections"
+    },
+    {
+      "id": "PT6500-6530",
+      "size": 110,
+      "subject": "Literary history and criticism"
+    },
+    {
+      "id": "PT6540-6545",
+      "size": 3,
+      "subject": "Folk literature"
+    },
+    {
+      "id": "PT6000-6467.36",
+      "size": 2,
+      "subject": "Flemish literature since 1830"
+    },
+    {
+      "id": "PT6400-6467.36",
+      "size": 2807,
+      "subject": "Individual authors or works"
+    },
+    {
+      "id": "PT6000-6199",
+      "size": 204,
+      "subject": "Literary history and criticism"
+    },
+    {
+      "id": "PT6300-6397",
+      "size": 89,
+      "subject": "Collections"
+    },
+    {
+      "id": "PT6200-6230",
+      "size": 2,
+      "subject": "Folk literature"
+    },
+    {
+      "id": "PT6250",
+      "size": 4,
+      "subject": "Juvenile literature (General)"
+    },
+    {
+      "id": "PT7001-7099",
+      "size": 0,
+      "subject": "General"
+    },
+    {
+      "id": "PT7001-7087",
+      "size": 264,
+      "subject": "Literary history and criticism"
+    },
+    {
+      "id": "PT7088-7089",
+      "size": 6,
+      "subject": "Folk literature"
+    },
+    {
+      "id": "PT7090-7099",
+      "size": 52,
+      "subject": "Collections"
+    },
+    {
+      "id": "PT7581-7599",
+      "size": 0,
+      "subject": "Faroese literature"
+    },
+    {
+      "id": "PT7593-7596.5",
+      "size": 17,
+      "subject": "Collections"
+    },
+    {
+      "id": "PT7581-7592",
+      "size": 24,
+      "subject": "Literary history and criticism"
+    },
+    {
+      "id": "PT7598-7599",
+      "size": 141,
+      "subject": "Individual authors or works"
+    },
+    {
+      "id": "PA",
+      "size": 0,
+      "subject": "Greek literature"
+    },
+    {
+      "id": "PA2001-2915",
+      "size": 2991,
+      "subject": "Latin philology and language"
+    },
+    {
+      "id": "PA6000-6971",
+      "size": 7,
+      "subject": "Roman literature"
+    },
+    {
+      "id": "PA6100-6140",
+      "size": 373,
+      "subject": "Collections"
+    },
+    {
+      "id": "PA6202-6971",
+      "size": 2864,
+      "subject": "Individual authors"
+    },
+    {
+      "id": "PA6519-6553",
+      "size": 611,
+      "subject": "Ovid"
+    },
+    {
+      "id": "PA6801-6961",
+      "size": 1016,
+      "subject": "Vergilius Maro, Publius (Virgil)"
+    },
+    {
+      "id": "PA6393-6444",
+      "size": 536,
+      "subject": "Horace"
+    },
+    {
+      "id": "PA6568-6609",
+      "size": 284,
+      "subject": "Plautus, Titus Maccius"
+    },
+    {
+      "id": "PA6278-6370",
+      "size": 721,
+      "subject": "Cicero, Marcus Tullius"
+    },
+    {
+      "id": "PA6482-6496",
+      "size": 176,
+      "subject": "Lucretius Carus, Titus"
+    },
+    {
+      "id": "PA6661-6693",
+      "size": 424,
+      "subject": "Seneca, Lucius Annaeus"
+    },
+    {
+      "id": "PA6705-6753",
+      "size": 212,
+      "subject": "Tacitus, Cornelius"
+    },
+    {
+      "id": "PA6611-6637",
+      "size": 41,
+      "subject": "Pliny, the Elder"
+    },
+    {
+      "id": "PA6755-6785",
+      "size": 157,
+      "subject": "Terentius Apher, Publius (Terence)"
+    },
+    {
+      "id": "PA6235-6269",
+      "size": 114,
+      "subject": "Caesar, Julius"
+    },
+    {
+      "id": "PA6501-6510",
+      "size": 125,
+      "subject": "Martial"
+    },
+    {
+      "id": "PA6001-6097",
+      "size": 969,
+      "subject": "Literary history"
+    },
+    {
+      "id": "PA6141-6144",
+      "size": 43,
+      "subject": "Criticism, interpretation, etc."
+    },
+    {
+      "id": "PA6155-6191",
+      "size": 182,
+      "subject": "Translations"
+    },
+    {
+      "id": "PA3050-4505",
+      "size": 3,
+      "subject": "Greek literature"
+    },
+    {
+      "id": "PA3818-4505",
+      "size": 3207,
+      "subject": "Individual authors"
+    },
+    {
+      "id": "PA3949-3964",
+      "size": 127,
+      "subject": "Demosthenes"
+    },
+    {
+      "id": "PA4279-4333",
+      "size": 197,
+      "subject": "Plato"
+    },
+    {
+      "id": "PA3973-3992",
+      "size": 681,
+      "subject": "Euripedes"
+    },
+    {
+      "id": "PA4018-4209",
+      "size": 1621,
+      "subject": "Homer"
+    },
+    {
+      "id": "PA3890-3926",
+      "size": 173,
+      "subject": "Aristotle"
+    },
+    {
+      "id": "PA4413-4434",
+      "size": 585,
+      "subject": "Sophocles"
+    },
+    {
+      "id": "PA3825-3849",
+      "size": 442,
+      "subject": "Aeschylus"
+    },
+    {
+      "id": "PA4494-4499",
+      "size": 157,
+      "subject": "Xenophon"
+    },
+    {
+      "id": "PA4452-4486",
+      "size": 96,
+      "subject": "Thucydides"
+    },
+    {
+      "id": "PA4367-4389",
+      "size": 291,
+      "subject": "Plutarch"
+    },
+    {
+      "id": "PA3851-3858",
+      "size": 131,
+      "subject": "Aesop"
+    },
+    {
+      "id": "PA3601-3681",
+      "size": 480,
+      "subject": "Translations"
+    },
+    {
+      "id": "PA3051-3285",
+      "size": 1513,
+      "subject": "Literary history"
+    },
+    {
+      "id": "PA3520-3564",
+      "size": 97,
+      "subject": "Criticism, interpretation, etc."
+    },
+    {
+      "id": "PA3300-3516",
+      "size": 778,
+      "subject": "Collections"
+    },
+    {
+      "id": "PA1-199",
+      "size": 2090,
+      "subject": "Classical philology"
+    },
+    {
+      "id": "PA201-899",
+      "size": 1523,
+      "subject": "Greek philology and language"
+    },
+    {
+      "id": "PA5000-5660",
+      "size": 1814,
+      "subject": "Byzantine and modern Greek literature"
+    },
+    {
+      "id": "PA5301-5638.36",
+      "size": 4635,
+      "subject": "Individual authors"
+    },
+    {
+      "id": "PA8001-8595",
+      "size": 714,
+      "subject": "Medieval and modern Latin literature"
+    },
+    {
+      "id": "PA8200-8595",
+      "size": 2361,
+      "subject": "Individual authors"
+    },
+    {
+      "id": "PA3000-3049",
+      "size": 1051,
+      "subject": "Classical literature"
+    },
+    {
+      "id": "PA1000-1179",
+      "size": 760,
+      "subject": "Medieval and modern Greek language"
+    },
+    {
+      "id": "PC",
+      "size": 0,
+      "subject": "Romance"
+    },
+    {
+      "id": "PC1-5498",
+      "size": 10,
+      "subject": "Romance"
+    },
+    {
+      "id": "PC4001-4977",
+      "size": 9372,
+      "subject": "Spanish"
+    },
+    {
+      "id": "PC2001-3761",
+      "size": 6948,
+      "subject": "French"
+    },
+    {
+      "id": "PC2700-3708",
+      "size": 1113,
+      "subject": "Dialects.    Provincialisms"
+    },
+    {
+      "id": "PC3201-3366",
+      "size": 637,
+      "subject": "Provencal (Old)"
+    },
+    {
+      "id": "PC2813-2898",
+      "size": 212,
+      "subject": "Old French"
+    },
+    {
+      "id": "PC3371-3420.5",
+      "size": 592,
+      "subject": "Modern patois of South France"
+    },
+    {
+      "id": "PC3420.8-3495",
+      "size": 162,
+      "subject": "Langue d'oc dialects"
+    },
+    {
+      "id": "PC3721-3761",
+      "size": 164,
+      "subject": "Slang.    Argot"
+    },
+    {
+      "id": "PC1001-1977",
+      "size": 3748,
+      "subject": "Italian"
+    },
+    {
+      "id": "PC5001-5498",
+      "size": 2245,
+      "subject": "Portuguese"
+    },
+    {
+      "id": "PC3801-3976",
+      "size": 8230,
+      "subject": "Catalan"
+    },
+    {
+      "id": "PC1-400",
+      "size": 1358,
+      "subject": "General"
+    },
+    {
+      "id": "PC601-872",
+      "size": 11374,
+      "subject": "Romanian"
+    },
+    {
+      "id": "PC901-986",
+      "size": 387,
+      "subject": "Raeto-Romance"
+    },
+    {
+      "id": "PC1981-1984",
+      "size": 202,
+      "subject": "Sardinian"
+    },
+    {
+      "id": "PK",
+      "size": 0,
+      "subject": "Indo-Iranian philology and literature"
+    },
+    {
+      "id": "PK1-9601",
+      "size": 22,
+      "subject": "Indo-Iranian philology and literature"
+    },
+    {
+      "id": "PK6001-6996",
+      "size": 2082,
+      "subject": "Iranian philology and literature"
+    },
+    {
+      "id": "PK6201-6599.7",
+      "size": 0,
+      "subject": "New Persian"
+    },
+    {
+      "id": "PK6400-6599.7",
+      "size": 1561,
+      "subject": "Literature"
+    },
+    {
+      "id": "PK6450.9-6562.35",
+      "size": 2249,
+      "subject": "Individual authors or works"
+    },
+    {
+      "id": "PK6490",
+      "size": 47,
+      "subject": "Ja_m i_"
+    },
+    {
+      "id": "PK6510-6525",
+      "size": 288,
+      "subject": "Omar Khayyam"
+    },
+    {
+      "id": "PK6455-6460",
+      "size": 263,
+      "subject": "Firdaws i_"
+    },
+    {
+      "id": "PK6478-6482",
+      "size": 406,
+      "subject": "Jala_l al-D i_n Ru_m i_  Maulana"
+    },
+    {
+      "id": "PK6465",
+      "size": 224,
+      "subject": "H. a_fiz."
+    },
+    {
+      "id": "PK6540-6546",
+      "size": 111,
+      "subject": "Sa‘ d i_"
+    },
+    {
+      "id": "PK6501",
+      "size": 122,
+      "subject": "Niz. a_m i_  Ganjav i_"
+    },
+    {
+      "id": "PK6475",
+      "size": 4,
+      "subject": "Ibn Yam i_n, Fakhr al-D i_n Mah. mu_d"
+    },
+    {
+      "id": "PK6201-6399",
+      "size": 986,
+      "subject": "Language"
+    },
+    {
+      "id": "PK6701-6821",
+      "size": 618,
+      "subject": "Afghan (Pashto, Pushto, Pushtu, etc.)"
+    },
+    {
+      "id": "PK6001-6099",
+      "size": 115,
+      "subject": "General"
+    },
+    {
+      "id": "PK6101-6119",
+      "size": 81,
+      "subject": "Avestan"
+    },
+    {
+      "id": "PK6121-6129",
+      "size": 46,
+      "subject": "Old Persian"
+    },
+    {
+      "id": "PK6135-6199.9",
+      "size": 27,
+      "subject": "Middle Iranian languages"
+    },
+    {
+      "id": "PK6141-6199.5",
+      "size": 97,
+      "subject": "Pahlavi"
+    },
+    {
+      "id": "PK2901-5471",
+      "size": 225,
+      "subject": "Indo-Aryan literature"
+    },
+    {
+      "id": "PK2901-2979",
+      "size": 2181,
+      "subject": "General"
+    },
+    {
+      "id": "PK5401-5471",
+      "size": 552,
+      "subject": "Modern Indo-Aryan literature"
+    },
+    {
+      "id": "PK3591-4485",
+      "size": 816,
+      "subject": "Sanskrit"
+    },
+    {
+      "id": "PK3791-3799",
+      "size": 3625,
+      "subject": "Individual authors and works"
+    },
+    {
+      "id": "PK3801-4251",
+      "size": 48,
+      "subject": "Special subjects"
+    },
+    {
+      "id": "PK4471-4485",
+      "size": 70,
+      "subject": "Translations"
+    },
+    {
+      "id": "PK4990-5046",
+      "size": 182,
+      "subject": "Prakrit literature"
+    },
+    {
+      "id": "PK4501-4681",
+      "size": 132,
+      "subject": "Pali literature"
+    },
+    {
+      "id": "PK8001-8832",
+      "size": 0,
+      "subject": "Armenian"
+    },
+    {
+      "id": "PK8501-8832",
+      "size": 5156,
+      "subject": "Literature"
+    },
+    {
+      "id": "PK8001-8496",
+      "size": 697,
+      "subject": "Language"
+    },
+    {
+      "id": "PK101-2899",
+      "size": 12,
+      "subject": "Indo-Aryan languages"
+    },
+    {
+      "id": "PK1501-2899",
+      "size": 194,
+      "subject": "Modern Indo-Aryan languages"
+    },
+    {
+      "id": "PK1550-2899",
+      "size": 888,
+      "subject": "Particular languages and dialects"
+    },
+    {
+      "id": "PK2896-2899",
+      "size": 146,
+      "subject": "Romani"
+    },
+    {
+      "id": "PK2561-2579.5",
+      "size": 5206,
+      "subject": "Oriya"
+    },
+    {
+      "id": "PK1931-2212",
+      "size": 36,
+      "subject": "Hindi, Urdu, Hindustani languages and"
+    },
+    {
+      "id": "PK2030-2142",
+      "size": 19770,
+      "subject": "Hindi, Hindustani literatures"
+    },
+    {
+      "id": "PK2151-2212",
+      "size": 14561,
+      "subject": "Urdu literature"
+    },
+    {
+      "id": "PK1971-1979.5",
+      "size": 685,
+      "subject": "Urdu language"
+    },
+    {
+      "id": "PK1931-1970",
+      "size": 2528,
+      "subject": "Hindi language"
+    },
+    {
+      "id": "PK1981-2000",
+      "size": 146,
+      "subject": "Hindustani language"
+    },
+    {
+      "id": "PK2781-2790",
+      "size": 1440,
+      "subject": "Sindhi"
+    },
+    {
+      "id": "PK2631-2659",
+      "size": 7735,
+      "subject": "Panjabi"
+    },
+    {
+      "id": "PK2892-2892.95",
+      "size": 150,
+      "subject": "Siraiki"
+    },
+    {
+      "id": "PK1651-1799",
+      "size": 16147,
+      "subject": "Bengali"
+    },
+    {
+      "id": "PK2701-2708.9",
+      "size": 1081,
+      "subject": "Rajasthani"
+    },
+    {
+      "id": "PK1550-1569",
+      "size": 1507,
+      "subject": "Assamese"
+    },
+    {
+      "id": "PK1801-1831.95",
+      "size": 1421,
+      "subject": "Bihari"
+    },
+    {
+      "id": "PK2591-2610",
+      "size": 4354,
+      "subject": "Pahari"
+    },
+    {
+      "id": "PK2351-2418",
+      "size": 7366,
+      "subject": "Marathi"
+    },
+    {
+      "id": "PK2261-2270.9",
+      "size": 59,
+      "subject": "Lahnda_"
+    },
+    {
+      "id": "PK1841-1870.95",
+      "size": 6445,
+      "subject": "Gujarati"
+    },
+    {
+      "id": "PK2801-2891",
+      "size": 3129,
+      "subject": "Sinhalese (Singhalese)"
+    },
+    {
+      "id": "PK2461-2479",
+      "size": 129,
+      "subject": "Marwari"
+    },
+    {
+      "id": "PK401-976",
+      "size": 1784,
+      "subject": "Sanskrit"
+    },
+    {
+      "id": "PK201-379",
+      "size": 207,
+      "subject": "Vedic"
+    },
+    {
+      "id": "PK101-185",
+      "size": 477,
+      "subject": "General"
+    },
+    {
+      "id": "PK1421-1429.5",
+      "size": 99,
+      "subject": "Apabhram. s´a"
+    },
+    {
+      "id": "PK1201-1409.5",
+      "size": 119,
+      "subject": "Prakrit"
+    },
+    {
+      "id": "PK1001-1095",
+      "size": 185,
+      "subject": "Pali"
+    },
+    {
+      "id": "PK1471-1490",
+      "size": 25,
+      "subject": "Middle Indo-Aryan dialects"
+    },
+    {
+      "id": "PK9001-9201",
+      "size": 1203,
+      "subject": "Caucasian languages"
+    },
+    {
+      "id": "PK9101-9169",
+      "size": 2887,
+      "subject": "Georgian"
+    },
+    {
+      "id": "PK7001-7075",
+      "size": 44,
+      "subject": "Dardic (Pisacha)"
+    },
+    {
+      "id": "PK7050-7065",
+      "size": 7,
+      "subject": "Nuristani (Kafiri) group"
+    },
+    {
+      "id": "PK7040-7045",
+      "size": 10,
+      "subject": "Kohistani"
+    },
+    {
+      "id": "PK7021-7037",
+      "size": 293,
+      "subject": "Kashmiri"
+    },
+    {
+      "id": "PK1-85",
+      "size": 121,
+      "subject": "General"
+    },
+    {
+      "id": "P1-1091",
+      "size": 10,
+      "subject": "Philology.    Linguistics"
+    },
+    {
+      "id": "P101-410",
+      "size": 6863,
+      "subject": "Language.    Linguistic theory.    Comparative grammar"
+    },
+    {
+      "id": "P121-149",
+      "size": 3906,
+      "subject": "Science of language (Linguistics)"
+    },
+    {
+      "id": "P201-299",
+      "size": 4708,
+      "subject": "Comparative grammar"
+    },
+    {
+      "id": "P302-302.87",
+      "size": 1813,
+      "subject": "Discourse analysis"
+    },
+    {
+      "id": "P306-310",
+      "size": 2080,
+      "subject": "Translating and interpreting"
+    },
+    {
+      "id": "P325-325.5",
+      "size": 1321,
+      "subject": "Semantics"
+    },
+    {
+      "id": "P301-301.5",
+      "size": 933,
+      "subject": "Style.    Composition.    Rhetoric"
+    },
+    {
+      "id": "P118-118.75",
+      "size": 1439,
+      "subject": "Language acquisition"
+    },
+    {
+      "id": "P375-381",
+      "size": 754,
+      "subject": "Linguistic geography"
+    },
+    {
+      "id": "P326-326.5",
+      "size": 291,
+      "subject": "Lexicology"
+    },
+    {
+      "id": "P321-324.5",
+      "size": 386,
+      "subject": "Etymology"
+    },
+    {
+      "id": "P327-327.5",
+      "size": 319,
+      "subject": "Lexicography"
+    },
+    {
+      "id": "P87-96",
+      "size": 13137,
+      "subject": "Communication.    Mass media"
+    },
+    {
+      "id": "P95-95.6",
+      "size": 1092,
+      "subject": "Oral communication.    Speech"
+    },
+    {
+      "id": "P94.7",
+      "size": 46,
+      "subject": "Interpersonal communication"
+    },
+    {
+      "id": "P1-85",
+      "size": 12012,
+      "subject": "General"
+    },
+    {
+      "id": "P98-98.5",
+      "size": 599,
+      "subject": "Computational linguistics.    Natural language processing"
+    },
+    {
+      "id": "P99-99.4",
+      "size": 1428,
+      "subject": "Semiotics.    Signs and symbols"
+    },
+    {
+      "id": "P501-769",
+      "size": 719,
+      "subject": "Indo-European (Indo-Germanic) philology"
+    },
+    {
+      "id": "P99.5-99.6",
+      "size": 90,
+      "subject": "Nonverbal communication"
+    },
+    {
+      "id": "P901-1091",
+      "size": 724,
+      "subject": "Extinct ancient or medieval languages"
+    },
+    {
+      "id": "PF",
+      "size": 0,
+      "subject": "West Germanic"
+    },
+    {
+      "id": "PF1-5999",
+      "size": 4,
+      "subject": "West Germanic"
+    },
+    {
+      "id": "PF3001-5999",
+      "size": 7357,
+      "subject": "German"
+    },
+    {
+      "id": "PF5000-5951",
+      "size": 1582,
+      "subject": "Dialects.    Provincialism, etc."
+    },
+    {
+      "id": "PF3801-3991",
+      "size": 305,
+      "subject": "Old High German"
+    },
+    {
+      "id": "PF5971-5999",
+      "size": 118,
+      "subject": "Slang.    Argot, etc."
+    },
+    {
+      "id": "PF4501-4596",
+      "size": 72,
+      "subject": "Early Modern German"
+    },
+    {
+      "id": "PF4043-4350",
+      "size": 156,
+      "subject": "Middle High German"
+    },
+    {
+      "id": "PF3992-4010",
+      "size": 66,
+      "subject": "Old Saxon"
+    },
+    {
+      "id": "PF1-979",
+      "size": 1636,
+      "subject": "Dutch"
+    },
+    {
+      "id": "PF1401-1541",
+      "size": 353,
+      "subject": "Friesian"
+    },
+    {
+      "id": "PF1001-1184",
+      "size": 28,
+      "subject": "Flemish"
+    },
+    {
+      "id": "PJ",
+      "size": 0,
+      "subject": "Oriental philology and literature"
+    },
+    {
+      "id": "PJ1-9500",
+      "size": 22,
+      "subject": "Oriental philology and literature"
+    },
+    {
+      "id": "PJ1001-1989",
+      "size": 186,
+      "subject": "Egyptology"
+    },
+    {
+      "id": "PJ1481-1989",
+      "size": 686,
+      "subject": "Literature.    Inscriptions"
+    },
+    {
+      "id": "PJ1091-1109",
+      "size": 116,
+      "subject": "Egyptian writing and its decipherment"
+    },
+    {
+      "id": "PJ1111-1446",
+      "size": 222,
+      "subject": "Language"
+    },
+    {
+      "id": "PJ6001-8517",
+      "size": 607,
+      "subject": "Arabic"
+    },
+    {
+      "id": "PJ7501-8517",
+      "size": 8219,
+      "subject": "Arabic literature"
+    },
+    {
+      "id": "PJ7695.8-7976",
+      "size": 10051,
+      "subject": "Individual authors or works"
+    },
+    {
+      "id": "PJ6073-7144",
+      "size": 3477,
+      "subject": "Language"
+    },
+    {
+      "id": "PJ6701-6901",
+      "size": 761,
+      "subject": "Modern Arabic dialects"
+    },
+    {
+      "id": "PJ6690-6697",
+      "size": 446,
+      "subject": "Ancient Arabic"
+    },
+    {
+      "id": "PJ6950-7144",
+      "size": 0,
+      "subject": "South Arabian"
+    },
+    {
+      "id": "PJ7051-7144",
+      "size": 15,
+      "subject": "Modern"
+    },
+    {
+      "id": "PJ6950-6981",
+      "size": 40,
+      "subject": "Ancient"
+    },
+    {
+      "id": "PJ4501-5192",
+      "size": 254,
+      "subject": "Hebrew"
+    },
+    {
+      "id": "PJ5001-5060",
+      "size": 1667,
+      "subject": "Literature"
+    },
+    {
+      "id": "PJ5050-5055.51",
+      "size": 16071,
+      "subject": "Individual authors and works"
+    },
+    {
+      "id": "PJ4543-4937",
+      "size": 2017,
+      "subject": "Language (Biblical and modern)"
+    },
+    {
+      "id": "PJ5061-5192",
+      "size": 117,
+      "subject": "Other languages used by Jews"
+    },
+    {
+      "id": "PJ5111-5192",
+      "size": 4980,
+      "subject": "Yiddish"
+    },
+    {
+      "id": "PJ4951-4996",
+      "size": 6,
+      "subject": "Medieval Hebrew"
+    },
+    {
+      "id": "PJ4101-4197",
+      "size": 144,
+      "subject": "West and North Semitic languages"
+    },
+    {
+      "id": "PJ4171-4197",
+      "size": 42,
+      "subject": "Phoenician-Punic"
+    },
+    {
+      "id": "PJ2340-2399",
+      "size": 35,
+      "subject": "Libyco-Berber languages.    Berber languages"
+    },
+    {
+      "id": "PJ2369-2399",
+      "size": 171,
+      "subject": "Berber languages"
+    },
+    {
+      "id": "PJ2353-2367",
+      "size": 2,
+      "subject": "Libyan group"
+    },
+    {
+      "id": "PJ5201-5329.5",
+      "size": 124,
+      "subject": "Aramaic"
+    },
+    {
+      "id": "PJ5211-5289",
+      "size": 0,
+      "subject": "West Aramaic"
+    },
+    {
+      "id": "PJ5271-5279",
+      "size": 7,
+      "subject": "Samaritan"
+    },
+    {
+      "id": "PJ5281-5289",
+      "size": 26,
+      "subject": "Neo-Aramaic"
+    },
+    {
+      "id": "PJ5211-5219.5",
+      "size": 35,
+      "subject": "Biblical (Chaldaic)"
+    },
+    {
+      "id": "PJ5229",
+      "size": 5,
+      "subject": "Palmyrene inscriptions"
+    },
+    {
+      "id": "PJ5251-5259",
+      "size": 16,
+      "subject": "Jewish Palestinian"
+    },
+    {
+      "id": "PJ5241-5249",
+      "size": 6,
+      "subject": "Christian Palestinian"
+    },
+    {
+      "id": "PJ5239",
+      "size": 8,
+      "subject": "Nabataean inscriptions"
+    },
+    {
+      "id": "PJ5301-5329.5",
+      "size": 19,
+      "subject": "East Aramaic"
+    },
+    {
+      "id": "PJ5321-5329.5",
+      "size": 13,
+      "subject": "Mandaean"
+    },
+    {
+      "id": "PJ8991-9348",
+      "size": 160,
+      "subject": "Ethiopian languages"
+    },
+    {
+      "id": "PJ9201-9269",
+      "size": 540,
+      "subject": "Amharic"
+    },
+    {
+      "id": "PJ9001-9101",
+      "size": 73,
+      "subject": "Ethiopic (Geez)"
+    },
+    {
+      "id": "PJ4001-4091",
+      "size": 314,
+      "subject": "Sumerian"
+    },
+    {
+      "id": "PJ3101-3971",
+      "size": 141,
+      "subject": "Assyriology.    Akkadian"
+    },
+    {
+      "id": "PJ3601-3971",
+      "size": 614,
+      "subject": "Literature.    Inscriptions"
+    },
+    {
+      "id": "PJ3231-3595",
+      "size": 126,
+      "subject": "Language"
+    },
+    {
+      "id": "PJ5401-5809",
+      "size": 13,
+      "subject": "Syriac"
+    },
+    {
+      "id": "PJ5414-5495",
+      "size": 92,
+      "subject": "Language"
+    },
+    {
+      "id": "PJ5601-5695",
+      "size": 75,
+      "subject": "Literature"
+    },
+    {
+      "id": "PJ5801-5809",
+      "size": 54,
+      "subject": "Neo-Syriac dialects (Modern Syriac)"
+    },
+    {
+      "id": "PJ1-489",
+      "size": 273,
+      "subject": "General"
+    },
+    {
+      "id": "PJ601-989",
+      "size": 3,
+      "subject": "Special groups"
+    },
+    {
+      "id": "PJ701-989",
+      "size": 103,
+      "subject": "Islamic"
+    },
+    {
+      "id": "PJ601-621",
+      "size": 8,
+      "subject": "Christian Oriental"
+    },
+    {
+      "id": "PJ2001-2199",
+      "size": 141,
+      "subject": "Coptic"
+    },
+    {
+      "id": "PJ2401-2594",
+      "size": 293,
+      "subject": "Cushitic languages"
+    },
+    {
+      "id": "PJ991-995",
+      "size": 47,
+      "subject": "Afroasiatic languages"
+    },
+    {
+      "id": "PJ3001-3097",
+      "size": 311,
+      "subject": "Semitic philology and literature"
+    },
+    {
+      "id": "PJ5901-5909",
+      "size": 1,
+      "subject": "South Semitic languages"
+    },
+    {
+      "id": "PJ1-195",
+      "size": 617,
+      "subject": "Languages"
+    },
+    {
+      "id": "PD",
+      "size": 0,
+      "subject": "Germanic"
+    },
+    {
+      "id": "PD1-7159",
+      "size": 0,
+      "subject": "Germanic"
+    },
+    {
+      "id": "PD1-780",
+      "size": 1267,
+      "subject": "General"
+    },
+    {
+      "id": "PD1501-7159",
+      "size": 487,
+      "subject": "North Germanic.    Scandinavian"
+    },
+    {
+      "id": "PD2401-2446",
+      "size": 124,
+      "subject": "Modern Icelandic"
+    },
+    {
+      "id": "PD3001-3929",
+      "size": 477,
+      "subject": "Danish"
+    },
+    {
+      "id": "PD2501-2999",
+      "size": 607,
+      "subject": "Norwegian"
+    },
+    {
+      "id": "PD5001-5929",
+      "size": 949,
+      "subject": "Swedish"
+    },
+    {
+      "id": "PD2201-2393",
+      "size": 131,
+      "subject": "Old Norse.    Old Icelandic and Old"
+    },
+    {
+      "id": "PD1001-1350",
+      "size": 15,
+      "subject": "Old Germanic dialects"
+    },
+    {
+      "id": "PD1101-1211",
+      "size": 80,
+      "subject": "Gothic"
+    },
+    {
+      "id": "PG",
+      "size": 0,
+      "subject": "Slavic.    Baltic.    Albanian"
+    },
+    {
+      "id": "PG1-7925",
+      "size": 0,
+      "subject": "Slavic"
+    },
+    {
+      "id": "PG2900-3698",
+      "size": 0,
+      "subject": "Russian literature"
+    },
+    {
+      "id": "PG3300-3493.96",
+      "size": 13,
+      "subject": "Individual authors and works"
+    },
+    {
+      "id": "PG3320-3447",
+      "size": 2467,
+      "subject": "1800-1870"
+    },
+    {
+      "id": "PG3365-3417",
+      "size": 1155,
+      "subject": "Tolstoi"
+    },
+    {
+      "id": "PG3420-3445",
+      "size": 440,
+      "subject": "Turgenev"
+    },
+    {
+      "id": "PG3325-3328",
+      "size": 1175,
+      "subject": "Dostoyevsky"
+    },
+    {
+      "id": "PG3340-3359",
+      "size": 1788,
+      "subject": "Pushkin"
+    },
+    {
+      "id": "PG3332-3335",
+      "size": 487,
+      "subject": "Gogol'"
+    },
+    {
+      "id": "PG3475-3476",
+      "size": 10349,
+      "subject": "1917-1960"
+    },
+    {
+      "id": "PG3477-3490",
+      "size": 15954,
+      "subject": "1961-2000"
+    },
+    {
+      "id": "PG3450-3470",
+      "size": 2620,
+      "subject": "1870-1917"
+    },
+    {
+      "id": "PG3455-3458",
+      "size": 859,
+      "subject": "Chekhov"
+    },
+    {
+      "id": "PG3452",
+      "size": 91,
+      "subject": "Andreev"
+    },
+    {
+      "id": "PG3462-3465",
+      "size": 505,
+      "subject": "Gorky"
+    },
+    {
+      "id": "PG3300-3308",
+      "size": 255,
+      "subject": "Early to 1700"
+    },
+    {
+      "id": "PG3310-3319",
+      "size": 185,
+      "subject": "18th century"
+    },
+    {
+      "id": "PG3316",
+      "size": 61,
+      "subject": "Lomonosov"
+    },
+    {
+      "id": "PG3314",
+      "size": 51,
+      "subject": "Karamzin"
+    },
+    {
+      "id": "PG3312",
+      "size": 44,
+      "subject": "Derzhavin"
+    },
+    {
+      "id": "PG3318",
+      "size": 12,
+      "subject": "Sumarokov"
+    },
+    {
+      "id": "PG3491.2-3493.96",
+      "size": 2252,
+      "subject": "2001-"
+    },
+    {
+      "id": "PG3199-3299",
+      "size": 2,
+      "subject": "Collections"
+    },
+    {
+      "id": "PG3240-3255",
+      "size": 330,
+      "subject": "Drama"
+    },
+    {
+      "id": "PG3230-3238",
+      "size": 731,
+      "subject": "Poetry"
+    },
+    {
+      "id": "PG3223-3229.2",
+      "size": 535,
+      "subject": "Special periods"
+    },
+    {
+      "id": "PG3260-3299",
+      "size": 652,
+      "subject": "Prose"
+    },
+    {
+      "id": "PG3199-3205",
+      "size": 409,
+      "subject": "General"
+    },
+    {
+      "id": "PG3211-3219",
+      "size": 101,
+      "subject": "Translations"
+    },
+    {
+      "id": "PG3515-3550",
+      "size": 875,
+      "subject": "Outside the Russian Federation"
+    },
+    {
+      "id": "PG3500-3505",
+      "size": 758,
+      "subject": "Provincial, local, etc."
+    },
+    {
+      "id": "PG3651-3698",
+      "size": 2,
+      "subject": "Special subjects"
+    },
+    {
+      "id": "PG4001-5146",
+      "size": 7988,
+      "subject": "Czech"
+    },
+    {
+      "id": "PG6001-7446",
+      "size": 16880,
+      "subject": "Polish"
+    },
+    {
+      "id": "PG3801-3987",
+      "size": 7526,
+      "subject": "Ukrainian"
+    },
+    {
+      "id": "PG7900-7925",
+      "size": 98,
+      "subject": "Lechitic dialects"
+    },
+    {
+      "id": "PG5201-5546",
+      "size": 3110,
+      "subject": "Slovak"
+    },
+    {
+      "id": "PG3990",
+      "size": 8,
+      "subject": "Carpatho-Rusyn"
+    },
+    {
+      "id": "PG1-9665",
+      "size": 4,
+      "subject": "Slavic.    Baltic.    Albanian"
+    },
+    {
+      "id": "PG2900-3190",
+      "size": 6986,
+      "subject": "History and criticism"
+    },
+    {
+      "id": "PG3071-3089",
+      "size": 134,
+      "subject": "Drama"
+    },
+    {
+      "id": "PG8001-9146",
+      "size": 94,
+      "subject": "Baltic"
+    },
+    {
+      "id": "PG8501-8772",
+      "size": 2870,
+      "subject": "Lithuanian"
+    },
+    {
+      "id": "PG8801-9146",
+      "size": 3803,
+      "subject": "Latvian"
+    },
+    {
+      "id": "PG8201-8208",
+      "size": 23,
+      "subject": "Old Prussian"
+    },
+    {
+      "id": "PG1801-1962",
+      "size": 3657,
+      "subject": "Slovenian"
+    },
+    {
+      "id": "PG9501-9665",
+      "size": 4235,
+      "subject": "Albanian"
+    },
+    {
+      "id": "PG2001-2826",
+      "size": 6768,
+      "subject": "Russian language"
+    },
+    {
+      "id": "PG500-585",
+      "size": 612,
+      "subject": "Slavic literature (General)"
+    },
+    {
+      "id": "PG601-716",
+      "size": 649,
+      "subject": "Church Slavic"
+    },
+    {
+      "id": "PG1151-1199",
+      "size": 2798,
+      "subject": "Macedonian"
+    },
+    {
+      "id": "PH",
+      "size": 0,
+      "subject": "Uralic.    Basque"
+    },
+    {
+      "id": "PH1-5490",
+      "size": 25,
+      "subject": "Uralic.    Basque"
+    },
+    {
+      "id": "PH5001-5490",
+      "size": 897,
+      "subject": "Basque"
+    },
+    {
+      "id": "PH2001-3445",
+      "size": 11941,
+      "subject": "Hungarian"
+    },
+    {
+      "id": "PH101-405",
+      "size": 3834,
+      "subject": "Finnish"
+    },
+    {
+      "id": "PH501-1109",
+      "size": 7,
+      "subject": "Other Finnic languages and dialects"
+    },
+    {
+      "id": "PH601-671",
+      "size": 2074,
+      "subject": "Estonian"
+    },
+    {
+      "id": "PH751-785",
+      "size": 175,
+      "subject": "Mordvin"
+    },
+    {
+      "id": "PH1001-1079",
+      "size": 259,
+      "subject": "Permic"
+    },
+    {
+      "id": "PH701-735",
+      "size": 129,
+      "subject": "Sami"
+    },
+    {
+      "id": "PH1101-1109",
+      "size": 221,
+      "subject": "Udmurt"
+    },
+    {
+      "id": "PH801-836",
+      "size": 232,
+      "subject": "Mari"
+    },
+    {
+      "id": "PH501-509",
+      "size": 59,
+      "subject": "Karelian"
+    },
+    {
+      "id": "PH581-589",
+      "size": 14,
+      "subject": "Livonian"
+    },
+    {
+      "id": "PH561-569",
+      "size": 8,
+      "subject": "Votic"
+    },
+    {
+      "id": "PH541-549",
+      "size": 18,
+      "subject": "Veps"
+    },
+    {
+      "id": "PH531-539",
+      "size": 6,
+      "subject": "Ludic"
+    },
+    {
+      "id": "PH551-559",
+      "size": 11,
+      "subject": "Ingrian"
+    },
+    {
+      "id": "PH521-529",
+      "size": 1,
+      "subject": "Olonets"
+    },
+    {
+      "id": "PH1-87",
+      "size": 502,
+      "subject": "General"
+    },
+    {
+      "id": "PH1201-1409",
+      "size": 127,
+      "subject": "Ugric languages"
+    },
+    {
+      "id": "PH91-98.5",
+      "size": 60,
+      "subject": "Finnic.    Baltic-Finnic"
+    },
+    {
+      "id": "PH3801-3820",
+      "size": 55,
+      "subject": "Samoyedic languages"
+    },
+    {
+      "id": "PL",
+      "size": 0,
+      "subject": "Languages of Eastern Asia, Africa, Oceania"
+    },
+    {
+      "id": "PL1-8844",
+      "size": 240,
+      "subject": "Languages of Eastern Asia, Africa, Oceania"
+    },
+    {
+      "id": "PL1001-3208",
+      "size": 45,
+      "subject": "Chinese language and literature"
+    },
+    {
+      "id": "PL2250-3208",
+      "size": 716,
+      "subject": "Chinese literature"
+    },
+    {
+      "id": "PL2661-2979",
+      "size": 30971,
+      "subject": "Individual authors and works"
+    },
+    {
+      "id": "PL2450-2659",
+      "size": 8849,
+      "subject": "Collections"
+    },
+    {
+      "id": "PL2250-2443",
+      "size": 10715,
+      "subject": "History and criticism"
+    },
+    {
+      "id": "PL3030-3208",
+      "size": 2628,
+      "subject": "Provincial, local, colonial, etc."
+    },
+    {
+      "id": "PL1001-1960",
+      "size": 8637,
+      "subject": "Chinese language"
+    },
+    {
+      "id": "PL501-889",
+      "size": 0,
+      "subject": "Japanese language and literature"
+    },
+    {
+      "id": "PL700-889",
+      "size": 219,
+      "subject": "Japanese literature"
+    },
+    {
+      "id": "PL784-866",
+      "size": 13363,
+      "subject": "Individual authors and works"
+    },
+    {
+      "id": "PL885-889",
+      "size": 312,
+      "subject": "Local literature"
+    },
+    {
+      "id": "PL700-751.5",
+      "size": 6595,
+      "subject": "History and criticism"
+    },
+    {
+      "id": "PL752-783",
+      "size": 2256,
+      "subject": "Collections"
+    },
+    {
+      "id": "PL501-699",
+      "size": 4923,
+      "subject": "Japanese language"
+    },
+    {
+      "id": "PL8000-8844",
+      "size": 0,
+      "subject": "African languages and literature"
+    },
+    {
+      "id": "PL8009.5-8014",
+      "size": 669,
+      "subject": "Literature"
+    },
+    {
+      "id": "PL8035-8844",
+      "size": 5913,
+      "subject": "Special languages (alphabetically)"
+    },
+    {
+      "id": "PL8015-8021",
+      "size": 266,
+      "subject": "Languages.    By region or country"
+    },
+    {
+      "id": "PL8000-8009",
+      "size": 344,
+      "subject": "Languages"
+    },
+    {
+      "id": "PL8024-8027",
+      "size": 224,
+      "subject": "Special families of languages"
+    },
+    {
+      "id": "PL901-998",
+      "size": 1,
+      "subject": "Korean language and literature"
+    },
+    {
+      "id": "PL901-946",
+      "size": 2953,
+      "subject": "Korean language"
+    },
+    {
+      "id": "PL950-998",
+      "size": 2,
+      "subject": "Korean literature"
+    },
+    {
+      "id": "PL986-994.98",
+      "size": 11024,
+      "subject": "Individual authors and works"
+    },
+    {
+      "id": "PL950.2-969.5",
+      "size": 4344,
+      "subject": "History and criticism"
+    },
+    {
+      "id": "PL969.8-985",
+      "size": 2158,
+      "subject": "Collections"
+    },
+    {
+      "id": "PL997-998",
+      "size": 469,
+      "subject": "Local literature"
+    },
+    {
+      "id": "PL3521-4001",
+      "size": 41,
+      "subject": "Sino-Tibetan languages"
+    },
+    {
+      "id": "PL3551-4001",
+      "size": 28,
+      "subject": "Tibeto-Burman languages"
+    },
+    {
+      "id": "PL3561-3801",
+      "size": 9,
+      "subject": "Tibeto-Himalayan languages"
+    },
+    {
+      "id": "PL3601-3775",
+      "size": 1589,
+      "subject": "Tibetan"
+    },
+    {
+      "id": "PL3781-3801",
+      "size": 773,
+      "subject": "Himalayan languages"
+    },
+    {
+      "id": "PL3851-4001",
+      "size": 4236,
+      "subject": "Assam and Burma"
+    },
+    {
+      "id": "PL1-481",
+      "size": 16588,
+      "subject": "Ural-Altaic languages"
+    },
+    {
+      "id": "PL5001-7511",
+      "size": 25,
+      "subject": "Languages of Oceania"
+    },
+    {
+      "id": "PL6401-6551",
+      "size": 363,
+      "subject": "Polynesian languages"
+    },
+    {
+      "id": "PL6145-6167",
+      "size": 62,
+      "subject": "Taiwan languages"
+    },
+    {
+      "id": "PL5001-7101",
+      "size": 7472,
+      "subject": "Austronesian, Papuan, and Australian languages"
+    },
+    {
+      "id": "PL5501-6135",
+      "size": 993,
+      "subject": "Philippine languages"
+    },
+    {
+      "id": "PL6601-6621",
+      "size": 296,
+      "subject": "Papuan languages"
+    },
+    {
+      "id": "PL6191-6341",
+      "size": 260,
+      "subject": "Micronesian and Melanesian languages"
+    },
+    {
+      "id": "PL7001-7101",
+      "size": 335,
+      "subject": "Australian languages"
+    },
+    {
+      "id": "PL4281-4587",
+      "size": 11,
+      "subject": "Austroasiatic languages"
+    },
+    {
+      "id": "PL4301-4470",
+      "size": 325,
+      "subject": "Mon-Khmer (Mon-Anam) languages"
+    },
+    {
+      "id": "PL4371-4379",
+      "size": 6882,
+      "subject": "Vietnamese.    Annamese"
+    },
+    {
+      "id": "PL4321-4329",
+      "size": 156,
+      "subject": "Khmer (Cambodian)"
+    },
+    {
+      "id": "PL4501-4587",
+      "size": 171,
+      "subject": "Munda languages (Kolarian languages)"
+    },
+    {
+      "id": "PL4490-4498",
+      "size": 47,
+      "subject": "Chamic languages"
+    },
+    {
+      "id": "PL4471-4471.5",
+      "size": 5,
+      "subject": "Nicobarese"
+    },
+    {
+      "id": "PL4111-4251",
+      "size": 2317,
+      "subject": "Tai languages"
+    },
+    {
+      "id": "PL4601-4797.95",
+      "size": 38817,
+      "subject": "Dravidian languages"
+    },
+    {
+      "id": "PL3301-3311",
+      "size": 194,
+      "subject": "Non-Chinese languages of China"
+    },
+    {
+      "id": "PL3501-3509.5",
+      "size": 93,
+      "subject": "Non-Aryan languages of India and Southeastern Asia in"
+    },
+    {
+      "id": "PL491-494",
+      "size": 75,
+      "subject": "Far Eastern languages and literature"
+    },
+    {
+      "id": "PL4070-4074",
+      "size": 70,
+      "subject": "Miao-Yao languages"
+    },
+    {
+      "id": "PL495",
+      "size": 23,
+      "subject": "Ainu"
+    },
+    {
+      "id": "PL4051-4054",
+      "size": 22,
+      "subject": "Karen languages"
+    },
+    {
+      "id": "PL3515",
+      "size": 4,
+      "subject": "Singapore literature"
+    },
+    {
+      "id": "PL3518",
+      "size": 1,
+      "subject": "Languages of the Montagnards"
+    },
+    {
+      "id": "PL3512",
+      "size": 4,
+      "subject": "Malaysian literature"
+    },
+    {
+      "id": "PB",
+      "size": 0,
+      "subject": "Modern languages.    Celtic languages"
+    },
+    {
+      "id": "PB1-3029",
+      "size": 0,
+      "subject": "Modern languages.    Celtic languages"
+    },
+    {
+      "id": "PB1001-3029",
+      "size": 201,
+      "subject": "Celtic languages and literature"
+    },
+    {
+      "id": "PB1201-1449",
+      "size": 1913,
+      "subject": "Irish"
+    },
+    {
+      "id": "PB2001-3029",
+      "size": 6,
+      "subject": "Brittanic group"
+    },
+    {
+      "id": "PB2101-2499",
+      "size": 1304,
+      "subject": "Welsh.    Cymric"
+    },
+    {
+      "id": "PB2801-2932",
+      "size": 196,
+      "subject": "Breton.    Armorican"
+    },
+    {
+      "id": "PB2501-2621",
+      "size": 40,
+      "subject": "Cornish"
+    },
+    {
+      "id": "PB3001-3029",
+      "size": 14,
+      "subject": "Gaulish"
+    },
+    {
+      "id": "PB1501-1709",
+      "size": 348,
+      "subject": "Gaelic (Scottish Gaelic, Erse)"
+    },
+    {
+      "id": "PB1801-1867",
+      "size": 13,
+      "subject": "Manx"
+    },
+    {
+      "id": "PB1101-1200",
+      "size": 6,
+      "subject": "Goidelic.    Gaelic"
+    },
+    {
+      "id": "PB1-431",
+      "size": 1895,
+      "subject": "Modern languages"
+    },
+    {
+      "id": "PM",
+      "size": 0,
+      "subject": "Hyperborean, Indian, and artificial languages"
+    },
+    {
+      "id": "PM1-9021",
+      "size": 0,
+      "subject": "Hyperborean, Indian, and artificial languages"
+    },
+    {
+      "id": "PM101-7356",
+      "size": 302,
+      "subject": "Indian languages"
+    },
+    {
+      "id": "PM549-2711",
+      "size": 890,
+      "subject": "Special languages of the United States and Canada"
+    },
+    {
+      "id": "PM5001-7356",
+      "size": 1638,
+      "subject": "Languages of South America and the West Indies"
+    },
+    {
+      "id": "PM3001-4566",
+      "size": 1380,
+      "subject": "Languages of Mexico and Central America"
+    },
+    {
+      "id": "PM421-501",
+      "size": 35,
+      "subject": "Languages of the United States"
+    },
+    {
+      "id": "PM231-355",
+      "size": 26,
+      "subject": "Languages of Canada"
+    },
+    {
+      "id": "PM7801-7895",
+      "size": 257,
+      "subject": "Mixed languages"
+    },
+    {
+      "id": "PM7831-7875",
+      "size": 737,
+      "subject": "Creole languages"
+    },
+    {
+      "id": "PM8001-9021",
+      "size": 251,
+      "subject": "Artificial languages--Universal languages"
+    },
+    {
+      "id": "PM8201-8298",
+      "size": 359,
+      "subject": "Esperanto"
+    },
+    {
+      "id": "PM8999",
+      "size": 3,
+      "subject": "Picture languages"
+    },
+    {
+      "id": "PM9001-9021",
+      "size": 15,
+      "subject": "Secret languages"
+    },
+    {
+      "id": "PM1-96",
+      "size": 333,
+      "subject": "Hyperborean languages of Arctic Asia and America"
+    }
+  ],
+  "links": [
+    {
+      "source": "P",
+      "target": "PZ"
+    },
+    {
+      "source": "PZ",
+      "target": "PZ1-90"
+    },
+    {
+      "source": "PZ1-90",
+      "target": "PZ1-4"
+    },
+    {
+      "source": "PZ1-90",
+      "target": "PZ5-90"
+    },
+    {
+      "source": "P",
+      "target": "PR"
+    },
+    {
+      "source": "PR",
+      "target": "PR"
+    },
+    {
+      "source": "P",
+      "target": "PR"
+    },
+    {
+      "source": "PR",
+      "target": "PR1-9680"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR8309-9680"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR6000-6049"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR3991-5990"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR161-488"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR3291-3785"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR2199-3195"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR1803-2165"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR1098-1369"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR1490-1799"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR931-938"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR500-614"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR6050-6076"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR750-890"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR621-744"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR1-56"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR125-138.5"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR111-116"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR6100-6126"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR57-78"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR908"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR951-981"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR911-918"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR921-928"
+    },
+    {
+      "source": "PR1-9680",
+      "target": "PR901-907.2"
+    },
+    {
+      "source": "PR161-488",
+      "target": "PR251-369"
+    },
+    {
+      "source": "PR161-488",
+      "target": "PR401-488"
+    },
+    {
+      "source": "PR161-488",
+      "target": "PR171-236"
+    },
+    {
+      "source": "PR401-488",
+      "target": "PR451-469"
+    },
+    {
+      "source": "PR401-488",
+      "target": "PR441-449"
+    },
+    {
+      "source": "PR401-488",
+      "target": "PR471-479"
+    },
+    {
+      "source": "PR401-488",
+      "target": "PR421-429"
+    },
+    {
+      "source": "PR401-488",
+      "target": "PR431-439"
+    },
+    {
+      "source": "PR401-488",
+      "target": "PR481-488"
+    },
+    {
+      "source": "PR1098-1369",
+      "target": "PR1170-1228"
+    },
+    {
+      "source": "PR1098-1369",
+      "target": "PR1241-1273"
+    },
+    {
+      "source": "PR1098-1369",
+      "target": "PR1281-1309"
+    },
+    {
+      "source": "PR1098-1369",
+      "target": "PR1110"
+    },
+    {
+      "source": "PR1098-1369",
+      "target": "PR1119-1151"
+    },
+    {
+      "source": "PR1098-1369",
+      "target": "PR1361-1369"
+    },
+    {
+      "source": "PR1098-1369",
+      "target": "PR1341-1349"
+    },
+    {
+      "source": "PR1098-1369",
+      "target": "PR1321-1329"
+    },
+    {
+      "source": "PR1098-1369",
+      "target": "PR1330"
+    },
+    {
+      "source": "PR500-614",
+      "target": "PR521-614"
+    },
+    {
+      "source": "PR750-890",
+      "target": "PR821-890"
+    },
+    {
+      "source": "PR750-890",
+      "target": "PR767-818"
+    },
+    {
+      "source": "PR621-744",
+      "target": "PR641-744"
+    },
+    {
+      "source": "P",
+      "target": "PS"
+    },
+    {
+      "source": "PS",
+      "target": "PS1-3576"
+    },
+    {
+      "source": "PS",
+      "target": "PS8001-8599"
+    },
+    {
+      "source": "PS1-3576",
+      "target": "PS700-3576"
+    },
+    {
+      "source": "PS1-3576",
+      "target": "PS501-689"
+    },
+    {
+      "source": "PS1-3576",
+      "target": "PS490"
+    },
+    {
+      "source": "PS1-3576",
+      "target": "PS163-173"
+    },
+    {
+      "source": "PS1-3576",
+      "target": "PS185-231"
+    },
+    {
+      "source": "PS1-3576",
+      "target": "PS301-326"
+    },
+    {
+      "source": "PS1-3576",
+      "target": "PS126-138"
+    },
+    {
+      "source": "PS1-3576",
+      "target": "PS360-380"
+    },
+    {
+      "source": "PS1-3576",
+      "target": "PS147-152"
+    },
+    {
+      "source": "PS1-3576",
+      "target": "PS241-286"
+    },
+    {
+      "source": "PS1-3576",
+      "target": "PS330-353"
+    },
+    {
+      "source": "PS1-3576",
+      "target": "PS430-439"
+    },
+    {
+      "source": "PS1-3576",
+      "target": "PS451-478"
+    },
+    {
+      "source": "PS1-3576",
+      "target": "PS420-429"
+    },
+    {
+      "source": "PS1-3576",
+      "target": "PS400-408.2"
+    },
+    {
+      "source": "PS1-3576",
+      "target": "PS409"
+    },
+    {
+      "source": "PS1-3576",
+      "target": "PS410-419"
+    },
+    {
+      "source": "PS700-3576",
+      "target": "PS991-3390"
+    },
+    {
+      "source": "PS700-3576",
+      "target": "PS3500-3549"
+    },
+    {
+      "source": "PS700-3576",
+      "target": "PS700-893"
+    },
+    {
+      "source": "PS700-3576",
+      "target": "PS3550-3576"
+    },
+    {
+      "source": "PS501-689",
+      "target": "PS623-635"
+    },
+    {
+      "source": "PS501-689",
+      "target": "PS537-574"
+    },
+    {
+      "source": "PS501-689",
+      "target": "PS580-619"
+    },
+    {
+      "source": "PS501-689",
+      "target": "PS642-659.5"
+    },
+    {
+      "source": "PS501-689",
+      "target": "PS660-668.2"
+    },
+    {
+      "source": "PS501-689",
+      "target": "PS530-536.3"
+    },
+    {
+      "source": "PS501-689",
+      "target": "PS680-689"
+    },
+    {
+      "source": "PS501-689",
+      "target": "PS670-678.2"
+    },
+    {
+      "source": "PS537-574",
+      "target": "PS561-572"
+    },
+    {
+      "source": "PS537-574",
+      "target": "PS551-559"
+    },
+    {
+      "source": "PS537-574",
+      "target": "PS538-549"
+    },
+    {
+      "source": "PS580-619",
+      "target": "PS593"
+    },
+    {
+      "source": "PS580-619",
+      "target": "PS601-617"
+    },
+    {
+      "source": "PS642-659.5",
+      "target": "PS651-659.2"
+    },
+    {
+      "source": "PS660-668.2",
+      "target": "PS666-668.2"
+    },
+    {
+      "source": "PS185-231",
+      "target": "PS221-228"
+    },
+    {
+      "source": "PS185-231",
+      "target": "PS201-217"
+    },
+    {
+      "source": "PS185-231",
+      "target": "PS185-195"
+    },
+    {
+      "source": "PS185-231",
+      "target": "PS229-231"
+    },
+    {
+      "source": "PS360-380",
+      "target": "PS370-380"
+    },
+    {
+      "source": "PS241-286",
+      "target": "PS271-285"
+    },
+    {
+      "source": "PS241-286",
+      "target": "PS261-267"
+    },
+    {
+      "source": "PS241-286",
+      "target": "PS241-255"
+    },
+    {
+      "source": "P",
+      "target": "PQ"
+    },
+    {
+      "source": "PQ",
+      "target": "PQ1-3999"
+    },
+    {
+      "source": "PQ",
+      "target": "PQ4001-5999"
+    },
+    {
+      "source": "PQ",
+      "target": "PQ6001-8929"
+    },
+    {
+      "source": "PQ",
+      "target": "PQ4001-4199.5"
+    },
+    {
+      "source": "PQ",
+      "target": "PQ6001-6168"
+    },
+    {
+      "source": "PQ",
+      "target": "PQ9000-9999"
+    },
+    {
+      "source": "PQ1-3999",
+      "target": "PQ1600-2726"
+    },
+    {
+      "source": "PQ1-3999",
+      "target": "PQ1-771"
+    },
+    {
+      "source": "PQ1-3999",
+      "target": "PQ1100-1297"
+    },
+    {
+      "source": "PQ1-3999",
+      "target": "PQ601-771"
+    },
+    {
+      "source": "PQ1-3999",
+      "target": "PQ1300-1595"
+    },
+    {
+      "source": "PQ1-3999",
+      "target": "PQ3800-3999"
+    },
+    {
+      "source": "PQ1-3999",
+      "target": "PQ500-591"
+    },
+    {
+      "source": "PQ1-3999",
+      "target": "PQ400-491"
+    },
+    {
+      "source": "PQ1-3999",
+      "target": "PQ1-150"
+    },
+    {
+      "source": "PQ1-3999",
+      "target": "PQ781-841"
+    },
+    {
+      "source": "PQ1-3999",
+      "target": "PQ845"
+    },
+    {
+      "source": "PQ1600-2726",
+      "target": "PQ2149-2551"
+    },
+    {
+      "source": "PQ1600-2726",
+      "target": "PQ2600-2651"
+    },
+    {
+      "source": "PQ1600-2726",
+      "target": "PQ1947-2147"
+    },
+    {
+      "source": "PQ1600-2726",
+      "target": "PQ1710-1935"
+    },
+    {
+      "source": "PQ1600-2726",
+      "target": "PQ2660-2686"
+    },
+    {
+      "source": "PQ1600-2726",
+      "target": "PQ1600-1709"
+    },
+    {
+      "source": "PQ1600-2726",
+      "target": "PQ2700-2726"
+    },
+    {
+      "source": "PQ1100-1297",
+      "target": "PQ1243-1297"
+    },
+    {
+      "source": "PQ1100-1297",
+      "target": "PQ1160-1193"
+    },
+    {
+      "source": "PQ1100-1297",
+      "target": "PQ1100-1145"
+    },
+    {
+      "source": "PQ1100-1297",
+      "target": "PQ1211-1241"
+    },
+    {
+      "source": "PQ1300-1595",
+      "target": "PQ1551-1595"
+    },
+    {
+      "source": "PQ1300-1595",
+      "target": "PQ1411-1545"
+    },
+    {
+      "source": "PQ1300-1595",
+      "target": "PQ1300-1391"
+    },
+    {
+      "source": "PQ4001-5999",
+      "target": "PQ4265-4556"
+    },
+    {
+      "source": "PQ4001-5999",
+      "target": "PQ4561-4664"
+    },
+    {
+      "source": "PQ4001-5999",
+      "target": "PQ4860-4886"
+    },
+    {
+      "source": "PQ4001-5999",
+      "target": "PQ4001-4199.5"
+    },
+    {
+      "source": "PQ4001-5999",
+      "target": "PQ4201-4263"
+    },
+    {
+      "source": "PQ4001-5999",
+      "target": "PQ4800-4851"
+    },
+    {
+      "source": "PQ4001-5999",
+      "target": "PQ5901-5999"
+    },
+    {
+      "source": "PQ4001-5999",
+      "target": "PQ4675-4734"
+    },
+    {
+      "source": "PQ4001-5999",
+      "target": "PQ4900-4926"
+    },
+    {
+      "source": "PQ4201-4263",
+      "target": "PQ4247-4263"
+    },
+    {
+      "source": "PQ4201-4263",
+      "target": "PQ4207-4225"
+    },
+    {
+      "source": "PQ4201-4263",
+      "target": "PQ4227-4245"
+    },
+    {
+      "source": "PQ4201-4263",
+      "target": "PQ4201-4204"
+    },
+    {
+      "source": "PQ4201-4263",
+      "target": "PQ4205-4206"
+    },
+    {
+      "source": "PQ6001-8929",
+      "target": "PQ6600-6647"
+    },
+    {
+      "source": "PQ6001-8929",
+      "target": "PQ6500-6576"
+    },
+    {
+      "source": "PQ6001-8929",
+      "target": "PQ7000-8929"
+    },
+    {
+      "source": "PQ6001-8929",
+      "target": "PQ6001-6168"
+    },
+    {
+      "source": "PQ6001-8929",
+      "target": "PQ6170-6269"
+    },
+    {
+      "source": "PQ6001-8929",
+      "target": "PQ6271-6498"
+    },
+    {
+      "source": "PQ6001-8929",
+      "target": "PQ6650-6676"
+    },
+    {
+      "source": "PQ6001-8929",
+      "target": "PQ6700-6726"
+    },
+    {
+      "source": "PQ7000-8929",
+      "target": "PQ7081-8560"
+    },
+    {
+      "source": "PQ6170-6269",
+      "target": "PQ6247-6264"
+    },
+    {
+      "source": "PQ6170-6269",
+      "target": "PQ6265-6269"
+    },
+    {
+      "source": "PQ6170-6269",
+      "target": "PQ6170-6174.9"
+    },
+    {
+      "source": "PQ6170-6269",
+      "target": "PQ6174.95-6215"
+    },
+    {
+      "source": "PQ6170-6269",
+      "target": "PQ6217-6241"
+    },
+    {
+      "source": "PQ4001-4199.5",
+      "target": "PQ4064-4075"
+    },
+    {
+      "source": "PQ4001-4199.5",
+      "target": "PQ4133-4160"
+    },
+    {
+      "source": "PQ4001-4199.5",
+      "target": "PQ4091-4131"
+    },
+    {
+      "source": "PQ4001-4199.5",
+      "target": "PQ4199.5"
+    },
+    {
+      "source": "PQ4001-4199.5",
+      "target": "PQ4161-4185"
+    },
+    {
+      "source": "PQ4001-4199.5",
+      "target": "PQ4186-4199"
+    },
+    {
+      "source": "PQ6001-6168",
+      "target": "PQ6075-6098"
+    },
+    {
+      "source": "PQ9000-9999",
+      "target": "PQ9261"
+    },
+    {
+      "source": "PQ9000-9999",
+      "target": "PQ9400-9999"
+    },
+    {
+      "source": "PQ9000-9999",
+      "target": "PQ9262-9288"
+    },
+    {
+      "source": "PQ9000-9999",
+      "target": "PQ9191-9255"
+    },
+    {
+      "source": "PQ9000-9999",
+      "target": "PQ9000-9034"
+    },
+    {
+      "source": "PQ9000-9999",
+      "target": "PQ9035-9055"
+    },
+    {
+      "source": "PQ9000-9999",
+      "target": "PQ9061-9081"
+    },
+    {
+      "source": "PQ9000-9999",
+      "target": "PQ9131-9188"
+    },
+    {
+      "source": "PQ9000-9999",
+      "target": "PQ9189"
+    },
+    {
+      "source": "PQ9000-9999",
+      "target": "PQ9097-9119"
+    },
+    {
+      "source": "PQ9000-9999",
+      "target": "PQ9121-9128"
+    },
+    {
+      "source": "PQ9000-9999",
+      "target": "PQ9300-9326"
+    },
+    {
+      "source": "PQ9000-9999",
+      "target": "PQ9083-9095"
+    },
+    {
+      "source": "PQ9000-9999",
+      "target": "PQ9129"
+    },
+    {
+      "source": "PQ9000-9999",
+      "target": "PQ9000-9129"
+    },
+    {
+      "source": "PQ9400-9999",
+      "target": "PQ9500-9698.36"
+    },
+    {
+      "source": "PQ9131-9188",
+      "target": "PQ9149-9163"
+    },
+    {
+      "source": "PQ9131-9188",
+      "target": "PQ9131-9144"
+    },
+    {
+      "source": "PQ9131-9188",
+      "target": "PQ9137"
+    },
+    {
+      "source": "PQ9131-9188",
+      "target": "PQ9164-9170"
+    },
+    {
+      "source": "PQ9131-9188",
+      "target": "PQ9172-9188"
+    },
+    {
+      "source": "P",
+      "target": "PE"
+    },
+    {
+      "source": "PE",
+      "target": "PE1-3729"
+    },
+    {
+      "source": "PE1-3729",
+      "target": "PE1001-1693"
+    },
+    {
+      "source": "PE1-3729",
+      "target": "PE1700-3602"
+    },
+    {
+      "source": "PE1-3729",
+      "target": "PE101-458"
+    },
+    {
+      "source": "PE1-3729",
+      "target": "PE3701-3729"
+    },
+    {
+      "source": "PE1-3729",
+      "target": "PE501-693"
+    },
+    {
+      "source": "PE1-3729",
+      "target": "PE814-896"
+    },
+    {
+      "source": "P",
+      "target": "PN"
+    },
+    {
+      "source": "PN",
+      "target": "PN1-6790"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN1600-3307"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN441-1009.5"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN4001-4355"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN101-245"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN6010-6790"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN1010-1525"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN45-57"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN3311-3503"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN4699-5650"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN80-99"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN1560-1590"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN59-72"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN4390"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN1530"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN4400"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN1-9"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN20-30"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN4500"
+    },
+    {
+      "source": "PN1-6790",
+      "target": "PN1551"
+    },
+    {
+      "source": "PN1600-3307",
+      "target": "PN2000-3307"
+    },
+    {
+      "source": "PN1600-3307",
+      "target": "PN1993-1999"
+    },
+    {
+      "source": "PN1600-3307",
+      "target": "PN1990-1992.92"
+    },
+    {
+      "source": "PN1600-3307",
+      "target": "PN1992.93-1992.95"
+    },
+    {
+      "source": "PN1600-3307",
+      "target": "PN1865-1988"
+    },
+    {
+      "source": "PN1600-3307",
+      "target": "PN1660-1693"
+    },
+    {
+      "source": "PN1600-3307",
+      "target": "PN1720-1861"
+    },
+    {
+      "source": "PN1600-3307",
+      "target": "PN1635-1650"
+    },
+    {
+      "source": "PN2000-3307",
+      "target": "PN2219.3-3030"
+    },
+    {
+      "source": "PN2000-3307",
+      "target": "PN2131-2193"
+    },
+    {
+      "source": "PN2000-3307",
+      "target": "PN3151-3171"
+    },
+    {
+      "source": "PN2000-3307",
+      "target": "PN2061-2071"
+    },
+    {
+      "source": "PN2000-3307",
+      "target": "PN2085-2091"
+    },
+    {
+      "source": "PN2000-3307",
+      "target": "PN3035"
+    },
+    {
+      "source": "PN2000-3307",
+      "target": "PN3203-3299"
+    },
+    {
+      "source": "PN2000-3307",
+      "target": "PN3175-3191"
+    },
+    {
+      "source": "PN2131-2193",
+      "target": "PN2181-2193"
+    },
+    {
+      "source": "PN2131-2193",
+      "target": "PN2152-2160"
+    },
+    {
+      "source": "PN2131-2193",
+      "target": "PN2131-2145"
+    },
+    {
+      "source": "PN2131-2193",
+      "target": "PN2171-2179"
+    },
+    {
+      "source": "PN1993-1999",
+      "target": "PN1997-1997.85"
+    },
+    {
+      "source": "PN1990-1992.92",
+      "target": "PN1991-1991.9"
+    },
+    {
+      "source": "PN1990-1992.92",
+      "target": "PN1992-1992.92"
+    },
+    {
+      "source": "PN441-1009.5",
+      "target": "PN610-779"
+    },
+    {
+      "source": "PN441-1009.5",
+      "target": "PN905-1008"
+    },
+    {
+      "source": "PN441-1009.5",
+      "target": "PN1008.2-1009.5"
+    },
+    {
+      "source": "PN441-1009.5",
+      "target": "PN500-519"
+    },
+    {
+      "source": "PN441-1009.5",
+      "target": "PN451-497"
+    },
+    {
+      "source": "PN441-1009.5",
+      "target": "PN842"
+    },
+    {
+      "source": "PN441-1009.5",
+      "target": "PN851-884"
+    },
+    {
+      "source": "PN441-1009.5",
+      "target": "PN801-820"
+    },
+    {
+      "source": "PN441-1009.5",
+      "target": "PN841"
+    },
+    {
+      "source": "PN441-1009.5",
+      "target": "PN597-605"
+    },
+    {
+      "source": "PN441-1009.5",
+      "target": "PN821-840"
+    },
+    {
+      "source": "PN610-779",
+      "target": "PN695-779"
+    },
+    {
+      "source": "PN610-779",
+      "target": "PN661-694"
+    },
+    {
+      "source": "PN610-779",
+      "target": "PN611-649"
+    },
+    {
+      "source": "PN695-779",
+      "target": "PN715-749"
+    },
+    {
+      "source": "PN661-694",
+      "target": "PN683-687"
+    },
+    {
+      "source": "PN661-694",
+      "target": "PN688-691"
+    },
+    {
+      "source": "PN661-694",
+      "target": "PN692-693"
+    },
+    {
+      "source": "PN905-1008",
+      "target": "PN980-995"
+    },
+    {
+      "source": "PN4001-4355",
+      "target": "PN4199-4321"
+    },
+    {
+      "source": "PN4001-4355",
+      "target": "PN4177-4191"
+    },
+    {
+      "source": "PN4001-4355",
+      "target": "PN4331-4355"
+    },
+    {
+      "source": "PN4001-4355",
+      "target": "PN4071-4095"
+    },
+    {
+      "source": "PN101-245",
+      "target": "PN172-239"
+    },
+    {
+      "source": "PN101-245",
+      "target": "PN241-241.5"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6146.5-6231"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6110.5-6120"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6400-6525"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6366-6377"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6090-6110"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6269-6278"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6141-6145"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6080-6095"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6700-6790"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6259-6268"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6340-6348"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6121-6129"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6120.15-6120.95"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6299-6308"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6319-6328"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6288.5-6298"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6348.5-6358"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6329-6338"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6130-6140"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6279-6288"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6249-6258"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6233-6238"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6309-6318"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6244-6246"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6066-6069"
+    },
+    {
+      "source": "PN6010-6790",
+      "target": "PN6361"
+    },
+    {
+      "source": "PN6146.5-6231",
+      "target": "PN6157-6222"
+    },
+    {
+      "source": "PN6090-6110",
+      "target": "PN6099-6110"
+    },
+    {
+      "source": "PN6080-6095",
+      "target": "PN6081-6084"
+    },
+    {
+      "source": "PN6080-6095",
+      "target": "PN6086-6089"
+    },
+    {
+      "source": "PN1010-1525",
+      "target": "PN1065-1085"
+    },
+    {
+      "source": "PN1010-1525",
+      "target": "PN1301-1333"
+    },
+    {
+      "source": "PN1010-1525",
+      "target": "PN1031-1049"
+    },
+    {
+      "source": "PN1010-1525",
+      "target": "PN1110-1279"
+    },
+    {
+      "source": "PN1010-1525",
+      "target": "PN1351-1389"
+    },
+    {
+      "source": "PN1010-1525",
+      "target": "PN1341-1347"
+    },
+    {
+      "source": "PN3311-3503",
+      "target": "PN3355-3383"
+    },
+    {
+      "source": "PN3311-3503",
+      "target": "PN3427-3448"
+    },
+    {
+      "source": "PN3311-3503",
+      "target": "PN3451-3503"
+    },
+    {
+      "source": "PN3311-3503",
+      "target": "PN3329-3352"
+    },
+    {
+      "source": "PN4699-5650",
+      "target": "PN4840-5648"
+    },
+    {
+      "source": "PN4699-5650",
+      "target": "PN4775-4784"
+    },
+    {
+      "source": "PN4699-5650",
+      "target": "PN4832-4836"
+    },
+    {
+      "source": "PN4699-5650",
+      "target": "PN4735-4748"
+    },
+    {
+      "source": "PN4699-5650",
+      "target": "PN5650"
+    },
+    {
+      "source": "PN4699-5650",
+      "target": "PN4825-4830"
+    },
+    {
+      "source": "PN1560-1590",
+      "target": "PN1585-1589"
+    },
+    {
+      "source": "P",
+      "target": "PT"
+    },
+    {
+      "source": "PT",
+      "target": "PT1-4897"
+    },
+    {
+      "source": "PT",
+      "target": "PT8301-9155"
+    },
+    {
+      "source": "PT",
+      "target": "PT5001-5980"
+    },
+    {
+      "source": "PT",
+      "target": "PT9201-9999"
+    },
+    {
+      "source": "PT",
+      "target": "PT7101-7338"
+    },
+    {
+      "source": "PT",
+      "target": "PT7601-8260"
+    },
+    {
+      "source": "PT",
+      "target": "PT7351-7550"
+    },
+    {
+      "source": "PT",
+      "target": "PT6500-6593.36"
+    },
+    {
+      "source": "PT",
+      "target": "PT6000-6467.36"
+    },
+    {
+      "source": "PT",
+      "target": "PT7001-7099"
+    },
+    {
+      "source": "PT",
+      "target": "PT7581-7599"
+    },
+    {
+      "source": "PT1-4897",
+      "target": "PT3701-3971"
+    },
+    {
+      "source": "PT1-4897",
+      "target": "PT1501-2688"
+    },
+    {
+      "source": "PT1-4897",
+      "target": "PT1100-1479"
+    },
+    {
+      "source": "PT1-4897",
+      "target": "PT83-873"
+    },
+    {
+      "source": "PT1-4897",
+      "target": "PT1-80"
+    },
+    {
+      "source": "PT1-4897",
+      "target": "PT881-951"
+    },
+    {
+      "source": "PT1-4897",
+      "target": "PT4801-4897"
+    },
+    {
+      "source": "PT1-4897",
+      "target": "PT2700-2728"
+    },
+    {
+      "source": "PT3701-3971",
+      "target": "PT3701-3746"
+    },
+    {
+      "source": "PT1501-2688",
+      "target": "PT1799-2592"
+    },
+    {
+      "source": "PT1501-2688",
+      "target": "PT2600-2653"
+    },
+    {
+      "source": "PT1501-2688",
+      "target": "PT2660-2688"
+    },
+    {
+      "source": "PT1501-2688",
+      "target": "PT1501-1695"
+    },
+    {
+      "source": "PT1501-2688",
+      "target": "PT1701-1797"
+    },
+    {
+      "source": "PT1799-2592",
+      "target": "PT1891-2239"
+    },
+    {
+      "source": "PT1891-2239",
+      "target": "PT2044-2239"
+    },
+    {
+      "source": "PT1891-2239",
+      "target": "PT2026-2039"
+    },
+    {
+      "source": "PT1891-2239",
+      "target": "PT1891-2017"
+    },
+    {
+      "source": "PT1100-1479",
+      "target": "PT1151-1241"
+    },
+    {
+      "source": "PT1100-1479",
+      "target": "PT1375-1479"
+    },
+    {
+      "source": "PT1100-1479",
+      "target": "PT1301-1360"
+    },
+    {
+      "source": "PT1100-1479",
+      "target": "PT1100-1141"
+    },
+    {
+      "source": "PT1100-1479",
+      "target": "PT1251-1299"
+    },
+    {
+      "source": "PT1100-1479",
+      "target": "PT1371-1374"
+    },
+    {
+      "source": "PT83-873",
+      "target": "PT236-405"
+    },
+    {
+      "source": "PT83-873",
+      "target": "PT711-871"
+    },
+    {
+      "source": "PT83-873",
+      "target": "PT605-709"
+    },
+    {
+      "source": "PT83-873",
+      "target": "PT500-597"
+    },
+    {
+      "source": "PT83-873",
+      "target": "PT175-230"
+    },
+    {
+      "source": "PT881-951",
+      "target": "PT923-937"
+    },
+    {
+      "source": "PT8301-9155",
+      "target": "PT9100-9155"
+    },
+    {
+      "source": "PT8301-9155",
+      "target": "PT8750-8952.36"
+    },
+    {
+      "source": "PT8301-9155",
+      "target": "PT8650-8733"
+    },
+    {
+      "source": "PT8301-9155",
+      "target": "PT8301-8574"
+    },
+    {
+      "source": "PT8301-9155",
+      "target": "PT9000-9094"
+    },
+    {
+      "source": "PT8301-9155",
+      "target": "PT8600-8637"
+    },
+    {
+      "source": "PT8301-9155",
+      "target": "PT8640"
+    },
+    {
+      "source": "PT8750-8952.36",
+      "target": "PT8800-8942"
+    },
+    {
+      "source": "PT8750-8952.36",
+      "target": "PT8949-8950"
+    },
+    {
+      "source": "PT8750-8952.36",
+      "target": "PT8951-8951.36"
+    },
+    {
+      "source": "PT8750-8952.36",
+      "target": "PT8750-8775"
+    },
+    {
+      "source": "PT8750-8952.36",
+      "target": "PT8952-8952.36"
+    },
+    {
+      "source": "PT8800-8942",
+      "target": "PT8851-8900"
+    },
+    {
+      "source": "PT8650-8733",
+      "target": "PT8675-8695"
+    },
+    {
+      "source": "PT8650-8733",
+      "target": "PT8719-8723"
+    },
+    {
+      "source": "PT8650-8733",
+      "target": "PT8699-8718"
+    },
+    {
+      "source": "PT9000-9094",
+      "target": "PT9064-9094"
+    },
+    {
+      "source": "PT9000-9094",
+      "target": "PT9000-9019"
+    },
+    {
+      "source": "PT9000-9094",
+      "target": "PT9025-9055"
+    },
+    {
+      "source": "PT5001-5980",
+      "target": "PT5555-5881.36"
+    },
+    {
+      "source": "PT5001-5980",
+      "target": "PT5121-5185"
+    },
+    {
+      "source": "PT5001-5980",
+      "target": "PT5300-5348"
+    },
+    {
+      "source": "PT5001-5980",
+      "target": "PT5398"
+    },
+    {
+      "source": "PT5001-5980",
+      "target": "PT5400-5547"
+    },
+    {
+      "source": "PT5001-5980",
+      "target": "PT5201-5243"
+    },
+    {
+      "source": "PT5001-5980",
+      "target": "PT5901-5980"
+    },
+    {
+      "source": "PT5001-5980",
+      "target": "PT5250-5295"
+    },
+    {
+      "source": "PT5001-5980",
+      "target": "PT5001-5112"
+    },
+    {
+      "source": "PT5001-5980",
+      "target": "PT5351-5395"
+    },
+    {
+      "source": "PT5001-5980",
+      "target": "PT5001-5348"
+    },
+    {
+      "source": "PT5001-5980",
+      "target": "PT5882-5882.36"
+    },
+    {
+      "source": "PT5555-5881.36",
+      "target": "PT5881-5881.36"
+    },
+    {
+      "source": "PT5555-5881.36",
+      "target": "PT5600-5739"
+    },
+    {
+      "source": "PT5555-5881.36",
+      "target": "PT5800-5880"
+    },
+    {
+      "source": "PT5555-5881.36",
+      "target": "PT5555-5595"
+    },
+    {
+      "source": "PT5600-5739",
+      "target": "PT5620-5637"
+    },
+    {
+      "source": "PT5600-5739",
+      "target": "PT5700-5732"
+    },
+    {
+      "source": "PT5400-5547",
+      "target": "PT5470-5488"
+    },
+    {
+      "source": "PT5400-5547",
+      "target": "PT5517-5547"
+    },
+    {
+      "source": "PT5400-5547",
+      "target": "PT5420-5460"
+    },
+    {
+      "source": "PT5400-5547",
+      "target": "PT5490-5515"
+    },
+    {
+      "source": "PT5400-5547",
+      "target": "PT5410-5414"
+    },
+    {
+      "source": "PT5400-5547",
+      "target": "PT5400-5409"
+    },
+    {
+      "source": "PT9201-9999",
+      "target": "PT9650-9877.36"
+    },
+    {
+      "source": "PT9201-9999",
+      "target": "PT9375-9404"
+    },
+    {
+      "source": "PT9201-9999",
+      "target": "PT9320-9370"
+    },
+    {
+      "source": "PT9201-9999",
+      "target": "PT9950-9999"
+    },
+    {
+      "source": "PT9201-9999",
+      "target": "PT9544"
+    },
+    {
+      "source": "PT9201-9999",
+      "target": "PT9201-9499"
+    },
+    {
+      "source": "PT9201-9999",
+      "target": "PT9460-9499"
+    },
+    {
+      "source": "PT9201-9999",
+      "target": "PT9547-9639"
+    },
+    {
+      "source": "PT9201-9999",
+      "target": "PT9509-9542"
+    },
+    {
+      "source": "PT9201-9999",
+      "target": "PT9415-9449"
+    },
+    {
+      "source": "PT9650-9877.36",
+      "target": "PT9876-9876.36"
+    },
+    {
+      "source": "PT9650-9877.36",
+      "target": "PT9870-9875"
+    },
+    {
+      "source": "PT9650-9877.36",
+      "target": "PT9725-9850"
+    },
+    {
+      "source": "PT9650-9877.36",
+      "target": "PT9650-9651"
+    },
+    {
+      "source": "PT9650-9877.36",
+      "target": "PT9674-9715"
+    },
+    {
+      "source": "PT9650-9877.36",
+      "target": "PT9877-9877.36"
+    },
+    {
+      "source": "PT9725-9850",
+      "target": "PT9800-9817"
+    },
+    {
+      "source": "PT9725-9850",
+      "target": "PT9759-9771"
+    },
+    {
+      "source": "PT9725-9850",
+      "target": "PT9820-9838"
+    },
+    {
+      "source": "PT9547-9639",
+      "target": "PT9565-9570"
+    },
+    {
+      "source": "PT9547-9639",
+      "target": "PT9605-9625"
+    },
+    {
+      "source": "PT9547-9639",
+      "target": "PT9580-9599"
+    },
+    {
+      "source": "PT9547-9639",
+      "target": "PT9626-9639"
+    },
+    {
+      "source": "PT7101-7338",
+      "target": "PT7263-7296"
+    },
+    {
+      "source": "PT7101-7338",
+      "target": "PT7101-7211"
+    },
+    {
+      "source": "PT7101-7338",
+      "target": "PT7220-7262.5"
+    },
+    {
+      "source": "PT7101-7338",
+      "target": "PT7312-7318"
+    },
+    {
+      "source": "PT7101-7338",
+      "target": "PT7177-7211"
+    },
+    {
+      "source": "PT7101-7338",
+      "target": "PT7326-7338"
+    },
+    {
+      "source": "PT7101-7338",
+      "target": "PT7298-7309"
+    },
+    {
+      "source": "PT7220-7262.5",
+      "target": "PT7230-7252"
+    },
+    {
+      "source": "PT7220-7262.5",
+      "target": "PT7255-7262.5"
+    },
+    {
+      "source": "PT7255-7262.5",
+      "target": "PT7261-7262.5"
+    },
+    {
+      "source": "PT7177-7211",
+      "target": "PT7181-7193"
+    },
+    {
+      "source": "PT7601-8260",
+      "target": "PT8050-8177.36"
+    },
+    {
+      "source": "PT7601-8260",
+      "target": "PT7601-7869"
+    },
+    {
+      "source": "PT7601-8260",
+      "target": "PT7945-8046"
+    },
+    {
+      "source": "PT7601-8260",
+      "target": "PT8205-8260"
+    },
+    {
+      "source": "PT7601-8260",
+      "target": "PT7900-7930"
+    },
+    {
+      "source": "PT7601-8260",
+      "target": "PT7935"
+    },
+    {
+      "source": "PT8050-8177.36",
+      "target": "PT8176-8176.36"
+    },
+    {
+      "source": "PT8050-8177.36",
+      "target": "PT8100-8167"
+    },
+    {
+      "source": "PT8050-8177.36",
+      "target": "PT8174-8175"
+    },
+    {
+      "source": "PT8050-8177.36",
+      "target": "PT8060-8098"
+    },
+    {
+      "source": "PT8050-8177.36",
+      "target": "PT8050"
+    },
+    {
+      "source": "PT8050-8177.36",
+      "target": "PT8177-8177.36"
+    },
+    {
+      "source": "PT8100-8167",
+      "target": "PT8102-8120"
+    },
+    {
+      "source": "PT8100-8167",
+      "target": "PT8145-8157"
+    },
+    {
+      "source": "PT8060-8098",
+      "target": "PT8070-8094.5"
+    },
+    {
+      "source": "PT7945-8046",
+      "target": "PT8021-8046"
+    },
+    {
+      "source": "PT7945-8046",
+      "target": "PT7975-7994"
+    },
+    {
+      "source": "PT7945-8046",
+      "target": "PT7999-8020"
+    },
+    {
+      "source": "PT7351-7550",
+      "target": "PT7500-7511"
+    },
+    {
+      "source": "PT7351-7550",
+      "target": "PT7351-7418"
+    },
+    {
+      "source": "PT7351-7550",
+      "target": "PT7450-7495"
+    },
+    {
+      "source": "PT7351-7550",
+      "target": "PT7420-7438"
+    },
+    {
+      "source": "PT7351-7550",
+      "target": "PT7442"
+    },
+    {
+      "source": "PT7351-7550",
+      "target": "PT7520-7550"
+    },
+    {
+      "source": "PT7351-7550",
+      "target": "PT7512-7513"
+    },
+    {
+      "source": "PT7500-7511",
+      "target": "PT7510-7511"
+    },
+    {
+      "source": "PT7500-7511",
+      "target": "PT7500-7501"
+    },
+    {
+      "source": "PT6500-6593.36",
+      "target": "PT6590-6593.36"
+    },
+    {
+      "source": "PT6500-6593.36",
+      "target": "PT6550-6575"
+    },
+    {
+      "source": "PT6500-6593.36",
+      "target": "PT6500-6530"
+    },
+    {
+      "source": "PT6500-6593.36",
+      "target": "PT6540-6545"
+    },
+    {
+      "source": "PT6000-6467.36",
+      "target": "PT6400-6467.36"
+    },
+    {
+      "source": "PT6000-6467.36",
+      "target": "PT6000-6199"
+    },
+    {
+      "source": "PT6000-6467.36",
+      "target": "PT6300-6397"
+    },
+    {
+      "source": "PT6000-6467.36",
+      "target": "PT6200-6230"
+    },
+    {
+      "source": "PT6000-6467.36",
+      "target": "PT6250"
+    },
+    {
+      "source": "PT7001-7099",
+      "target": "PT7001-7087"
+    },
+    {
+      "source": "PT7001-7099",
+      "target": "PT7088-7089"
+    },
+    {
+      "source": "PT7001-7099",
+      "target": "PT7090-7099"
+    },
+    {
+      "source": "PT7581-7599",
+      "target": "PT7593-7596.5"
+    },
+    {
+      "source": "PT7581-7599",
+      "target": "PT7581-7592"
+    },
+    {
+      "source": "PT7581-7599",
+      "target": "PT7598-7599"
+    },
+    {
+      "source": "P",
+      "target": "PA"
+    },
+    {
+      "source": "PA",
+      "target": "PA2001-2915"
+    },
+    {
+      "source": "PA",
+      "target": "PA6000-6971"
+    },
+    {
+      "source": "PA",
+      "target": "PA3050-4505"
+    },
+    {
+      "source": "PA",
+      "target": "PA1-199"
+    },
+    {
+      "source": "PA",
+      "target": "PA201-899"
+    },
+    {
+      "source": "PA",
+      "target": "PA5000-5660"
+    },
+    {
+      "source": "PA",
+      "target": "PA8001-8595"
+    },
+    {
+      "source": "PA",
+      "target": "PA3000-3049"
+    },
+    {
+      "source": "PA",
+      "target": "PA1000-1179"
+    },
+    {
+      "source": "PA6000-6971",
+      "target": "PA6100-6140"
+    },
+    {
+      "source": "PA6000-6971",
+      "target": "PA6202-6971"
+    },
+    {
+      "source": "PA6000-6971",
+      "target": "PA6001-6097"
+    },
+    {
+      "source": "PA6000-6971",
+      "target": "PA6141-6144"
+    },
+    {
+      "source": "PA6000-6971",
+      "target": "PA6155-6191"
+    },
+    {
+      "source": "PA6202-6971",
+      "target": "PA6519-6553"
+    },
+    {
+      "source": "PA6202-6971",
+      "target": "PA6801-6961"
+    },
+    {
+      "source": "PA6202-6971",
+      "target": "PA6393-6444"
+    },
+    {
+      "source": "PA6202-6971",
+      "target": "PA6568-6609"
+    },
+    {
+      "source": "PA6202-6971",
+      "target": "PA6278-6370"
+    },
+    {
+      "source": "PA6202-6971",
+      "target": "PA6482-6496"
+    },
+    {
+      "source": "PA6202-6971",
+      "target": "PA6661-6693"
+    },
+    {
+      "source": "PA6202-6971",
+      "target": "PA6705-6753"
+    },
+    {
+      "source": "PA6202-6971",
+      "target": "PA6611-6637"
+    },
+    {
+      "source": "PA6202-6971",
+      "target": "PA6755-6785"
+    },
+    {
+      "source": "PA6202-6971",
+      "target": "PA6235-6269"
+    },
+    {
+      "source": "PA6202-6971",
+      "target": "PA6501-6510"
+    },
+    {
+      "source": "PA3050-4505",
+      "target": "PA3818-4505"
+    },
+    {
+      "source": "PA3050-4505",
+      "target": "PA3601-3681"
+    },
+    {
+      "source": "PA3050-4505",
+      "target": "PA3051-3285"
+    },
+    {
+      "source": "PA3050-4505",
+      "target": "PA3520-3564"
+    },
+    {
+      "source": "PA3050-4505",
+      "target": "PA3300-3516"
+    },
+    {
+      "source": "PA3818-4505",
+      "target": "PA3949-3964"
+    },
+    {
+      "source": "PA3818-4505",
+      "target": "PA4279-4333"
+    },
+    {
+      "source": "PA3818-4505",
+      "target": "PA3973-3992"
+    },
+    {
+      "source": "PA3818-4505",
+      "target": "PA4018-4209"
+    },
+    {
+      "source": "PA3818-4505",
+      "target": "PA3890-3926"
+    },
+    {
+      "source": "PA3818-4505",
+      "target": "PA4413-4434"
+    },
+    {
+      "source": "PA3818-4505",
+      "target": "PA3825-3849"
+    },
+    {
+      "source": "PA3818-4505",
+      "target": "PA4494-4499"
+    },
+    {
+      "source": "PA3818-4505",
+      "target": "PA4452-4486"
+    },
+    {
+      "source": "PA3818-4505",
+      "target": "PA4367-4389"
+    },
+    {
+      "source": "PA3818-4505",
+      "target": "PA3851-3858"
+    },
+    {
+      "source": "PA5000-5660",
+      "target": "PA5301-5638.36"
+    },
+    {
+      "source": "PA8001-8595",
+      "target": "PA8200-8595"
+    },
+    {
+      "source": "P",
+      "target": "PC"
+    },
+    {
+      "source": "PC",
+      "target": "PC1-5498"
+    },
+    {
+      "source": "PC1-5498",
+      "target": "PC4001-4977"
+    },
+    {
+      "source": "PC1-5498",
+      "target": "PC2001-3761"
+    },
+    {
+      "source": "PC1-5498",
+      "target": "PC1001-1977"
+    },
+    {
+      "source": "PC1-5498",
+      "target": "PC5001-5498"
+    },
+    {
+      "source": "PC1-5498",
+      "target": "PC3801-3976"
+    },
+    {
+      "source": "PC1-5498",
+      "target": "PC1-400"
+    },
+    {
+      "source": "PC1-5498",
+      "target": "PC601-872"
+    },
+    {
+      "source": "PC1-5498",
+      "target": "PC901-986"
+    },
+    {
+      "source": "PC1-5498",
+      "target": "PC1981-1984"
+    },
+    {
+      "source": "PC2001-3761",
+      "target": "PC2700-3708"
+    },
+    {
+      "source": "PC2001-3761",
+      "target": "PC3721-3761"
+    },
+    {
+      "source": "PC2700-3708",
+      "target": "PC3201-3366"
+    },
+    {
+      "source": "PC2700-3708",
+      "target": "PC2813-2898"
+    },
+    {
+      "source": "PC2700-3708",
+      "target": "PC3371-3420.5"
+    },
+    {
+      "source": "PC2700-3708",
+      "target": "PC3420.8-3495"
+    },
+    {
+      "source": "P",
+      "target": "PK"
+    },
+    {
+      "source": "PK",
+      "target": "PK1-9601"
+    },
+    {
+      "source": "PK1-9601",
+      "target": "PK6001-6996"
+    },
+    {
+      "source": "PK1-9601",
+      "target": "PK2901-5471"
+    },
+    {
+      "source": "PK1-9601",
+      "target": "PK8001-8832"
+    },
+    {
+      "source": "PK1-9601",
+      "target": "PK101-2899"
+    },
+    {
+      "source": "PK1-9601",
+      "target": "PK9001-9201"
+    },
+    {
+      "source": "PK1-9601",
+      "target": "PK7001-7075"
+    },
+    {
+      "source": "PK1-9601",
+      "target": "PK1-85"
+    },
+    {
+      "source": "PK6001-6996",
+      "target": "PK6201-6599.7"
+    },
+    {
+      "source": "PK6001-6996",
+      "target": "PK6701-6821"
+    },
+    {
+      "source": "PK6001-6996",
+      "target": "PK6001-6099"
+    },
+    {
+      "source": "PK6001-6996",
+      "target": "PK6101-6119"
+    },
+    {
+      "source": "PK6001-6996",
+      "target": "PK6121-6129"
+    },
+    {
+      "source": "PK6001-6996",
+      "target": "PK6135-6199.9"
+    },
+    {
+      "source": "PK6201-6599.7",
+      "target": "PK6400-6599.7"
+    },
+    {
+      "source": "PK6201-6599.7",
+      "target": "PK6201-6399"
+    },
+    {
+      "source": "PK6400-6599.7",
+      "target": "PK6450.9-6562.35"
+    },
+    {
+      "source": "PK6450.9-6562.35",
+      "target": "PK6490"
+    },
+    {
+      "source": "PK6450.9-6562.35",
+      "target": "PK6510-6525"
+    },
+    {
+      "source": "PK6450.9-6562.35",
+      "target": "PK6455-6460"
+    },
+    {
+      "source": "PK6450.9-6562.35",
+      "target": "PK6478-6482"
+    },
+    {
+      "source": "PK6450.9-6562.35",
+      "target": "PK6465"
+    },
+    {
+      "source": "PK6450.9-6562.35",
+      "target": "PK6540-6546"
+    },
+    {
+      "source": "PK6450.9-6562.35",
+      "target": "PK6501"
+    },
+    {
+      "source": "PK6450.9-6562.35",
+      "target": "PK6475"
+    },
+    {
+      "source": "PK6135-6199.9",
+      "target": "PK6141-6199.5"
+    },
+    {
+      "source": "PK2901-5471",
+      "target": "PK2901-2979"
+    },
+    {
+      "source": "PK2901-5471",
+      "target": "PK5401-5471"
+    },
+    {
+      "source": "PK2901-5471",
+      "target": "PK3591-4485"
+    },
+    {
+      "source": "PK2901-5471",
+      "target": "PK4990-5046"
+    },
+    {
+      "source": "PK2901-5471",
+      "target": "PK4501-4681"
+    },
+    {
+      "source": "PK3591-4485",
+      "target": "PK3791-3799"
+    },
+    {
+      "source": "PK3591-4485",
+      "target": "PK3801-4251"
+    },
+    {
+      "source": "PK3591-4485",
+      "target": "PK4471-4485"
+    },
+    {
+      "source": "PK8001-8832",
+      "target": "PK8501-8832"
+    },
+    {
+      "source": "PK8001-8832",
+      "target": "PK8001-8496"
+    },
+    {
+      "source": "PK101-2899",
+      "target": "PK1501-2899"
+    },
+    {
+      "source": "PK101-2899",
+      "target": "PK401-976"
+    },
+    {
+      "source": "PK101-2899",
+      "target": "PK201-379"
+    },
+    {
+      "source": "PK101-2899",
+      "target": "PK101-185"
+    },
+    {
+      "source": "PK101-2899",
+      "target": "PK1421-1429.5"
+    },
+    {
+      "source": "PK101-2899",
+      "target": "PK1201-1409.5"
+    },
+    {
+      "source": "PK101-2899",
+      "target": "PK1001-1095"
+    },
+    {
+      "source": "PK101-2899",
+      "target": "PK1471-1490"
+    },
+    {
+      "source": "PK1501-2899",
+      "target": "PK1550-2899"
+    },
+    {
+      "source": "PK1550-2899",
+      "target": "PK2896-2899"
+    },
+    {
+      "source": "PK1550-2899",
+      "target": "PK2561-2579.5"
+    },
+    {
+      "source": "PK1550-2899",
+      "target": "PK1931-2212"
+    },
+    {
+      "source": "PK1550-2899",
+      "target": "PK2781-2790"
+    },
+    {
+      "source": "PK1550-2899",
+      "target": "PK2631-2659"
+    },
+    {
+      "source": "PK1550-2899",
+      "target": "PK2892-2892.95"
+    },
+    {
+      "source": "PK1550-2899",
+      "target": "PK1651-1799"
+    },
+    {
+      "source": "PK1550-2899",
+      "target": "PK2701-2708.9"
+    },
+    {
+      "source": "PK1550-2899",
+      "target": "PK1550-1569"
+    },
+    {
+      "source": "PK1550-2899",
+      "target": "PK1801-1831.95"
+    },
+    {
+      "source": "PK1550-2899",
+      "target": "PK2591-2610"
+    },
+    {
+      "source": "PK1550-2899",
+      "target": "PK2351-2418"
+    },
+    {
+      "source": "PK1550-2899",
+      "target": "PK2261-2270.9"
+    },
+    {
+      "source": "PK1550-2899",
+      "target": "PK1841-1870.95"
+    },
+    {
+      "source": "PK1550-2899",
+      "target": "PK2801-2891"
+    },
+    {
+      "source": "PK1550-2899",
+      "target": "PK2461-2479"
+    },
+    {
+      "source": "PK1931-2212",
+      "target": "PK2030-2142"
+    },
+    {
+      "source": "PK1931-2212",
+      "target": "PK2151-2212"
+    },
+    {
+      "source": "PK1931-2212",
+      "target": "PK1971-1979.5"
+    },
+    {
+      "source": "PK1931-2212",
+      "target": "PK1931-1970"
+    },
+    {
+      "source": "PK1931-2212",
+      "target": "PK1981-2000"
+    },
+    {
+      "source": "PK9001-9201",
+      "target": "PK9101-9169"
+    },
+    {
+      "source": "PK7001-7075",
+      "target": "PK7050-7065"
+    },
+    {
+      "source": "PK7001-7075",
+      "target": "PK7040-7045"
+    },
+    {
+      "source": "PK7001-7075",
+      "target": "PK7021-7037"
+    },
+    {
+      "source": "P",
+      "target": "P1-1091"
+    },
+    {
+      "source": "P1-1091",
+      "target": "P101-410"
+    },
+    {
+      "source": "P1-1091",
+      "target": "P87-96"
+    },
+    {
+      "source": "P1-1091",
+      "target": "P1-85"
+    },
+    {
+      "source": "P1-1091",
+      "target": "P98-98.5"
+    },
+    {
+      "source": "P1-1091",
+      "target": "P99-99.4"
+    },
+    {
+      "source": "P1-1091",
+      "target": "P501-769"
+    },
+    {
+      "source": "P1-1091",
+      "target": "P99.5-99.6"
+    },
+    {
+      "source": "P1-1091",
+      "target": "P901-1091"
+    },
+    {
+      "source": "P101-410",
+      "target": "P121-149"
+    },
+    {
+      "source": "P101-410",
+      "target": "P201-299"
+    },
+    {
+      "source": "P101-410",
+      "target": "P302-302.87"
+    },
+    {
+      "source": "P101-410",
+      "target": "P306-310"
+    },
+    {
+      "source": "P101-410",
+      "target": "P325-325.5"
+    },
+    {
+      "source": "P101-410",
+      "target": "P301-301.5"
+    },
+    {
+      "source": "P101-410",
+      "target": "P118-118.75"
+    },
+    {
+      "source": "P101-410",
+      "target": "P375-381"
+    },
+    {
+      "source": "P101-410",
+      "target": "P326-326.5"
+    },
+    {
+      "source": "P101-410",
+      "target": "P321-324.5"
+    },
+    {
+      "source": "P101-410",
+      "target": "P327-327.5"
+    },
+    {
+      "source": "P87-96",
+      "target": "P95-95.6"
+    },
+    {
+      "source": "P87-96",
+      "target": "P94.7"
+    },
+    {
+      "source": "P",
+      "target": "PF"
+    },
+    {
+      "source": "PF",
+      "target": "PF1-5999"
+    },
+    {
+      "source": "PF1-5999",
+      "target": "PF3001-5999"
+    },
+    {
+      "source": "PF1-5999",
+      "target": "PF1-979"
+    },
+    {
+      "source": "PF1-5999",
+      "target": "PF1401-1541"
+    },
+    {
+      "source": "PF1-5999",
+      "target": "PF1001-1184"
+    },
+    {
+      "source": "PF3001-5999",
+      "target": "PF5000-5951"
+    },
+    {
+      "source": "PF3001-5999",
+      "target": "PF3801-3991"
+    },
+    {
+      "source": "PF3001-5999",
+      "target": "PF5971-5999"
+    },
+    {
+      "source": "PF3001-5999",
+      "target": "PF4501-4596"
+    },
+    {
+      "source": "PF3001-5999",
+      "target": "PF4043-4350"
+    },
+    {
+      "source": "PF3001-5999",
+      "target": "PF3992-4010"
+    },
+    {
+      "source": "P",
+      "target": "PJ"
+    },
+    {
+      "source": "PJ",
+      "target": "PJ1-9500"
+    },
+    {
+      "source": "PJ",
+      "target": "PJ1-489"
+    },
+    {
+      "source": "PJ1-9500",
+      "target": "PJ1001-1989"
+    },
+    {
+      "source": "PJ1-9500",
+      "target": "PJ6001-8517"
+    },
+    {
+      "source": "PJ1-9500",
+      "target": "PJ4501-5192"
+    },
+    {
+      "source": "PJ1-9500",
+      "target": "PJ4101-4197"
+    },
+    {
+      "source": "PJ1-9500",
+      "target": "PJ2340-2399"
+    },
+    {
+      "source": "PJ1-9500",
+      "target": "PJ5201-5329.5"
+    },
+    {
+      "source": "PJ1-9500",
+      "target": "PJ8991-9348"
+    },
+    {
+      "source": "PJ1-9500",
+      "target": "PJ4001-4091"
+    },
+    {
+      "source": "PJ1-9500",
+      "target": "PJ3101-3971"
+    },
+    {
+      "source": "PJ1-9500",
+      "target": "PJ5401-5809"
+    },
+    {
+      "source": "PJ1-9500",
+      "target": "PJ1-489"
+    },
+    {
+      "source": "PJ1-9500",
+      "target": "PJ601-989"
+    },
+    {
+      "source": "PJ1-9500",
+      "target": "PJ2001-2199"
+    },
+    {
+      "source": "PJ1-9500",
+      "target": "PJ2401-2594"
+    },
+    {
+      "source": "PJ1-9500",
+      "target": "PJ991-995"
+    },
+    {
+      "source": "PJ1-9500",
+      "target": "PJ3001-3097"
+    },
+    {
+      "source": "PJ1-9500",
+      "target": "PJ5901-5909"
+    },
+    {
+      "source": "PJ1001-1989",
+      "target": "PJ1481-1989"
+    },
+    {
+      "source": "PJ1001-1989",
+      "target": "PJ1091-1109"
+    },
+    {
+      "source": "PJ1001-1989",
+      "target": "PJ1111-1446"
+    },
+    {
+      "source": "PJ6001-8517",
+      "target": "PJ7501-8517"
+    },
+    {
+      "source": "PJ6001-8517",
+      "target": "PJ6073-7144"
+    },
+    {
+      "source": "PJ7501-8517",
+      "target": "PJ7695.8-7976"
+    },
+    {
+      "source": "PJ6073-7144",
+      "target": "PJ6701-6901"
+    },
+    {
+      "source": "PJ6073-7144",
+      "target": "PJ6690-6697"
+    },
+    {
+      "source": "PJ6073-7144",
+      "target": "PJ6950-7144"
+    },
+    {
+      "source": "PJ6950-7144",
+      "target": "PJ7051-7144"
+    },
+    {
+      "source": "PJ6950-7144",
+      "target": "PJ6950-6981"
+    },
+    {
+      "source": "PJ4501-5192",
+      "target": "PJ5001-5060"
+    },
+    {
+      "source": "PJ4501-5192",
+      "target": "PJ4543-4937"
+    },
+    {
+      "source": "PJ4501-5192",
+      "target": "PJ5061-5192"
+    },
+    {
+      "source": "PJ4501-5192",
+      "target": "PJ4951-4996"
+    },
+    {
+      "source": "PJ5001-5060",
+      "target": "PJ5050-5055.51"
+    },
+    {
+      "source": "PJ5061-5192",
+      "target": "PJ5111-5192"
+    },
+    {
+      "source": "PJ4101-4197",
+      "target": "PJ4171-4197"
+    },
+    {
+      "source": "PJ2340-2399",
+      "target": "PJ2369-2399"
+    },
+    {
+      "source": "PJ2340-2399",
+      "target": "PJ2353-2367"
+    },
+    {
+      "source": "PJ5201-5329.5",
+      "target": "PJ5211-5289"
+    },
+    {
+      "source": "PJ5201-5329.5",
+      "target": "PJ5301-5329.5"
+    },
+    {
+      "source": "PJ5211-5289",
+      "target": "PJ5271-5279"
+    },
+    {
+      "source": "PJ5211-5289",
+      "target": "PJ5281-5289"
+    },
+    {
+      "source": "PJ5211-5289",
+      "target": "PJ5211-5219.5"
+    },
+    {
+      "source": "PJ5211-5289",
+      "target": "PJ5229"
+    },
+    {
+      "source": "PJ5211-5289",
+      "target": "PJ5251-5259"
+    },
+    {
+      "source": "PJ5211-5289",
+      "target": "PJ5241-5249"
+    },
+    {
+      "source": "PJ5211-5289",
+      "target": "PJ5239"
+    },
+    {
+      "source": "PJ5301-5329.5",
+      "target": "PJ5321-5329.5"
+    },
+    {
+      "source": "PJ8991-9348",
+      "target": "PJ9201-9269"
+    },
+    {
+      "source": "PJ8991-9348",
+      "target": "PJ9001-9101"
+    },
+    {
+      "source": "PJ3101-3971",
+      "target": "PJ3601-3971"
+    },
+    {
+      "source": "PJ3101-3971",
+      "target": "PJ3231-3595"
+    },
+    {
+      "source": "PJ5401-5809",
+      "target": "PJ5414-5495"
+    },
+    {
+      "source": "PJ5401-5809",
+      "target": "PJ5601-5695"
+    },
+    {
+      "source": "PJ5401-5809",
+      "target": "PJ5801-5809"
+    },
+    {
+      "source": "PJ601-989",
+      "target": "PJ701-989"
+    },
+    {
+      "source": "PJ601-989",
+      "target": "PJ601-621"
+    },
+    {
+      "source": "PJ1-489",
+      "target": "PJ1-195"
+    },
+    {
+      "source": "P",
+      "target": "PD"
+    },
+    {
+      "source": "PD",
+      "target": "PD1-7159"
+    },
+    {
+      "source": "PD1-7159",
+      "target": "PD1-780"
+    },
+    {
+      "source": "PD1-7159",
+      "target": "PD1501-7159"
+    },
+    {
+      "source": "PD1-7159",
+      "target": "PD1001-1350"
+    },
+    {
+      "source": "PD1501-7159",
+      "target": "PD2401-2446"
+    },
+    {
+      "source": "PD1501-7159",
+      "target": "PD3001-3929"
+    },
+    {
+      "source": "PD1501-7159",
+      "target": "PD2501-2999"
+    },
+    {
+      "source": "PD1501-7159",
+      "target": "PD5001-5929"
+    },
+    {
+      "source": "PD1501-7159",
+      "target": "PD2201-2393"
+    },
+    {
+      "source": "PD1001-1350",
+      "target": "PD1101-1211"
+    },
+    {
+      "source": "P",
+      "target": "PG"
+    },
+    {
+      "source": "PG",
+      "target": "PG1-7925"
+    },
+    {
+      "source": "PG",
+      "target": "PG1-9665"
+    },
+    {
+      "source": "PG1-7925",
+      "target": "PG2900-3698"
+    },
+    {
+      "source": "PG1-7925",
+      "target": "PG4001-5146"
+    },
+    {
+      "source": "PG1-7925",
+      "target": "PG6001-7446"
+    },
+    {
+      "source": "PG1-7925",
+      "target": "PG3801-3987"
+    },
+    {
+      "source": "PG1-7925",
+      "target": "PG7900-7925"
+    },
+    {
+      "source": "PG1-7925",
+      "target": "PG5201-5546"
+    },
+    {
+      "source": "PG1-7925",
+      "target": "PG3990"
+    },
+    {
+      "source": "PG2900-3698",
+      "target": "PG3300-3493.96"
+    },
+    {
+      "source": "PG2900-3698",
+      "target": "PG3199-3299"
+    },
+    {
+      "source": "PG2900-3698",
+      "target": "PG3515-3550"
+    },
+    {
+      "source": "PG2900-3698",
+      "target": "PG3500-3505"
+    },
+    {
+      "source": "PG2900-3698",
+      "target": "PG3651-3698"
+    },
+    {
+      "source": "PG3300-3493.96",
+      "target": "PG3320-3447"
+    },
+    {
+      "source": "PG3300-3493.96",
+      "target": "PG3475-3476"
+    },
+    {
+      "source": "PG3300-3493.96",
+      "target": "PG3477-3490"
+    },
+    {
+      "source": "PG3300-3493.96",
+      "target": "PG3450-3470"
+    },
+    {
+      "source": "PG3300-3493.96",
+      "target": "PG3300-3308"
+    },
+    {
+      "source": "PG3300-3493.96",
+      "target": "PG3310-3319"
+    },
+    {
+      "source": "PG3300-3493.96",
+      "target": "PG3491.2-3493.96"
+    },
+    {
+      "source": "PG3320-3447",
+      "target": "PG3365-3417"
+    },
+    {
+      "source": "PG3320-3447",
+      "target": "PG3420-3445"
+    },
+    {
+      "source": "PG3320-3447",
+      "target": "PG3325-3328"
+    },
+    {
+      "source": "PG3320-3447",
+      "target": "PG3340-3359"
+    },
+    {
+      "source": "PG3320-3447",
+      "target": "PG3332-3335"
+    },
+    {
+      "source": "PG3450-3470",
+      "target": "PG3455-3458"
+    },
+    {
+      "source": "PG3450-3470",
+      "target": "PG3452"
+    },
+    {
+      "source": "PG3450-3470",
+      "target": "PG3462-3465"
+    },
+    {
+      "source": "PG3310-3319",
+      "target": "PG3316"
+    },
+    {
+      "source": "PG3310-3319",
+      "target": "PG3314"
+    },
+    {
+      "source": "PG3310-3319",
+      "target": "PG3312"
+    },
+    {
+      "source": "PG3310-3319",
+      "target": "PG3318"
+    },
+    {
+      "source": "PG3199-3299",
+      "target": "PG3240-3255"
+    },
+    {
+      "source": "PG3199-3299",
+      "target": "PG3230-3238"
+    },
+    {
+      "source": "PG3199-3299",
+      "target": "PG3223-3229.2"
+    },
+    {
+      "source": "PG3199-3299",
+      "target": "PG3260-3299"
+    },
+    {
+      "source": "PG3199-3299",
+      "target": "PG3199-3205"
+    },
+    {
+      "source": "PG3199-3299",
+      "target": "PG3211-3219"
+    },
+    {
+      "source": "PG1-9665",
+      "target": "PG2900-3698"
+    },
+    {
+      "source": "PG1-9665",
+      "target": "PG8001-9146"
+    },
+    {
+      "source": "PG1-9665",
+      "target": "PG1-7925"
+    },
+    {
+      "source": "PG1-9665",
+      "target": "PG1801-1962"
+    },
+    {
+      "source": "PG1-9665",
+      "target": "PG9501-9665"
+    },
+    {
+      "source": "PG1-9665",
+      "target": "PG2001-2826"
+    },
+    {
+      "source": "PG1-9665",
+      "target": "PG500-585"
+    },
+    {
+      "source": "PG1-9665",
+      "target": "PG601-716"
+    },
+    {
+      "source": "PG1-9665",
+      "target": "PG1151-1199"
+    },
+    {
+      "source": "PG2900-3698",
+      "target": "PG2900-3190"
+    },
+    {
+      "source": "PG2900-3698",
+      "target": "PG3071-3089"
+    },
+    {
+      "source": "PG8001-9146",
+      "target": "PG8501-8772"
+    },
+    {
+      "source": "PG8001-9146",
+      "target": "PG8801-9146"
+    },
+    {
+      "source": "PG8001-9146",
+      "target": "PG8201-8208"
+    },
+    {
+      "source": "P",
+      "target": "PH"
+    },
+    {
+      "source": "PH",
+      "target": "PH1-5490"
+    },
+    {
+      "source": "PH1-5490",
+      "target": "PH5001-5490"
+    },
+    {
+      "source": "PH1-5490",
+      "target": "PH2001-3445"
+    },
+    {
+      "source": "PH1-5490",
+      "target": "PH101-405"
+    },
+    {
+      "source": "PH1-5490",
+      "target": "PH501-1109"
+    },
+    {
+      "source": "PH1-5490",
+      "target": "PH1-87"
+    },
+    {
+      "source": "PH1-5490",
+      "target": "PH1201-1409"
+    },
+    {
+      "source": "PH1-5490",
+      "target": "PH91-98.5"
+    },
+    {
+      "source": "PH1-5490",
+      "target": "PH3801-3820"
+    },
+    {
+      "source": "PH501-1109",
+      "target": "PH601-671"
+    },
+    {
+      "source": "PH501-1109",
+      "target": "PH751-785"
+    },
+    {
+      "source": "PH501-1109",
+      "target": "PH1001-1079"
+    },
+    {
+      "source": "PH501-1109",
+      "target": "PH701-735"
+    },
+    {
+      "source": "PH501-1109",
+      "target": "PH1101-1109"
+    },
+    {
+      "source": "PH501-1109",
+      "target": "PH801-836"
+    },
+    {
+      "source": "PH501-1109",
+      "target": "PH501-509"
+    },
+    {
+      "source": "PH501-1109",
+      "target": "PH581-589"
+    },
+    {
+      "source": "PH501-1109",
+      "target": "PH561-569"
+    },
+    {
+      "source": "PH501-1109",
+      "target": "PH541-549"
+    },
+    {
+      "source": "PH501-1109",
+      "target": "PH531-539"
+    },
+    {
+      "source": "PH501-1109",
+      "target": "PH551-559"
+    },
+    {
+      "source": "PH501-1109",
+      "target": "PH521-529"
+    },
+    {
+      "source": "P",
+      "target": "PL"
+    },
+    {
+      "source": "PL",
+      "target": "PL1-8844"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL1001-3208"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL501-889"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL8000-8844"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL901-998"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL3521-4001"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL1-481"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL5001-7511"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL4281-4587"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL4111-4251"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL4601-4797.95"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL3301-3311"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL3501-3509.5"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL491-494"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL4070-4074"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL495"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL4051-4054"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL3515"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL3518"
+    },
+    {
+      "source": "PL1-8844",
+      "target": "PL3512"
+    },
+    {
+      "source": "PL1001-3208",
+      "target": "PL2250-3208"
+    },
+    {
+      "source": "PL1001-3208",
+      "target": "PL1001-1960"
+    },
+    {
+      "source": "PL2250-3208",
+      "target": "PL2661-2979"
+    },
+    {
+      "source": "PL2250-3208",
+      "target": "PL2450-2659"
+    },
+    {
+      "source": "PL2250-3208",
+      "target": "PL2250-2443"
+    },
+    {
+      "source": "PL2250-3208",
+      "target": "PL3030-3208"
+    },
+    {
+      "source": "PL501-889",
+      "target": "PL700-889"
+    },
+    {
+      "source": "PL501-889",
+      "target": "PL501-699"
+    },
+    {
+      "source": "PL700-889",
+      "target": "PL784-866"
+    },
+    {
+      "source": "PL700-889",
+      "target": "PL885-889"
+    },
+    {
+      "source": "PL700-889",
+      "target": "PL700-751.5"
+    },
+    {
+      "source": "PL700-889",
+      "target": "PL752-783"
+    },
+    {
+      "source": "PL8000-8844",
+      "target": "PL8009.5-8014"
+    },
+    {
+      "source": "PL8000-8844",
+      "target": "PL8035-8844"
+    },
+    {
+      "source": "PL8000-8844",
+      "target": "PL8015-8021"
+    },
+    {
+      "source": "PL8000-8844",
+      "target": "PL8000-8009"
+    },
+    {
+      "source": "PL8000-8844",
+      "target": "PL8024-8027"
+    },
+    {
+      "source": "PL901-998",
+      "target": "PL901-946"
+    },
+    {
+      "source": "PL901-998",
+      "target": "PL950-998"
+    },
+    {
+      "source": "PL950-998",
+      "target": "PL986-994.98"
+    },
+    {
+      "source": "PL950-998",
+      "target": "PL950.2-969.5"
+    },
+    {
+      "source": "PL950-998",
+      "target": "PL969.8-985"
+    },
+    {
+      "source": "PL950-998",
+      "target": "PL997-998"
+    },
+    {
+      "source": "PL3521-4001",
+      "target": "PL3551-4001"
+    },
+    {
+      "source": "PL3551-4001",
+      "target": "PL3561-3801"
+    },
+    {
+      "source": "PL3551-4001",
+      "target": "PL3851-4001"
+    },
+    {
+      "source": "PL3561-3801",
+      "target": "PL3601-3775"
+    },
+    {
+      "source": "PL3561-3801",
+      "target": "PL3781-3801"
+    },
+    {
+      "source": "PL5001-7511",
+      "target": "PL6401-6551"
+    },
+    {
+      "source": "PL5001-7511",
+      "target": "PL6145-6167"
+    },
+    {
+      "source": "PL5001-7511",
+      "target": "PL5001-7101"
+    },
+    {
+      "source": "PL5001-7511",
+      "target": "PL5501-6135"
+    },
+    {
+      "source": "PL5001-7511",
+      "target": "PL6601-6621"
+    },
+    {
+      "source": "PL5001-7511",
+      "target": "PL6191-6341"
+    },
+    {
+      "source": "PL5001-7511",
+      "target": "PL7001-7101"
+    },
+    {
+      "source": "PL4281-4587",
+      "target": "PL4301-4470"
+    },
+    {
+      "source": "PL4281-4587",
+      "target": "PL4501-4587"
+    },
+    {
+      "source": "PL4281-4587",
+      "target": "PL4490-4498"
+    },
+    {
+      "source": "PL4281-4587",
+      "target": "PL4471-4471.5"
+    },
+    {
+      "source": "PL4301-4470",
+      "target": "PL4371-4379"
+    },
+    {
+      "source": "PL4301-4470",
+      "target": "PL4321-4329"
+    },
+    {
+      "source": "P",
+      "target": "PB"
+    },
+    {
+      "source": "PB",
+      "target": "PB1-3029"
+    },
+    {
+      "source": "PB1-3029",
+      "target": "PB1001-3029"
+    },
+    {
+      "source": "PB1-3029",
+      "target": "PB1-431"
+    },
+    {
+      "source": "PB1001-3029",
+      "target": "PB1201-1449"
+    },
+    {
+      "source": "PB1001-3029",
+      "target": "PB2001-3029"
+    },
+    {
+      "source": "PB1001-3029",
+      "target": "PB1501-1709"
+    },
+    {
+      "source": "PB1001-3029",
+      "target": "PB1801-1867"
+    },
+    {
+      "source": "PB1001-3029",
+      "target": "PB1101-1200"
+    },
+    {
+      "source": "PB2001-3029",
+      "target": "PB2101-2499"
+    },
+    {
+      "source": "PB2001-3029",
+      "target": "PB2801-2932"
+    },
+    {
+      "source": "PB2001-3029",
+      "target": "PB2501-2621"
+    },
+    {
+      "source": "PB2001-3029",
+      "target": "PB3001-3029"
+    },
+    {
+      "source": "P",
+      "target": "PM"
+    },
+    {
+      "source": "PM",
+      "target": "PM1-9021"
+    },
+    {
+      "source": "PM1-9021",
+      "target": "PM101-7356"
+    },
+    {
+      "source": "PM1-9021",
+      "target": "PM7801-7895"
+    },
+    {
+      "source": "PM1-9021",
+      "target": "PM8001-9021"
+    },
+    {
+      "source": "PM1-9021",
+      "target": "PM1-96"
+    },
+    {
+      "source": "PM101-7356",
+      "target": "PM549-2711"
+    },
+    {
+      "source": "PM101-7356",
+      "target": "PM5001-7356"
+    },
+    {
+      "source": "PM101-7356",
+      "target": "PM3001-4566"
+    },
+    {
+      "source": "PM101-7356",
+      "target": "PM421-501"
+    },
+    {
+      "source": "PM101-7356",
+      "target": "PM231-355"
+    },
+    {
+      "source": "PM7801-7895",
+      "target": "PM7831-7875"
+    },
+    {
+      "source": "PM8001-9021",
+      "target": "PM8201-8298"
+    },
+    {
+      "source": "PM8001-9021",
+      "target": "PM8999"
+    },
+    {
+      "source": "PM8001-9021",
+      "target": "PM9001-9021"
+    }
+  ],
+  "maxCount": 186634
+}

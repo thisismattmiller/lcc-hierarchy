@@ -1,0 +1,2216 @@
+{
+  "nodes": [
+    {
+      "id": "G",
+      "size": 0,
+      "subject": "Maps"
+    },
+    {
+      "id": "G1-922",
+      "size": 7021,
+      "subject": "Geography (General)"
+    },
+    {
+      "id": "G369-503",
+      "size": 4075,
+      "subject": "Special voyages and travels"
+    },
+    {
+      "id": "G149-180",
+      "size": 2588,
+      "subject": "Travel.  Voyages and travels (General)"
+    },
+    {
+      "id": "G154.9-155.8",
+      "size": 7668,
+      "subject": "Travel and state.  Tourism"
+    },
+    {
+      "id": "G575-890",
+      "size": 4011,
+      "subject": "Arctic and Antarctic regions"
+    },
+    {
+      "id": "G521-539",
+      "size": 2898,
+      "subject": "Adventures, shipwrecks, buried treasure, etc."
+    },
+    {
+      "id": "G80-99",
+      "size": 950,
+      "subject": "History of geography"
+    },
+    {
+      "id": "G70-70.6",
+      "size": 2554,
+      "subject": "Philosophy.  Relation to other topics.  Methodology"
+    },
+    {
+      "id": "G540-550",
+      "size": 870,
+      "subject": "Seafaring life, ocean travel, etc."
+    },
+    {
+      "id": "G200-336",
+      "size": 1308,
+      "subject": "History of discoveries, explorations, and travel"
+    },
+    {
+      "id": "G65-69",
+      "size": 338,
+      "subject": "Geographers"
+    },
+    {
+      "id": "G100.5-108.5",
+      "size": 722,
+      "subject": "Toponymy"
+    },
+    {
+      "id": "G140",
+      "size": 62,
+      "subject": "Great cities of the world"
+    },
+    {
+      "id": "G142",
+      "size": 18,
+      "subject": "Aerial geography"
+    },
+    {
+      "id": "G141",
+      "size": 65,
+      "subject": "Historical geography"
+    },
+    {
+      "id": "G912-922",
+      "size": 9,
+      "subject": "Northern and Southern Hemispheres"
+    },
+    {
+      "id": "G905-910",
+      "size": 44,
+      "subject": "Tropics (General)"
+    },
+    {
+      "id": "G1000-3122",
+      "size": 2,
+      "subject": "Atlases"
+    },
+    {
+      "id": "G1100-3102",
+      "size": 0,
+      "subject": "By region or country"
+    },
+    {
+      "id": "G1780-2799",
+      "size": 59,
+      "subject": "Eastern Hemisphere.  Eurasia, Africa, etc."
+    },
+    {
+      "id": "G1791-2196",
+      "size": 6204,
+      "subject": "Europe"
+    },
+    {
+      "id": "G2110-2196",
+      "size": 947,
+      "subject": "Former Soviet republics.  Union of Soviet Socialist"
+    },
+    {
+      "id": "G2200-2444.84",
+      "size": 5537,
+      "subject": "Asia"
+    },
+    {
+      "id": "G2445-2739",
+      "size": 883,
+      "subject": "Africa"
+    },
+    {
+      "id": "G2740-2799",
+      "size": 539,
+      "subject": "Australasia"
+    },
+    {
+      "id": "G1100-1779",
+      "size": 1178,
+      "subject": "America.  Western Hemisphere"
+    },
+    {
+      "id": "G2800-3064",
+      "size": 327,
+      "subject": "Oceans (General)"
+    },
+    {
+      "id": "G3100-3102",
+      "size": 34,
+      "subject": "Antarctica"
+    },
+    {
+      "id": "G1001-1046",
+      "size": 5167,
+      "subject": "World atlases.  Atlases of the Earth"
+    },
+    {
+      "id": "G1105-1692",
+      "size": 0,
+      "subject": "North America"
+    },
+    {
+      "id": "G1200-1534.24",
+      "size": 17414,
+      "subject": "United States"
+    },
+    {
+      "id": "G1540-1542",
+      "size": 24,
+      "subject": "Latin America (General)"
+    },
+    {
+      "id": "G1600-1692",
+      "size": 130,
+      "subject": "West Indies"
+    },
+    {
+      "id": "G1115-1193",
+      "size": 493,
+      "subject": "Canada"
+    },
+    {
+      "id": "G1550-1594",
+      "size": 125,
+      "subject": "Central America"
+    },
+    {
+      "id": "G1545-1549",
+      "size": 263,
+      "subject": "Mexico"
+    },
+    {
+      "id": "G1535-1537",
+      "size": 26,
+      "subject": "Caribbean area"
+    },
+    {
+      "id": "G1110-1114",
+      "size": 3,
+      "subject": "Greenland"
+    },
+    {
+      "id": "G1050-1052",
+      "size": 23,
+      "subject": "Northern and Southern Hemispheres"
+    },
+    {
+      "id": "G1000-1000.5",
+      "size": 46,
+      "subject": "Atlases of the moon, planets, etc."
+    },
+    {
+      "id": "G1059-1061",
+      "size": 36,
+      "subject": "Maritime atlases (General)"
+    },
+    {
+      "id": "G3122",
+      "size": 9,
+      "subject": "Atlases of imaginary, literary, and mythological"
+    },
+    {
+      "id": "G1054-1055",
+      "size": 21,
+      "subject": "Polar regions.  Frigid Zone"
+    },
+    {
+      "id": "G1053",
+      "size": 1,
+      "subject": "Tropics.  Torrid Zone"
+    },
+    {
+      "id": "G3180-9980",
+      "size": 0,
+      "subject": "Maps"
+    },
+    {
+      "id": "G3290-9880",
+      "size": 0,
+      "subject": "By region or country"
+    },
+    {
+      "id": "G5670-8904",
+      "size": 294,
+      "subject": "Eastern Hemisphere.  Eurasia, Africa, etc."
+    },
+    {
+      "id": "G7400-8198.54",
+      "size": 29198,
+      "subject": "Asia"
+    },
+    {
+      "id": "G5700-7342",
+      "size": 55003,
+      "subject": "Europe"
+    },
+    {
+      "id": "G7000-7342",
+      "size": 7110,
+      "subject": "Former Soviet republics.  Union of Soviet Socialist"
+    },
+    {
+      "id": "G8200-8904",
+      "size": 11651,
+      "subject": "Africa"
+    },
+    {
+      "id": "G9095-9794",
+      "size": 1872,
+      "subject": "Oceans (General)"
+    },
+    {
+      "id": "G8950-9084",
+      "size": 4616,
+      "subject": "Australasia"
+    },
+    {
+      "id": "G3290-5667",
+      "size": 8140,
+      "subject": "America.  Western Hemisphere"
+    },
+    {
+      "id": "G9800-9804",
+      "size": 263,
+      "subject": "Antarctica"
+    },
+    {
+      "id": "G3300-5184",
+      "size": 0,
+      "subject": "North America"
+    },
+    {
+      "id": "G3700-4384",
+      "size": 129923,
+      "subject": "United States"
+    },
+    {
+      "id": "G3400-3612",
+      "size": 5677,
+      "subject": "Canada"
+    },
+    {
+      "id": "G3380-3384",
+      "size": 79,
+      "subject": "Greenland"
+    },
+    {
+      "id": "G4410-4763",
+      "size": 1662,
+      "subject": "Mexico"
+    },
+    {
+      "id": "G4800-4874",
+      "size": 1762,
+      "subject": "Central America"
+    },
+    {
+      "id": "G4900-5184",
+      "size": 2508,
+      "subject": "West Indies"
+    },
+    {
+      "id": "G4390-4392",
+      "size": 158,
+      "subject": "Caribbean area"
+    },
+    {
+      "id": "G3200-3202",
+      "size": 2985,
+      "subject": "World.  Earth"
+    },
+    {
+      "id": "G3195-3197",
+      "size": 127,
+      "subject": "Moon"
+    },
+    {
+      "id": "G3260-3272",
+      "size": 70,
+      "subject": "Polar regions.  Frigid Zone"
+    },
+    {
+      "id": "G3210-3221",
+      "size": 44,
+      "subject": "Northern and Southern Hemispheres"
+    },
+    {
+      "id": "G3180-3182",
+      "size": 54,
+      "subject": "Universe.  Solar system"
+    },
+    {
+      "id": "G3190-3191",
+      "size": 100,
+      "subject": "Celestial maps"
+    },
+    {
+      "id": "G9900-9980",
+      "size": 90,
+      "subject": "Unlocalized maps"
+    },
+    {
+      "id": "G3160-3171",
+      "size": 418,
+      "subject": "Globes"
+    },
+    {
+      "id": "GV",
+      "size": 0,
+      "subject": "Recreation.  Leisure"
+    },
+    {
+      "id": "GV1-1860",
+      "size": 3415,
+      "subject": "Recreation.  Leisure"
+    },
+    {
+      "id": "GV1199-1570",
+      "size": 726,
+      "subject": "Games and amusements"
+    },
+    {
+      "id": "GV1221-1469.63",
+      "size": 212,
+      "subject": "Indoor games and amusements"
+    },
+    {
+      "id": "GV1232-1299",
+      "size": 2149,
+      "subject": "Card games: Poker, patience, whist, etc."
+    },
+    {
+      "id": "GV1312-1469",
+      "size": 4057,
+      "subject": "Board games.  Move games"
+    },
+    {
+      "id": "GV1301-1311",
+      "size": 509,
+      "subject": "Gambling.  Chance and banking games"
+    },
+    {
+      "id": "GV1469.15-1469.62",
+      "size": 2552,
+      "subject": "Computer games.  Video games.  Fantasy games"
+    },
+    {
+      "id": "GV1203-1220.8",
+      "size": 1536,
+      "subject": "Children's games and amusements"
+    },
+    {
+      "id": "GV1218.5-1220.8",
+      "size": 208,
+      "subject": "Toys"
+    },
+    {
+      "id": "GV1470-1511",
+      "size": 527,
+      "subject": "Parties.  Party games and stunts"
+    },
+    {
+      "id": "GV1491-1507",
+      "size": 1555,
+      "subject": "Puzzles"
+    },
+    {
+      "id": "GV1541-1561",
+      "size": 2483,
+      "subject": "Parlor magic and tricks"
+    },
+    {
+      "id": "GV1564-1565",
+      "size": 38,
+      "subject": "Darts"
+    },
+    {
+      "id": "GV1201.5",
+      "size": 14,
+      "subject": "Hobbies (General)"
+    },
+    {
+      "id": "GV1580-1799.4",
+      "size": 11467,
+      "subject": "Dancing"
+    },
+    {
+      "id": "GV201-555",
+      "size": 4476,
+      "subject": "Physical education and training"
+    },
+    {
+      "id": "GV460-555",
+      "size": 3567,
+      "subject": "Gymnastics.  Gymnastic exercises"
+    },
+    {
+      "id": "GV346-351.5",
+      "size": 268,
+      "subject": "School and college athletics.  Intramural"
+    },
+    {
+      "id": "GV401-433",
+      "size": 805,
+      "subject": "Physical education facilities.  Sports facilities"
+    },
+    {
+      "id": "GV435-436.7",
+      "size": 296,
+      "subject": "Physical measurements.  Physical tests, etc."
+    },
+    {
+      "id": "GV450-451.4",
+      "size": 93,
+      "subject": "Nudism.  Sunbathing"
+    },
+    {
+      "id": "GV557-1198.995",
+      "size": 9636,
+      "subject": "Sports"
+    },
+    {
+      "id": "GV861-1017",
+      "size": 30111,
+      "subject": "Ball games: Baseball, football, golf, etc."
+    },
+    {
+      "id": "GV1040-1060.4",
+      "size": 2964,
+      "subject": "Cycling.  Bicycling.  Motorcycling"
+    },
+    {
+      "id": "GV1060.5-1098",
+      "size": 1856,
+      "subject": "Track and field athletics"
+    },
+    {
+      "id": "GV770.3-840",
+      "size": 6363,
+      "subject": "Water sports: Canoeing, sailing, yachting, scuba"
+    },
+    {
+      "id": "GV840.7-857",
+      "size": 3975,
+      "subject": "Winter sports: Ice hockey, skiing, bobsledding,"
+    },
+    {
+      "id": "GV712-725",
+      "size": 2246,
+      "subject": "Athletic contests.  Sports events"
+    },
+    {
+      "id": "GV711",
+      "size": 216,
+      "subject": "Coaching"
+    },
+    {
+      "id": "GV1100-1150.9",
+      "size": 4981,
+      "subject": "Fighting sports: Bullfighting, boxing, fencing, etc."
+    },
+    {
+      "id": "GV1020-1034",
+      "size": 2803,
+      "subject": "Automobile travel.  Motoring.  Automobile racing"
+    },
+    {
+      "id": "GV1195-1198.995",
+      "size": 888,
+      "subject": "Wrestling"
+    },
+    {
+      "id": "GV1151-1190",
+      "size": 747,
+      "subject": "Shooting.  Archery"
+    },
+    {
+      "id": "GV733-734.5",
+      "size": 111,
+      "subject": "Professionalism in sports.  Professional sports (General)"
+    },
+    {
+      "id": "GV743-749",
+      "size": 98,
+      "subject": "Athletic and sporting goods, supplies, etc."
+    },
+    {
+      "id": "GV750-770.27",
+      "size": 325,
+      "subject": "Air sports: Airplane flying, kiteflying, bungee jumping, etc."
+    },
+    {
+      "id": "GV735",
+      "size": 29,
+      "subject": "Umpires.  Sports officiating"
+    },
+    {
+      "id": "GV191.2-200.66",
+      "size": 2028,
+      "subject": "Outdoor life.  Outdoor recreation"
+    },
+    {
+      "id": "GV199-199.62",
+      "size": 4816,
+      "subject": "Hiking.  Pedestrian tours"
+    },
+    {
+      "id": "GV199.8-200.35",
+      "size": 1164,
+      "subject": "Mountaineering"
+    },
+    {
+      "id": "GV191.68-198.975",
+      "size": 623,
+      "subject": "Camping"
+    },
+    {
+      "id": "GV198.945-198.975",
+      "size": 22,
+      "subject": "Farm vacations, dude ranches, etc."
+    },
+    {
+      "id": "GV200.6-200.66",
+      "size": 126,
+      "subject": "Caving.  Spelunking"
+    },
+    {
+      "id": "GV200.4-200.56",
+      "size": 365,
+      "subject": "Orienteering.  Wilderness survival"
+    },
+    {
+      "id": "GV1800-1860",
+      "size": 1949,
+      "subject": "Circuses, spectacles, etc."
+    },
+    {
+      "id": "GV181.35-181.6",
+      "size": 166,
+      "subject": "Recreation leadership.  Administration of recreation services"
+    },
+    {
+      "id": "GV182-182.5",
+      "size": 153,
+      "subject": "Recreational areas and facilities.  Recreation centers"
+    },
+    {
+      "id": "GA",
+      "size": 0,
+      "subject": "Mathematical geography.  Cartography"
+    },
+    {
+      "id": "GA1-1776",
+      "size": 152,
+      "subject": "Mathematical geography.  Cartography"
+    },
+    {
+      "id": "GA101-1776",
+      "size": 1355,
+      "subject": "Cartography"
+    },
+    {
+      "id": "GA341-1776",
+      "size": 1939,
+      "subject": "Maps.  By region or country"
+    },
+    {
+      "id": "GA125-155",
+      "size": 533,
+      "subject": "Map drawing, modeling, printing, reading, etc."
+    },
+    {
+      "id": "GA192-197.3",
+      "size": 165,
+      "subject": "Collections of maps, globes, etc.  Map libraries"
+    },
+    {
+      "id": "GA260-288",
+      "size": 53,
+      "subject": "Globe making.  Globes"
+    },
+    {
+      "id": "GA109.5",
+      "size": 37,
+      "subject": "Cadastral mapping"
+    },
+    {
+      "id": "GA110-115",
+      "size": 125,
+      "subject": "Projection"
+    },
+    {
+      "id": "GA300-325",
+      "size": 170,
+      "subject": "World maps, general atlases, etc."
+    },
+    {
+      "id": "GA109",
+      "size": 9,
+      "subject": "Aerial cartography"
+    },
+    {
+      "id": "GA109.8",
+      "size": 12,
+      "subject": "Statistical mapping"
+    },
+    {
+      "id": "GA197.5-198",
+      "size": 7,
+      "subject": "Cartographers"
+    },
+    {
+      "id": "GA51-87",
+      "size": 191,
+      "subject": "Surveys (General)"
+    },
+    {
+      "id": "GN",
+      "size": 0,
+      "subject": "Anthropology"
+    },
+    {
+      "id": "GN1-890",
+      "size": 5474,
+      "subject": "Anthropology"
+    },
+    {
+      "id": "GN301-674",
+      "size": 3407,
+      "subject": "Ethnology.  Social and cultural anthropology"
+    },
+    {
+      "id": "GN537-674",
+      "size": 385,
+      "subject": "Ethnic groups and races"
+    },
+    {
+      "id": "GN550-674",
+      "size": 7062,
+      "subject": "By region or country"
+    },
+    {
+      "id": "GN406-517",
+      "size": 36,
+      "subject": "Cultural traits, customs, and institutions"
+    },
+    {
+      "id": "GN451-477.7",
+      "size": 1030,
+      "subject": "Intellectual life"
+    },
+    {
+      "id": "GN495.4-498",
+      "size": 694,
+      "subject": "Societal groups, ethnocentrism, diplomacy, warfare, etc."
+    },
+    {
+      "id": "GN502-517",
+      "size": 319,
+      "subject": "Psychological anthropology"
+    },
+    {
+      "id": "GN478-491.7",
+      "size": 1165,
+      "subject": "Social organization"
+    },
+    {
+      "id": "GN406-442",
+      "size": 859,
+      "subject": "Technology.  Material culture"
+    },
+    {
+      "id": "GN492-495.2",
+      "size": 298,
+      "subject": "Political organization.  Political anthropology"
+    },
+    {
+      "id": "GN448-450.8",
+      "size": 176,
+      "subject": "Economic organization.  Economic anthropology"
+    },
+    {
+      "id": "GN378-396",
+      "size": 604,
+      "subject": "Collected ethnographies"
+    },
+    {
+      "id": "GN357-367",
+      "size": 622,
+      "subject": "Culture and cultural processes"
+    },
+    {
+      "id": "GN397-397.7",
+      "size": 140,
+      "subject": "Applied anthropology"
+    },
+    {
+      "id": "GN49-298",
+      "size": 627,
+      "subject": "Physical anthropology.  Somatology"
+    },
+    {
+      "id": "GN281-289",
+      "size": 847,
+      "subject": "Human evolution"
+    },
+    {
+      "id": "GN282-286.7",
+      "size": 375,
+      "subject": "Fossil man.  Human paleontology"
+    },
+    {
+      "id": "GN51-59",
+      "size": 502,
+      "subject": "Anthropometry"
+    },
+    {
+      "id": "GN280.7",
+      "size": 33,
+      "subject": "Man as an animal.  Simian traits versus human traits"
+    },
+    {
+      "id": "GN62.8-265",
+      "size": 714,
+      "subject": "Human variation"
+    },
+    {
+      "id": "GN269-279",
+      "size": 201,
+      "subject": "Race (General)"
+    },
+    {
+      "id": "GN296-296.5",
+      "size": 228,
+      "subject": "Medical anthropology"
+    },
+    {
+      "id": "GN700-890",
+      "size": 12260,
+      "subject": "Prehistoric archaeology"
+    },
+    {
+      "id": "GR",
+      "size": 0,
+      "subject": "Folklore"
+    },
+    {
+      "id": "GR1-950",
+      "size": 2055,
+      "subject": "Folklore"
+    },
+    {
+      "id": "GR99.6-390",
+      "size": 18717,
+      "subject": "By region or country"
+    },
+    {
+      "id": "GR420-950",
+      "size": 157,
+      "subject": "By subject"
+    },
+    {
+      "id": "GR700-860",
+      "size": 1260,
+      "subject": "Animals, plants, and minerals"
+    },
+    {
+      "id": "GR430-488",
+      "size": 251,
+      "subject": "Folklore relating to private life"
+    },
+    {
+      "id": "GR880",
+      "size": 181,
+      "subject": "Medicine.  Folk medicine"
+    },
+    {
+      "id": "GR620-640",
+      "size": 62,
+      "subject": "Cosmic phenomena, weather lore"
+    },
+    {
+      "id": "GR500-615",
+      "size": 744,
+      "subject": "Supernatural beings, demonology, fairies, ghosts,"
+    },
+    {
+      "id": "GR650-690",
+      "size": 71,
+      "subject": "Geographical topics"
+    },
+    {
+      "id": "GR890-915",
+      "size": 130,
+      "subject": "Occupations"
+    },
+    {
+      "id": "GR940-941",
+      "size": 43,
+      "subject": "Mythical places"
+    },
+    {
+      "id": "GR931-935",
+      "size": 25,
+      "subject": "Signs and symbols"
+    },
+    {
+      "id": "GR420-426",
+      "size": 1,
+      "subject": "Costume, jewelry"
+    },
+    {
+      "id": "GR865-874",
+      "size": 6,
+      "subject": "Transportation, travel, commerce, etc."
+    },
+    {
+      "id": "GR72-79",
+      "size": 577,
+      "subject": "Folk literature (General)"
+    },
+    {
+      "id": "GR81",
+      "size": 19,
+      "subject": "Folk beliefs, superstitions, etc. (General)"
+    },
+    {
+      "id": "GT",
+      "size": 0,
+      "subject": "Manners and customs (General)"
+    },
+    {
+      "id": "GT1-7070",
+      "size": 366,
+      "subject": "Manners and customs (General)"
+    },
+    {
+      "id": "GT500-2370",
+      "size": 5717,
+      "subject": "Costume.  Dress.  Fashion"
+    },
+    {
+      "id": "GT3400-5090",
+      "size": 7417,
+      "subject": "Customs relative to public and social life"
+    },
+    {
+      "id": "GT2400-3390.5",
+      "size": 5260,
+      "subject": "Customs relative to private life"
+    },
+    {
+      "id": "GT495-499",
+      "size": 238,
+      "subject": "Human body and its parts.  Personal beauty"
+    },
+    {
+      "id": "GT5320-6737",
+      "size": 57,
+      "subject": "Customs relative to special classes"
+    },
+    {
+      "id": "GT5750-6390",
+      "size": 240,
+      "subject": "By occupation"
+    },
+    {
+      "id": "GT5320-5690",
+      "size": 17,
+      "subject": "By birth, rank, etc."
+    },
+    {
+      "id": "GT165-476",
+      "size": 611,
+      "subject": "Houses.  Dwellings"
+    },
+    {
+      "id": "GT5220-5286",
+      "size": 93,
+      "subject": "Customs relative to transportation and travel"
+    },
+    {
+      "id": "GT485",
+      "size": 1,
+      "subject": "Churches and church going"
+    },
+    {
+      "id": "GC",
+      "size": 0,
+      "subject": "Oceanography"
+    },
+    {
+      "id": "GC1-1581",
+      "size": 3829,
+      "subject": "Oceanography"
+    },
+    {
+      "id": "GC1000-1023",
+      "size": 366,
+      "subject": "Marine resources.  Applied oceanography"
+    },
+    {
+      "id": "GC200-376",
+      "size": 87,
+      "subject": "Dynamics of the ocean"
+    },
+    {
+      "id": "GC229-296.8",
+      "size": 291,
+      "subject": "Currents"
+    },
+    {
+      "id": "GC205-227",
+      "size": 590,
+      "subject": "Waves"
+    },
+    {
+      "id": "GC300-376",
+      "size": 186,
+      "subject": "Tides"
+    },
+    {
+      "id": "GC228.5-228.6",
+      "size": 155,
+      "subject": "Ocean circulation"
+    },
+    {
+      "id": "GC297-299",
+      "size": 44,
+      "subject": "Water masses and oceanic mixing"
+    },
+    {
+      "id": "GC190-190.5",
+      "size": 126,
+      "subject": "Ocean-atmosphere interaction"
+    },
+    {
+      "id": "GC1080-1581",
+      "size": 638,
+      "subject": "Marine pollution.  Sea water pollution"
+    },
+    {
+      "id": "GC401-881",
+      "size": 1145,
+      "subject": "Oceanography.  By region"
+    },
+    {
+      "id": "GC96-97.8",
+      "size": 140,
+      "subject": "Estuarine oceanography"
+    },
+    {
+      "id": "GC65-78",
+      "size": 248,
+      "subject": "Underwater exploration"
+    },
+    {
+      "id": "GC109-149",
+      "size": 188,
+      "subject": "Chemical oceanography"
+    },
+    {
+      "id": "GC377-399",
+      "size": 345,
+      "subject": "Marine sediments"
+    },
+    {
+      "id": "GC150-182",
+      "size": 32,
+      "subject": "Physical oceanography"
+    },
+    {
+      "id": "GC160-177",
+      "size": 116,
+      "subject": "Temperature"
+    },
+    {
+      "id": "GC151-155",
+      "size": 10,
+      "subject": "Density"
+    },
+    {
+      "id": "GC177.6-182",
+      "size": 54,
+      "subject": "Optical oceanography"
+    },
+    {
+      "id": "GC83-87.6",
+      "size": 245,
+      "subject": "Submarine topography"
+    },
+    {
+      "id": "GC63",
+      "size": 16,
+      "subject": "Oceanographic expeditions"
+    },
+    {
+      "id": "GC100-103",
+      "size": 41,
+      "subject": "Seawater"
+    },
+    {
+      "id": "GB",
+      "size": 0,
+      "subject": "Physical geography"
+    },
+    {
+      "id": "GB3-5030",
+      "size": 2035,
+      "subject": "Physical geography"
+    },
+    {
+      "id": "GB651-2998",
+      "size": 5819,
+      "subject": "Hydrology.  Water"
+    },
+    {
+      "id": "GB980-2998",
+      "size": 2,
+      "subject": "Ground and surface waters"
+    },
+    {
+      "id": "GB1201-1598",
+      "size": 2813,
+      "subject": "Rivers.  Stream measurements"
+    },
+    {
+      "id": "GB1001-1199.8",
+      "size": 3957,
+      "subject": "Groundwater.  Hydrogeology"
+    },
+    {
+      "id": "GB2401-2598",
+      "size": 1024,
+      "subject": "Ice.  Glaciers.  Ice sheets.  Sea ice"
+    },
+    {
+      "id": "GB980-992",
+      "size": 353,
+      "subject": "Watersheds.  Runoff.  Drainage"
+    },
+    {
+      "id": "GB1601-2398",
+      "size": 802,
+      "subject": "Lakes.  Limnology.  Ponds.  Lagoons"
+    },
+    {
+      "id": "GB2601-2798",
+      "size": 123,
+      "subject": "Snow.  Snow surveys"
+    },
+    {
+      "id": "GB2801-2998",
+      "size": 148,
+      "subject": "Hydrometeorology"
+    },
+    {
+      "id": "GB400-649",
+      "size": 1577,
+      "subject": "Geomorphology.  Landforms.  Terrain"
+    },
+    {
+      "id": "GB450-460",
+      "size": 860,
+      "subject": "Coasts"
+    },
+    {
+      "id": "GB561-649",
+      "size": 3042,
+      "subject": "Other natural landforms: Floodplains, caves,"
+    },
+    {
+      "id": "GB471-478.995",
+      "size": 109,
+      "subject": "Islands"
+    },
+    {
+      "id": "GB500-555",
+      "size": 452,
+      "subject": "Mountains.  Orography"
+    },
+    {
+      "id": "GB461-468.995",
+      "size": 42,
+      "subject": "Reefs"
+    },
+    {
+      "id": "GB448",
+      "size": 33,
+      "subject": "Slopes"
+    },
+    {
+      "id": "GB447",
+      "size": 15,
+      "subject": "Climatic geomorphology"
+    },
+    {
+      "id": "GB5000-5030",
+      "size": 800,
+      "subject": "Natural disasters"
+    },
+    {
+      "id": "GE",
+      "size": 0,
+      "subject": "Environmental sciences"
+    },
+    {
+      "id": "GE1-350",
+      "size": 3947,
+      "subject": "Environmental sciences"
+    },
+    {
+      "id": "GE170-190",
+      "size": 2266,
+      "subject": "Environmental policy"
+    },
+    {
+      "id": "GE300-350",
+      "size": 706,
+      "subject": "Environmental management"
+    },
+    {
+      "id": "GE195-199",
+      "size": 999,
+      "subject": "Environmentalism.  Green movement"
+    },
+    {
+      "id": "GE70-90",
+      "size": 919,
+      "subject": "Environmental education"
+    },
+    {
+      "id": "GF",
+      "size": 0,
+      "subject": "Human ecology.  Anthropogeography"
+    },
+    {
+      "id": "GF1-900",
+      "size": 3311,
+      "subject": "Human ecology.  Anthropogeography"
+    },
+    {
+      "id": "GF500-900",
+      "size": 1946,
+      "subject": "By region or country"
+    },
+    {
+      "id": "GF101-127",
+      "size": 55,
+      "subject": "Settlements"
+    },
+    {
+      "id": "GF125",
+      "size": 98,
+      "subject": "Cities.  Urban geography"
+    },
+    {
+      "id": "GF127",
+      "size": 25,
+      "subject": "Rural settlements.  Rural geography"
+    },
+    {
+      "id": "GF51",
+      "size": 141,
+      "subject": "Environmental influences on humans"
+    },
+    {
+      "id": "GF75",
+      "size": 345,
+      "subject": "Human influences on the environment"
+    }
+  ],
+  "links": [
+    {
+      "source": "G",
+      "target": "G1-922"
+    },
+    {
+      "source": "G",
+      "target": "G1000-3122"
+    },
+    {
+      "source": "G",
+      "target": "G3180-9980"
+    },
+    {
+      "source": "G",
+      "target": "G3160-3171"
+    },
+    {
+      "source": "G1-922",
+      "target": "G369-503"
+    },
+    {
+      "source": "G1-922",
+      "target": "G149-180"
+    },
+    {
+      "source": "G1-922",
+      "target": "G575-890"
+    },
+    {
+      "source": "G1-922",
+      "target": "G521-539"
+    },
+    {
+      "source": "G1-922",
+      "target": "G80-99"
+    },
+    {
+      "source": "G1-922",
+      "target": "G70-70.6"
+    },
+    {
+      "source": "G1-922",
+      "target": "G540-550"
+    },
+    {
+      "source": "G1-922",
+      "target": "G200-336"
+    },
+    {
+      "source": "G1-922",
+      "target": "G65-69"
+    },
+    {
+      "source": "G1-922",
+      "target": "G100.5-108.5"
+    },
+    {
+      "source": "G1-922",
+      "target": "G140"
+    },
+    {
+      "source": "G1-922",
+      "target": "G142"
+    },
+    {
+      "source": "G1-922",
+      "target": "G141"
+    },
+    {
+      "source": "G1-922",
+      "target": "G912-922"
+    },
+    {
+      "source": "G1-922",
+      "target": "G905-910"
+    },
+    {
+      "source": "G149-180",
+      "target": "G154.9-155.8"
+    },
+    {
+      "source": "G1000-3122",
+      "target": "G1100-3102"
+    },
+    {
+      "source": "G1000-3122",
+      "target": "G1001-1046"
+    },
+    {
+      "source": "G1000-3122",
+      "target": "G1100-1779"
+    },
+    {
+      "source": "G1000-3122",
+      "target": "G1050-1052"
+    },
+    {
+      "source": "G1000-3122",
+      "target": "G1000-1000.5"
+    },
+    {
+      "source": "G1000-3122",
+      "target": "G1059-1061"
+    },
+    {
+      "source": "G1000-3122",
+      "target": "G3122"
+    },
+    {
+      "source": "G1000-3122",
+      "target": "G1054-1055"
+    },
+    {
+      "source": "G1000-3122",
+      "target": "G1053"
+    },
+    {
+      "source": "G1100-3102",
+      "target": "G1780-2799"
+    },
+    {
+      "source": "G1100-3102",
+      "target": "G1100-1779"
+    },
+    {
+      "source": "G1100-3102",
+      "target": "G2800-3064"
+    },
+    {
+      "source": "G1100-3102",
+      "target": "G3100-3102"
+    },
+    {
+      "source": "G1780-2799",
+      "target": "G1791-2196"
+    },
+    {
+      "source": "G1780-2799",
+      "target": "G2200-2444.84"
+    },
+    {
+      "source": "G1780-2799",
+      "target": "G2445-2739"
+    },
+    {
+      "source": "G1780-2799",
+      "target": "G2740-2799"
+    },
+    {
+      "source": "G1791-2196",
+      "target": "G2110-2196"
+    },
+    {
+      "source": "G1100-1779",
+      "target": "G1105-1692"
+    },
+    {
+      "source": "G1105-1692",
+      "target": "G1200-1534.24"
+    },
+    {
+      "source": "G1105-1692",
+      "target": "G1540-1542"
+    },
+    {
+      "source": "G1105-1692",
+      "target": "G1600-1692"
+    },
+    {
+      "source": "G1105-1692",
+      "target": "G1115-1193"
+    },
+    {
+      "source": "G1105-1692",
+      "target": "G1550-1594"
+    },
+    {
+      "source": "G1105-1692",
+      "target": "G1545-1549"
+    },
+    {
+      "source": "G1105-1692",
+      "target": "G1535-1537"
+    },
+    {
+      "source": "G1105-1692",
+      "target": "G1110-1114"
+    },
+    {
+      "source": "G3180-9980",
+      "target": "G3290-9880"
+    },
+    {
+      "source": "G3180-9980",
+      "target": "G3290-5667"
+    },
+    {
+      "source": "G3180-9980",
+      "target": "G3200-3202"
+    },
+    {
+      "source": "G3180-9980",
+      "target": "G3195-3197"
+    },
+    {
+      "source": "G3180-9980",
+      "target": "G3260-3272"
+    },
+    {
+      "source": "G3180-9980",
+      "target": "G3210-3221"
+    },
+    {
+      "source": "G3180-9980",
+      "target": "G3180-3182"
+    },
+    {
+      "source": "G3180-9980",
+      "target": "G3190-3191"
+    },
+    {
+      "source": "G3180-9980",
+      "target": "G9900-9980"
+    },
+    {
+      "source": "G3290-9880",
+      "target": "G5670-8904"
+    },
+    {
+      "source": "G3290-9880",
+      "target": "G9095-9794"
+    },
+    {
+      "source": "G3290-9880",
+      "target": "G8950-9084"
+    },
+    {
+      "source": "G3290-9880",
+      "target": "G3290-5667"
+    },
+    {
+      "source": "G3290-9880",
+      "target": "G9800-9804"
+    },
+    {
+      "source": "G5670-8904",
+      "target": "G7400-8198.54"
+    },
+    {
+      "source": "G5670-8904",
+      "target": "G5700-7342"
+    },
+    {
+      "source": "G5670-8904",
+      "target": "G8200-8904"
+    },
+    {
+      "source": "G5700-7342",
+      "target": "G7000-7342"
+    },
+    {
+      "source": "G3290-5667",
+      "target": "G3300-5184"
+    },
+    {
+      "source": "G3300-5184",
+      "target": "G3700-4384"
+    },
+    {
+      "source": "G3300-5184",
+      "target": "G3400-3612"
+    },
+    {
+      "source": "G3300-5184",
+      "target": "G3380-3384"
+    },
+    {
+      "source": "G3300-5184",
+      "target": "G4410-4763"
+    },
+    {
+      "source": "G3300-5184",
+      "target": "G4800-4874"
+    },
+    {
+      "source": "G3300-5184",
+      "target": "G4900-5184"
+    },
+    {
+      "source": "G3300-5184",
+      "target": "G4390-4392"
+    },
+    {
+      "source": "G",
+      "target": "GV"
+    },
+    {
+      "source": "GV",
+      "target": "GV1-1860"
+    },
+    {
+      "source": "GV1-1860",
+      "target": "GV1199-1570"
+    },
+    {
+      "source": "GV1-1860",
+      "target": "GV1580-1799.4"
+    },
+    {
+      "source": "GV1-1860",
+      "target": "GV201-555"
+    },
+    {
+      "source": "GV1-1860",
+      "target": "GV557-1198.995"
+    },
+    {
+      "source": "GV1-1860",
+      "target": "GV191.2-200.66"
+    },
+    {
+      "source": "GV1-1860",
+      "target": "GV1800-1860"
+    },
+    {
+      "source": "GV1-1860",
+      "target": "GV181.35-181.6"
+    },
+    {
+      "source": "GV1-1860",
+      "target": "GV182-182.5"
+    },
+    {
+      "source": "GV1199-1570",
+      "target": "GV1221-1469.63"
+    },
+    {
+      "source": "GV1199-1570",
+      "target": "GV1203-1220.8"
+    },
+    {
+      "source": "GV1199-1570",
+      "target": "GV1470-1511"
+    },
+    {
+      "source": "GV1199-1570",
+      "target": "GV1541-1561"
+    },
+    {
+      "source": "GV1199-1570",
+      "target": "GV1564-1565"
+    },
+    {
+      "source": "GV1199-1570",
+      "target": "GV1201.5"
+    },
+    {
+      "source": "GV1221-1469.63",
+      "target": "GV1232-1299"
+    },
+    {
+      "source": "GV1221-1469.63",
+      "target": "GV1312-1469"
+    },
+    {
+      "source": "GV1221-1469.63",
+      "target": "GV1301-1311"
+    },
+    {
+      "source": "GV1221-1469.63",
+      "target": "GV1469.15-1469.62"
+    },
+    {
+      "source": "GV1203-1220.8",
+      "target": "GV1218.5-1220.8"
+    },
+    {
+      "source": "GV1470-1511",
+      "target": "GV1491-1507"
+    },
+    {
+      "source": "GV201-555",
+      "target": "GV460-555"
+    },
+    {
+      "source": "GV201-555",
+      "target": "GV346-351.5"
+    },
+    {
+      "source": "GV201-555",
+      "target": "GV401-433"
+    },
+    {
+      "source": "GV201-555",
+      "target": "GV435-436.7"
+    },
+    {
+      "source": "GV201-555",
+      "target": "GV450-451.4"
+    },
+    {
+      "source": "GV557-1198.995",
+      "target": "GV861-1017"
+    },
+    {
+      "source": "GV557-1198.995",
+      "target": "GV1040-1060.4"
+    },
+    {
+      "source": "GV557-1198.995",
+      "target": "GV1060.5-1098"
+    },
+    {
+      "source": "GV557-1198.995",
+      "target": "GV770.3-840"
+    },
+    {
+      "source": "GV557-1198.995",
+      "target": "GV840.7-857"
+    },
+    {
+      "source": "GV557-1198.995",
+      "target": "GV712-725"
+    },
+    {
+      "source": "GV557-1198.995",
+      "target": "GV711"
+    },
+    {
+      "source": "GV557-1198.995",
+      "target": "GV1100-1150.9"
+    },
+    {
+      "source": "GV557-1198.995",
+      "target": "GV1020-1034"
+    },
+    {
+      "source": "GV557-1198.995",
+      "target": "GV1195-1198.995"
+    },
+    {
+      "source": "GV557-1198.995",
+      "target": "GV1151-1190"
+    },
+    {
+      "source": "GV557-1198.995",
+      "target": "GV733-734.5"
+    },
+    {
+      "source": "GV557-1198.995",
+      "target": "GV743-749"
+    },
+    {
+      "source": "GV557-1198.995",
+      "target": "GV750-770.27"
+    },
+    {
+      "source": "GV557-1198.995",
+      "target": "GV735"
+    },
+    {
+      "source": "GV191.2-200.66",
+      "target": "GV199-199.62"
+    },
+    {
+      "source": "GV191.2-200.66",
+      "target": "GV199.8-200.35"
+    },
+    {
+      "source": "GV191.2-200.66",
+      "target": "GV191.68-198.975"
+    },
+    {
+      "source": "GV191.2-200.66",
+      "target": "GV200.6-200.66"
+    },
+    {
+      "source": "GV191.2-200.66",
+      "target": "GV200.4-200.56"
+    },
+    {
+      "source": "GV191.68-198.975",
+      "target": "GV198.945-198.975"
+    },
+    {
+      "source": "G",
+      "target": "GA"
+    },
+    {
+      "source": "GA",
+      "target": "GA1-1776"
+    },
+    {
+      "source": "GA1-1776",
+      "target": "GA101-1776"
+    },
+    {
+      "source": "GA1-1776",
+      "target": "GA51-87"
+    },
+    {
+      "source": "GA101-1776",
+      "target": "GA341-1776"
+    },
+    {
+      "source": "GA101-1776",
+      "target": "GA125-155"
+    },
+    {
+      "source": "GA101-1776",
+      "target": "GA192-197.3"
+    },
+    {
+      "source": "GA101-1776",
+      "target": "GA260-288"
+    },
+    {
+      "source": "GA101-1776",
+      "target": "GA109.5"
+    },
+    {
+      "source": "GA101-1776",
+      "target": "GA110-115"
+    },
+    {
+      "source": "GA101-1776",
+      "target": "GA300-325"
+    },
+    {
+      "source": "GA101-1776",
+      "target": "GA109"
+    },
+    {
+      "source": "GA101-1776",
+      "target": "GA109.8"
+    },
+    {
+      "source": "GA101-1776",
+      "target": "GA197.5-198"
+    },
+    {
+      "source": "G",
+      "target": "GN"
+    },
+    {
+      "source": "GN",
+      "target": "GN1-890"
+    },
+    {
+      "source": "GN1-890",
+      "target": "GN301-674"
+    },
+    {
+      "source": "GN1-890",
+      "target": "GN49-298"
+    },
+    {
+      "source": "GN1-890",
+      "target": "GN700-890"
+    },
+    {
+      "source": "GN301-674",
+      "target": "GN537-674"
+    },
+    {
+      "source": "GN301-674",
+      "target": "GN406-517"
+    },
+    {
+      "source": "GN301-674",
+      "target": "GN378-396"
+    },
+    {
+      "source": "GN301-674",
+      "target": "GN357-367"
+    },
+    {
+      "source": "GN301-674",
+      "target": "GN397-397.7"
+    },
+    {
+      "source": "GN537-674",
+      "target": "GN550-674"
+    },
+    {
+      "source": "GN406-517",
+      "target": "GN451-477.7"
+    },
+    {
+      "source": "GN406-517",
+      "target": "GN495.4-498"
+    },
+    {
+      "source": "GN406-517",
+      "target": "GN502-517"
+    },
+    {
+      "source": "GN406-517",
+      "target": "GN478-491.7"
+    },
+    {
+      "source": "GN406-517",
+      "target": "GN406-442"
+    },
+    {
+      "source": "GN406-517",
+      "target": "GN492-495.2"
+    },
+    {
+      "source": "GN406-517",
+      "target": "GN448-450.8"
+    },
+    {
+      "source": "GN49-298",
+      "target": "GN281-289"
+    },
+    {
+      "source": "GN49-298",
+      "target": "GN51-59"
+    },
+    {
+      "source": "GN49-298",
+      "target": "GN280.7"
+    },
+    {
+      "source": "GN49-298",
+      "target": "GN62.8-265"
+    },
+    {
+      "source": "GN49-298",
+      "target": "GN269-279"
+    },
+    {
+      "source": "GN49-298",
+      "target": "GN296-296.5"
+    },
+    {
+      "source": "GN281-289",
+      "target": "GN282-286.7"
+    },
+    {
+      "source": "G",
+      "target": "GR"
+    },
+    {
+      "source": "GR",
+      "target": "GR1-950"
+    },
+    {
+      "source": "GR1-950",
+      "target": "GR99.6-390"
+    },
+    {
+      "source": "GR1-950",
+      "target": "GR420-950"
+    },
+    {
+      "source": "GR1-950",
+      "target": "GR72-79"
+    },
+    {
+      "source": "GR1-950",
+      "target": "GR81"
+    },
+    {
+      "source": "GR420-950",
+      "target": "GR700-860"
+    },
+    {
+      "source": "GR420-950",
+      "target": "GR430-488"
+    },
+    {
+      "source": "GR420-950",
+      "target": "GR880"
+    },
+    {
+      "source": "GR420-950",
+      "target": "GR620-640"
+    },
+    {
+      "source": "GR420-950",
+      "target": "GR500-615"
+    },
+    {
+      "source": "GR420-950",
+      "target": "GR650-690"
+    },
+    {
+      "source": "GR420-950",
+      "target": "GR890-915"
+    },
+    {
+      "source": "GR420-950",
+      "target": "GR940-941"
+    },
+    {
+      "source": "GR420-950",
+      "target": "GR931-935"
+    },
+    {
+      "source": "GR420-950",
+      "target": "GR420-426"
+    },
+    {
+      "source": "GR420-950",
+      "target": "GR865-874"
+    },
+    {
+      "source": "G",
+      "target": "GT"
+    },
+    {
+      "source": "GT",
+      "target": "GT1-7070"
+    },
+    {
+      "source": "GT1-7070",
+      "target": "GT500-2370"
+    },
+    {
+      "source": "GT1-7070",
+      "target": "GT3400-5090"
+    },
+    {
+      "source": "GT1-7070",
+      "target": "GT2400-3390.5"
+    },
+    {
+      "source": "GT1-7070",
+      "target": "GT495-499"
+    },
+    {
+      "source": "GT1-7070",
+      "target": "GT5320-6737"
+    },
+    {
+      "source": "GT1-7070",
+      "target": "GT165-476"
+    },
+    {
+      "source": "GT1-7070",
+      "target": "GT5220-5286"
+    },
+    {
+      "source": "GT1-7070",
+      "target": "GT485"
+    },
+    {
+      "source": "GT5320-6737",
+      "target": "GT5750-6390"
+    },
+    {
+      "source": "GT5320-6737",
+      "target": "GT5320-5690"
+    },
+    {
+      "source": "G",
+      "target": "GC"
+    },
+    {
+      "source": "GC",
+      "target": "GC1-1581"
+    },
+    {
+      "source": "GC1-1581",
+      "target": "GC1000-1023"
+    },
+    {
+      "source": "GC1-1581",
+      "target": "GC200-376"
+    },
+    {
+      "source": "GC1-1581",
+      "target": "GC190-190.5"
+    },
+    {
+      "source": "GC1-1581",
+      "target": "GC1080-1581"
+    },
+    {
+      "source": "GC1-1581",
+      "target": "GC401-881"
+    },
+    {
+      "source": "GC1-1581",
+      "target": "GC96-97.8"
+    },
+    {
+      "source": "GC1-1581",
+      "target": "GC65-78"
+    },
+    {
+      "source": "GC1-1581",
+      "target": "GC109-149"
+    },
+    {
+      "source": "GC1-1581",
+      "target": "GC377-399"
+    },
+    {
+      "source": "GC1-1581",
+      "target": "GC150-182"
+    },
+    {
+      "source": "GC1-1581",
+      "target": "GC83-87.6"
+    },
+    {
+      "source": "GC1-1581",
+      "target": "GC63"
+    },
+    {
+      "source": "GC1-1581",
+      "target": "GC100-103"
+    },
+    {
+      "source": "GC200-376",
+      "target": "GC229-296.8"
+    },
+    {
+      "source": "GC200-376",
+      "target": "GC205-227"
+    },
+    {
+      "source": "GC200-376",
+      "target": "GC300-376"
+    },
+    {
+      "source": "GC200-376",
+      "target": "GC228.5-228.6"
+    },
+    {
+      "source": "GC200-376",
+      "target": "GC297-299"
+    },
+    {
+      "source": "GC150-182",
+      "target": "GC160-177"
+    },
+    {
+      "source": "GC150-182",
+      "target": "GC151-155"
+    },
+    {
+      "source": "GC150-182",
+      "target": "GC177.6-182"
+    },
+    {
+      "source": "G",
+      "target": "GB"
+    },
+    {
+      "source": "GB",
+      "target": "GB3-5030"
+    },
+    {
+      "source": "GB3-5030",
+      "target": "GB651-2998"
+    },
+    {
+      "source": "GB3-5030",
+      "target": "GB400-649"
+    },
+    {
+      "source": "GB3-5030",
+      "target": "GB5000-5030"
+    },
+    {
+      "source": "GB651-2998",
+      "target": "GB980-2998"
+    },
+    {
+      "source": "GB980-2998",
+      "target": "GB1201-1598"
+    },
+    {
+      "source": "GB980-2998",
+      "target": "GB1001-1199.8"
+    },
+    {
+      "source": "GB980-2998",
+      "target": "GB2401-2598"
+    },
+    {
+      "source": "GB980-2998",
+      "target": "GB980-992"
+    },
+    {
+      "source": "GB980-2998",
+      "target": "GB1601-2398"
+    },
+    {
+      "source": "GB980-2998",
+      "target": "GB2601-2798"
+    },
+    {
+      "source": "GB980-2998",
+      "target": "GB2801-2998"
+    },
+    {
+      "source": "GB400-649",
+      "target": "GB450-460"
+    },
+    {
+      "source": "GB400-649",
+      "target": "GB561-649"
+    },
+    {
+      "source": "GB400-649",
+      "target": "GB471-478.995"
+    },
+    {
+      "source": "GB400-649",
+      "target": "GB500-555"
+    },
+    {
+      "source": "GB400-649",
+      "target": "GB461-468.995"
+    },
+    {
+      "source": "GB400-649",
+      "target": "GB448"
+    },
+    {
+      "source": "GB400-649",
+      "target": "GB447"
+    },
+    {
+      "source": "G",
+      "target": "GE"
+    },
+    {
+      "source": "GE",
+      "target": "GE1-350"
+    },
+    {
+      "source": "GE1-350",
+      "target": "GE170-190"
+    },
+    {
+      "source": "GE1-350",
+      "target": "GE300-350"
+    },
+    {
+      "source": "GE1-350",
+      "target": "GE195-199"
+    },
+    {
+      "source": "GE1-350",
+      "target": "GE70-90"
+    },
+    {
+      "source": "G",
+      "target": "GF"
+    },
+    {
+      "source": "GF",
+      "target": "GF1-900"
+    },
+    {
+      "source": "GF1-900",
+      "target": "GF500-900"
+    },
+    {
+      "source": "GF1-900",
+      "target": "GF101-127"
+    },
+    {
+      "source": "GF1-900",
+      "target": "GF51"
+    },
+    {
+      "source": "GF1-900",
+      "target": "GF75"
+    },
+    {
+      "source": "GF101-127",
+      "target": "GF125"
+    },
+    {
+      "source": "GF101-127",
+      "target": "GF127"
+    }
+  ],
+  "maxCount": 129923
+}

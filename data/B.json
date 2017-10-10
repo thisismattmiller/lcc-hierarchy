@@ -1,0 +1,5770 @@
+{
+  "nodes": [
+    {
+      "id": "B",
+      "size": 0,
+      "subject": "Philosophy, Psychology, Religion"
+    },
+    {
+      "id": "BV",
+      "size": 0,
+      "subject": "Practical Theology"
+    },
+    {
+      "id": "BV1-5099",
+      "size": 264,
+      "subject": "Practical Theology"
+    },
+    {
+      "id": "BV4000-4470",
+      "size": 2728,
+      "subject": "Pastoral theology"
+    },
+    {
+      "id": "BV4200-4317",
+      "size": 2112,
+      "subject": "Preaching.  Homiletics"
+    },
+    {
+      "id": "BV4239-4317",
+      "size": 2025,
+      "subject": "Sermons"
+    },
+    {
+      "id": "BV4390-4399",
+      "size": 376,
+      "subject": "Personal life of the clergy"
+    },
+    {
+      "id": "BV4400-4470",
+      "size": 2613,
+      "subject": "Practical church work.  Social work.  Work of the layman"
+    },
+    {
+      "id": "BV4019-4180",
+      "size": 0,
+      "subject": "Education"
+    },
+    {
+      "id": "BV4019-4167",
+      "size": 827,
+      "subject": "Training for the ordained ministry"
+    },
+    {
+      "id": "BV4168-4180",
+      "size": 8,
+      "subject": "Training for lay workers"
+    },
+    {
+      "id": "BV2000-3705",
+      "size": 2283,
+      "subject": "Missions"
+    },
+    {
+      "id": "BV2750-3695",
+      "size": 6995,
+      "subject": "Missions in individual countries"
+    },
+    {
+      "id": "BV2123-2595",
+      "size": 27,
+      "subject": "Special churches"
+    },
+    {
+      "id": "BV2350-2595",
+      "size": 1827,
+      "subject": "Protestant churches"
+    },
+    {
+      "id": "BV2130-2300",
+      "size": 692,
+      "subject": "Roman Catholic Church"
+    },
+    {
+      "id": "BV2610-2695",
+      "size": 895,
+      "subject": "Special types of missions"
+    },
+    {
+      "id": "BV3750-3799",
+      "size": 2384,
+      "subject": "Evangelism.  Revivals"
+    },
+    {
+      "id": "BV590-1652",
+      "size": 1610,
+      "subject": "Ecclesiastical theology"
+    },
+    {
+      "id": "BV1460-1615",
+      "size": 3977,
+      "subject": "Religious education (General)"
+    },
+    {
+      "id": "BV800-873",
+      "size": 342,
+      "subject": "Sacraments.  Ordinances"
+    },
+    {
+      "id": "BV803-814",
+      "size": 445,
+      "subject": "Baptism"
+    },
+    {
+      "id": "BV823-828",
+      "size": 587,
+      "subject": "Holy Communion.  Lord's Supper.  Eucharist"
+    },
+    {
+      "id": "BV835-838",
+      "size": 705,
+      "subject": "Marriage"
+    },
+    {
+      "id": "BV840-850",
+      "size": 75,
+      "subject": "Penance"
+    },
+    {
+      "id": "BV652-652.9",
+      "size": 1566,
+      "subject": "Church management.  Efficiency"
+    },
+    {
+      "id": "BV598-603",
+      "size": 1912,
+      "subject": "The Church"
+    },
+    {
+      "id": "BV770-777",
+      "size": 611,
+      "subject": "Church finance.  Church property"
+    },
+    {
+      "id": "BV700-707",
+      "size": 125,
+      "subject": "Parish.  Congregation.  The local church"
+    },
+    {
+      "id": "BV659-683",
+      "size": 941,
+      "subject": "Ministry.  Clergy.  Religious vocations"
+    },
+    {
+      "id": "BV900-1450",
+      "size": 58,
+      "subject": "Religious societies, associations, etc."
+    },
+    {
+      "id": "BV950-1280",
+      "size": 98,
+      "subject": "Religious societies of men, brotherhoods, etc."
+    },
+    {
+      "id": "BV1000-1220",
+      "size": 308,
+      "subject": "Young Men's Christian Associations"
+    },
+    {
+      "id": "BV1300-1395",
+      "size": 4,
+      "subject": "Religious societies of women"
+    },
+    {
+      "id": "BV1300-1393",
+      "size": 101,
+      "subject": "Young Women's Christian Associations"
+    },
+    {
+      "id": "BV637-637.5",
+      "size": 162,
+      "subject": "City churches"
+    },
+    {
+      "id": "BV1620-1652",
+      "size": 112,
+      "subject": "Social life, recreation, etc., in the church"
+    },
+    {
+      "id": "BV629-631",
+      "size": 336,
+      "subject": "Church and state"
+    },
+    {
+      "id": "BV652.95-657",
+      "size": 440,
+      "subject": "Mass media and telecommunication in religion"
+    },
+    {
+      "id": "BV895-896",
+      "size": 49,
+      "subject": "Shrines.  Holy places"
+    },
+    {
+      "id": "BV646-651",
+      "size": 144,
+      "subject": "Church polity"
+    },
+    {
+      "id": "BV638-638.8",
+      "size": 124,
+      "subject": "The rural church.  The church and country life"
+    },
+    {
+      "id": "BV4485-5099",
+      "size": 16368,
+      "subject": "Practical religion.  The Christian life"
+    },
+    {
+      "id": "BV4800-4897",
+      "size": 5431,
+      "subject": "Works of meditation and devotion"
+    },
+    {
+      "id": "BV4520-4526.2",
+      "size": 922,
+      "subject": "Religious duties"
+    },
+    {
+      "id": "BV4625-4780",
+      "size": 0,
+      "subject": "Moral theology"
+    },
+    {
+      "id": "BV4630-4647",
+      "size": 2673,
+      "subject": "Virtues"
+    },
+    {
+      "id": "BV4625-4627",
+      "size": 329,
+      "subject": "Sins and vices"
+    },
+    {
+      "id": "BV4650-4715",
+      "size": 392,
+      "subject": "Precepts from the Bible"
+    },
+    {
+      "id": "BV4720-4780",
+      "size": 176,
+      "subject": "Precepts of the Church.  Commandments of the Church"
+    },
+    {
+      "id": "BV4900-4911",
+      "size": 1837,
+      "subject": "Works of consolation and cheer"
+    },
+    {
+      "id": "BV5070-5095",
+      "size": 1782,
+      "subject": "Mysticism"
+    },
+    {
+      "id": "BV5015-5068",
+      "size": 340,
+      "subject": "Asceticism"
+    },
+    {
+      "id": "BV4912-4950",
+      "size": 618,
+      "subject": "Conversion literature"
+    },
+    {
+      "id": "BV5099",
+      "size": 15,
+      "subject": "Quietism"
+    },
+    {
+      "id": "BV5-530",
+      "size": 827,
+      "subject": "Worship (Public and private)"
+    },
+    {
+      "id": "BV30-135",
+      "size": 553,
+      "subject": "Times and seasons.  The Church year"
+    },
+    {
+      "id": "BV80-105",
+      "size": 482,
+      "subject": "Fasts"
+    },
+    {
+      "id": "BV107-133",
+      "size": 207,
+      "subject": "Lord's Day.  Sunday.  Sabbath"
+    },
+    {
+      "id": "BV43-64",
+      "size": 637,
+      "subject": "Feast days"
+    },
+    {
+      "id": "BV65-70",
+      "size": 1,
+      "subject": "Saints' days"
+    },
+    {
+      "id": "BV301-530",
+      "size": 480,
+      "subject": "Hymnology"
+    },
+    {
+      "id": "BV467-510",
+      "size": 556,
+      "subject": "Hymns in languages other than English"
+    },
+    {
+      "id": "BV360-465",
+      "size": 275,
+      "subject": "Denominational and special types of"
+    },
+    {
+      "id": "BV205-287",
+      "size": 4071,
+      "subject": "Prayer"
+    },
+    {
+      "id": "BV169-199",
+      "size": 1090,
+      "subject": "Liturgy and ritual"
+    },
+    {
+      "id": "BV150-168",
+      "size": 361,
+      "subject": "Christian symbols and symbolism"
+    },
+    {
+      "id": "BV200",
+      "size": 6,
+      "subject": "Family worship"
+    },
+    {
+      "id": "BJ",
+      "size": 0,
+      "subject": "Ethics"
+    },
+    {
+      "id": "BJ1801-2195",
+      "size": 1550,
+      "subject": "Social usages.  Etiquette"
+    },
+    {
+      "id": "BJ2021-2078",
+      "size": 321,
+      "subject": "Etiquette of entertaining"
+    },
+    {
+      "id": "BJ2139-2156",
+      "size": 5,
+      "subject": "Etiquette of travel"
+    },
+    {
+      "id": "BJ2195",
+      "size": 21,
+      "subject": "Telephone etiquette"
+    },
+    {
+      "id": "BJ1-1725",
+      "size": 5051,
+      "subject": "Ethics"
+    },
+    {
+      "id": "BJ1518-1697",
+      "size": 7959,
+      "subject": "Individual ethics.  Character.  Virtue"
+    },
+    {
+      "id": "BJ71-1185",
+      "size": 5028,
+      "subject": "History and general works"
+    },
+    {
+      "id": "BJ1188-1295",
+      "size": 4221,
+      "subject": "Religious ethics"
+    },
+    {
+      "id": "BJ1298-1335",
+      "size": 120,
+      "subject": "Evolutionary and genetic ethics"
+    },
+    {
+      "id": "BJ1725",
+      "size": 166,
+      "subject": "Ethics of social groups, classes, etc.  Professional ethics"
+    },
+    {
+      "id": "BJ1395",
+      "size": 50,
+      "subject": "Feminist ethics"
+    },
+    {
+      "id": "BJ1390-1390.5",
+      "size": 545,
+      "subject": "Communist ethics"
+    },
+    {
+      "id": "BJ1388",
+      "size": 44,
+      "subject": "Socialist ethics"
+    },
+    {
+      "id": "BJ1365-1385",
+      "size": 7,
+      "subject": "Positivist ethics"
+    },
+    {
+      "id": "BJ1392",
+      "size": 1,
+      "subject": "Totalitarian ethics"
+    },
+    {
+      "id": "BX",
+      "size": 0,
+      "subject": "Christian Denominations"
+    },
+    {
+      "id": "BX1-9999",
+      "size": 22,
+      "subject": "Christian Denominations"
+    },
+    {
+      "id": "BX4800-9999",
+      "size": 24,
+      "subject": "Protestantism"
+    },
+    {
+      "id": "BX6101-9999",
+      "size": 1565,
+      "subject": "Other Protestant denominations"
+    },
+    {
+      "id": "BX9401-9640",
+      "size": 2787,
+      "subject": "Reformed or Calvinistic Churches"
+    },
+    {
+      "id": "BX9901-9969",
+      "size": 325,
+      "subject": "Unviersalism.  Universalists"
+    },
+    {
+      "id": "BX7301-7343",
+      "size": 474,
+      "subject": "Disciples of Christ.  Campbellites"
+    },
+    {
+      "id": "BX8601-8695",
+      "size": 4164,
+      "subject": "Mormons.  Church of Jesus Christ of Latter-Day Saints"
+    },
+    {
+      "id": "BX7101-7260",
+      "size": 1806,
+      "subject": "Congregationalism"
+    },
+    {
+      "id": "BX6901-6997",
+      "size": 497,
+      "subject": "Christian Science"
+    },
+    {
+      "id": "BX8901-9225",
+      "size": 3373,
+      "subject": "Presbyterianism.  Calvinistic Methodism"
+    },
+    {
+      "id": "BX8201-8495",
+      "size": 4106,
+      "subject": "Methodism"
+    },
+    {
+      "id": "BX6201-6495",
+      "size": 71,
+      "subject": "Baptists"
+    },
+    {
+      "id": "BX6330-6331.2",
+      "size": 107,
+      "subject": "Doctrine"
+    },
+    {
+      "id": "BX6201-6227",
+      "size": 460,
+      "subject": "General"
+    },
+    {
+      "id": "BX6493-6495",
+      "size": 751,
+      "subject": "Biography"
+    },
+    {
+      "id": "BX6349-6470",
+      "size": 543,
+      "subject": "Individual branches"
+    },
+    {
+      "id": "BX6480-6490",
+      "size": 527,
+      "subject": "Individual Baptist churches"
+    },
+    {
+      "id": "BX6231-6328",
+      "size": 561,
+      "subject": "History.  Local divisions"
+    },
+    {
+      "id": "BX6333",
+      "size": 507,
+      "subject": "Sermons.  Tracts"
+    },
+    {
+      "id": "BX6335-6336",
+      "size": 22,
+      "subject": "Creeds.  Catechisms"
+    },
+    {
+      "id": "BX6340-6346.3",
+      "size": 62,
+      "subject": "Government.  Discipline"
+    },
+    {
+      "id": "BX6334",
+      "size": 7,
+      "subject": "Controversial works"
+    },
+    {
+      "id": "BX6329",
+      "size": 8,
+      "subject": "Baptists and other churches"
+    },
+    {
+      "id": "BX6337",
+      "size": 10,
+      "subject": "Service.  Ritual.  Liturgy"
+    },
+    {
+      "id": "BX6338-6339",
+      "size": 3,
+      "subject": "Sacraments"
+    },
+    {
+      "id": "BX7801-7843",
+      "size": 270,
+      "subject": "German Baptist Brethren.  Church of the Brethren."
+    },
+    {
+      "id": "BX9801-9869",
+      "size": 1049,
+      "subject": "Unitarianism"
+    },
+    {
+      "id": "BX8701-8749",
+      "size": 359,
+      "subject": "New Jerusalem Church.  New Church."
+    },
+    {
+      "id": "BX9701-9743",
+      "size": 249,
+      "subject": "Salvation Army"
+    },
+    {
+      "id": "BX9751-9793",
+      "size": 628,
+      "subject": "Shakers.  United Society of Believers.  Millennial Church"
+    },
+    {
+      "id": "BX8001-8080",
+      "size": 4996,
+      "subject": "Lutheran churches"
+    },
+    {
+      "id": "BX6101-6193",
+      "size": 986,
+      "subject": "Adventists.  \"Millerites\""
+    },
+    {
+      "id": "BX8101-8144",
+      "size": 967,
+      "subject": "Mennonites"
+    },
+    {
+      "id": "BX8762-8785",
+      "size": 483,
+      "subject": "Pentecostal churches"
+    },
+    {
+      "id": "BX7990",
+      "size": 240,
+      "subject": "Holiness churches"
+    },
+    {
+      "id": "BX7601-7795",
+      "size": 1420,
+      "subject": "Friends.  Society of Friends.  Quakers"
+    },
+    {
+      "id": "BX9301-9359",
+      "size": 320,
+      "subject": "Puritanism"
+    },
+    {
+      "id": "BX9884-9886",
+      "size": 183,
+      "subject": "United Church of Christ"
+    },
+    {
+      "id": "BX6801-6843",
+      "size": 62,
+      "subject": "Christian Reformed Church"
+    },
+    {
+      "id": "BX8525-8528",
+      "size": 305,
+      "subject": "Millennial Dawnists.  Jehovah's Witnesses"
+    },
+    {
+      "id": "BX7020-7060",
+      "size": 127,
+      "subject": "Church of God"
+    },
+    {
+      "id": "BX9999",
+      "size": 80,
+      "subject": "Independent churches, parishes, societies, etc."
+    },
+    {
+      "id": "BX8551-8593",
+      "size": 205,
+      "subject": "Moravian Church.  United Brethren.  Unitas"
+    },
+    {
+      "id": "BX9881-9882.95",
+      "size": 81,
+      "subject": "United Church of Canada"
+    },
+    {
+      "id": "BX6195-6197",
+      "size": 70,
+      "subject": "Arminians.  Remonstrants"
+    },
+    {
+      "id": "BX7580-7583",
+      "size": 18,
+      "subject": "Free Congregations (Germany).  Freie Gemeinden"
+    },
+    {
+      "id": "BX6551-6593",
+      "size": 22,
+      "subject": "Catholic Apostolic Church.  Irvingites"
+    },
+    {
+      "id": "BX9875-9877.1",
+      "size": 59,
+      "subject": "United Brethren in Christ.  Church of the United"
+    },
+    {
+      "id": "BX7079-7097",
+      "size": 81,
+      "subject": "Churches of God"
+    },
+    {
+      "id": "BX7901-7943",
+      "size": 20,
+      "subject": "German Evangelical Synod of North America"
+    },
+    {
+      "id": "BX6751-6793",
+      "size": 34,
+      "subject": "Christian Church"
+    },
+    {
+      "id": "BX9998",
+      "size": 63,
+      "subject": "Other beliefs and movements akin to Christianity"
+    },
+    {
+      "id": "BX7401-7430",
+      "size": 4,
+      "subject": "Dowieism.  Christian Catholic Church"
+    },
+    {
+      "id": "BX8799-8809",
+      "size": 47,
+      "subject": "Plymouth Brethren.  Darbyites"
+    },
+    {
+      "id": "BX7451-7493",
+      "size": 31,
+      "subject": "Evangelical and Reformed Church"
+    },
+    {
+      "id": "BX9675",
+      "size": 24,
+      "subject": "River Brethren.  Brethren in Christ"
+    },
+    {
+      "id": "BX7556",
+      "size": 24,
+      "subject": "Evangelical United Brethren Church"
+    },
+    {
+      "id": "BX9975",
+      "size": 3,
+      "subject": "Volunteers of America"
+    },
+    {
+      "id": "BX6651-6693",
+      "size": 9,
+      "subject": "Christadelphians.  Brothers of Christ"
+    },
+    {
+      "id": "BX9980",
+      "size": 7,
+      "subject": "Walloon Church"
+    },
+    {
+      "id": "BX5800-5995",
+      "size": 2176,
+      "subject": "Protestant Episcopal Church in the United States"
+    },
+    {
+      "id": "BX5011-5207",
+      "size": 221,
+      "subject": "Church of England"
+    },
+    {
+      "id": "BX5197-5199",
+      "size": 919,
+      "subject": "Biography"
+    },
+    {
+      "id": "BX5051-5110",
+      "size": 329,
+      "subject": "History.  Local divisions"
+    },
+    {
+      "id": "BX5115-5126",
+      "size": 79,
+      "subject": "Special parties and movements"
+    },
+    {
+      "id": "BX5140.5-5147",
+      "size": 342,
+      "subject": "Liturgy and ritual"
+    },
+    {
+      "id": "BX5200-5207",
+      "size": 192,
+      "subject": "Dissent and nonconformity"
+    },
+    {
+      "id": "BX5127-5129.8",
+      "size": 81,
+      "subject": "Church of England and other churches"
+    },
+    {
+      "id": "BX5135-5136",
+      "size": 19,
+      "subject": "Controversial works"
+    },
+    {
+      "id": "BX5133",
+      "size": 234,
+      "subject": "Sermons.  Tracts.  Addresses.  Essays"
+    },
+    {
+      "id": "BX5194-5195",
+      "size": 194,
+      "subject": "Cathedrals, churches, etc. in England and Wales"
+    },
+    {
+      "id": "BX5150-5182.5",
+      "size": 260,
+      "subject": "Government.  Organization.  Discipline"
+    },
+    {
+      "id": "BX5183-5187",
+      "size": 22,
+      "subject": "Religious communities.  Conventual life."
+    },
+    {
+      "id": "BX5148-5149",
+      "size": 97,
+      "subject": "Sacraments"
+    },
+    {
+      "id": "BX5130-5132",
+      "size": 132,
+      "subject": "General works"
+    },
+    {
+      "id": "BX5137-5139",
+      "size": 28,
+      "subject": "Creeds and catechisms, etc."
+    },
+    {
+      "id": "BX4929-4951",
+      "size": 0,
+      "subject": "Post-Reformation"
+    },
+    {
+      "id": "BX4929-4946",
+      "size": 301,
+      "subject": "Anabaptists"
+    },
+    {
+      "id": "BX4950-4951",
+      "size": 4,
+      "subject": "Plain People"
+    },
+    {
+      "id": "BX4800-4861",
+      "size": 3172,
+      "subject": "General"
+    },
+    {
+      "id": "BX4872-4924",
+      "size": 0,
+      "subject": "Pre-Reformation"
+    },
+    {
+      "id": "BX4872-4893",
+      "size": 284,
+      "subject": "Waldenses and Albigenses"
+    },
+    {
+      "id": "BX4913-4924",
+      "size": 190,
+      "subject": "Hussites"
+    },
+    {
+      "id": "BX4920-4924",
+      "size": 77,
+      "subject": "Bohemian Brethren"
+    },
+    {
+      "id": "BX4900-4906",
+      "size": 63,
+      "subject": "Lollards.  Wycliffites"
+    },
+    {
+      "id": "BX5001-5009",
+      "size": 182,
+      "subject": "Anglican Communion (General)"
+    },
+    {
+      "id": "BX5410-5595",
+      "size": 130,
+      "subject": "Church of Ireland"
+    },
+    {
+      "id": "BX5600-5740",
+      "size": 557,
+      "subject": "Church of England outside of Great Britain"
+    },
+    {
+      "id": "BX5601-5620",
+      "size": 158,
+      "subject": "Anglican Church of Canada"
+    },
+    {
+      "id": "BX5596-5598",
+      "size": 13,
+      "subject": "Church in Wales"
+    },
+    {
+      "id": "BX5210-5395",
+      "size": 45,
+      "subject": "Episcopal Church in Scotland"
+    },
+    {
+      "id": "BX6051-6093",
+      "size": 13,
+      "subject": "Reformed Episcopal Church"
+    },
+    {
+      "id": "BX5996-6030",
+      "size": 19,
+      "subject": "Protestant Episcopal Church outside the United States"
+    },
+    {
+      "id": "BX800-4795",
+      "size": 1539,
+      "subject": "Catholic Church"
+    },
+    {
+      "id": "BX4650-4705",
+      "size": 0,
+      "subject": "Biography and portraits"
+    },
+    {
+      "id": "BX4700-4705",
+      "size": 10875,
+      "subject": "Individual"
+    },
+    {
+      "id": "BX4700",
+      "size": 4928,
+      "subject": "Saints"
+    },
+    {
+      "id": "BX4650-4698",
+      "size": 993,
+      "subject": "Collective"
+    },
+    {
+      "id": "BX1958-1968",
+      "size": 566,
+      "subject": "Creeds and catechisms"
+    },
+    {
+      "id": "BX940-1745",
+      "size": 16345,
+      "subject": "History"
+    },
+    {
+      "id": "BX2400-4563",
+      "size": 3909,
+      "subject": "Monasticism.  Religious orders"
+    },
+    {
+      "id": "BX4200-4563",
+      "size": 1902,
+      "subject": "Religious orders of women"
+    },
+    {
+      "id": "BX2890-4192",
+      "size": 4232,
+      "subject": "Religious orders of men"
+    },
+    {
+      "id": "BX2347-2377",
+      "size": 4468,
+      "subject": "Practical religion.  Christian life"
+    },
+    {
+      "id": "BX1970-2175",
+      "size": 2344,
+      "subject": "Liturgy and ritual"
+    },
+    {
+      "id": "BX2050-2175",
+      "size": 1548,
+      "subject": "Prayers and devotions"
+    },
+    {
+      "id": "BX1746-1755",
+      "size": 3965,
+      "subject": "Theology.  Doctrine.  Dogmatics"
+    },
+    {
+      "id": "BX2200-2292",
+      "size": 2174,
+      "subject": "Sacraments"
+    },
+    {
+      "id": "BX2177-2198",
+      "size": 1496,
+      "subject": "Meditations.  Devotional readings.  Spiritual exercises, etc."
+    },
+    {
+      "id": "BX1800-1920",
+      "size": 2200,
+      "subject": "Government and organization"
+    },
+    {
+      "id": "BX4600-4644",
+      "size": 1601,
+      "subject": "Churches, cathedrals, abbeys (as parish churches), etc."
+    },
+    {
+      "id": "BX2315-2324",
+      "size": 746,
+      "subject": "Relics.  Shrines.  Pilgrimages.  Processions"
+    },
+    {
+      "id": "BX1969",
+      "size": 30,
+      "subject": "Forms of worship.  Catholic practice"
+    },
+    {
+      "id": "BX800-839",
+      "size": 2327,
+      "subject": "Periodicals.  Societies, councils, congresses, etc."
+    },
+    {
+      "id": "BX4654-4662",
+      "size": 1215,
+      "subject": "Saints and martyrs"
+    },
+    {
+      "id": "BX895-939",
+      "size": 869,
+      "subject": "Study and teaching"
+    },
+    {
+      "id": "BX2325-2333",
+      "size": 140,
+      "subject": "Saints.  Hagiology"
+    },
+    {
+      "id": "BX880-891",
+      "size": 848,
+      "subject": "General collected works"
+    },
+    {
+      "id": "BX1756",
+      "size": 812,
+      "subject": "Sermons"
+    },
+    {
+      "id": "BX2380-2386",
+      "size": 181,
+      "subject": "Religious life.  Religious state"
+    },
+    {
+      "id": "BX841",
+      "size": 98,
+      "subject": "Dictionaries.  Encyclopedias"
+    },
+    {
+      "id": "BX2295-2310",
+      "size": 70,
+      "subject": "Sacramentals"
+    },
+    {
+      "id": "BX1781-1788",
+      "size": 144,
+      "subject": "Catholic Church and other churches"
+    },
+    {
+      "id": "BX4710.1-4715.95",
+      "size": 814,
+      "subject": "Eastern churches in communion with Rome."
+    },
+    {
+      "id": "BX1760-1779.5",
+      "size": 614,
+      "subject": "Controversial works"
+    },
+    {
+      "id": "BX4716.4-4795",
+      "size": 9,
+      "subject": "Dissenting sects other than Protestant"
+    },
+    {
+      "id": "BX4751-4793",
+      "size": 75,
+      "subject": "Old Catholics"
+    },
+    {
+      "id": "BX4718.5-4735",
+      "size": 234,
+      "subject": "Jansenists"
+    },
+    {
+      "id": "BX4795",
+      "size": 63,
+      "subject": "Other"
+    },
+    {
+      "id": "BX4740",
+      "size": 2,
+      "subject": "German Catholics"
+    },
+    {
+      "id": "BX4793.5-4794.25",
+      "size": 14,
+      "subject": "Independent Catholic Churches"
+    },
+    {
+      "id": "BX4737",
+      "size": 2,
+      "subject": "French schisms of the 19th century"
+    },
+    {
+      "id": "BX850-875",
+      "size": 199,
+      "subject": "Documents"
+    },
+    {
+      "id": "BX1790-1793",
+      "size": 377,
+      "subject": "Catholic Church and the state"
+    },
+    {
+      "id": "BX845",
+      "size": 16,
+      "subject": "Directories.  Yearbooks"
+    },
+    {
+      "id": "BX2312",
+      "size": 6,
+      "subject": "Images"
+    },
+    {
+      "id": "BX200-756",
+      "size": 0,
+      "subject": "Orthodox Eastern Church"
+    },
+    {
+      "id": "BX200-395",
+      "size": 2998,
+      "subject": "General"
+    },
+    {
+      "id": "BX400-756",
+      "size": 14,
+      "subject": "Divisions of the church"
+    },
+    {
+      "id": "BX460-605",
+      "size": 3355,
+      "subject": "Russian Church"
+    },
+    {
+      "id": "BX729.9-755",
+      "size": 404,
+      "subject": "Orthodox Church in other regions or countries"
+    },
+    {
+      "id": "BX610-620",
+      "size": 274,
+      "subject": "Church of Greece"
+    },
+    {
+      "id": "BX690-699",
+      "size": 164,
+      "subject": "Romanian Church"
+    },
+    {
+      "id": "BX400-440",
+      "size": 114,
+      "subject": "Patriarchates of the East.  Melchites"
+    },
+    {
+      "id": "BX650-659",
+      "size": 243,
+      "subject": "Bulgarian Church"
+    },
+    {
+      "id": "BX729.5",
+      "size": 143,
+      "subject": "Orthodox Eastern Church, Ukrainian"
+    },
+    {
+      "id": "BX450-450.93",
+      "size": 92,
+      "subject": "Church of Cyprus"
+    },
+    {
+      "id": "BX710-719",
+      "size": 413,
+      "subject": "Serbian Church.  Yugoslav Church"
+    },
+    {
+      "id": "BX660-669",
+      "size": 188,
+      "subject": "Georgian Church"
+    },
+    {
+      "id": "BX720-729",
+      "size": 47,
+      "subject": "Orthodox Eastern Church, Macedonian"
+    },
+    {
+      "id": "BX630-639",
+      "size": 5,
+      "subject": "Orthodox Church in Austria and Hungary"
+    },
+    {
+      "id": "BX670-679",
+      "size": 1,
+      "subject": "Montenegrin Church"
+    },
+    {
+      "id": "BX1-9.5",
+      "size": 1423,
+      "subject": "Church unity.  Ecumenical movement."
+    },
+    {
+      "id": "BX100-189",
+      "size": 3,
+      "subject": "Eastern churches.  Oriental churches"
+    },
+    {
+      "id": "BX120-129",
+      "size": 932,
+      "subject": "Armenian Church"
+    },
+    {
+      "id": "BX130-139",
+      "size": 430,
+      "subject": "Coptic Church"
+    },
+    {
+      "id": "BX100-107",
+      "size": 251,
+      "subject": "General"
+    },
+    {
+      "id": "BX160-169",
+      "size": 126,
+      "subject": "St. Thomas Christians.  Malabar Christians."
+    },
+    {
+      "id": "BX170-179",
+      "size": 129,
+      "subject": "Syrian or Jacobite Church"
+    },
+    {
+      "id": "BX150-159",
+      "size": 128,
+      "subject": "Nestorian, Chaldean, or East Syrian Church"
+    },
+    {
+      "id": "BX140-149",
+      "size": 167,
+      "subject": "Ethiopic or Abyssinian Church"
+    },
+    {
+      "id": "BX180-189",
+      "size": 51,
+      "subject": "Maronite Church"
+    },
+    {
+      "id": "BF",
+      "size": 0,
+      "subject": "Psychology"
+    },
+    {
+      "id": "BF1-990",
+      "size": 11531,
+      "subject": "Psychology"
+    },
+    {
+      "id": "BF638-648",
+      "size": 674,
+      "subject": "New Thought.  Menticulture, etc."
+    },
+    {
+      "id": "BF908-940",
+      "size": 312,
+      "subject": "The hand.  Palmistry"
+    },
+    {
+      "id": "BF309-499",
+      "size": 11938,
+      "subject": "Consciousness.  Cognition"
+    },
+    {
+      "id": "BF712-724.85",
+      "size": 8141,
+      "subject": "Developmental psychology"
+    },
+    {
+      "id": "BF231-299",
+      "size": 1183,
+      "subject": "Sensation.  Aesthesiology"
+    },
+    {
+      "id": "BF511-593",
+      "size": 6648,
+      "subject": "Affection.  Feeling.  Emotion"
+    },
+    {
+      "id": "BF697-697.5",
+      "size": 1597,
+      "subject": "Differential psychology.  Individuality.  Self"
+    },
+    {
+      "id": "BF636-637",
+      "size": 8311,
+      "subject": "Applied psychology"
+    },
+    {
+      "id": "BF698-698.9",
+      "size": 2977,
+      "subject": "Personality"
+    },
+    {
+      "id": "BF173-175.5",
+      "size": 4987,
+      "subject": "Psychoanalysis"
+    },
+    {
+      "id": "BF699-711",
+      "size": 371,
+      "subject": "Genetic psychology"
+    },
+    {
+      "id": "BF38-64",
+      "size": 1780,
+      "subject": "Philosophy.  Relation to other topics"
+    },
+    {
+      "id": "BF608-635",
+      "size": 637,
+      "subject": "Will.  Volition.  Choice.  Control"
+    },
+    {
+      "id": "BF660-685",
+      "size": 382,
+      "subject": "Comparative psychology.  Animal and human psychology"
+    },
+    {
+      "id": "BF501-505",
+      "size": 422,
+      "subject": "Motivation"
+    },
+    {
+      "id": "BF207-209",
+      "size": 150,
+      "subject": "Psychotropic drugs and other substances"
+    },
+    {
+      "id": "BF180-198.7",
+      "size": 386,
+      "subject": "Experimental psychology"
+    },
+    {
+      "id": "BF176-176.5",
+      "size": 306,
+      "subject": "Psychological tests and testing"
+    },
+    {
+      "id": "BF692-692.5",
+      "size": 724,
+      "subject": "Psychology of sex.  Sexual behavior"
+    },
+    {
+      "id": "BF795-839",
+      "size": 317,
+      "subject": "Temperament.  Character"
+    },
+    {
+      "id": "BF839.8-885",
+      "size": 384,
+      "subject": "Physiognomy.  Phrenology"
+    },
+    {
+      "id": "BF889-905",
+      "size": 437,
+      "subject": "Graphology.  Study of handwriting"
+    },
+    {
+      "id": "BF725-727",
+      "size": 27,
+      "subject": "Class psychology"
+    },
+    {
+      "id": "BF203",
+      "size": 78,
+      "subject": "Gestalt psychology"
+    },
+    {
+      "id": "BF1001-1389",
+      "size": 53,
+      "subject": "Parapsychology"
+    },
+    {
+      "id": "BF1228-1389",
+      "size": 3472,
+      "subject": "Spiritualism"
+    },
+    {
+      "id": "BF1111-1156",
+      "size": 660,
+      "subject": "Hypnotism.  Suggestion.  Mesmerism.  Subliminal projection"
+    },
+    {
+      "id": "BF1001-1045",
+      "size": 3024,
+      "subject": "Psychic research.  Psychology of the conscious"
+    },
+    {
+      "id": "BF1048-1108",
+      "size": 1446,
+      "subject": "Hallucinations.  Sleep.  Dreaming.  Visions"
+    },
+    {
+      "id": "BF1161-1171",
+      "size": 141,
+      "subject": "Telepathy.  Mind reading.  Thought transference"
+    },
+    {
+      "id": "BF1404-2055",
+      "size": 3164,
+      "subject": "Occult sciences"
+    },
+    {
+      "id": "BF1585-1623",
+      "size": 2748,
+      "subject": "Magic.  Hermetics.  Necromancy"
+    },
+    {
+      "id": "BF1562.5-1584",
+      "size": 1730,
+      "subject": "Witchcraft"
+    },
+    {
+      "id": "BF1444-1486",
+      "size": 1790,
+      "subject": "Ghosts.  Apparitions.  Hauntings"
+    },
+    {
+      "id": "BF1651-1729",
+      "size": 3851,
+      "subject": "Astrology"
+    },
+    {
+      "id": "BF2050-2055",
+      "size": 184,
+      "subject": "Human-alien encounters.  Contact between humans and"
+    },
+    {
+      "id": "BF1745-1779",
+      "size": 1541,
+      "subject": "Oracles.  Sibyls.  Divinations"
+    },
+    {
+      "id": "BF1845-1891",
+      "size": 1122,
+      "subject": "Fortune-telling"
+    },
+    {
+      "id": "BF1783-1815",
+      "size": 528,
+      "subject": "Seers.  Prophets.  Prophecies"
+    },
+    {
+      "id": "BF1501-1562",
+      "size": 775,
+      "subject": "Demonology.  Satanism.  Possession"
+    },
+    {
+      "id": "BS",
+      "size": 0,
+      "subject": "The Bible"
+    },
+    {
+      "id": "BS1-2970",
+      "size": 446,
+      "subject": "The Bible"
+    },
+    {
+      "id": "BS125-355",
+      "size": 1,
+      "subject": "Modern texts and versions"
+    },
+    {
+      "id": "BS315-355",
+      "size": 0,
+      "subject": "Non-European languages"
+    },
+    {
+      "id": "BS345",
+      "size": 146,
+      "subject": "American Indian languages"
+    },
+    {
+      "id": "BS335",
+      "size": 246,
+      "subject": "Languages of Oceania and Australasia"
+    },
+    {
+      "id": "BS315",
+      "size": 589,
+      "subject": "Asian languages"
+    },
+    {
+      "id": "BS325",
+      "size": 160,
+      "subject": "African languages"
+    },
+    {
+      "id": "BS355",
+      "size": 4,
+      "subject": "Artificial languages"
+    },
+    {
+      "id": "BS350",
+      "size": 5,
+      "subject": "Mixed languages"
+    },
+    {
+      "id": "BS125-198",
+      "size": 1427,
+      "subject": "English"
+    },
+    {
+      "id": "BS199-313",
+      "size": 455,
+      "subject": "Other European languages"
+    },
+    {
+      "id": "BS410-680",
+      "size": 8797,
+      "subject": "Works about the Bible"
+    },
+    {
+      "id": "BS585-613",
+      "size": 1045,
+      "subject": "Study and teaching"
+    },
+    {
+      "id": "BS569-580",
+      "size": 1024,
+      "subject": "Men, women, and children of the Bible"
+    },
+    {
+      "id": "BS580",
+      "size": 2042,
+      "subject": "Individual Old Testament characters"
+    },
+    {
+      "id": "BS546-558",
+      "size": 1464,
+      "subject": "Bible stories.  Paraphrases of Bible stories."
+    },
+    {
+      "id": "BS500-534.8",
+      "size": 1802,
+      "subject": "Criticism and interpretation"
+    },
+    {
+      "id": "BS647-649",
+      "size": 785,
+      "subject": "Prophecy"
+    },
+    {
+      "id": "BS650-667",
+      "size": 1371,
+      "subject": "Bible and science"
+    },
+    {
+      "id": "BS535-537",
+      "size": 211,
+      "subject": "The Bible as literature"
+    },
+    {
+      "id": "BS670-672",
+      "size": 85,
+      "subject": "Bible and social sciences"
+    },
+    {
+      "id": "BS701-1830",
+      "size": 4,
+      "subject": "Old Testament"
+    },
+    {
+      "id": "BS1200-1830",
+      "size": 16852,
+      "subject": "Special parts of the Old Testament"
+    },
+    {
+      "id": "BS1110-1199",
+      "size": 3316,
+      "subject": "Works about the Old Testament"
+    },
+    {
+      "id": "BS1160-1191.5",
+      "size": 1380,
+      "subject": "Criticism and interpretation"
+    },
+    {
+      "id": "BS705-815",
+      "size": 405,
+      "subject": "Early versions"
+    },
+    {
+      "id": "BS1091-1099",
+      "size": 75,
+      "subject": "Selections.  Quotations"
+    },
+    {
+      "id": "BS825-1013",
+      "size": 117,
+      "subject": "Modern texts and versions"
+    },
+    {
+      "id": "BS1901-2970",
+      "size": 14,
+      "subject": "New Testament"
+    },
+    {
+      "id": "BS2280-2545",
+      "size": 2395,
+      "subject": "Works about the New Testament"
+    },
+    {
+      "id": "BS2430-2520",
+      "size": 1751,
+      "subject": "Men, women, and children of the New Testament"
+    },
+    {
+      "id": "BS2350-2393",
+      "size": 853,
+      "subject": "Criticism and interpretation"
+    },
+    {
+      "id": "BS2415-2417",
+      "size": 492,
+      "subject": "The teachings of Jesus"
+    },
+    {
+      "id": "BS2525-2544",
+      "size": 90,
+      "subject": "Study and teaching"
+    },
+    {
+      "id": "BS2547-2970",
+      "size": 9265,
+      "subject": "Special parts of the New Testament"
+    },
+    {
+      "id": "BS2640-2765.6",
+      "size": 4129,
+      "subject": "Epistles of Paul"
+    },
+    {
+      "id": "BS1937-2020",
+      "size": 227,
+      "subject": "Early texts and versions"
+    },
+    {
+      "id": "BS2025-2213",
+      "size": 549,
+      "subject": "Modern texts and versions"
+    },
+    {
+      "id": "BS2260-2269",
+      "size": 35,
+      "subject": "Selections.  Quotations"
+    },
+    {
+      "id": "BS11-115",
+      "size": 201,
+      "subject": "Early versions"
+    },
+    {
+      "id": "BT",
+      "size": 0,
+      "subject": "Doctrinal Theology"
+    },
+    {
+      "id": "BT10-1480",
+      "size": 5520,
+      "subject": "Doctrinal Theology"
+    },
+    {
+      "id": "BT819-891",
+      "size": 2173,
+      "subject": "Eschatology.  Last things"
+    },
+    {
+      "id": "BT198-590",
+      "size": 4174,
+      "subject": "Christology"
+    },
+    {
+      "id": "BT296-500",
+      "size": 7010,
+      "subject": "Life of Christ"
+    },
+    {
+      "id": "BT587",
+      "size": 190,
+      "subject": "Relics"
+    },
+    {
+      "id": "BT580",
+      "size": 81,
+      "subject": "Miracles.  Apparitions.  Shrines, sanctuaries,"
+    },
+    {
+      "id": "BT750-811",
+      "size": 3076,
+      "subject": "Salvation.  Soteriology"
+    },
+    {
+      "id": "BT98-180",
+      "size": 2667,
+      "subject": "God"
+    },
+    {
+      "id": "BT117-123",
+      "size": 1083,
+      "subject": "Holy Spirit.  The Paraclete"
+    },
+    {
+      "id": "BT130-153",
+      "size": 902,
+      "subject": "Divine attributes"
+    },
+    {
+      "id": "BT109-115",
+      "size": 584,
+      "subject": "Doctrine of the Trinity"
+    },
+    {
+      "id": "BT126-127.5",
+      "size": 251,
+      "subject": "Revelation"
+    },
+    {
+      "id": "BT990-1010",
+      "size": 392,
+      "subject": "Creeds, confessions, covenants, etc."
+    },
+    {
+      "id": "BT899-940",
+      "size": 503,
+      "subject": "Future state.  Future life"
+    },
+    {
+      "id": "BT1095-1255",
+      "size": 1522,
+      "subject": "Apologetics.  Evidences of Christianity"
+    },
+    {
+      "id": "BT695-749",
+      "size": 6734,
+      "subject": "Creation"
+    },
+    {
+      "id": "BT595-680",
+      "size": 1274,
+      "subject": "Mary, Mother of Jesus Christ.  Mariology"
+    },
+    {
+      "id": "BT650-660",
+      "size": 1165,
+      "subject": "Miracles.  Apparitions.  Shrines, sanctuaries,"
+    },
+    {
+      "id": "BT960-985",
+      "size": 724,
+      "subject": "Invisible world (saints, demons, etc.)"
+    },
+    {
+      "id": "BT95-97.2",
+      "size": 356,
+      "subject": "Divine law.  Moral government"
+    },
+    {
+      "id": "BT19-37",
+      "size": 1409,
+      "subject": "Doctrine and dogma"
+    },
+    {
+      "id": "BT93-93.6",
+      "size": 145,
+      "subject": "Judaism"
+    },
+    {
+      "id": "BT1313-1480",
+      "size": 1138,
+      "subject": "History of specific doctrines and movements."
+    },
+    {
+      "id": "BT1029-1040",
+      "size": 51,
+      "subject": "Catechisms"
+    },
+    {
+      "id": "B1-5802",
+      "size": 9304,
+      "subject": "Philosophy (General)"
+    },
+    {
+      "id": "B108-5802",
+      "size": 1,
+      "subject": "By period"
+    },
+    {
+      "id": "B790-5802",
+      "size": 2447,
+      "subject": "Modern"
+    },
+    {
+      "id": "B850-5739",
+      "size": 42692,
+      "subject": "By region or country"
+    },
+    {
+      "id": "B808-849",
+      "size": 8660,
+      "subject": "Special topics and schools of philosophy"
+    },
+    {
+      "id": "B5800-5802",
+      "size": 74,
+      "subject": "By religion"
+    },
+    {
+      "id": "B108-708",
+      "size": 15950,
+      "subject": "Ancient"
+    },
+    {
+      "id": "B720-765",
+      "size": 4624,
+      "subject": "Medieval"
+    },
+    {
+      "id": "B770-785",
+      "size": 1414,
+      "subject": "Renaissance"
+    },
+    {
+      "id": "B69-99",
+      "size": 2307,
+      "subject": "General works"
+    },
+    {
+      "id": "BR",
+      "size": 0,
+      "subject": "Christianity"
+    },
+    {
+      "id": "BR1-1725",
+      "size": 10542,
+      "subject": "Christianity"
+    },
+    {
+      "id": "BR140-1510",
+      "size": 1303,
+      "subject": "History"
+    },
+    {
+      "id": "BR160-481",
+      "size": 1,
+      "subject": "By period"
+    },
+    {
+      "id": "BR290-481",
+      "size": 2746,
+      "subject": "Modern period"
+    },
+    {
+      "id": "BR323.5-334.2",
+      "size": 1317,
+      "subject": "Luther, Martin"
+    },
+    {
+      "id": "BR160-275",
+      "size": 1953,
+      "subject": "Early and medieval"
+    },
+    {
+      "id": "BR280",
+      "size": 10,
+      "subject": "Renaissance.  Renaissance and Reformation"
+    },
+    {
+      "id": "BR500-1510",
+      "size": 12410,
+      "subject": "By region or country"
+    },
+    {
+      "id": "BR60-67",
+      "size": 3643,
+      "subject": "Early Christian literature.  Fathers of the Church, etc."
+    },
+    {
+      "id": "BR115",
+      "size": 5050,
+      "subject": "Christianity in relation to special subjects"
+    },
+    {
+      "id": "BR1690-1725",
+      "size": 3426,
+      "subject": "Biography"
+    },
+    {
+      "id": "BR1600-1609",
+      "size": 566,
+      "subject": "Persecution.  Martyrs"
+    },
+    {
+      "id": "BR1610",
+      "size": 133,
+      "subject": "Tolerance and toleration"
+    },
+    {
+      "id": "BR130-133.5",
+      "size": 278,
+      "subject": "Christian antiquities.  Archaeology.  Museums"
+    },
+    {
+      "id": "BR1615-1617",
+      "size": 93,
+      "subject": "Liberalism"
+    },
+    {
+      "id": "BR1620",
+      "size": 3,
+      "subject": "Sacrilege (History)"
+    },
+    {
+      "id": "BR1609.5",
+      "size": 3,
+      "subject": "Dissent"
+    },
+    {
+      "id": "BL",
+      "size": 0,
+      "subject": "Religions.  Mythology.  Rationalism"
+    },
+    {
+      "id": "BL1-2790",
+      "size": 318,
+      "subject": "Religions.  Mythology.  Rationalism"
+    },
+    {
+      "id": "BL1-50",
+      "size": 3000,
+      "subject": "Religion (General)"
+    },
+    {
+      "id": "BL500-547",
+      "size": 969,
+      "subject": "Eschatology"
+    },
+    {
+      "id": "BL2700-2790",
+      "size": 2406,
+      "subject": "Rationalism"
+    },
+    {
+      "id": "BL175-265",
+      "size": 170,
+      "subject": "Natural theology"
+    },
+    {
+      "id": "BL239-265",
+      "size": 2071,
+      "subject": "Religion and science"
+    },
+    {
+      "id": "BL205-216",
+      "size": 121,
+      "subject": "Nature and attributes of Deity"
+    },
+    {
+      "id": "BL175-190",
+      "size": 210,
+      "subject": "General"
+    },
+    {
+      "id": "BL200",
+      "size": 102,
+      "subject": "Theism"
+    },
+    {
+      "id": "BL224-227",
+      "size": 143,
+      "subject": "Creation.  Theory of the earth"
+    },
+    {
+      "id": "BL221",
+      "size": 84,
+      "subject": "Monotheism"
+    },
+    {
+      "id": "BL220",
+      "size": 31,
+      "subject": "Pantheism"
+    },
+    {
+      "id": "BL218",
+      "size": 10,
+      "subject": "Dualism"
+    },
+    {
+      "id": "BL217",
+      "size": 10,
+      "subject": "Polytheism"
+    },
+    {
+      "id": "BL74-99",
+      "size": 1907,
+      "subject": "Religions of the world"
+    },
+    {
+      "id": "BL660-2680",
+      "size": 4,
+      "subject": "History and principles of religions"
+    },
+    {
+      "id": "BL2390-2490",
+      "size": 1174,
+      "subject": "African"
+    },
+    {
+      "id": "BL2420-2460",
+      "size": 644,
+      "subject": "Egyptian"
+    },
+    {
+      "id": "BL2500-2592",
+      "size": 1982,
+      "subject": "American"
+    },
+    {
+      "id": "BL1000-2370",
+      "size": 426,
+      "subject": "Asian.  Oriental"
+    },
+    {
+      "id": "BL1100-1710",
+      "size": 855,
+      "subject": "By religion"
+    },
+    {
+      "id": "BL1111-1143.2",
+      "size": 1524,
+      "subject": "Sacred books.  Sources"
+    },
+    {
+      "id": "BL1140.2-1140.4",
+      "size": 802,
+      "subject": "Purān.as"
+    },
+    {
+      "id": "BL1112.2-1137.5",
+      "size": 2428,
+      "subject": "Vedic texts"
+    },
+    {
+      "id": "BL1141.2-1142.6",
+      "size": 259,
+      "subject": "Tantric texts"
+    },
+    {
+      "id": "BL1100-1295",
+      "size": 6270,
+      "subject": "Hinduism"
+    },
+    {
+      "id": "BL1225.2-1243.58",
+      "size": 2473,
+      "subject": "Religious life"
+    },
+    {
+      "id": "BL1216-1225",
+      "size": 2178,
+      "subject": "Hindu pantheon.  Deities"
+    },
+    {
+      "id": "BL1500-1590",
+      "size": 557,
+      "subject": "Zoroastrianism (Mazdeism).  Parseeism"
+    },
+    {
+      "id": "BL1271.2-1295",
+      "size": 0,
+      "subject": "Modifications.  Sects"
+    },
+    {
+      "id": "BL1284.5-1289.592",
+      "size": 877,
+      "subject": "Vaishnavism"
+    },
+    {
+      "id": "BL1300-1380",
+      "size": 1053,
+      "subject": "Jainism"
+    },
+    {
+      "id": "BL1376-1378.85",
+      "size": 329,
+      "subject": "Forms of worship"
+    },
+    {
+      "id": "BL1310-1314.2",
+      "size": 293,
+      "subject": "Sacred books.  Sources"
+    },
+    {
+      "id": "BL1315-1317",
+      "size": 102,
+      "subject": "Jain literature"
+    },
+    {
+      "id": "BL1379-1380",
+      "size": 67,
+      "subject": "Modifications, etc."
+    },
+    {
+      "id": "BL1375.3-1375.7",
+      "size": 8,
+      "subject": "Jaina pantheon.  Deities"
+    },
+    {
+      "id": "BL1212.32-1215",
+      "size": 989,
+      "subject": "Doctrines.  Theology"
+    },
+    {
+      "id": "BL1600-1695",
+      "size": 2,
+      "subject": "Semitic religions"
+    },
+    {
+      "id": "BL1640-1645",
+      "size": 37,
+      "subject": "Syrian.  Palestinian.  Samaritan"
+    },
+    {
+      "id": "BL1620-1625",
+      "size": 99,
+      "subject": "Assyro-Babylonian"
+    },
+    {
+      "id": "BL1695",
+      "size": 49,
+      "subject": "Druses"
+    },
+    {
+      "id": "BL1670-1672",
+      "size": 34,
+      "subject": "Canaanite"
+    },
+    {
+      "id": "BL1600-1605",
+      "size": 98,
+      "subject": "General"
+    },
+    {
+      "id": "BL1680-1685",
+      "size": 30,
+      "subject": "Arabian (except Islam)"
+    },
+    {
+      "id": "BL1650",
+      "size": 4,
+      "subject": "Hebrew"
+    },
+    {
+      "id": "BL1615-1616",
+      "size": 37,
+      "subject": "Sumerian"
+    },
+    {
+      "id": "BL1660-1665",
+      "size": 21,
+      "subject": "Phoenician.  Carthaginian, etc."
+    },
+    {
+      "id": "BL1630",
+      "size": 1,
+      "subject": "Chaldean"
+    },
+    {
+      "id": "BL1610",
+      "size": 1,
+      "subject": "Aramean"
+    },
+    {
+      "id": "BL1635",
+      "size": 3,
+      "subject": "Harranian.  Pseudo-Sabian"
+    },
+    {
+      "id": "BL1153.7-1168",
+      "size": 219,
+      "subject": "By region or country"
+    },
+    {
+      "id": "BL1100-1107.5",
+      "size": 189,
+      "subject": "General"
+    },
+    {
+      "id": "BL1595",
+      "size": 62,
+      "subject": "Yezidis"
+    },
+    {
+      "id": "BL1145-1146",
+      "size": 188,
+      "subject": "Hindu literature"
+    },
+    {
+      "id": "BL1108.2-1108.7",
+      "size": 16,
+      "subject": "Religious education"
+    },
+    {
+      "id": "BL1109.2-1109.7",
+      "size": 4,
+      "subject": "Antiquities.  Archaeology.  Inscriptions"
+    },
+    {
+      "id": "BL1750-2350",
+      "size": 1197,
+      "subject": "By region or country"
+    },
+    {
+      "id": "BL1790-1975",
+      "size": 1416,
+      "subject": "China"
+    },
+    {
+      "id": "BL1830-1883",
+      "size": 348,
+      "subject": "Confucianism"
+    },
+    {
+      "id": "BL1899-1942.85",
+      "size": 2059,
+      "subject": "Taoism"
+    },
+    {
+      "id": "BL2000-2032",
+      "size": 1261,
+      "subject": "India"
+    },
+    {
+      "id": "BL2017-2018.7",
+      "size": 1790,
+      "subject": "Sikhism"
+    },
+    {
+      "id": "BL2195-2228",
+      "size": 1482,
+      "subject": "Japan"
+    },
+    {
+      "id": "BL2216-2227.8",
+      "size": 1520,
+      "subject": "Shinto"
+    },
+    {
+      "id": "BL2230-2240",
+      "size": 806,
+      "subject": "Korea"
+    },
+    {
+      "id": "BL1000-1035",
+      "size": 224,
+      "subject": "General"
+    },
+    {
+      "id": "BL1055",
+      "size": 120,
+      "subject": "Southern and Eastern Asia"
+    },
+    {
+      "id": "BL1060",
+      "size": 114,
+      "subject": "Southwestern Asia.  Asia Minor.  Levant"
+    },
+    {
+      "id": "BL1050",
+      "size": 19,
+      "subject": "Northern and Central Asia"
+    },
+    {
+      "id": "BL689-980",
+      "size": 139,
+      "subject": "European.  Occidental"
+    },
+    {
+      "id": "BL900-980",
+      "size": 1685,
+      "subject": "Other European"
+    },
+    {
+      "id": "BL700-820",
+      "size": 2711,
+      "subject": "Classical (Etruscan, Greek, Roman)"
+    },
+    {
+      "id": "BL830-875",
+      "size": 405,
+      "subject": "Germanic and Norse"
+    },
+    {
+      "id": "BL2600-2630",
+      "size": 248,
+      "subject": "Pacific Ocean islands.  Oceania"
+    },
+    {
+      "id": "BL2670",
+      "size": 9,
+      "subject": "Arctic regions"
+    },
+    {
+      "id": "BL660",
+      "size": 88,
+      "subject": "Indo-European.  Aryan"
+    },
+    {
+      "id": "BL687",
+      "size": 37,
+      "subject": "Mediterranean region"
+    },
+    {
+      "id": "BL685",
+      "size": 9,
+      "subject": "Ural-Altaic"
+    },
+    {
+      "id": "BL425-490",
+      "size": 48,
+      "subject": "Religious doctrines (General)"
+    },
+    {
+      "id": "BL435-457",
+      "size": 333,
+      "subject": "Nature worship"
+    },
+    {
+      "id": "BL473-490",
+      "size": 831,
+      "subject": "Other"
+    },
+    {
+      "id": "BL458",
+      "size": 248,
+      "subject": "Women in comparative religion"
+    },
+    {
+      "id": "BL465-470",
+      "size": 61,
+      "subject": "Worship of human beings"
+    },
+    {
+      "id": "BL460",
+      "size": 51,
+      "subject": "Sex worship.  Phallicism"
+    },
+    {
+      "id": "BL430",
+      "size": 88,
+      "subject": "Origins of religion"
+    },
+    {
+      "id": "BL624-629.5",
+      "size": 3533,
+      "subject": "Religious life"
+    },
+    {
+      "id": "BL71.5-73",
+      "size": 418,
+      "subject": "Biography"
+    },
+    {
+      "id": "BL550-619",
+      "size": 1233,
+      "subject": "Worship.  Cultus"
+    },
+    {
+      "id": "BL300-325",
+      "size": 1492,
+      "subject": "The myth.  Comparative mythology"
+    },
+    {
+      "id": "BL51-65",
+      "size": 6239,
+      "subject": "Philosophy of religion.  Psychology of religion.  Religion"
+    },
+    {
+      "id": "BL290",
+      "size": 49,
+      "subject": "The soul"
+    },
+    {
+      "id": "BL350-385",
+      "size": 14,
+      "subject": "Classification of religions"
+    },
+    {
+      "id": "BL410",
+      "size": 199,
+      "subject": "Religions in relation to one another"
+    },
+    {
+      "id": "BL70-71",
+      "size": 116,
+      "subject": "Sacred books (General)"
+    },
+    {
+      "id": "BL630-632.5",
+      "size": 51,
+      "subject": "Religious organization"
+    },
+    {
+      "id": "BL270",
+      "size": 1,
+      "subject": "Unity and plurality"
+    },
+    {
+      "id": "BP",
+      "size": 0,
+      "subject": "Islam.  Bahai Faith.  Theosophy, etc."
+    },
+    {
+      "id": "BP1-610",
+      "size": 8,
+      "subject": "Islam.  Bahai Faith.  Theosophy, etc."
+    },
+    {
+      "id": "BP300-395",
+      "size": 1094,
+      "subject": "Bahai Faith"
+    },
+    {
+      "id": "BP174-190",
+      "size": 791,
+      "subject": "The practice of Islam"
+    },
+    {
+      "id": "BP188-190",
+      "size": 849,
+      "subject": "Islamic religious life"
+    },
+    {
+      "id": "BP188.45-189.65",
+      "size": 2464,
+      "subject": "Sufism.  Mysticism.  Dervishes"
+    },
+    {
+      "id": "BP189.68-189.7",
+      "size": 601,
+      "subject": "Monasticism"
+    },
+    {
+      "id": "BP188.2-188.3",
+      "size": 163,
+      "subject": "Devotional literature"
+    },
+    {
+      "id": "BP186-186.97",
+      "size": 239,
+      "subject": "Special days and seasons, fasts, feasts,"
+    },
+    {
+      "id": "BP182",
+      "size": 295,
+      "subject": "Jihad (Holy War)"
+    },
+    {
+      "id": "BP176-181",
+      "size": 333,
+      "subject": "The five duties of a Moslem.  Pillars of Islam"
+    },
+    {
+      "id": "BP187-187.9",
+      "size": 723,
+      "subject": "Shrines, sacred places, etc."
+    },
+    {
+      "id": "BP184-184.9",
+      "size": 485,
+      "subject": "Religious ceremonies, rites, etc."
+    },
+    {
+      "id": "BP600-610",
+      "size": 2957,
+      "subject": "Other beliefs and movements"
+    },
+    {
+      "id": "BP1-253",
+      "size": 7078,
+      "subject": "Islam"
+    },
+    {
+      "id": "BP500-585",
+      "size": 953,
+      "subject": "Theosophy"
+    },
+    {
+      "id": "BP165.5",
+      "size": 263,
+      "subject": "Dogma (ʻAqā̓id)"
+    },
+    {
+      "id": "BP70-80",
+      "size": 4163,
+      "subject": "Biography"
+    },
+    {
+      "id": "BP75-77.75",
+      "size": 1525,
+      "subject": "Muammad, Prophet, d. 632"
+    },
+    {
+      "id": "BP166-166.94",
+      "size": 2893,
+      "subject": "ERROR, could not find"
+    },
+    {
+      "id": "BP191-253",
+      "size": 1576,
+      "subject": "Branches, sects, etc."
+    },
+    {
+      "id": "BP221-223",
+      "size": 210,
+      "subject": "Black Muslims"
+    },
+    {
+      "id": "BP192-194.9",
+      "size": 2395,
+      "subject": "Shiites"
+    },
+    {
+      "id": "BP251-253",
+      "size": 88,
+      "subject": "Nurculuk"
+    },
+    {
+      "id": "BP232",
+      "size": 3,
+      "subject": "Moorish Science Temple of America"
+    },
+    {
+      "id": "BP1-68",
+      "size": 6519,
+      "subject": "General"
+    },
+    {
+      "id": "BP173.25-173.45",
+      "size": 732,
+      "subject": "Islamic sociology"
+    },
+    {
+      "id": "BP171-173",
+      "size": 1365,
+      "subject": "Relation of Islam to other religions"
+    },
+    {
+      "id": "BP100-134",
+      "size": 0,
+      "subject": "Koran"
+    },
+    {
+      "id": "BP130-134",
+      "size": 3739,
+      "subject": "Works about the Koran"
+    },
+    {
+      "id": "BP128.15-129.83",
+      "size": 266,
+      "subject": "Special parts and chapters"
+    },
+    {
+      "id": "BP595-597",
+      "size": 743,
+      "subject": "Anthroposophy"
+    },
+    {
+      "id": "BP100-157",
+      "size": 24,
+      "subject": "Sacred books"
+    },
+    {
+      "id": "BP135-136.9",
+      "size": 2070,
+      "subject": "Hadith literature.  Traditions.  Sunna"
+    },
+    {
+      "id": "BP137-137.5",
+      "size": 79,
+      "subject": "Koranic and other Islamic legends"
+    },
+    {
+      "id": "BP87-89",
+      "size": 718,
+      "subject": "Islamic literature"
+    },
+    {
+      "id": "BP170.3-170.5",
+      "size": 137,
+      "subject": "Missionary work of Islam"
+    },
+    {
+      "id": "BP167.5",
+      "size": 34,
+      "subject": "Heresy, heresies, heretics"
+    },
+    {
+      "id": "BP170.2",
+      "size": 5,
+      "subject": "Benevolent work.  Social work.  Welfare work, etc."
+    },
+    {
+      "id": "BP42-48",
+      "size": 720,
+      "subject": "Study and teaching"
+    },
+    {
+      "id": "BM",
+      "size": 0,
+      "subject": "Judaism"
+    },
+    {
+      "id": "BM1-990",
+      "size": 16,
+      "subject": "Judaism"
+    },
+    {
+      "id": "BM650-747",
+      "size": 1021,
+      "subject": "Practical Judaism"
+    },
+    {
+      "id": "BM723-729",
+      "size": 2058,
+      "subject": "Jewish way of life.  Spiritual life.  Mysticism.  Personal"
+    },
+    {
+      "id": "BM660-679",
+      "size": 4866,
+      "subject": "Liturgy and ritual"
+    },
+    {
+      "id": "BM651-652.7",
+      "size": 83,
+      "subject": "Priests, rabbis, etc."
+    },
+    {
+      "id": "BM690-695",
+      "size": 3083,
+      "subject": "Festivals and fasts"
+    },
+    {
+      "id": "BM700-720",
+      "size": 3153,
+      "subject": "Rites and customs"
+    },
+    {
+      "id": "BM730-747",
+      "size": 1421,
+      "subject": "Preaching.  Homiletics"
+    },
+    {
+      "id": "BM653-653.7",
+      "size": 86,
+      "subject": "Congregations.  Synagogues"
+    },
+    {
+      "id": "BM656-657",
+      "size": 450,
+      "subject": "Forms of worship"
+    },
+    {
+      "id": "BM654-655.6",
+      "size": 184,
+      "subject": "The tabernacle.  The temple"
+    },
+    {
+      "id": "BM495-532",
+      "size": 1058,
+      "subject": "Sources of Jewish religion.  Rabbinical literature"
+    },
+    {
+      "id": "BM497-509",
+      "size": 6022,
+      "subject": "Talmudic literature"
+    },
+    {
+      "id": "BM499-504.7",
+      "size": 1847,
+      "subject": "Babylonian Talmud"
+    },
+    {
+      "id": "BM498-498.8",
+      "size": 107,
+      "subject": "Palestinian Talmud"
+    },
+    {
+      "id": "BM497-497.8",
+      "size": 166,
+      "subject": "Mishnah"
+    },
+    {
+      "id": "BM508-508.5",
+      "size": 42,
+      "subject": "Tosefta"
+    },
+    {
+      "id": "BM507-507.5",
+      "size": 10,
+      "subject": "Baraita"
+    },
+    {
+      "id": "BM520-523.7",
+      "size": 4479,
+      "subject": "Halacha"
+    },
+    {
+      "id": "BM525-526",
+      "size": 1397,
+      "subject": "Cabala"
+    },
+    {
+      "id": "BM529",
+      "size": 42,
+      "subject": "Jewish tradition"
+    },
+    {
+      "id": "BM510-518",
+      "size": 738,
+      "subject": "Midrash"
+    },
+    {
+      "id": "BM600-645",
+      "size": 1719,
+      "subject": "Dogmatic Judaism"
+    },
+    {
+      "id": "BM534-538",
+      "size": 565,
+      "subject": "Relation of Judaism to special subject fields"
+    },
+    {
+      "id": "BM534-536",
+      "size": 1070,
+      "subject": "Religions"
+    },
+    {
+      "id": "BM750-755",
+      "size": 3210,
+      "subject": "Biography"
+    },
+    {
+      "id": "BM1-449",
+      "size": 2745,
+      "subject": "General"
+    },
+    {
+      "id": "BM545-582",
+      "size": 1253,
+      "subject": "Principles of Judaism (General)"
+    },
+    {
+      "id": "BM480-488.8",
+      "size": 545,
+      "subject": "Pre-Talmudic Jewish literature (non-Biblical)"
+    },
+    {
+      "id": "BM900-990",
+      "size": 90,
+      "subject": "Samaritans"
+    },
+    {
+      "id": "BM585-585.4",
+      "size": 205,
+      "subject": "Controversial works against the Jews"
+    },
+    {
+      "id": "BM590-591",
+      "size": 68,
+      "subject": "Jewish works against Christianity and Islam"
+    },
+    {
+      "id": "BM648",
+      "size": 72,
+      "subject": "Apologetics"
+    },
+    {
+      "id": "BM646",
+      "size": 8,
+      "subject": "Heresy, heresies"
+    },
+    {
+      "id": "BM150-449",
+      "size": 2734,
+      "subject": "History"
+    },
+    {
+      "id": "BM201-449",
+      "size": 1191,
+      "subject": "By region or country"
+    },
+    {
+      "id": "BC",
+      "size": 0,
+      "subject": "Logic"
+    },
+    {
+      "id": "BC1-199",
+      "size": 1682,
+      "subject": "Logic"
+    },
+    {
+      "id": "BC60-99",
+      "size": 889,
+      "subject": "General works"
+    },
+    {
+      "id": "BC171-199",
+      "size": 1472,
+      "subject": "Special topics"
+    },
+    {
+      "id": "BC11-39",
+      "size": 94,
+      "subject": "History"
+    },
+    {
+      "id": "BC25-39",
+      "size": 417,
+      "subject": "By period"
+    },
+    {
+      "id": "BQ",
+      "size": 0,
+      "subject": "Buddhism"
+    },
+    {
+      "id": "BQ1-9800",
+      "size": 10,
+      "subject": "Buddhism"
+    },
+    {
+      "id": "BQ1100-3340",
+      "size": 4028,
+      "subject": "Tripit.aka (Canonical literature)"
+    },
+    {
+      "id": "BQ7001-9800",
+      "size": 20,
+      "subject": "Modifications, schools, etc."
+    },
+    {
+      "id": "BQ8000-9800",
+      "size": 1297,
+      "subject": "Special modifications, sects, etc."
+    },
+    {
+      "id": "BQ9250-9519",
+      "size": 2267,
+      "subject": "Zen Buddhism"
+    },
+    {
+      "id": "BQ8900-9099",
+      "size": 679,
+      "subject": "Tantric Buddhism"
+    },
+    {
+      "id": "BQ8500-8769",
+      "size": 1197,
+      "subject": "Pure Land Buddhism"
+    },
+    {
+      "id": "BQ7530-7950",
+      "size": 3425,
+      "subject": "Tibetan Buddhism (Lamaism)"
+    },
+    {
+      "id": "BQ7960-7989",
+      "size": 350,
+      "subject": "Bonpo (Sect)"
+    },
+    {
+      "id": "BQ7300-7529",
+      "size": 359,
+      "subject": "Mahayana Buddhism"
+    },
+    {
+      "id": "BQ7100-7285",
+      "size": 96,
+      "subject": "Theravāda (Hinayana) Buddhism"
+    },
+    {
+      "id": "BQ4061-4570",
+      "size": 786,
+      "subject": "Doctrinal and systematic Buddhism"
+    },
+    {
+      "id": "BQ4180-4565",
+      "size": 1059,
+      "subject": "Special doctrines"
+    },
+    {
+      "id": "BQ4570",
+      "size": 846,
+      "subject": "Special topics and relations to special subjects"
+    },
+    {
+      "id": "BQ4000-4060",
+      "size": 782,
+      "subject": "General works"
+    },
+    {
+      "id": "BQ840-999",
+      "size": 0,
+      "subject": "Biography"
+    },
+    {
+      "id": "BQ860-999",
+      "size": 0,
+      "subject": "Individual"
+    },
+    {
+      "id": "BQ940-999",
+      "size": 1802,
+      "subject": "Other"
+    },
+    {
+      "id": "BQ860-939",
+      "size": 556,
+      "subject": "Gautama Buddha"
+    },
+    {
+      "id": "BQ840-858",
+      "size": 50,
+      "subject": "Collective"
+    },
+    {
+      "id": "BQ4911-5720",
+      "size": 47,
+      "subject": "Practice of Buddhism.  Forms of worship"
+    },
+    {
+      "id": "BQ5360-5680",
+      "size": 383,
+      "subject": "Religious life"
+    },
+    {
+      "id": "BQ5635-5675",
+      "size": 147,
+      "subject": "Spiritual life.  Mysticism.  Englightenment.  Perfection"
+    },
+    {
+      "id": "BQ5595-5633",
+      "size": 405,
+      "subject": "Devotion.  Meditation.  Prayer"
+    },
+    {
+      "id": "BQ5535-5594",
+      "size": 174,
+      "subject": "Devotional literature.  Meditations.  Prayers"
+    },
+    {
+      "id": "BQ5485-5530",
+      "size": 49,
+      "subject": "Precepts for laymen"
+    },
+    {
+      "id": "BQ5070-5075",
+      "size": 68,
+      "subject": "Altar, liturgical objects, ornaments, memorials, etc."
+    },
+    {
+      "id": "BQ5700-5720",
+      "size": 35,
+      "subject": "Festivals.  Days and seasons"
+    },
+    {
+      "id": "BQ5140-5355",
+      "size": 48,
+      "subject": "Buddhist ministry.  Priesthood.  Organization"
+    },
+    {
+      "id": "BQ5251-5305",
+      "size": 9,
+      "subject": "Education and training"
+    },
+    {
+      "id": "BQ5310-5350",
+      "size": 126,
+      "subject": "Preaching"
+    },
+    {
+      "id": "BQ4965-5030",
+      "size": 213,
+      "subject": "Ceremonies and rites.  Ceremonial rules"
+    },
+    {
+      "id": "BQ5100-5125",
+      "size": 154,
+      "subject": "Symbols and symbolism"
+    },
+    {
+      "id": "BQ5035-5065",
+      "size": 69,
+      "subject": "Hymns.  Chants.  Recitations"
+    },
+    {
+      "id": "BQ5130-5137",
+      "size": 53,
+      "subject": "Temple.  Temple organization"
+    },
+    {
+      "id": "BQ5080-5085",
+      "size": 8,
+      "subject": "Vestments, altar cloths, etc."
+    },
+    {
+      "id": "BQ251-799",
+      "size": 2765,
+      "subject": "History"
+    },
+    {
+      "id": "BQ4620-4905",
+      "size": 748,
+      "subject": "Buddhist pantheon"
+    },
+    {
+      "id": "BQ115-126",
+      "size": 180,
+      "subject": "General collections.  Collected works"
+    },
+    {
+      "id": "BQ1001-1045",
+      "size": 277,
+      "subject": "Buddhist literature"
+    },
+    {
+      "id": "BQ133",
+      "size": 87,
+      "subject": "Terminology"
+    },
+    {
+      "id": "BQ6300-6388",
+      "size": 1845,
+      "subject": "Monasteries.  Temples.  Shrines.  Sites"
+    },
+    {
+      "id": "BQ6001-6160",
+      "size": 311,
+      "subject": "Monasticism and monastic life  Sagha (Order)"
+    },
+    {
+      "id": "BQ5851-5899",
+      "size": 16,
+      "subject": "Benevolent work.  Social work.  Welfare work, etc."
+    },
+    {
+      "id": "BQ221-249",
+      "size": 102,
+      "subject": "Antiquities.  Archaeology"
+    },
+    {
+      "id": "BQ240-244",
+      "size": 16,
+      "subject": "Literary discoveries"
+    },
+    {
+      "id": "BQ246-249",
+      "size": 22,
+      "subject": "Inscriptions, etc."
+    },
+    {
+      "id": "BQ6400-6495",
+      "size": 254,
+      "subject": "Pilgrims and pilgrimages"
+    },
+    {
+      "id": "BQ12-93",
+      "size": 56,
+      "subject": "Societies, councils, associations, clubs, etc."
+    },
+    {
+      "id": "BQ5725-5845",
+      "size": 178,
+      "subject": "Folklore"
+    },
+    {
+      "id": "BQ130",
+      "size": 129,
+      "subject": "Dictionaries (General)"
+    },
+    {
+      "id": "BQ4600-4610",
+      "size": 85,
+      "subject": "Relation to other religious and philosophical systems"
+    },
+    {
+      "id": "BQ135",
+      "size": 30,
+      "subject": "Questions and answers.  Maxims (General)"
+    },
+    {
+      "id": "BQ5901-5975",
+      "size": 34,
+      "subject": "Missionary work"
+    },
+    {
+      "id": "BQ141-209",
+      "size": 97,
+      "subject": "Religious education (General)"
+    },
+    {
+      "id": "BQ100-102",
+      "size": 32,
+      "subject": "Congresses.  Conferences (General)"
+    },
+    {
+      "id": "BQ800-829",
+      "size": 2,
+      "subject": "Persecutions"
+    },
+    {
+      "id": "BQ104-105",
+      "size": 4,
+      "subject": "Directories (General)"
+    },
+    {
+      "id": "BQ128",
+      "size": 6,
+      "subject": "Encyclopedias (General)"
+    },
+    {
+      "id": "BQ1-10",
+      "size": 219,
+      "subject": "Periodicals.  Yearbooks (General)"
+    },
+    {
+      "id": "BQ210-219",
+      "size": 1,
+      "subject": "Research"
+    },
+    {
+      "id": "BQ6200-6240",
+      "size": 8,
+      "subject": "Asceticism.  Hermits.  Wayfaring life"
+    },
+    {
+      "id": "BD",
+      "size": 0,
+      "subject": "Speculative philosophy"
+    },
+    {
+      "id": "BD10-701",
+      "size": 78,
+      "subject": "Speculative philosophy"
+    },
+    {
+      "id": "BD300-450",
+      "size": 7838,
+      "subject": "Ontology"
+    },
+    {
+      "id": "BD143-237",
+      "size": 4375,
+      "subject": "Epistemology.  Theory of knowledge"
+    },
+    {
+      "id": "BD10-41",
+      "size": 1262,
+      "subject": "General philosophical works"
+    },
+    {
+      "id": "BD95-131",
+      "size": 866,
+      "subject": "Metaphysics"
+    },
+    {
+      "id": "BD493-701",
+      "size": 2443,
+      "subject": "Cosmology"
+    },
+    {
+      "id": "BD240-260",
+      "size": 862,
+      "subject": "Methodology"
+    },
+    {
+      "id": "BH",
+      "size": 0,
+      "subject": "Aesthetics"
+    },
+    {
+      "id": "BH1-301",
+      "size": 3339,
+      "subject": "Aesthetics"
+    },
+    {
+      "id": "BH81-208",
+      "size": 1059,
+      "subject": "History"
+    },
+    {
+      "id": "BH301",
+      "size": 1211,
+      "subject": "Special topics"
+    }
+  ],
+  "links": [
+    {
+      "source": "B",
+      "target": "BV"
+    },
+    {
+      "source": "BV",
+      "target": "BV1-5099"
+    },
+    {
+      "source": "BV1-5099",
+      "target": "BV4000-4470"
+    },
+    {
+      "source": "BV1-5099",
+      "target": "BV2000-3705"
+    },
+    {
+      "source": "BV1-5099",
+      "target": "BV3750-3799"
+    },
+    {
+      "source": "BV1-5099",
+      "target": "BV590-1652"
+    },
+    {
+      "source": "BV1-5099",
+      "target": "BV4485-5099"
+    },
+    {
+      "source": "BV1-5099",
+      "target": "BV5-530"
+    },
+    {
+      "source": "BV4000-4470",
+      "target": "BV4200-4317"
+    },
+    {
+      "source": "BV4000-4470",
+      "target": "BV4390-4399"
+    },
+    {
+      "source": "BV4000-4470",
+      "target": "BV4400-4470"
+    },
+    {
+      "source": "BV4000-4470",
+      "target": "BV4019-4180"
+    },
+    {
+      "source": "BV4200-4317",
+      "target": "BV4239-4317"
+    },
+    {
+      "source": "BV4019-4180",
+      "target": "BV4019-4167"
+    },
+    {
+      "source": "BV4019-4180",
+      "target": "BV4168-4180"
+    },
+    {
+      "source": "BV2000-3705",
+      "target": "BV2750-3695"
+    },
+    {
+      "source": "BV2000-3705",
+      "target": "BV2123-2595"
+    },
+    {
+      "source": "BV2000-3705",
+      "target": "BV2610-2695"
+    },
+    {
+      "source": "BV2123-2595",
+      "target": "BV2350-2595"
+    },
+    {
+      "source": "BV2123-2595",
+      "target": "BV2130-2300"
+    },
+    {
+      "source": "BV590-1652",
+      "target": "BV1460-1615"
+    },
+    {
+      "source": "BV590-1652",
+      "target": "BV800-873"
+    },
+    {
+      "source": "BV590-1652",
+      "target": "BV652-652.9"
+    },
+    {
+      "source": "BV590-1652",
+      "target": "BV598-603"
+    },
+    {
+      "source": "BV590-1652",
+      "target": "BV770-777"
+    },
+    {
+      "source": "BV590-1652",
+      "target": "BV700-707"
+    },
+    {
+      "source": "BV590-1652",
+      "target": "BV659-683"
+    },
+    {
+      "source": "BV590-1652",
+      "target": "BV900-1450"
+    },
+    {
+      "source": "BV590-1652",
+      "target": "BV637-637.5"
+    },
+    {
+      "source": "BV590-1652",
+      "target": "BV1620-1652"
+    },
+    {
+      "source": "BV590-1652",
+      "target": "BV629-631"
+    },
+    {
+      "source": "BV590-1652",
+      "target": "BV652.95-657"
+    },
+    {
+      "source": "BV590-1652",
+      "target": "BV895-896"
+    },
+    {
+      "source": "BV590-1652",
+      "target": "BV646-651"
+    },
+    {
+      "source": "BV590-1652",
+      "target": "BV638-638.8"
+    },
+    {
+      "source": "BV800-873",
+      "target": "BV803-814"
+    },
+    {
+      "source": "BV800-873",
+      "target": "BV823-828"
+    },
+    {
+      "source": "BV800-873",
+      "target": "BV835-838"
+    },
+    {
+      "source": "BV800-873",
+      "target": "BV840-850"
+    },
+    {
+      "source": "BV900-1450",
+      "target": "BV950-1280"
+    },
+    {
+      "source": "BV900-1450",
+      "target": "BV1300-1395"
+    },
+    {
+      "source": "BV950-1280",
+      "target": "BV1000-1220"
+    },
+    {
+      "source": "BV1300-1395",
+      "target": "BV1300-1393"
+    },
+    {
+      "source": "BV4485-5099",
+      "target": "BV4800-4897"
+    },
+    {
+      "source": "BV4485-5099",
+      "target": "BV4520-4526.2"
+    },
+    {
+      "source": "BV4485-5099",
+      "target": "BV4625-4780"
+    },
+    {
+      "source": "BV4485-5099",
+      "target": "BV4900-4911"
+    },
+    {
+      "source": "BV4485-5099",
+      "target": "BV5070-5095"
+    },
+    {
+      "source": "BV4485-5099",
+      "target": "BV5015-5068"
+    },
+    {
+      "source": "BV4485-5099",
+      "target": "BV4912-4950"
+    },
+    {
+      "source": "BV4485-5099",
+      "target": "BV5099"
+    },
+    {
+      "source": "BV4625-4780",
+      "target": "BV4630-4647"
+    },
+    {
+      "source": "BV4625-4780",
+      "target": "BV4625-4627"
+    },
+    {
+      "source": "BV4625-4780",
+      "target": "BV4650-4715"
+    },
+    {
+      "source": "BV4625-4780",
+      "target": "BV4720-4780"
+    },
+    {
+      "source": "BV5-530",
+      "target": "BV30-135"
+    },
+    {
+      "source": "BV5-530",
+      "target": "BV301-530"
+    },
+    {
+      "source": "BV5-530",
+      "target": "BV205-287"
+    },
+    {
+      "source": "BV5-530",
+      "target": "BV169-199"
+    },
+    {
+      "source": "BV5-530",
+      "target": "BV150-168"
+    },
+    {
+      "source": "BV5-530",
+      "target": "BV200"
+    },
+    {
+      "source": "BV30-135",
+      "target": "BV80-105"
+    },
+    {
+      "source": "BV30-135",
+      "target": "BV107-133"
+    },
+    {
+      "source": "BV30-135",
+      "target": "BV43-64"
+    },
+    {
+      "source": "BV30-135",
+      "target": "BV65-70"
+    },
+    {
+      "source": "BV301-530",
+      "target": "BV467-510"
+    },
+    {
+      "source": "BV301-530",
+      "target": "BV360-465"
+    },
+    {
+      "source": "B",
+      "target": "BJ"
+    },
+    {
+      "source": "BJ",
+      "target": "BJ1801-2195"
+    },
+    {
+      "source": "BJ",
+      "target": "BJ1-1725"
+    },
+    {
+      "source": "BJ1801-2195",
+      "target": "BJ2021-2078"
+    },
+    {
+      "source": "BJ1801-2195",
+      "target": "BJ2139-2156"
+    },
+    {
+      "source": "BJ1801-2195",
+      "target": "BJ2195"
+    },
+    {
+      "source": "BJ1-1725",
+      "target": "BJ1518-1697"
+    },
+    {
+      "source": "BJ1-1725",
+      "target": "BJ71-1185"
+    },
+    {
+      "source": "BJ1-1725",
+      "target": "BJ1188-1295"
+    },
+    {
+      "source": "BJ1-1725",
+      "target": "BJ1298-1335"
+    },
+    {
+      "source": "BJ1-1725",
+      "target": "BJ1725"
+    },
+    {
+      "source": "BJ1-1725",
+      "target": "BJ1395"
+    },
+    {
+      "source": "BJ1-1725",
+      "target": "BJ1390-1390.5"
+    },
+    {
+      "source": "BJ1-1725",
+      "target": "BJ1388"
+    },
+    {
+      "source": "BJ1-1725",
+      "target": "BJ1365-1385"
+    },
+    {
+      "source": "BJ1-1725",
+      "target": "BJ1392"
+    },
+    {
+      "source": "B",
+      "target": "BX"
+    },
+    {
+      "source": "BX",
+      "target": "BX1-9999"
+    },
+    {
+      "source": "BX1-9999",
+      "target": "BX4800-9999"
+    },
+    {
+      "source": "BX1-9999",
+      "target": "BX800-4795"
+    },
+    {
+      "source": "BX1-9999",
+      "target": "BX200-756"
+    },
+    {
+      "source": "BX1-9999",
+      "target": "BX1-9.5"
+    },
+    {
+      "source": "BX1-9999",
+      "target": "BX100-189"
+    },
+    {
+      "source": "BX4800-9999",
+      "target": "BX6101-9999"
+    },
+    {
+      "source": "BX4800-9999",
+      "target": "BX5800-5995"
+    },
+    {
+      "source": "BX4800-9999",
+      "target": "BX5011-5207"
+    },
+    {
+      "source": "BX4800-9999",
+      "target": "BX4929-4951"
+    },
+    {
+      "source": "BX4800-9999",
+      "target": "BX4800-4861"
+    },
+    {
+      "source": "BX4800-9999",
+      "target": "BX4872-4924"
+    },
+    {
+      "source": "BX4800-9999",
+      "target": "BX5001-5009"
+    },
+    {
+      "source": "BX4800-9999",
+      "target": "BX5410-5595"
+    },
+    {
+      "source": "BX4800-9999",
+      "target": "BX5600-5740"
+    },
+    {
+      "source": "BX4800-9999",
+      "target": "BX5596-5598"
+    },
+    {
+      "source": "BX4800-9999",
+      "target": "BX5210-5395"
+    },
+    {
+      "source": "BX4800-9999",
+      "target": "BX6051-6093"
+    },
+    {
+      "source": "BX4800-9999",
+      "target": "BX5996-6030"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX9401-9640"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX9901-9969"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX7301-7343"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX8601-8695"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX7101-7260"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX6901-6997"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX8901-9225"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX8201-8495"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX6201-6495"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX7801-7843"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX9801-9869"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX8701-8749"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX9701-9743"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX9751-9793"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX8001-8080"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX6101-6193"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX8101-8144"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX8762-8785"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX7990"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX7601-7795"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX9301-9359"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX9884-9886"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX6801-6843"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX8525-8528"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX7020-7060"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX9999"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX8551-8593"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX9881-9882.95"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX6195-6197"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX7580-7583"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX6551-6593"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX9875-9877.1"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX7079-7097"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX7901-7943"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX6751-6793"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX9998"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX7401-7430"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX8799-8809"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX7451-7493"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX9675"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX7556"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX9975"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX6651-6693"
+    },
+    {
+      "source": "BX6101-9999",
+      "target": "BX9980"
+    },
+    {
+      "source": "BX6201-6495",
+      "target": "BX6330-6331.2"
+    },
+    {
+      "source": "BX6201-6495",
+      "target": "BX6201-6227"
+    },
+    {
+      "source": "BX6201-6495",
+      "target": "BX6493-6495"
+    },
+    {
+      "source": "BX6201-6495",
+      "target": "BX6349-6470"
+    },
+    {
+      "source": "BX6201-6495",
+      "target": "BX6480-6490"
+    },
+    {
+      "source": "BX6201-6495",
+      "target": "BX6231-6328"
+    },
+    {
+      "source": "BX6201-6495",
+      "target": "BX6333"
+    },
+    {
+      "source": "BX6201-6495",
+      "target": "BX6335-6336"
+    },
+    {
+      "source": "BX6201-6495",
+      "target": "BX6340-6346.3"
+    },
+    {
+      "source": "BX6201-6495",
+      "target": "BX6334"
+    },
+    {
+      "source": "BX6201-6495",
+      "target": "BX6329"
+    },
+    {
+      "source": "BX6201-6495",
+      "target": "BX6337"
+    },
+    {
+      "source": "BX6201-6495",
+      "target": "BX6338-6339"
+    },
+    {
+      "source": "BX5011-5207",
+      "target": "BX5197-5199"
+    },
+    {
+      "source": "BX5011-5207",
+      "target": "BX5051-5110"
+    },
+    {
+      "source": "BX5011-5207",
+      "target": "BX5115-5126"
+    },
+    {
+      "source": "BX5011-5207",
+      "target": "BX5140.5-5147"
+    },
+    {
+      "source": "BX5011-5207",
+      "target": "BX5200-5207"
+    },
+    {
+      "source": "BX5011-5207",
+      "target": "BX5127-5129.8"
+    },
+    {
+      "source": "BX5011-5207",
+      "target": "BX5135-5136"
+    },
+    {
+      "source": "BX5011-5207",
+      "target": "BX5133"
+    },
+    {
+      "source": "BX5011-5207",
+      "target": "BX5194-5195"
+    },
+    {
+      "source": "BX5011-5207",
+      "target": "BX5150-5182.5"
+    },
+    {
+      "source": "BX5011-5207",
+      "target": "BX5183-5187"
+    },
+    {
+      "source": "BX5011-5207",
+      "target": "BX5148-5149"
+    },
+    {
+      "source": "BX5011-5207",
+      "target": "BX5130-5132"
+    },
+    {
+      "source": "BX5011-5207",
+      "target": "BX5137-5139"
+    },
+    {
+      "source": "BX4929-4951",
+      "target": "BX4929-4946"
+    },
+    {
+      "source": "BX4929-4951",
+      "target": "BX4950-4951"
+    },
+    {
+      "source": "BX4872-4924",
+      "target": "BX4872-4893"
+    },
+    {
+      "source": "BX4872-4924",
+      "target": "BX4913-4924"
+    },
+    {
+      "source": "BX4872-4924",
+      "target": "BX4900-4906"
+    },
+    {
+      "source": "BX4913-4924",
+      "target": "BX4920-4924"
+    },
+    {
+      "source": "BX5600-5740",
+      "target": "BX5601-5620"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX4650-4705"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX1958-1968"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX940-1745"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX2400-4563"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX2347-2377"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX1970-2175"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX1746-1755"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX2200-2292"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX2177-2198"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX1800-1920"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX4600-4644"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX2315-2324"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX1969"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX800-839"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX4650-4698"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX895-939"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX2325-2333"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX880-891"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX1756"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX2380-2386"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX841"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX2295-2310"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX1781-1788"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX4710.1-4715.95"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX1760-1779.5"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX4716.4-4795"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX850-875"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX1790-1793"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX845"
+    },
+    {
+      "source": "BX800-4795",
+      "target": "BX2312"
+    },
+    {
+      "source": "BX4650-4705",
+      "target": "BX4700-4705"
+    },
+    {
+      "source": "BX4650-4705",
+      "target": "BX4650-4698"
+    },
+    {
+      "source": "BX4700-4705",
+      "target": "BX4700"
+    },
+    {
+      "source": "BX2400-4563",
+      "target": "BX4200-4563"
+    },
+    {
+      "source": "BX2400-4563",
+      "target": "BX2890-4192"
+    },
+    {
+      "source": "BX1970-2175",
+      "target": "BX2050-2175"
+    },
+    {
+      "source": "BX4650-4698",
+      "target": "BX4654-4662"
+    },
+    {
+      "source": "BX4716.4-4795",
+      "target": "BX4751-4793"
+    },
+    {
+      "source": "BX4716.4-4795",
+      "target": "BX4718.5-4735"
+    },
+    {
+      "source": "BX4716.4-4795",
+      "target": "BX4795"
+    },
+    {
+      "source": "BX4716.4-4795",
+      "target": "BX4740"
+    },
+    {
+      "source": "BX4716.4-4795",
+      "target": "BX4793.5-4794.25"
+    },
+    {
+      "source": "BX4716.4-4795",
+      "target": "BX4737"
+    },
+    {
+      "source": "BX200-756",
+      "target": "BX200-395"
+    },
+    {
+      "source": "BX200-756",
+      "target": "BX400-756"
+    },
+    {
+      "source": "BX400-756",
+      "target": "BX460-605"
+    },
+    {
+      "source": "BX400-756",
+      "target": "BX729.9-755"
+    },
+    {
+      "source": "BX400-756",
+      "target": "BX610-620"
+    },
+    {
+      "source": "BX400-756",
+      "target": "BX690-699"
+    },
+    {
+      "source": "BX400-756",
+      "target": "BX400-440"
+    },
+    {
+      "source": "BX400-756",
+      "target": "BX650-659"
+    },
+    {
+      "source": "BX400-756",
+      "target": "BX729.5"
+    },
+    {
+      "source": "BX400-756",
+      "target": "BX450-450.93"
+    },
+    {
+      "source": "BX400-756",
+      "target": "BX710-719"
+    },
+    {
+      "source": "BX400-756",
+      "target": "BX660-669"
+    },
+    {
+      "source": "BX400-756",
+      "target": "BX720-729"
+    },
+    {
+      "source": "BX400-756",
+      "target": "BX630-639"
+    },
+    {
+      "source": "BX400-756",
+      "target": "BX670-679"
+    },
+    {
+      "source": "BX100-189",
+      "target": "BX120-129"
+    },
+    {
+      "source": "BX100-189",
+      "target": "BX130-139"
+    },
+    {
+      "source": "BX100-189",
+      "target": "BX100-107"
+    },
+    {
+      "source": "BX100-189",
+      "target": "BX160-169"
+    },
+    {
+      "source": "BX100-189",
+      "target": "BX170-179"
+    },
+    {
+      "source": "BX100-189",
+      "target": "BX150-159"
+    },
+    {
+      "source": "BX100-189",
+      "target": "BX140-149"
+    },
+    {
+      "source": "BX100-189",
+      "target": "BX180-189"
+    },
+    {
+      "source": "B",
+      "target": "BF"
+    },
+    {
+      "source": "BF",
+      "target": "BF1-990"
+    },
+    {
+      "source": "BF",
+      "target": "BF1001-1389"
+    },
+    {
+      "source": "BF",
+      "target": "BF1404-2055"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF638-648"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF908-940"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF309-499"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF712-724.85"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF231-299"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF511-593"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF697-697.5"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF636-637"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF698-698.9"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF173-175.5"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF699-711"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF38-64"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF608-635"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF660-685"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF501-505"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF207-209"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF180-198.7"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF176-176.5"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF692-692.5"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF795-839"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF839.8-885"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF889-905"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF725-727"
+    },
+    {
+      "source": "BF1-990",
+      "target": "BF203"
+    },
+    {
+      "source": "BF1001-1389",
+      "target": "BF1228-1389"
+    },
+    {
+      "source": "BF1001-1389",
+      "target": "BF1111-1156"
+    },
+    {
+      "source": "BF1001-1389",
+      "target": "BF1001-1045"
+    },
+    {
+      "source": "BF1001-1389",
+      "target": "BF1048-1108"
+    },
+    {
+      "source": "BF1001-1389",
+      "target": "BF1161-1171"
+    },
+    {
+      "source": "BF1404-2055",
+      "target": "BF1585-1623"
+    },
+    {
+      "source": "BF1404-2055",
+      "target": "BF1562.5-1584"
+    },
+    {
+      "source": "BF1404-2055",
+      "target": "BF1444-1486"
+    },
+    {
+      "source": "BF1404-2055",
+      "target": "BF1651-1729"
+    },
+    {
+      "source": "BF1404-2055",
+      "target": "BF2050-2055"
+    },
+    {
+      "source": "BF1404-2055",
+      "target": "BF1745-1779"
+    },
+    {
+      "source": "BF1404-2055",
+      "target": "BF1845-1891"
+    },
+    {
+      "source": "BF1404-2055",
+      "target": "BF1783-1815"
+    },
+    {
+      "source": "BF1404-2055",
+      "target": "BF1501-1562"
+    },
+    {
+      "source": "B",
+      "target": "BS"
+    },
+    {
+      "source": "BS",
+      "target": "BS1-2970"
+    },
+    {
+      "source": "BS1-2970",
+      "target": "BS125-355"
+    },
+    {
+      "source": "BS1-2970",
+      "target": "BS410-680"
+    },
+    {
+      "source": "BS1-2970",
+      "target": "BS701-1830"
+    },
+    {
+      "source": "BS1-2970",
+      "target": "BS1901-2970"
+    },
+    {
+      "source": "BS1-2970",
+      "target": "BS11-115"
+    },
+    {
+      "source": "BS125-355",
+      "target": "BS315-355"
+    },
+    {
+      "source": "BS125-355",
+      "target": "BS125-198"
+    },
+    {
+      "source": "BS125-355",
+      "target": "BS199-313"
+    },
+    {
+      "source": "BS315-355",
+      "target": "BS345"
+    },
+    {
+      "source": "BS315-355",
+      "target": "BS335"
+    },
+    {
+      "source": "BS315-355",
+      "target": "BS315"
+    },
+    {
+      "source": "BS315-355",
+      "target": "BS325"
+    },
+    {
+      "source": "BS315-355",
+      "target": "BS355"
+    },
+    {
+      "source": "BS315-355",
+      "target": "BS350"
+    },
+    {
+      "source": "BS410-680",
+      "target": "BS585-613"
+    },
+    {
+      "source": "BS410-680",
+      "target": "BS569-580"
+    },
+    {
+      "source": "BS410-680",
+      "target": "BS546-558"
+    },
+    {
+      "source": "BS410-680",
+      "target": "BS500-534.8"
+    },
+    {
+      "source": "BS410-680",
+      "target": "BS647-649"
+    },
+    {
+      "source": "BS410-680",
+      "target": "BS650-667"
+    },
+    {
+      "source": "BS410-680",
+      "target": "BS535-537"
+    },
+    {
+      "source": "BS410-680",
+      "target": "BS670-672"
+    },
+    {
+      "source": "BS569-580",
+      "target": "BS580"
+    },
+    {
+      "source": "BS701-1830",
+      "target": "BS1200-1830"
+    },
+    {
+      "source": "BS701-1830",
+      "target": "BS1110-1199"
+    },
+    {
+      "source": "BS701-1830",
+      "target": "BS705-815"
+    },
+    {
+      "source": "BS701-1830",
+      "target": "BS1091-1099"
+    },
+    {
+      "source": "BS701-1830",
+      "target": "BS825-1013"
+    },
+    {
+      "source": "BS1110-1199",
+      "target": "BS1160-1191.5"
+    },
+    {
+      "source": "BS1901-2970",
+      "target": "BS2280-2545"
+    },
+    {
+      "source": "BS1901-2970",
+      "target": "BS2547-2970"
+    },
+    {
+      "source": "BS1901-2970",
+      "target": "BS1937-2020"
+    },
+    {
+      "source": "BS1901-2970",
+      "target": "BS2025-2213"
+    },
+    {
+      "source": "BS1901-2970",
+      "target": "BS2260-2269"
+    },
+    {
+      "source": "BS2280-2545",
+      "target": "BS2430-2520"
+    },
+    {
+      "source": "BS2280-2545",
+      "target": "BS2350-2393"
+    },
+    {
+      "source": "BS2280-2545",
+      "target": "BS2415-2417"
+    },
+    {
+      "source": "BS2280-2545",
+      "target": "BS2525-2544"
+    },
+    {
+      "source": "BS2547-2970",
+      "target": "BS2640-2765.6"
+    },
+    {
+      "source": "B",
+      "target": "BT"
+    },
+    {
+      "source": "BT",
+      "target": "BT10-1480"
+    },
+    {
+      "source": "BT10-1480",
+      "target": "BT819-891"
+    },
+    {
+      "source": "BT10-1480",
+      "target": "BT198-590"
+    },
+    {
+      "source": "BT10-1480",
+      "target": "BT750-811"
+    },
+    {
+      "source": "BT10-1480",
+      "target": "BT98-180"
+    },
+    {
+      "source": "BT10-1480",
+      "target": "BT990-1010"
+    },
+    {
+      "source": "BT10-1480",
+      "target": "BT899-940"
+    },
+    {
+      "source": "BT10-1480",
+      "target": "BT1095-1255"
+    },
+    {
+      "source": "BT10-1480",
+      "target": "BT695-749"
+    },
+    {
+      "source": "BT10-1480",
+      "target": "BT595-680"
+    },
+    {
+      "source": "BT10-1480",
+      "target": "BT960-985"
+    },
+    {
+      "source": "BT10-1480",
+      "target": "BT95-97.2"
+    },
+    {
+      "source": "BT10-1480",
+      "target": "BT19-37"
+    },
+    {
+      "source": "BT10-1480",
+      "target": "BT93-93.6"
+    },
+    {
+      "source": "BT10-1480",
+      "target": "BT1313-1480"
+    },
+    {
+      "source": "BT10-1480",
+      "target": "BT1029-1040"
+    },
+    {
+      "source": "BT198-590",
+      "target": "BT296-500"
+    },
+    {
+      "source": "BT198-590",
+      "target": "BT587"
+    },
+    {
+      "source": "BT198-590",
+      "target": "BT580"
+    },
+    {
+      "source": "BT98-180",
+      "target": "BT117-123"
+    },
+    {
+      "source": "BT98-180",
+      "target": "BT130-153"
+    },
+    {
+      "source": "BT98-180",
+      "target": "BT109-115"
+    },
+    {
+      "source": "BT98-180",
+      "target": "BT126-127.5"
+    },
+    {
+      "source": "BT595-680",
+      "target": "BT650-660"
+    },
+    {
+      "source": "B",
+      "target": "B1-5802"
+    },
+    {
+      "source": "B1-5802",
+      "target": "B108-5802"
+    },
+    {
+      "source": "B1-5802",
+      "target": "B69-99"
+    },
+    {
+      "source": "B108-5802",
+      "target": "B790-5802"
+    },
+    {
+      "source": "B108-5802",
+      "target": "B108-708"
+    },
+    {
+      "source": "B108-5802",
+      "target": "B720-765"
+    },
+    {
+      "source": "B108-5802",
+      "target": "B770-785"
+    },
+    {
+      "source": "B790-5802",
+      "target": "B850-5739"
+    },
+    {
+      "source": "B790-5802",
+      "target": "B808-849"
+    },
+    {
+      "source": "B790-5802",
+      "target": "B5800-5802"
+    },
+    {
+      "source": "B",
+      "target": "BR"
+    },
+    {
+      "source": "BR",
+      "target": "BR1-1725"
+    },
+    {
+      "source": "BR1-1725",
+      "target": "BR140-1510"
+    },
+    {
+      "source": "BR1-1725",
+      "target": "BR60-67"
+    },
+    {
+      "source": "BR1-1725",
+      "target": "BR115"
+    },
+    {
+      "source": "BR1-1725",
+      "target": "BR1690-1725"
+    },
+    {
+      "source": "BR1-1725",
+      "target": "BR1600-1609"
+    },
+    {
+      "source": "BR1-1725",
+      "target": "BR1610"
+    },
+    {
+      "source": "BR1-1725",
+      "target": "BR130-133.5"
+    },
+    {
+      "source": "BR1-1725",
+      "target": "BR1615-1617"
+    },
+    {
+      "source": "BR1-1725",
+      "target": "BR1620"
+    },
+    {
+      "source": "BR1-1725",
+      "target": "BR1609.5"
+    },
+    {
+      "source": "BR140-1510",
+      "target": "BR160-481"
+    },
+    {
+      "source": "BR140-1510",
+      "target": "BR500-1510"
+    },
+    {
+      "source": "BR160-481",
+      "target": "BR290-481"
+    },
+    {
+      "source": "BR160-481",
+      "target": "BR160-275"
+    },
+    {
+      "source": "BR160-481",
+      "target": "BR280"
+    },
+    {
+      "source": "BR290-481",
+      "target": "BR323.5-334.2"
+    },
+    {
+      "source": "B",
+      "target": "BL"
+    },
+    {
+      "source": "BL",
+      "target": "BL1-2790"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL1-50"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL500-547"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL2700-2790"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL175-265"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL74-99"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL660-2680"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL425-490"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL624-629.5"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL71.5-73"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL550-619"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL300-325"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL51-65"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL290"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL350-385"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL410"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL70-71"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL630-632.5"
+    },
+    {
+      "source": "BL1-2790",
+      "target": "BL270"
+    },
+    {
+      "source": "BL175-265",
+      "target": "BL239-265"
+    },
+    {
+      "source": "BL175-265",
+      "target": "BL205-216"
+    },
+    {
+      "source": "BL175-265",
+      "target": "BL175-190"
+    },
+    {
+      "source": "BL175-265",
+      "target": "BL200"
+    },
+    {
+      "source": "BL175-265",
+      "target": "BL224-227"
+    },
+    {
+      "source": "BL175-265",
+      "target": "BL221"
+    },
+    {
+      "source": "BL175-265",
+      "target": "BL220"
+    },
+    {
+      "source": "BL175-265",
+      "target": "BL218"
+    },
+    {
+      "source": "BL175-265",
+      "target": "BL217"
+    },
+    {
+      "source": "BL660-2680",
+      "target": "BL2390-2490"
+    },
+    {
+      "source": "BL660-2680",
+      "target": "BL2500-2592"
+    },
+    {
+      "source": "BL660-2680",
+      "target": "BL1000-2370"
+    },
+    {
+      "source": "BL660-2680",
+      "target": "BL689-980"
+    },
+    {
+      "source": "BL660-2680",
+      "target": "BL2600-2630"
+    },
+    {
+      "source": "BL660-2680",
+      "target": "BL2670"
+    },
+    {
+      "source": "BL660-2680",
+      "target": "BL660"
+    },
+    {
+      "source": "BL660-2680",
+      "target": "BL687"
+    },
+    {
+      "source": "BL660-2680",
+      "target": "BL685"
+    },
+    {
+      "source": "BL2390-2490",
+      "target": "BL2420-2460"
+    },
+    {
+      "source": "BL1000-2370",
+      "target": "BL1100-1710"
+    },
+    {
+      "source": "BL1000-2370",
+      "target": "BL1750-2350"
+    },
+    {
+      "source": "BL1000-2370",
+      "target": "BL1000-1035"
+    },
+    {
+      "source": "BL1000-2370",
+      "target": "BL1055"
+    },
+    {
+      "source": "BL1000-2370",
+      "target": "BL1060"
+    },
+    {
+      "source": "BL1000-2370",
+      "target": "BL1050"
+    },
+    {
+      "source": "BL1100-1710",
+      "target": "BL1111-1143.2"
+    },
+    {
+      "source": "BL1100-1710",
+      "target": "BL1100-1295"
+    },
+    {
+      "source": "BL1100-1710",
+      "target": "BL1225.2-1243.58"
+    },
+    {
+      "source": "BL1100-1710",
+      "target": "BL1216-1225"
+    },
+    {
+      "source": "BL1100-1710",
+      "target": "BL1500-1590"
+    },
+    {
+      "source": "BL1100-1710",
+      "target": "BL1271.2-1295"
+    },
+    {
+      "source": "BL1100-1710",
+      "target": "BL1300-1380"
+    },
+    {
+      "source": "BL1100-1710",
+      "target": "BL1212.32-1215"
+    },
+    {
+      "source": "BL1100-1710",
+      "target": "BL1600-1695"
+    },
+    {
+      "source": "BL1100-1710",
+      "target": "BL1153.7-1168"
+    },
+    {
+      "source": "BL1100-1710",
+      "target": "BL1100-1107.5"
+    },
+    {
+      "source": "BL1100-1710",
+      "target": "BL1595"
+    },
+    {
+      "source": "BL1100-1710",
+      "target": "BL1145-1146"
+    },
+    {
+      "source": "BL1100-1710",
+      "target": "BL1108.2-1108.7"
+    },
+    {
+      "source": "BL1100-1710",
+      "target": "BL1109.2-1109.7"
+    },
+    {
+      "source": "BL1111-1143.2",
+      "target": "BL1140.2-1140.4"
+    },
+    {
+      "source": "BL1111-1143.2",
+      "target": "BL1112.2-1137.5"
+    },
+    {
+      "source": "BL1111-1143.2",
+      "target": "BL1141.2-1142.6"
+    },
+    {
+      "source": "BL1271.2-1295",
+      "target": "BL1284.5-1289.592"
+    },
+    {
+      "source": "BL1300-1380",
+      "target": "BL1376-1378.85"
+    },
+    {
+      "source": "BL1300-1380",
+      "target": "BL1310-1314.2"
+    },
+    {
+      "source": "BL1300-1380",
+      "target": "BL1315-1317"
+    },
+    {
+      "source": "BL1300-1380",
+      "target": "BL1379-1380"
+    },
+    {
+      "source": "BL1300-1380",
+      "target": "BL1375.3-1375.7"
+    },
+    {
+      "source": "BL1600-1695",
+      "target": "BL1640-1645"
+    },
+    {
+      "source": "BL1600-1695",
+      "target": "BL1620-1625"
+    },
+    {
+      "source": "BL1600-1695",
+      "target": "BL1695"
+    },
+    {
+      "source": "BL1600-1695",
+      "target": "BL1670-1672"
+    },
+    {
+      "source": "BL1600-1695",
+      "target": "BL1600-1605"
+    },
+    {
+      "source": "BL1600-1695",
+      "target": "BL1680-1685"
+    },
+    {
+      "source": "BL1600-1695",
+      "target": "BL1650"
+    },
+    {
+      "source": "BL1600-1695",
+      "target": "BL1615-1616"
+    },
+    {
+      "source": "BL1600-1695",
+      "target": "BL1660-1665"
+    },
+    {
+      "source": "BL1600-1695",
+      "target": "BL1630"
+    },
+    {
+      "source": "BL1600-1695",
+      "target": "BL1610"
+    },
+    {
+      "source": "BL1600-1695",
+      "target": "BL1635"
+    },
+    {
+      "source": "BL1750-2350",
+      "target": "BL1790-1975"
+    },
+    {
+      "source": "BL1750-2350",
+      "target": "BL2000-2032"
+    },
+    {
+      "source": "BL1750-2350",
+      "target": "BL2195-2228"
+    },
+    {
+      "source": "BL1750-2350",
+      "target": "BL2230-2240"
+    },
+    {
+      "source": "BL1790-1975",
+      "target": "BL1830-1883"
+    },
+    {
+      "source": "BL1790-1975",
+      "target": "BL1899-1942.85"
+    },
+    {
+      "source": "BL2000-2032",
+      "target": "BL2017-2018.7"
+    },
+    {
+      "source": "BL2195-2228",
+      "target": "BL2216-2227.8"
+    },
+    {
+      "source": "BL689-980",
+      "target": "BL900-980"
+    },
+    {
+      "source": "BL689-980",
+      "target": "BL700-820"
+    },
+    {
+      "source": "BL689-980",
+      "target": "BL830-875"
+    },
+    {
+      "source": "BL425-490",
+      "target": "BL435-457"
+    },
+    {
+      "source": "BL425-490",
+      "target": "BL473-490"
+    },
+    {
+      "source": "BL425-490",
+      "target": "BL458"
+    },
+    {
+      "source": "BL425-490",
+      "target": "BL465-470"
+    },
+    {
+      "source": "BL425-490",
+      "target": "BL460"
+    },
+    {
+      "source": "BL425-490",
+      "target": "BL430"
+    },
+    {
+      "source": "B",
+      "target": "BP"
+    },
+    {
+      "source": "BP",
+      "target": "BP1-610"
+    },
+    {
+      "source": "BP",
+      "target": "BP1-68"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP300-395"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP174-190"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP600-610"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP1-253"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP500-585"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP165.5"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP70-80"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP166-166.94"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP191-253"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP1-68"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP173.25-173.45"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP171-173"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP100-134"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP595-597"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP100-157"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP87-89"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP170.3-170.5"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP167.5"
+    },
+    {
+      "source": "BP1-610",
+      "target": "BP170.2"
+    },
+    {
+      "source": "BP174-190",
+      "target": "BP188-190"
+    },
+    {
+      "source": "BP174-190",
+      "target": "BP186-186.97"
+    },
+    {
+      "source": "BP174-190",
+      "target": "BP182"
+    },
+    {
+      "source": "BP174-190",
+      "target": "BP176-181"
+    },
+    {
+      "source": "BP174-190",
+      "target": "BP187-187.9"
+    },
+    {
+      "source": "BP174-190",
+      "target": "BP184-184.9"
+    },
+    {
+      "source": "BP188-190",
+      "target": "BP188.45-189.65"
+    },
+    {
+      "source": "BP188-190",
+      "target": "BP189.68-189.7"
+    },
+    {
+      "source": "BP188-190",
+      "target": "BP188.2-188.3"
+    },
+    {
+      "source": "BP70-80",
+      "target": "BP75-77.75"
+    },
+    {
+      "source": "BP191-253",
+      "target": "BP221-223"
+    },
+    {
+      "source": "BP191-253",
+      "target": "BP192-194.9"
+    },
+    {
+      "source": "BP191-253",
+      "target": "BP251-253"
+    },
+    {
+      "source": "BP191-253",
+      "target": "BP232"
+    },
+    {
+      "source": "BP100-134",
+      "target": "BP130-134"
+    },
+    {
+      "source": "BP100-134",
+      "target": "BP128.15-129.83"
+    },
+    {
+      "source": "BP100-157",
+      "target": "BP100-134"
+    },
+    {
+      "source": "BP100-157",
+      "target": "BP135-136.9"
+    },
+    {
+      "source": "BP100-157",
+      "target": "BP137-137.5"
+    },
+    {
+      "source": "BP1-68",
+      "target": "BP42-48"
+    },
+    {
+      "source": "B",
+      "target": "BM"
+    },
+    {
+      "source": "BM",
+      "target": "BM1-990"
+    },
+    {
+      "source": "BM",
+      "target": "BM1-449"
+    },
+    {
+      "source": "BM1-990",
+      "target": "BM650-747"
+    },
+    {
+      "source": "BM1-990",
+      "target": "BM495-532"
+    },
+    {
+      "source": "BM1-990",
+      "target": "BM600-645"
+    },
+    {
+      "source": "BM1-990",
+      "target": "BM534-538"
+    },
+    {
+      "source": "BM1-990",
+      "target": "BM750-755"
+    },
+    {
+      "source": "BM1-990",
+      "target": "BM1-449"
+    },
+    {
+      "source": "BM1-990",
+      "target": "BM545-582"
+    },
+    {
+      "source": "BM1-990",
+      "target": "BM480-488.8"
+    },
+    {
+      "source": "BM1-990",
+      "target": "BM900-990"
+    },
+    {
+      "source": "BM1-990",
+      "target": "BM585-585.4"
+    },
+    {
+      "source": "BM1-990",
+      "target": "BM590-591"
+    },
+    {
+      "source": "BM1-990",
+      "target": "BM648"
+    },
+    {
+      "source": "BM1-990",
+      "target": "BM646"
+    },
+    {
+      "source": "BM650-747",
+      "target": "BM723-729"
+    },
+    {
+      "source": "BM650-747",
+      "target": "BM660-679"
+    },
+    {
+      "source": "BM650-747",
+      "target": "BM651-652.7"
+    },
+    {
+      "source": "BM650-747",
+      "target": "BM690-695"
+    },
+    {
+      "source": "BM650-747",
+      "target": "BM700-720"
+    },
+    {
+      "source": "BM650-747",
+      "target": "BM730-747"
+    },
+    {
+      "source": "BM650-747",
+      "target": "BM653-653.7"
+    },
+    {
+      "source": "BM650-747",
+      "target": "BM656-657"
+    },
+    {
+      "source": "BM650-747",
+      "target": "BM654-655.6"
+    },
+    {
+      "source": "BM495-532",
+      "target": "BM497-509"
+    },
+    {
+      "source": "BM495-532",
+      "target": "BM520-523.7"
+    },
+    {
+      "source": "BM495-532",
+      "target": "BM525-526"
+    },
+    {
+      "source": "BM495-532",
+      "target": "BM529"
+    },
+    {
+      "source": "BM495-532",
+      "target": "BM510-518"
+    },
+    {
+      "source": "BM497-509",
+      "target": "BM499-504.7"
+    },
+    {
+      "source": "BM497-509",
+      "target": "BM498-498.8"
+    },
+    {
+      "source": "BM497-509",
+      "target": "BM497-497.8"
+    },
+    {
+      "source": "BM497-509",
+      "target": "BM508-508.5"
+    },
+    {
+      "source": "BM497-509",
+      "target": "BM507-507.5"
+    },
+    {
+      "source": "BM534-538",
+      "target": "BM534-536"
+    },
+    {
+      "source": "BM1-449",
+      "target": "BM150-449"
+    },
+    {
+      "source": "BM150-449",
+      "target": "BM201-449"
+    },
+    {
+      "source": "B",
+      "target": "BC"
+    },
+    {
+      "source": "BC",
+      "target": "BC1-199"
+    },
+    {
+      "source": "BC1-199",
+      "target": "BC60-99"
+    },
+    {
+      "source": "BC1-199",
+      "target": "BC171-199"
+    },
+    {
+      "source": "BC1-199",
+      "target": "BC11-39"
+    },
+    {
+      "source": "BC11-39",
+      "target": "BC25-39"
+    },
+    {
+      "source": "B",
+      "target": "BQ"
+    },
+    {
+      "source": "BQ",
+      "target": "BQ1-9800"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ1100-3340"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ7001-9800"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ4061-4570"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ4000-4060"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ840-999"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ4911-5720"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ251-799"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ4620-4905"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ115-126"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ1001-1045"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ133"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ6300-6388"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ6001-6160"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ5851-5899"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ221-249"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ6400-6495"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ12-93"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ5725-5845"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ130"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ4600-4610"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ135"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ5901-5975"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ141-209"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ100-102"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ800-829"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ104-105"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ128"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ1-10"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ210-219"
+    },
+    {
+      "source": "BQ1-9800",
+      "target": "BQ6200-6240"
+    },
+    {
+      "source": "BQ7001-9800",
+      "target": "BQ8000-9800"
+    },
+    {
+      "source": "BQ7001-9800",
+      "target": "BQ7530-7950"
+    },
+    {
+      "source": "BQ7001-9800",
+      "target": "BQ7960-7989"
+    },
+    {
+      "source": "BQ7001-9800",
+      "target": "BQ7300-7529"
+    },
+    {
+      "source": "BQ7001-9800",
+      "target": "BQ7100-7285"
+    },
+    {
+      "source": "BQ8000-9800",
+      "target": "BQ9250-9519"
+    },
+    {
+      "source": "BQ8000-9800",
+      "target": "BQ8900-9099"
+    },
+    {
+      "source": "BQ8000-9800",
+      "target": "BQ8500-8769"
+    },
+    {
+      "source": "BQ4061-4570",
+      "target": "BQ4180-4565"
+    },
+    {
+      "source": "BQ4061-4570",
+      "target": "BQ4570"
+    },
+    {
+      "source": "BQ840-999",
+      "target": "BQ860-999"
+    },
+    {
+      "source": "BQ840-999",
+      "target": "BQ840-858"
+    },
+    {
+      "source": "BQ860-999",
+      "target": "BQ940-999"
+    },
+    {
+      "source": "BQ860-999",
+      "target": "BQ860-939"
+    },
+    {
+      "source": "BQ4911-5720",
+      "target": "BQ5360-5680"
+    },
+    {
+      "source": "BQ4911-5720",
+      "target": "BQ5070-5075"
+    },
+    {
+      "source": "BQ4911-5720",
+      "target": "BQ5700-5720"
+    },
+    {
+      "source": "BQ4911-5720",
+      "target": "BQ5140-5355"
+    },
+    {
+      "source": "BQ4911-5720",
+      "target": "BQ4965-5030"
+    },
+    {
+      "source": "BQ4911-5720",
+      "target": "BQ5100-5125"
+    },
+    {
+      "source": "BQ4911-5720",
+      "target": "BQ5035-5065"
+    },
+    {
+      "source": "BQ4911-5720",
+      "target": "BQ5130-5137"
+    },
+    {
+      "source": "BQ4911-5720",
+      "target": "BQ5080-5085"
+    },
+    {
+      "source": "BQ5360-5680",
+      "target": "BQ5635-5675"
+    },
+    {
+      "source": "BQ5360-5680",
+      "target": "BQ5595-5633"
+    },
+    {
+      "source": "BQ5360-5680",
+      "target": "BQ5535-5594"
+    },
+    {
+      "source": "BQ5360-5680",
+      "target": "BQ5485-5530"
+    },
+    {
+      "source": "BQ5140-5355",
+      "target": "BQ5251-5305"
+    },
+    {
+      "source": "BQ5140-5355",
+      "target": "BQ5310-5350"
+    },
+    {
+      "source": "BQ221-249",
+      "target": "BQ240-244"
+    },
+    {
+      "source": "BQ221-249",
+      "target": "BQ246-249"
+    },
+    {
+      "source": "B",
+      "target": "BD"
+    },
+    {
+      "source": "BD",
+      "target": "BD10-701"
+    },
+    {
+      "source": "BD10-701",
+      "target": "BD300-450"
+    },
+    {
+      "source": "BD10-701",
+      "target": "BD143-237"
+    },
+    {
+      "source": "BD10-701",
+      "target": "BD10-41"
+    },
+    {
+      "source": "BD10-701",
+      "target": "BD95-131"
+    },
+    {
+      "source": "BD10-701",
+      "target": "BD493-701"
+    },
+    {
+      "source": "BD10-701",
+      "target": "BD240-260"
+    },
+    {
+      "source": "B",
+      "target": "BH"
+    },
+    {
+      "source": "BH",
+      "target": "BH1-301"
+    },
+    {
+      "source": "BH1-301",
+      "target": "BH81-208"
+    },
+    {
+      "source": "BH1-301",
+      "target": "BH301"
+    }
+  ],
+  "maxCount": 42692
+}

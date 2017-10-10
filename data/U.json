@@ -1,0 +1,1137 @@
+{
+  "nodes": [
+    {
+      "id": "U",
+      "size": 0,
+      "subject": "Military science (General)"
+    },
+    {
+      "id": "U1-900",
+      "size": 6954,
+      "subject": "Military science (General)"
+    },
+    {
+      "id": "U21-22.3",
+      "size": 1829,
+      "subject": "War.    Philosophy.    Military sociology"
+    },
+    {
+      "id": "U27-43",
+      "size": 1850,
+      "subject": "History of military science"
+    },
+    {
+      "id": "U799-897",
+      "size": 1423,
+      "subject": "History of arms and armor"
+    },
+    {
+      "id": "U400-714",
+      "size": 1958,
+      "subject": "Military education and training"
+    },
+    {
+      "id": "U150-155",
+      "size": 128,
+      "subject": "Military planning"
+    },
+    {
+      "id": "U263-264.5",
+      "size": 1150,
+      "subject": "Atomic warfare.    Atomic weapons"
+    },
+    {
+      "id": "U262",
+      "size": 152,
+      "subject": "Commando tactics"
+    },
+    {
+      "id": "U164-167.5",
+      "size": 455,
+      "subject": "Tactics"
+    },
+    {
+      "id": "U161-163",
+      "size": 1198,
+      "subject": "Strategy"
+    },
+    {
+      "id": "U750-773",
+      "size": 460,
+      "subject": "Military life, manners and customs, antiquities, etc."
+    },
+    {
+      "id": "U310-310.2",
+      "size": 267,
+      "subject": "War games"
+    },
+    {
+      "id": "U260",
+      "size": 107,
+      "subject": "Joint operations.    Combined operations"
+    },
+    {
+      "id": "U168",
+      "size": 125,
+      "subject": "Logistics"
+    },
+    {
+      "id": "U261",
+      "size": 32,
+      "subject": "Amphibious warfare"
+    },
+    {
+      "id": "U320-325",
+      "size": 48,
+      "subject": "Physical training of soldiers"
+    },
+    {
+      "id": "U300-305",
+      "size": 13,
+      "subject": "Artillery and rifle ranges"
+    },
+    {
+      "id": "U250-255",
+      "size": 46,
+      "subject": "Maneuvers (combined arms)"
+    },
+    {
+      "id": "U56-59",
+      "size": 19,
+      "subject": "Army clubs"
+    },
+    {
+      "id": "U45",
+      "size": 5,
+      "subject": "Historiography"
+    },
+    {
+      "id": "UG",
+      "size": 0,
+      "subject": "Air forces.    Air warfare"
+    },
+    {
+      "id": "UG1-620",
+      "size": 1034,
+      "subject": "Military engineering"
+    },
+    {
+      "id": "UG443-449",
+      "size": 1668,
+      "subject": "Attack and defense.    Siege warfare"
+    },
+    {
+      "id": "UG360-390",
+      "size": 22,
+      "subject": "Field engineering"
+    },
+    {
+      "id": "UG400-442",
+      "size": 1253,
+      "subject": "Fortification"
+    },
+    {
+      "id": "UG490",
+      "size": 143,
+      "subject": "Land mines, etc."
+    },
+    {
+      "id": "UG590-613.5",
+      "size": 151,
+      "subject": "Military telegraphy and telephony"
+    },
+    {
+      "id": "UG615-620",
+      "size": 230,
+      "subject": "Military motor vehicles"
+    },
+    {
+      "id": "UG470-474",
+      "size": 144,
+      "subject": "Military surveying, topography, and    mapping"
+    },
+    {
+      "id": "UG335",
+      "size": 21,
+      "subject": "Bridges"
+    },
+    {
+      "id": "UG570-582",
+      "size": 77,
+      "subject": "Military signaling"
+    },
+    {
+      "id": "UG500-565",
+      "size": 29,
+      "subject": "Technical troops and other special corps"
+    },
+    {
+      "id": "UG160-302",
+      "size": 5,
+      "subject": "Tactics and regulations"
+    },
+    {
+      "id": "UG340",
+      "size": 5,
+      "subject": "Tunnels"
+    },
+    {
+      "id": "UG622-1435",
+      "size": 1628,
+      "subject": "Air forces.    Air warfare"
+    },
+    {
+      "id": "UG633-635",
+      "size": 2594,
+      "subject": "By region or country"
+    },
+    {
+      "id": "UG1100-1435",
+      "size": 3516,
+      "subject": "Equipment and supplies"
+    },
+    {
+      "id": "UG700-705",
+      "size": 123,
+      "subject": "Tactics"
+    },
+    {
+      "id": "UG760-765",
+      "size": 66,
+      "subject": "Aerial reconnaissance"
+    },
+    {
+      "id": "UG637-639",
+      "size": 200,
+      "subject": "Education and training"
+    },
+    {
+      "id": "UG770-1045",
+      "size": 178,
+      "subject": "Organization.    Personnel management"
+    },
+    {
+      "id": "UG640-645",
+      "size": 55,
+      "subject": "Military aeronautical research"
+    },
+    {
+      "id": "UG730-735",
+      "size": 195,
+      "subject": "Air defenses"
+    },
+    {
+      "id": "UG1097",
+      "size": 3,
+      "subject": "Air bases"
+    },
+    {
+      "id": "UG1500-1530",
+      "size": 157,
+      "subject": "Military astronautics.    Space warfare.    Space surveillance"
+    },
+    {
+      "id": "UG1523-1525",
+      "size": 147,
+      "subject": "By region or country"
+    },
+    {
+      "id": "UA",
+      "size": 0,
+      "subject": "Armies: Organization, distribution, military situation"
+    },
+    {
+      "id": "UA10-997",
+      "size": 1737,
+      "subject": "Armies: Organization, distribution, military situation"
+    },
+    {
+      "id": "UA21-885",
+      "size": 20479,
+      "subject": "By region or country"
+    },
+    {
+      "id": "UA940-945",
+      "size": 121,
+      "subject": "Military communication"
+    },
+    {
+      "id": "UA985-997",
+      "size": 153,
+      "subject": "Military geography"
+    },
+    {
+      "id": "UA926-929",
+      "size": 853,
+      "subject": "Civil defense"
+    },
+    {
+      "id": "UA920-925",
+      "size": 3,
+      "subject": "Plans for attack and defense"
+    },
+    {
+      "id": "UA950-979",
+      "size": 6,
+      "subject": "Routes of travel.    Distances"
+    },
+    {
+      "id": "UA910-915",
+      "size": 36,
+      "subject": "Mobilization"
+    },
+    {
+      "id": "UA929.5-929.95",
+      "size": 80,
+      "subject": "War damage in industry.    Industrial defense"
+    },
+    {
+      "id": "UB",
+      "size": 0,
+      "subject": "Military administration"
+    },
+    {
+      "id": "UB1-900",
+      "size": 2137,
+      "subject": "Military administration"
+    },
+    {
+      "id": "UB356-369.5",
+      "size": 1263,
+      "subject": "Provision for veterans"
+    },
+    {
+      "id": "UB250-271",
+      "size": 1931,
+      "subject": "Intelligence"
+    },
+    {
+      "id": "UB416-419",
+      "size": 432,
+      "subject": "Minorities, women, etc. in armed forces"
+    },
+    {
+      "id": "UB320-338",
+      "size": 481,
+      "subject": "Enlistment, recruiting, etc."
+    },
+    {
+      "id": "UB180-197",
+      "size": 63,
+      "subject": "Civilian personnel departments"
+    },
+    {
+      "id": "UB407-409",
+      "size": 50,
+      "subject": "Warrant officers.    Noncommissioned officers"
+    },
+    {
+      "id": "UB440-449.5",
+      "size": 34,
+      "subject": "Retired military personnel"
+    },
+    {
+      "id": "UB340-345",
+      "size": 695,
+      "subject": "Compulsory service.    Conscription and exemption"
+    },
+    {
+      "id": "UB410-415",
+      "size": 278,
+      "subject": "Officers"
+    },
+    {
+      "id": "UB160-165",
+      "size": 55,
+      "subject": "Records, returns, muster rolls, etc."
+    },
+    {
+      "id": "UB275-277",
+      "size": 129,
+      "subject": "Psychological warfare.    Propaganda"
+    },
+    {
+      "id": "UB370-375",
+      "size": 228,
+      "subject": "Military pensions, etc."
+    },
+    {
+      "id": "UB380-385",
+      "size": 58,
+      "subject": "Soldiers' and sailors' homes"
+    },
+    {
+      "id": "UB273-274",
+      "size": 7,
+      "subject": "Sabotage"
+    },
+    {
+      "id": "UB420-425",
+      "size": 7,
+      "subject": "Furloughs"
+    },
+    {
+      "id": "UB170-175",
+      "size": 7,
+      "subject": "Adjutant generals' offices"
+    },
+    {
+      "id": "UD",
+      "size": 0,
+      "subject": "Infantry"
+    },
+    {
+      "id": "UD1-495",
+      "size": 117,
+      "subject": "Infantry"
+    },
+    {
+      "id": "UD480-485",
+      "size": 137,
+      "subject": "Airborne troops.    Parachute troops"
+    },
+    {
+      "id": "UD157-302",
+      "size": 225,
+      "subject": "Tactics.    Maneuvers.    Drill regulations"
+    },
+    {
+      "id": "UD380-425",
+      "size": 685,
+      "subject": "Small arms.    Swords, etc."
+    },
+    {
+      "id": "UD330-335",
+      "size": 89,
+      "subject": "Firing.    Military sharpshooting"
+    },
+    {
+      "id": "UD320-325",
+      "size": 4,
+      "subject": "Manual of arms"
+    },
+    {
+      "id": "UD340-345",
+      "size": 3,
+      "subject": "Bayonet drill"
+    },
+    {
+      "id": "UD470-475",
+      "size": 5,
+      "subject": "Ski troops"
+    },
+    {
+      "id": "UD450-455",
+      "size": 2,
+      "subject": "Mounted infantry"
+    },
+    {
+      "id": "UD460-464",
+      "size": 12,
+      "subject": "Mountain troops"
+    },
+    {
+      "id": "UD490-495",
+      "size": 3,
+      "subject": "Airmobile operations"
+    },
+    {
+      "id": "UF",
+      "size": 0,
+      "subject": "Artillery"
+    },
+    {
+      "id": "UF1-910",
+      "size": 429,
+      "subject": "Artillery"
+    },
+    {
+      "id": "UF560-780",
+      "size": 778,
+      "subject": "Ordnance material (Ordnance proper)"
+    },
+    {
+      "id": "UF500-515",
+      "size": 365,
+      "subject": "Weapons systems"
+    },
+    {
+      "id": "UF820-830",
+      "size": 126,
+      "subject": "Ballistics.    Velocities and motions of projectiles"
+    },
+    {
+      "id": "UF400-405",
+      "size": 71,
+      "subject": "Field artillery"
+    },
+    {
+      "id": "UF450-455",
+      "size": 30,
+      "subject": "Seacoast artillery"
+    },
+    {
+      "id": "UF520-537",
+      "size": 556,
+      "subject": "Ordnance and small arms"
+    },
+    {
+      "id": "UF157-302",
+      "size": 44,
+      "subject": "Tactics.    Maneuvers.    Drill regulations"
+    },
+    {
+      "id": "UF540-545",
+      "size": 86,
+      "subject": "Arsenals, magazines, armories, etc."
+    },
+    {
+      "id": "UF460-465",
+      "size": 3,
+      "subject": "Siege artillery"
+    },
+    {
+      "id": "UF848-856",
+      "size": 21,
+      "subject": "Artillery instruments.    Fire control, etc."
+    },
+    {
+      "id": "UF480-485",
+      "size": 4,
+      "subject": "Garrison artillery"
+    },
+    {
+      "id": "UF470-475",
+      "size": 11,
+      "subject": "Howitzer artillery.    Mortar batteries"
+    },
+    {
+      "id": "UC",
+      "size": 0,
+      "subject": "Maintenance and transportation"
+    },
+    {
+      "id": "UC10-780",
+      "size": 75,
+      "subject": "Maintenance and transportation"
+    },
+    {
+      "id": "UC270-360",
+      "size": 332,
+      "subject": "Transportation"
+    },
+    {
+      "id": "UC460-535",
+      "size": 1110,
+      "subject": "Clothing and equipment"
+    },
+    {
+      "id": "UC260-267",
+      "size": 950,
+      "subject": "Supplies and stores"
+    },
+    {
+      "id": "UC20-258",
+      "size": 271,
+      "subject": "Organization of the service.    By region or country"
+    },
+    {
+      "id": "UC400-440",
+      "size": 98,
+      "subject": "Barracks.    Quarters.    Camps"
+    },
+    {
+      "id": "UC700-780",
+      "size": 125,
+      "subject": "Subsistence"
+    },
+    {
+      "id": "UC600-695",
+      "size": 27,
+      "subject": "Horses.    Mules.    Remount service"
+    },
+    {
+      "id": "UC540-585",
+      "size": 1,
+      "subject": "Equipage.    Field kits"
+    },
+    {
+      "id": "UH",
+      "size": 0,
+      "subject": "Other services"
+    },
+    {
+      "id": "UH20-910",
+      "size": 363,
+      "subject": "Other services"
+    },
+    {
+      "id": "UH201-515",
+      "size": 641,
+      "subject": "Medical and sanitary services"
+    },
+    {
+      "id": "UH600-629.5",
+      "size": 122,
+      "subject": "Military hygiene and sanitation"
+    },
+    {
+      "id": "UH520-560",
+      "size": 69,
+      "subject": "Care of sick and wounded.    Relief societies"
+    },
+    {
+      "id": "UH20-25",
+      "size": 169,
+      "subject": "Chaplains"
+    },
+    {
+      "id": "UH800-910",
+      "size": 36,
+      "subject": "Recreation and information services"
+    },
+    {
+      "id": "UH700-705",
+      "size": 37,
+      "subject": "Public relations.    Press.    War correspondents"
+    },
+    {
+      "id": "UH750-769",
+      "size": 29,
+      "subject": "Military social work.    Social welfare services"
+    },
+    {
+      "id": "UE",
+      "size": 0,
+      "subject": "Cavalry.    Armor"
+    },
+    {
+      "id": "UE1-500",
+      "size": 181,
+      "subject": "Cavalry.    Armor"
+    },
+    {
+      "id": "UE144-145",
+      "size": 22,
+      "subject": "Horse cavalry"
+    },
+    {
+      "id": "UE157-302",
+      "size": 98,
+      "subject": "Tactics.    Maneuvers.    Drill regulations"
+    },
+    {
+      "id": "UE460-475",
+      "size": 41,
+      "subject": "Horses"
+    },
+    {
+      "id": "UE147",
+      "size": 5,
+      "subject": "Armored cavalry"
+    }
+  ],
+  "links": [
+    {
+      "source": "U",
+      "target": "U1-900"
+    },
+    {
+      "source": "U1-900",
+      "target": "U21-22.3"
+    },
+    {
+      "source": "U1-900",
+      "target": "U27-43"
+    },
+    {
+      "source": "U1-900",
+      "target": "U799-897"
+    },
+    {
+      "source": "U1-900",
+      "target": "U400-714"
+    },
+    {
+      "source": "U1-900",
+      "target": "U150-155"
+    },
+    {
+      "source": "U1-900",
+      "target": "U263-264.5"
+    },
+    {
+      "source": "U1-900",
+      "target": "U262"
+    },
+    {
+      "source": "U1-900",
+      "target": "U164-167.5"
+    },
+    {
+      "source": "U1-900",
+      "target": "U161-163"
+    },
+    {
+      "source": "U1-900",
+      "target": "U750-773"
+    },
+    {
+      "source": "U1-900",
+      "target": "U310-310.2"
+    },
+    {
+      "source": "U1-900",
+      "target": "U260"
+    },
+    {
+      "source": "U1-900",
+      "target": "U168"
+    },
+    {
+      "source": "U1-900",
+      "target": "U261"
+    },
+    {
+      "source": "U1-900",
+      "target": "U320-325"
+    },
+    {
+      "source": "U1-900",
+      "target": "U300-305"
+    },
+    {
+      "source": "U1-900",
+      "target": "U250-255"
+    },
+    {
+      "source": "U1-900",
+      "target": "U56-59"
+    },
+    {
+      "source": "U1-900",
+      "target": "U45"
+    },
+    {
+      "source": "U",
+      "target": "UG"
+    },
+    {
+      "source": "UG",
+      "target": "UG1-620"
+    },
+    {
+      "source": "UG",
+      "target": "UG622-1435"
+    },
+    {
+      "source": "UG",
+      "target": "UG1500-1530"
+    },
+    {
+      "source": "UG1-620",
+      "target": "UG443-449"
+    },
+    {
+      "source": "UG1-620",
+      "target": "UG360-390"
+    },
+    {
+      "source": "UG1-620",
+      "target": "UG400-442"
+    },
+    {
+      "source": "UG1-620",
+      "target": "UG490"
+    },
+    {
+      "source": "UG1-620",
+      "target": "UG590-613.5"
+    },
+    {
+      "source": "UG1-620",
+      "target": "UG615-620"
+    },
+    {
+      "source": "UG1-620",
+      "target": "UG470-474"
+    },
+    {
+      "source": "UG1-620",
+      "target": "UG335"
+    },
+    {
+      "source": "UG1-620",
+      "target": "UG570-582"
+    },
+    {
+      "source": "UG1-620",
+      "target": "UG500-565"
+    },
+    {
+      "source": "UG1-620",
+      "target": "UG160-302"
+    },
+    {
+      "source": "UG1-620",
+      "target": "UG340"
+    },
+    {
+      "source": "UG622-1435",
+      "target": "UG633-635"
+    },
+    {
+      "source": "UG622-1435",
+      "target": "UG1100-1435"
+    },
+    {
+      "source": "UG622-1435",
+      "target": "UG700-705"
+    },
+    {
+      "source": "UG622-1435",
+      "target": "UG760-765"
+    },
+    {
+      "source": "UG622-1435",
+      "target": "UG637-639"
+    },
+    {
+      "source": "UG622-1435",
+      "target": "UG770-1045"
+    },
+    {
+      "source": "UG622-1435",
+      "target": "UG640-645"
+    },
+    {
+      "source": "UG622-1435",
+      "target": "UG730-735"
+    },
+    {
+      "source": "UG622-1435",
+      "target": "UG1097"
+    },
+    {
+      "source": "UG1500-1530",
+      "target": "UG1523-1525"
+    },
+    {
+      "source": "U",
+      "target": "UA"
+    },
+    {
+      "source": "UA",
+      "target": "UA10-997"
+    },
+    {
+      "source": "UA10-997",
+      "target": "UA21-885"
+    },
+    {
+      "source": "UA10-997",
+      "target": "UA940-945"
+    },
+    {
+      "source": "UA10-997",
+      "target": "UA985-997"
+    },
+    {
+      "source": "UA10-997",
+      "target": "UA926-929"
+    },
+    {
+      "source": "UA10-997",
+      "target": "UA920-925"
+    },
+    {
+      "source": "UA10-997",
+      "target": "UA950-979"
+    },
+    {
+      "source": "UA10-997",
+      "target": "UA910-915"
+    },
+    {
+      "source": "UA10-997",
+      "target": "UA929.5-929.95"
+    },
+    {
+      "source": "U",
+      "target": "UB"
+    },
+    {
+      "source": "UB",
+      "target": "UB1-900"
+    },
+    {
+      "source": "UB1-900",
+      "target": "UB356-369.5"
+    },
+    {
+      "source": "UB1-900",
+      "target": "UB250-271"
+    },
+    {
+      "source": "UB1-900",
+      "target": "UB416-419"
+    },
+    {
+      "source": "UB1-900",
+      "target": "UB320-338"
+    },
+    {
+      "source": "UB1-900",
+      "target": "UB180-197"
+    },
+    {
+      "source": "UB1-900",
+      "target": "UB407-409"
+    },
+    {
+      "source": "UB1-900",
+      "target": "UB440-449.5"
+    },
+    {
+      "source": "UB1-900",
+      "target": "UB340-345"
+    },
+    {
+      "source": "UB1-900",
+      "target": "UB410-415"
+    },
+    {
+      "source": "UB1-900",
+      "target": "UB160-165"
+    },
+    {
+      "source": "UB1-900",
+      "target": "UB275-277"
+    },
+    {
+      "source": "UB1-900",
+      "target": "UB370-375"
+    },
+    {
+      "source": "UB1-900",
+      "target": "UB380-385"
+    },
+    {
+      "source": "UB1-900",
+      "target": "UB273-274"
+    },
+    {
+      "source": "UB1-900",
+      "target": "UB420-425"
+    },
+    {
+      "source": "UB1-900",
+      "target": "UB170-175"
+    },
+    {
+      "source": "U",
+      "target": "UD"
+    },
+    {
+      "source": "UD",
+      "target": "UD1-495"
+    },
+    {
+      "source": "UD1-495",
+      "target": "UD480-485"
+    },
+    {
+      "source": "UD1-495",
+      "target": "UD157-302"
+    },
+    {
+      "source": "UD1-495",
+      "target": "UD380-425"
+    },
+    {
+      "source": "UD1-495",
+      "target": "UD330-335"
+    },
+    {
+      "source": "UD1-495",
+      "target": "UD320-325"
+    },
+    {
+      "source": "UD1-495",
+      "target": "UD340-345"
+    },
+    {
+      "source": "UD1-495",
+      "target": "UD470-475"
+    },
+    {
+      "source": "UD1-495",
+      "target": "UD450-455"
+    },
+    {
+      "source": "UD1-495",
+      "target": "UD460-464"
+    },
+    {
+      "source": "UD1-495",
+      "target": "UD490-495"
+    },
+    {
+      "source": "U",
+      "target": "UF"
+    },
+    {
+      "source": "UF",
+      "target": "UF1-910"
+    },
+    {
+      "source": "UF1-910",
+      "target": "UF560-780"
+    },
+    {
+      "source": "UF1-910",
+      "target": "UF500-515"
+    },
+    {
+      "source": "UF1-910",
+      "target": "UF820-830"
+    },
+    {
+      "source": "UF1-910",
+      "target": "UF400-405"
+    },
+    {
+      "source": "UF1-910",
+      "target": "UF450-455"
+    },
+    {
+      "source": "UF1-910",
+      "target": "UF520-537"
+    },
+    {
+      "source": "UF1-910",
+      "target": "UF157-302"
+    },
+    {
+      "source": "UF1-910",
+      "target": "UF540-545"
+    },
+    {
+      "source": "UF1-910",
+      "target": "UF460-465"
+    },
+    {
+      "source": "UF1-910",
+      "target": "UF848-856"
+    },
+    {
+      "source": "UF1-910",
+      "target": "UF480-485"
+    },
+    {
+      "source": "UF1-910",
+      "target": "UF470-475"
+    },
+    {
+      "source": "U",
+      "target": "UC"
+    },
+    {
+      "source": "UC",
+      "target": "UC10-780"
+    },
+    {
+      "source": "UC10-780",
+      "target": "UC270-360"
+    },
+    {
+      "source": "UC10-780",
+      "target": "UC460-535"
+    },
+    {
+      "source": "UC10-780",
+      "target": "UC260-267"
+    },
+    {
+      "source": "UC10-780",
+      "target": "UC20-258"
+    },
+    {
+      "source": "UC10-780",
+      "target": "UC400-440"
+    },
+    {
+      "source": "UC10-780",
+      "target": "UC700-780"
+    },
+    {
+      "source": "UC10-780",
+      "target": "UC600-695"
+    },
+    {
+      "source": "UC10-780",
+      "target": "UC540-585"
+    },
+    {
+      "source": "U",
+      "target": "UH"
+    },
+    {
+      "source": "UH",
+      "target": "UH20-910"
+    },
+    {
+      "source": "UH20-910",
+      "target": "UH201-515"
+    },
+    {
+      "source": "UH20-910",
+      "target": "UH600-629.5"
+    },
+    {
+      "source": "UH20-910",
+      "target": "UH520-560"
+    },
+    {
+      "source": "UH20-910",
+      "target": "UH20-25"
+    },
+    {
+      "source": "UH20-910",
+      "target": "UH800-910"
+    },
+    {
+      "source": "UH20-910",
+      "target": "UH700-705"
+    },
+    {
+      "source": "UH20-910",
+      "target": "UH750-769"
+    },
+    {
+      "source": "U",
+      "target": "UE"
+    },
+    {
+      "source": "UE",
+      "target": "UE1-500"
+    },
+    {
+      "source": "UE1-500",
+      "target": "UE144-145"
+    },
+    {
+      "source": "UE1-500",
+      "target": "UE157-302"
+    },
+    {
+      "source": "UE1-500",
+      "target": "UE460-475"
+    },
+    {
+      "source": "UE1-500",
+      "target": "UE147"
+    }
+  ],
+  "maxCount": 20479
+}
