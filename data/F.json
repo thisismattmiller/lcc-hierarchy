@@ -3,757 +3,2035 @@
     {
       "id": "F",
       "size": 0,
-      "subject": "Latin America.  Spanish America"
+      "subject": "Latin America.  Spanish America",
+      "parents": [
+        "F"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America"
+      ]
     },
     {
       "id": "F1-975",
       "size": 220,
-      "subject": "United States local history"
+      "subject": "United States local history",
+      "parents": [
+        "F"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America"
+      ]
     },
     {
       "id": "F676-690",
       "size": 1263,
-      "subject": "Kansas"
+      "subject": "Kansas",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F176-190",
       "size": 2508,
-      "subject": "Maryland"
+      "subject": "Maryland",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F31-45",
       "size": 1077,
-      "subject": "New Hampshire"
+      "subject": "New Hampshire",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F536-550",
       "size": 4160,
-      "subject": "Illinois"
+      "subject": "Illinois",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F901-951",
       "size": 1879,
-      "subject": "Alaska"
+      "subject": "Alaska",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F951",
       "size": 37,
-      "subject": "Bering Sea and Aleutian Islands"
+      "subject": "Bering Sea and Aleutian Islands",
+      "parents": [
+        "F",
+        "F1-975",
+        "F901-951"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history",
+        "[F901-951] Alaska"
+      ]
     },
     {
       "id": "F366-380",
       "size": 2118,
-      "subject": "Louisiana"
+      "subject": "Louisiana",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F61-75",
       "size": 5389,
-      "subject": "Massachusetts"
+      "subject": "Massachusetts",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F616-630",
       "size": 1202,
-      "subject": "Iowa"
+      "subject": "Iowa",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F221-235",
       "size": 4885,
-      "subject": "Virginia"
+      "subject": "Virginia",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F431-445",
       "size": 2465,
-      "subject": "Tennessee"
+      "subject": "Tennessee",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F381-395",
       "size": 6546,
-      "subject": "Texas"
+      "subject": "Texas",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F461-475",
       "size": 2016,
-      "subject": "Missouri"
+      "subject": "Missouri",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F576-590",
       "size": 1529,
-      "subject": "Wisconsin"
+      "subject": "Wisconsin",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F771-785",
       "size": 1979,
-      "subject": "Colorado"
+      "subject": "Colorado",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F146-160",
       "size": 5503,
-      "subject": "Pennsylvania"
+      "subject": "Pennsylvania",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F590.3-596.3",
       "size": 4291,
-      "subject": "The West.  Trans-Mississippi Region.  Great Plains"
+      "subject": "The West.  Trans-Mississippi Region.  Great Plains",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F871-885",
       "size": 1766,
-      "subject": "Oregon"
+      "subject": "Oregon",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F486-500",
       "size": 3480,
-      "subject": "Ohio"
+      "subject": "Ohio",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F91-105",
       "size": 1411,
-      "subject": "Connecticut"
+      "subject": "Connecticut",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F821-835",
       "size": 904,
-      "subject": "Utah"
+      "subject": "Utah",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F131-145",
       "size": 1895,
-      "subject": "New Jersey"
+      "subject": "New Jersey",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F206-220",
       "size": 1634,
-      "subject": "The South.  South Atlantic States"
+      "subject": "The South.  South Atlantic States",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F726-740",
       "size": 916,
-      "subject": "Montana"
+      "subject": "Montana",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F116-130",
       "size": 8744,
-      "subject": "New York"
+      "subject": "New York",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F756-770",
       "size": 659,
-      "subject": "Wyoming"
+      "subject": "Wyoming",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F601-615",
       "size": 1495,
-      "subject": "Minnesota"
+      "subject": "Minnesota",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F856-870",
       "size": 9350,
-      "subject": "California"
+      "subject": "California",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F350.5-355",
       "size": 663,
-      "subject": "Mississippi River and Valley.  Middle West"
+      "subject": "Mississippi River and Valley.  Middle West",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F281-295",
       "size": 2909,
-      "subject": "Georgia"
+      "subject": "Georgia",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F836-850",
       "size": 761,
-      "subject": "Nevada"
+      "subject": "Nevada",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F266-280",
       "size": 2055,
-      "subject": "South Carolina"
+      "subject": "South Carolina",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F741-755",
       "size": 612,
-      "subject": "Idaho"
+      "subject": "Idaho",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F191-205",
       "size": 1847,
-      "subject": "District of Columbia.  Washington"
+      "subject": "District of Columbia.  Washington",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F721-722",
       "size": 400,
-      "subject": "Rocky Mountains.  Yellowstone National Park"
+      "subject": "Rocky Mountains.  Yellowstone National Park",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F306-320",
       "size": 2813,
-      "subject": "Florida"
+      "subject": "Florida",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F1-15",
       "size": 1129,
-      "subject": "New England"
+      "subject": "New England",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F597",
       "size": 246,
-      "subject": "The Northwest"
+      "subject": "The Northwest",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F786-790",
       "size": 1405,
-      "subject": "New Southwest.  Colorado River, Canyon, and Valley"
+      "subject": "New Southwest.  Colorado River, Canyon, and Valley",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F561-575",
       "size": 2348,
-      "subject": "Michigan"
+      "subject": "Michigan",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F852-854",
       "size": 344,
-      "subject": "Pacific Northwest.  Columbia River and Valley."
+      "subject": "Pacific Northwest.  Columbia River and Valley.",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F406-420",
       "size": 1112,
-      "subject": "Arkansas"
+      "subject": "Arkansas",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F806-820",
       "size": 1337,
-      "subject": "Arizona"
+      "subject": "Arizona",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F321-335",
       "size": 1612,
-      "subject": "Alabama"
+      "subject": "Alabama",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F691-705",
       "size": 910,
-      "subject": "Oklahoma"
+      "subject": "Oklahoma",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F251-265",
       "size": 3014,
-      "subject": "North Carolina"
+      "subject": "North Carolina",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F446-460",
       "size": 2656,
-      "subject": "Kentucky"
+      "subject": "Kentucky",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F521-535",
       "size": 2223,
-      "subject": "Indiana"
+      "subject": "Indiana",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F550.5-553.2",
       "size": 203,
-      "subject": "The Lake region.  Great Lakes"
+      "subject": "The Lake region.  Great Lakes",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F336-350",
       "size": 997,
-      "subject": "Mississippi"
+      "subject": "Mississippi",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F106",
       "size": 368,
-      "subject": "Atlantic coast.  Middle Atlantic States"
+      "subject": "Atlantic coast.  Middle Atlantic States",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F16-30",
       "size": 1794,
-      "subject": "Maine"
+      "subject": "Maine",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F646-660",
       "size": 744,
-      "subject": "South Dakota"
+      "subject": "South Dakota",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F886-900",
       "size": 2129,
-      "subject": "Washington"
+      "subject": "Washington",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F791-805",
       "size": 1737,
-      "subject": "New Mexico"
+      "subject": "New Mexico",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F598",
       "size": 77,
-      "subject": "Missouri River and Valley"
+      "subject": "Missouri River and Valley",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F965",
       "size": 7,
-      "subject": "The territories of the United States (General)"
+      "subject": "The territories of the United States (General)",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F850.5-851.5",
       "size": 348,
-      "subject": "Pacific States"
+      "subject": "Pacific States",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F46-60",
       "size": 887,
-      "subject": "Vermont"
+      "subject": "Vermont",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F661-675",
       "size": 769,
-      "subject": "Nebraska"
+      "subject": "Nebraska",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F76-90",
       "size": 800,
-      "subject": "Rhode Island"
+      "subject": "Rhode Island",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F236-250",
       "size": 1139,
-      "subject": "West Virginia"
+      "subject": "West Virginia",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F396",
       "size": 77,
-      "subject": "Old Southwest.  Lower Mississippi Valley"
+      "subject": "Old Southwest.  Lower Mississippi Valley",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F631-645",
       "size": 447,
-      "subject": "North Dakota"
+      "subject": "North Dakota",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F516-520",
       "size": 186,
-      "subject": "Ohio River and Valley"
+      "subject": "Ohio River and Valley",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F161-175",
       "size": 469,
-      "subject": "Delaware"
+      "subject": "Delaware",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F476-485",
       "size": 163,
-      "subject": "Old Northwest.  Northwest Territory"
+      "subject": "Old Northwest.  Northwest Territory",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F296-301",
       "size": 79,
-      "subject": "Gulf States.  West Florida"
+      "subject": "Gulf States.  West Florida",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F970",
       "size": 36,
-      "subject": "Insular possessions of the United States (General)"
+      "subject": "Insular possessions of the United States (General)",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F975",
       "size": 2,
-      "subject": "Central American, West Indian, and other countries"
+      "subject": "Central American, West Indian, and other countries",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F851.7",
       "size": 17,
-      "subject": "Cascade Range"
+      "subject": "Cascade Range",
+      "parents": [
+        "F",
+        "F1-975"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1-975] United States local history"
+      ]
     },
     {
       "id": "F1201-3799",
       "size": 4,
-      "subject": "Latin America.  Spanish America"
+      "subject": "Latin America.  Spanish America",
+      "parents": [
+        "F"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America"
+      ]
     },
     {
       "id": "F1601-1629",
       "size": 589,
-      "subject": "West Indies"
+      "subject": "West Indies",
+      "parents": [
+        "F",
+        "F1201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America"
+      ]
     },
     {
       "id": "F2155-2191",
       "size": 898,
-      "subject": "Caribbean area.  Caribbean Sea"
+      "subject": "Caribbean area.  Caribbean Sea",
+      "parents": [
+        "F",
+        "F1201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America"
+      ]
     },
     {
       "id": "F1421-1440",
       "size": 1385,
-      "subject": "Central America"
+      "subject": "Central America",
+      "parents": [
+        "F",
+        "F1201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America"
+      ]
     },
     {
       "id": "F1435-1435.3",
       "size": 2036,
-      "subject": "Mayas"
+      "subject": "Mayas",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F1421-1440"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F1421-1440] Central America"
+      ]
     },
     {
       "id": "F2201-3799",
       "size": 29,
-      "subject": "South America"
+      "subject": "South America",
+      "parents": [
+        "F",
+        "F1201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America"
+      ]
     },
     {
       "id": "F2201-2239",
       "size": 4571,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2201-3799] South America"
+      ]
     },
     {
       "id": "F2501-2659",
       "size": 19935,
-      "subject": "Brazil"
+      "subject": "Brazil",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2201-3799] South America"
+      ]
     },
     {
       "id": "F2251-2299",
       "size": 5418,
-      "subject": "Colombia"
+      "subject": "Colombia",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2201-3799] South America"
+      ]
     },
     {
       "id": "F3401-3619",
       "size": 6975,
-      "subject": "Peru"
+      "subject": "Peru",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2201-3799] South America"
+      ]
     },
     {
       "id": "F2801-3021",
       "size": 11883,
-      "subject": "Argentina"
+      "subject": "Argentina",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2201-3799] South America"
+      ]
     },
     {
       "id": "F2301-2349",
       "size": 4690,
-      "subject": "Venezuela"
+      "subject": "Venezuela",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2201-3799] South America"
+      ]
     },
     {
       "id": "F2441-2471",
       "size": 211,
-      "subject": "French Guiana"
+      "subject": "French Guiana",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2201-3799] South America"
+      ]
     },
     {
       "id": "F3051-3285",
       "size": 4365,
-      "subject": "Chile"
+      "subject": "Chile",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2201-3799] South America"
+      ]
     },
     {
       "id": "F3301-3359",
       "size": 3000,
-      "subject": "Bolivia"
+      "subject": "Bolivia",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2201-3799] South America"
+      ]
     },
     {
       "id": "F2701-2799",
       "size": 2112,
-      "subject": "Uruguay"
+      "subject": "Uruguay",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2201-3799] South America"
+      ]
     },
     {
       "id": "F2661-2699",
       "size": 1994,
-      "subject": "Paraguay"
+      "subject": "Paraguay",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2201-3799] South America"
+      ]
     },
     {
       "id": "F2361-2391",
       "size": 371,
-      "subject": "Guyana.  British Guiana"
+      "subject": "Guyana.  British Guiana",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2201-3799] South America"
+      ]
     },
     {
       "id": "F3701-3799",
       "size": 2776,
-      "subject": "Ecuador"
+      "subject": "Ecuador",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2201-3799] South America"
+      ]
     },
     {
       "id": "F3031-3031.5",
       "size": 516,
-      "subject": "Falkland Islands"
+      "subject": "Falkland Islands",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2201-3799] South America"
+      ]
     },
     {
       "id": "F2401-2431",
       "size": 348,
-      "subject": "Surinam"
+      "subject": "Surinam",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2201-3799] South America"
+      ]
     },
     {
       "id": "F2351",
       "size": 43,
-      "subject": "Guiana"
+      "subject": "Guiana",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2201-3799] South America"
+      ]
     },
     {
       "id": "F1201-1392",
       "size": 16988,
-      "subject": "Mexico"
+      "subject": "Mexico",
+      "parents": [
+        "F",
+        "F1201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America"
+      ]
     },
     {
       "id": "F1461-1477",
       "size": 1882,
-      "subject": "Guatemala"
+      "subject": "Guatemala",
+      "parents": [
+        "F",
+        "F1201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America"
+      ]
     },
     {
       "id": "F1741-1991",
       "size": 21,
-      "subject": "Greater Antilles"
+      "subject": "Greater Antilles",
+      "parents": [
+        "F",
+        "F1201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America"
+      ]
     },
     {
       "id": "F1900-1941",
       "size": 177,
-      "subject": "Haiti (Island).  Hispaniola"
+      "subject": "Haiti (Island).  Hispaniola",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F1741-1991"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F1741-1991] Greater Antilles"
+      ]
     },
     {
       "id": "F1931-1941",
       "size": 1706,
-      "subject": "Dominican Republic"
+      "subject": "Dominican Republic",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F1741-1991",
+        "F1900-1941"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F1741-1991] Greater Antilles",
+        "[F1900-1941] Haiti (Island).  Hispaniola"
+      ]
     },
     {
       "id": "F1912-1930",
       "size": 1181,
-      "subject": "Haiti (Republic)"
+      "subject": "Haiti (Republic)",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F1741-1991",
+        "F1900-1941"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F1741-1991] Greater Antilles",
+        "[F1900-1941] Haiti (Island).  Hispaniola"
+      ]
     },
     {
       "id": "F1751-1854.9",
       "size": 3687,
-      "subject": "Cuba"
+      "subject": "Cuba",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F1741-1991"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F1741-1991] Greater Antilles"
+      ]
     },
     {
       "id": "F1788-1788.22",
       "size": 1366,
-      "subject": "Communist regime"
+      "subject": "Communist regime",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F1741-1991",
+        "F1751-1854.9"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F1741-1991] Greater Antilles",
+        "[F1751-1854.9] Cuba"
+      ]
     },
     {
       "id": "F1951-1983",
       "size": 1571,
-      "subject": "Puerto Rico"
+      "subject": "Puerto Rico",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F1741-1991"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F1741-1991] Greater Antilles"
+      ]
     },
     {
       "id": "F1861-1896",
       "size": 515,
-      "subject": "Jamaica"
+      "subject": "Jamaica",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F1741-1991"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F1741-1991] Greater Antilles"
+      ]
     },
     {
       "id": "F1991",
       "size": 1,
-      "subject": "Navassa"
+      "subject": "Navassa",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F1741-1991"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F1741-1991] Greater Antilles"
+      ]
     },
     {
       "id": "F2001-2151",
       "size": 167,
-      "subject": "Lesser Antilles"
+      "subject": "Lesser Antilles",
+      "parents": [
+        "F",
+        "F1201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America"
+      ]
     },
     {
       "id": "F2033-2129",
       "size": 1521,
-      "subject": "Individual islands"
+      "subject": "Individual islands",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2001-2151"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2001-2151] Lesser Antilles"
+      ]
     },
     {
       "id": "F2131-2133",
       "size": 166,
-      "subject": "British West Indies"
+      "subject": "British West Indies",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2001-2151"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2001-2151] Lesser Antilles"
+      ]
     },
     {
       "id": "F2136",
       "size": 97,
-      "subject": "Virgin Islands of the United States"
+      "subject": "Virgin Islands of the United States",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2001-2151"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2001-2151] Lesser Antilles"
+      ]
     },
     {
       "id": "F2141",
       "size": 98,
-      "subject": "Netherlands West Indies.  Dutch West Indies"
+      "subject": "Netherlands West Indies.  Dutch West Indies",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2001-2151"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2001-2151] Lesser Antilles"
+      ]
     },
     {
       "id": "F2151",
       "size": 130,
-      "subject": "French West Indies"
+      "subject": "French West Indies",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2001-2151"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2001-2151] Lesser Antilles"
+      ]
     },
     {
       "id": "F2006",
       "size": 15,
-      "subject": "Leeward islands"
+      "subject": "Leeward islands",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2001-2151"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2001-2151] Lesser Antilles"
+      ]
     },
     {
       "id": "F2016",
       "size": 1,
-      "subject": "Islands along Venezuela coast"
+      "subject": "Islands along Venezuela coast",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2001-2151"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2001-2151] Lesser Antilles"
+      ]
     },
     {
       "id": "F2011",
       "size": 9,
-      "subject": "Windward Islands"
+      "subject": "Windward Islands",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F2001-2151"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F2001-2151] Lesser Antilles"
+      ]
     },
     {
       "id": "F1481-1497",
       "size": 737,
-      "subject": "Salvador (El Salvador)"
+      "subject": "Salvador (El Salvador)",
+      "parents": [
+        "F",
+        "F1201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America"
+      ]
     },
     {
       "id": "F1650-1660",
       "size": 213,
-      "subject": "Bahamas"
+      "subject": "Bahamas",
+      "parents": [
+        "F",
+        "F1201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America"
+      ]
     },
     {
       "id": "F1521-1537",
       "size": 1609,
-      "subject": "Nicaragua"
+      "subject": "Nicaragua",
+      "parents": [
+        "F",
+        "F1201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America"
+      ]
     },
     {
       "id": "F1541-1557",
       "size": 1092,
-      "subject": "Costa Rica"
+      "subject": "Costa Rica",
+      "parents": [
+        "F",
+        "F1201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America"
+      ]
     },
     {
       "id": "F1401-1419",
       "size": 7886,
-      "subject": "Latin America (General)"
+      "subject": "Latin America (General)",
+      "parents": [
+        "F",
+        "F1201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America"
+      ]
     },
     {
       "id": "F1441-1457",
       "size": 305,
-      "subject": "Belize"
+      "subject": "Belize",
+      "parents": [
+        "F",
+        "F1201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America"
+      ]
     },
     {
       "id": "F1561-1577",
       "size": 954,
-      "subject": "Panama"
+      "subject": "Panama",
+      "parents": [
+        "F",
+        "F1201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America"
+      ]
     },
     {
       "id": "F1569",
       "size": 182,
-      "subject": "Canal Zone.  Panama Canal"
+      "subject": "Canal Zone.  Panama Canal",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F1561-1577"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F1561-1577] Panama"
+      ]
     },
     {
       "id": "F1501-1517",
       "size": 745,
-      "subject": "Honduras"
+      "subject": "Honduras",
+      "parents": [
+        "F",
+        "F1201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America"
+      ]
     },
     {
       "id": "F1630-1640",
       "size": 147,
-      "subject": "Bermudas"
+      "subject": "Bermudas",
+      "parents": [
+        "F",
+        "F1201-3799"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America"
+      ]
     },
     {
       "id": "F1001-1145.2",
       "size": 12,
-      "subject": "Canada"
+      "subject": "Canada",
+      "parents": [
+        "F"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America"
+      ]
     },
     {
       "id": "F1001-1035",
       "size": 6250,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1060-1060.97",
       "size": 1001,
-      "subject": "Canadian Northwest.  Northwest Territories"
+      "subject": "Canadian Northwest.  Northwest Territories",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1056-1059.7",
       "size": 2344,
-      "subject": "Ontario"
+      "subject": "Ontario",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1086-1089.7",
       "size": 1409,
-      "subject": "British Columbia"
+      "subject": "British Columbia",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1070-1074.7",
       "size": 392,
-      "subject": "Saskatchewan"
+      "subject": "Saskatchewan",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1051-1055",
       "size": 3008,
-      "subject": "Quebec"
+      "subject": "Quebec",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1075-1080",
       "size": 759,
-      "subject": "Alberta"
+      "subject": "Alberta",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1041-1045",
       "size": 299,
-      "subject": "New Brunswick"
+      "subject": "New Brunswick",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1091-1095.5",
       "size": 203,
-      "subject": "Yukon"
+      "subject": "Yukon",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1061-1065",
       "size": 526,
-      "subject": "Manitoba"
+      "subject": "Manitoba",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1036-1040",
       "size": 882,
-      "subject": "Nova Scotia.  Acadia"
+      "subject": "Nova Scotia.  Acadia",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1121-1139",
       "size": 345,
-      "subject": "Newfoundland"
+      "subject": "Newfoundland",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1135-1139",
       "size": 107,
-      "subject": "Labrador"
+      "subject": "Labrador",
+      "parents": [
+        "F",
+        "F1001-1145.2",
+        "F1121-1139"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada",
+        "[F1121-1139] Newfoundland"
+      ]
     },
     {
       "id": "F1046-1049.7",
       "size": 146,
-      "subject": "Prince Edward Island"
+      "subject": "Prince Edward Island",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1035.8",
       "size": 125,
-      "subject": "Maritime provinces.  Atlantic coast of Canada"
+      "subject": "Maritime provinces.  Atlantic coast of Canada",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1090.5",
       "size": 124,
-      "subject": "Arctic regions"
+      "subject": "Arctic regions",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1090",
       "size": 84,
-      "subject": "Rocky Mountains of Canada"
+      "subject": "Rocky Mountains of Canada",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1141-1145.2",
       "size": 9,
-      "subject": "Nunavut"
+      "subject": "Nunavut",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1140",
       "size": 14,
-      "subject": "The Labrador Peninsula"
+      "subject": "The Labrador Peninsula",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1096-1100.5",
       "size": 65,
-      "subject": "Mackenzie"
+      "subject": "Mackenzie",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1106-1110.5",
       "size": 7,
-      "subject": "Keewatin"
+      "subject": "Keewatin",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1050",
       "size": 50,
-      "subject": "St. Lawrence Gulf, River and Valley (General)"
+      "subject": "St. Lawrence Gulf, River and Valley (General)",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1101-1105.7",
       "size": 37,
-      "subject": "Franklin"
+      "subject": "Franklin",
+      "parents": [
+        "F",
+        "F1001-1145.2"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1001-1145.2] Canada"
+      ]
     },
     {
       "id": "F1218.5-1221",
       "size": 5973,
-      "subject": "Antiquities.  Indians"
+      "subject": "Antiquities.  Indians",
+      "parents": [
+        "F",
+        "F1201-3799",
+        "F1201-1392"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America",
+        "[F1201-3799] Latin America.  Spanish America",
+        "[F1201-1392] Mexico"
+      ]
     },
     {
       "id": "F1170",
       "size": 20,
-      "subject": "Saint Pierre and Miquelon"
+      "subject": "Saint Pierre and Miquelon",
+      "parents": [
+        "F"
+      ],
+      "parentsSubjects": [
+        "[F] Local History of the United States and British, Dutch, French, and Latin America"
+      ]
     }
   ],
   "links": [

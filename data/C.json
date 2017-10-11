@@ -3,477 +3,1419 @@
     {
       "id": "C",
       "size": 0,
-      "subject": "Auxiliary Sciences of History (General)"
+      "subject": "Auxiliary Sciences of History (General)",
+      "parents": [
+        "C"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)"
+      ]
     },
     {
       "id": "CT",
       "size": 0,
-      "subject": "Biography"
+      "subject": "Biography",
+      "parents": [
+        "C"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)"
+      ]
     },
     {
       "id": "CT21-9999",
       "size": 460,
-      "subject": "Biography"
+      "subject": "Biography",
+      "parents": [
+        "C",
+        "CT"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CT] Biography"
+      ]
     },
     {
       "id": "CT210-3150",
       "size": 21083,
-      "subject": "National biography"
+      "subject": "National biography",
+      "parents": [
+        "C",
+        "CT",
+        "CT21-9999"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CT] Biography",
+        "[CT21-9999] Biography"
+      ]
     },
     {
       "id": "CT3200-9999",
       "size": 10,
-      "subject": "Biography.  By subject"
+      "subject": "Biography.  By subject",
+      "parents": [
+        "C",
+        "CT",
+        "CT21-9999"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CT] Biography",
+        "[CT21-9999] Biography"
+      ]
     },
     {
       "id": "CT3200-3830",
       "size": 1302,
-      "subject": "Biography of women (Collective)"
+      "subject": "Biography of women (Collective)",
+      "parents": [
+        "C",
+        "CT",
+        "CT21-9999",
+        "CT3200-9999"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CT] Biography",
+        "[CT21-9999] Biography",
+        "[CT3200-9999] Biography.  By subject"
+      ]
     },
     {
       "id": "CT9960-9998",
       "size": 367,
-      "subject": "Other miscellaneous groups"
+      "subject": "Other miscellaneous groups",
+      "parents": [
+        "C",
+        "CT",
+        "CT21-9999",
+        "CT3200-9999"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CT] Biography",
+        "[CT21-9999] Biography",
+        "[CT3200-9999] Biography.  By subject"
+      ]
     },
     {
       "id": "CT3990",
       "size": 1055,
-      "subject": "Academicians.  Scholars. Savants"
+      "subject": "Academicians.  Scholars. Savants",
+      "parents": [
+        "C",
+        "CT",
+        "CT21-9999",
+        "CT3200-9999"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CT] Biography",
+        "[CT21-9999] Biography",
+        "[CT3200-9999] Biography.  By subject"
+      ]
     },
     {
       "id": "CT9999",
       "size": 9,
-      "subject": "Blank books for personal records, diaries, etc."
+      "subject": "Blank books for personal records, diaries, etc.",
+      "parents": [
+        "C",
+        "CT",
+        "CT21-9999",
+        "CT3200-9999"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CT] Biography",
+        "[CT21-9999] Biography",
+        "[CT3200-9999] Biography.  By subject"
+      ]
     },
     {
       "id": "CT93-206",
       "size": 2352,
-      "subject": "General collective biography"
+      "subject": "General collective biography",
+      "parents": [
+        "C",
+        "CT",
+        "CT21-9999"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CT] Biography",
+        "[CT21-9999] Biography"
+      ]
     },
     {
       "id": "CT206",
       "size": 4,
-      "subject": "Portraits"
+      "subject": "Portraits",
+      "parents": [
+        "C",
+        "CT",
+        "CT21-9999",
+        "CT93-206"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CT] Biography",
+        "[CT21-9999] Biography",
+        "[CT93-206] General collective biography"
+      ]
     },
     {
       "id": "CT21-22",
       "size": 302,
-      "subject": "Biography as an art or literary form"
+      "subject": "Biography as an art or literary form",
+      "parents": [
+        "C",
+        "CT",
+        "CT21-9999"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CT] Biography",
+        "[CT21-9999] Biography"
+      ]
     },
     {
       "id": "CT31-83",
       "size": 105,
-      "subject": "History of biographical literature.  Lives of biographers"
+      "subject": "History of biographical literature.  Lives of biographers",
+      "parents": [
+        "C",
+        "CT",
+        "CT21-9999"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CT] Biography",
+        "[CT21-9999] Biography"
+      ]
     },
     {
       "id": "CS",
       "size": 0,
-      "subject": "Genealogy"
+      "subject": "Genealogy",
+      "parents": [
+        "C"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)"
+      ]
     },
     {
       "id": "CS1-3090",
       "size": 1016,
-      "subject": "Genealogy"
+      "subject": "Genealogy",
+      "parents": [
+        "C",
+        "CS"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CS] Genealogy"
+      ]
     },
     {
       "id": "CS42-2209",
       "size": 54091,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "C",
+        "CS",
+        "CS1-3090"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CS] Genealogy",
+        "[CS1-3090] Genealogy"
+      ]
     },
     {
       "id": "CS2300-3090",
       "size": 2816,
-      "subject": "Personal and family names"
+      "subject": "Personal and family names",
+      "parents": [
+        "C",
+        "CS",
+        "CS1-3090"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CS] Genealogy",
+        "[CS1-3090] Genealogy"
+      ]
     },
     {
       "id": "CS38-39",
       "size": 89,
-      "subject": "Family history covering more than one country"
+      "subject": "Family history covering more than one country",
+      "parents": [
+        "C",
+        "CS",
+        "CS1-3090"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CS] Genealogy",
+        "[CS1-3090] Genealogy"
+      ]
     },
     {
       "id": "CS23-35",
       "size": 163,
-      "subject": "Genealogical lists, etc., covering more than one country"
+      "subject": "Genealogical lists, etc., covering more than one country",
+      "parents": [
+        "C",
+        "CS",
+        "CS1-3090"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CS] Genealogy",
+        "[CS1-3090] Genealogy"
+      ]
     },
     {
       "id": "CR",
       "size": 0,
-      "subject": "Heraldry"
+      "subject": "Heraldry",
+      "parents": [
+        "C"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)"
+      ]
     },
     {
       "id": "CR1-6305",
       "size": 351,
-      "subject": "Heraldry"
+      "subject": "Heraldry",
+      "parents": [
+        "C",
+        "CR"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CR] Heraldry"
+      ]
     },
     {
       "id": "CR101-115",
       "size": 612,
-      "subject": "Flags, banners, and standards"
+      "subject": "Flags, banners, and standards",
+      "parents": [
+        "C",
+        "CR",
+        "CR1-6305"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CR] Heraldry",
+        "[CR1-6305] Heraldry"
+      ]
     },
     {
       "id": "CR4501-6305",
       "size": 345,
-      "subject": "Chivalry and knighthood (Orders, decorations, etc.)"
+      "subject": "Chivalry and knighthood (Orders, decorations, etc.)",
+      "parents": [
+        "C",
+        "CR",
+        "CR1-6305"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CR] Heraldry",
+        "[CR1-6305] Heraldry"
+      ]
     },
     {
       "id": "CR4547-4553",
       "size": 25,
-      "subject": "Ceremonials, pageants, tournaments, etc."
+      "subject": "Ceremonials, pageants, tournaments, etc.",
+      "parents": [
+        "C",
+        "CR",
+        "CR1-6305",
+        "CR4501-6305"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CR] Heraldry",
+        "[CR1-6305] Heraldry",
+        "[CR4501-6305] Chivalry and knighthood (Orders, decorations, etc.)"
+      ]
     },
     {
       "id": "CR4571-4595",
       "size": 128,
-      "subject": "Duels and dueling"
+      "subject": "Duels and dueling",
+      "parents": [
+        "C",
+        "CR",
+        "CR1-6305",
+        "CR4501-6305"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CR] Heraldry",
+        "[CR1-6305] Heraldry",
+        "[CR4501-6305] Chivalry and knighthood (Orders, decorations, etc.)"
+      ]
     },
     {
       "id": "CR4651-6305",
       "size": 1672,
-      "subject": "Orders, etc."
+      "subject": "Orders, etc.",
+      "parents": [
+        "C",
+        "CR",
+        "CR1-6305",
+        "CR4501-6305"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CR] Heraldry",
+        "[CR1-6305] Heraldry",
+        "[CR4501-6305] Chivalry and knighthood (Orders, decorations, etc.)"
+      ]
     },
     {
       "id": "CR191-1020",
       "size": 880,
-      "subject": "Public and official heraldry"
+      "subject": "Public and official heraldry",
+      "parents": [
+        "C",
+        "CR",
+        "CR1-6305"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CR] Heraldry",
+        "[CR1-6305] Heraldry"
+      ]
     },
     {
       "id": "CR1179-3395",
       "size": 683,
-      "subject": "Family heraldry"
+      "subject": "Family heraldry",
+      "parents": [
+        "C",
+        "CR",
+        "CR1-6305"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CR] Heraldry",
+        "[CR1-6305] Heraldry"
+      ]
     },
     {
       "id": "CR3499-4420",
       "size": 171,
-      "subject": "Titles of honor, rank, precedence, etc."
+      "subject": "Titles of honor, rank, precedence, etc.",
+      "parents": [
+        "C",
+        "CR",
+        "CR1-6305"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CR] Heraldry",
+        "[CR1-6305] Heraldry"
+      ]
     },
     {
       "id": "CR4480-4485",
       "size": 50,
-      "subject": "Royalty.  Insignia.  Regalia, crown and coronets, etc."
+      "subject": "Royalty.  Insignia.  Regalia, crown and coronets, etc.",
+      "parents": [
+        "C",
+        "CR",
+        "CR1-6305"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CR] Heraldry",
+        "[CR1-6305] Heraldry"
+      ]
     },
     {
       "id": "CR51-79",
       "size": 138,
-      "subject": "Crests, monograms, devices, badges, mottoes, etc."
+      "subject": "Crests, monograms, devices, badges, mottoes, etc.",
+      "parents": [
+        "C",
+        "CR",
+        "CR1-6305"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CR] Heraldry",
+        "[CR1-6305] Heraldry"
+      ]
     },
     {
       "id": "CR1101-1131",
       "size": 53,
-      "subject": "Ecclesiastical and sacred heraldry"
+      "subject": "Ecclesiastical and sacred heraldry",
+      "parents": [
+        "C",
+        "CR",
+        "CR1-6305"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CR] Heraldry",
+        "[CR1-6305] Heraldry"
+      ]
     },
     {
       "id": "CB",
       "size": 0,
-      "subject": "History of Civilization"
+      "subject": "History of Civilization",
+      "parents": [
+        "C"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)"
+      ]
     },
     {
       "id": "CB3-482",
       "size": 2900,
-      "subject": "History of Civilization"
+      "subject": "History of Civilization",
+      "parents": [
+        "C",
+        "CB"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CB] History of Civilization"
+      ]
     },
     {
       "id": "CB195-281",
       "size": 2502,
-      "subject": "Civilization and race"
+      "subject": "Civilization and race",
+      "parents": [
+        "C",
+        "CB",
+        "CB3-482"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CB] History of Civilization",
+        "[CB3-482] History of Civilization"
+      ]
     },
     {
       "id": "CB305-430",
       "size": 4419,
-      "subject": "By period"
+      "subject": "By period",
+      "parents": [
+        "C",
+        "CB",
+        "CB3-482"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CB] History of Civilization",
+        "[CB3-482] History of Civilization"
+      ]
     },
     {
       "id": "CB440-482",
       "size": 173,
-      "subject": "Relation to special topics"
+      "subject": "Relation to special topics",
+      "parents": [
+        "C",
+        "CB",
+        "CB3-482"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CB] History of Civilization",
+        "[CB3-482] History of Civilization"
+      ]
     },
     {
       "id": "CB478",
       "size": 423,
-      "subject": "Technology"
+      "subject": "Technology",
+      "parents": [
+        "C",
+        "CB",
+        "CB3-482",
+        "CB440-482"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CB] History of Civilization",
+        "[CB3-482] History of Civilization",
+        "[CB440-482] Relation to special topics"
+      ]
     },
     {
       "id": "CB481",
       "size": 49,
-      "subject": "War and civilization"
+      "subject": "War and civilization",
+      "parents": [
+        "C",
+        "CB",
+        "CB3-482",
+        "CB440-482"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CB] History of Civilization",
+        "[CB3-482] History of Civilization",
+        "[CB440-482] Relation to special topics"
+      ]
     },
     {
       "id": "CB450",
       "size": 8,
-      "subject": "Geography and civilization"
+      "subject": "Geography and civilization",
+      "parents": [
+        "C",
+        "CB",
+        "CB3-482",
+        "CB440-482"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CB] History of Civilization",
+        "[CB3-482] History of Civilization",
+        "[CB440-482] Relation to special topics"
+      ]
     },
     {
       "id": "CB482",
       "size": 15,
-      "subject": "Water and civilization"
+      "subject": "Water and civilization",
+      "parents": [
+        "C",
+        "CB",
+        "CB3-482",
+        "CB440-482"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CB] History of Civilization",
+        "[CB3-482] History of Civilization",
+        "[CB440-482] Relation to special topics"
+      ]
     },
     {
       "id": "CB158-161",
       "size": 947,
-      "subject": "Forecasts of future progress"
+      "subject": "Forecasts of future progress",
+      "parents": [
+        "C",
+        "CB",
+        "CB3-482"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CB] History of Civilization",
+        "[CB3-482] History of Civilization"
+      ]
     },
     {
       "id": "CB156",
       "size": 170,
-      "subject": "Terrestrial evidence of interplanetary voyages"
+      "subject": "Terrestrial evidence of interplanetary voyages",
+      "parents": [
+        "C",
+        "CB",
+        "CB3-482"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CB] History of Civilization",
+        "[CB3-482] History of Civilization"
+      ]
     },
     {
       "id": "CJ",
       "size": 0,
-      "subject": "Numismatics"
+      "subject": "Numismatics",
+      "parents": [
+        "C"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)"
+      ]
     },
     {
       "id": "CJ1-6661",
       "size": 2,
-      "subject": "Numismatics"
+      "subject": "Numismatics",
+      "parents": [
+        "C",
+        "CJ"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CJ] Numismatics"
+      ]
     },
     {
       "id": "CJ1509-4625",
       "size": 3533,
-      "subject": "Medieval and modern"
+      "subject": "Medieval and modern",
+      "parents": [
+        "C",
+        "CJ",
+        "CJ1-6661"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CJ] Numismatics",
+        "[CJ1-6661] Numismatics"
+      ]
     },
     {
       "id": "CJ1-4625",
       "size": 2637,
-      "subject": "Coins"
+      "subject": "Coins",
+      "parents": [
+        "C",
+        "CJ",
+        "CJ1-6661"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CJ] Numismatics",
+        "[CJ1-6661] Numismatics"
+      ]
     },
     {
       "id": "CJ4801-5450",
       "size": 4,
-      "subject": "Tokens"
+      "subject": "Tokens",
+      "parents": [
+        "C",
+        "CJ",
+        "CJ1-6661"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CJ] Numismatics",
+        "[CJ1-6661] Numismatics"
+      ]
     },
     {
       "id": "CJ4901-5336",
       "size": 177,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "C",
+        "CJ",
+        "CJ1-6661",
+        "CJ4801-5450"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CJ] Numismatics",
+        "[CJ1-6661] Numismatics",
+        "[CJ4801-5450] Tokens"
+      ]
     },
     {
       "id": "CJ4861-4889",
       "size": 10,
-      "subject": "By period"
+      "subject": "By period",
+      "parents": [
+        "C",
+        "CJ",
+        "CJ1-6661",
+        "CJ4801-5450"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CJ] Numismatics",
+        "[CJ1-6661] Numismatics",
+        "[CJ4801-5450] Tokens"
+      ]
     },
     {
       "id": "CJ5350-5450",
       "size": 39,
-      "subject": "Special uses of tokens"
+      "subject": "Special uses of tokens",
+      "parents": [
+        "C",
+        "CJ",
+        "CJ1-6661",
+        "CJ4801-5450"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CJ] Numismatics",
+        "[CJ1-6661] Numismatics",
+        "[CJ4801-5450] Tokens"
+      ]
     },
     {
       "id": "CJ5501-6661",
       "size": 45,
-      "subject": "Medals and medallions"
+      "subject": "Medals and medallions",
+      "parents": [
+        "C",
+        "CJ",
+        "CJ1-6661"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CJ] Numismatics",
+        "[CJ1-6661] Numismatics"
+      ]
     },
     {
       "id": "CJ5795-6661",
       "size": 519,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "C",
+        "CJ",
+        "CJ1-6661",
+        "CJ5501-6661"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CJ] Numismatics",
+        "[CJ1-6661] Numismatics",
+        "[CJ5501-6661] Medals and medallions"
+      ]
     },
     {
       "id": "CJ5723-5793",
       "size": 77,
-      "subject": "Medieval and modern"
+      "subject": "Medieval and modern",
+      "parents": [
+        "C",
+        "CJ",
+        "CJ1-6661",
+        "CJ5501-6661"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CJ] Numismatics",
+        "[CJ1-6661] Numismatics",
+        "[CJ5501-6661] Medals and medallions"
+      ]
     },
     {
       "id": "CJ5581-5690",
       "size": 22,
-      "subject": "Ancient"
+      "subject": "Ancient",
+      "parents": [
+        "C",
+        "CJ",
+        "CJ1-6661",
+        "CJ5501-6661"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CJ] Numismatics",
+        "[CJ1-6661] Numismatics",
+        "[CJ5501-6661] Medals and medallions"
+      ]
     },
     {
       "id": "CC",
       "size": 0,
-      "subject": "Archaeology"
+      "subject": "Archaeology",
+      "parents": [
+        "C"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)"
+      ]
     },
     {
       "id": "CC1-960",
       "size": 1685,
-      "subject": "Archaeology"
+      "subject": "Archaeology",
+      "parents": [
+        "C",
+        "CC"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CC] Archaeology"
+      ]
     },
     {
       "id": "CC83-97",
       "size": 147,
-      "subject": "Study and teaching.  Research"
+      "subject": "Study and teaching.  Research",
+      "parents": [
+        "C",
+        "CC",
+        "CC1-960"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CC] Archaeology",
+        "[CC1-960] Archaeology"
+      ]
     },
     {
       "id": "CC72-81",
       "size": 248,
-      "subject": "Philosophy.  Theory"
+      "subject": "Philosophy.  Theory",
+      "parents": [
+        "C",
+        "CC",
+        "CC1-960"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CC] Archaeology",
+        "[CC1-960] Archaeology"
+      ]
     },
     {
       "id": "CC73-81",
       "size": 2016,
-      "subject": "Methodology"
+      "subject": "Methodology",
+      "parents": [
+        "C",
+        "CC",
+        "CC1-960",
+        "CC72-81"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CC] Archaeology",
+        "[CC1-960] Archaeology",
+        "[CC72-81] Philosophy.  Theory"
+      ]
     },
     {
       "id": "CC135-137",
       "size": 457,
-      "subject": "Preservation, restoration, and conservation of"
+      "subject": "Preservation, restoration, and conservation of",
+      "parents": [
+        "C",
+        "CC",
+        "CC1-960"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CC] Archaeology",
+        "[CC1-960] Archaeology"
+      ]
     },
     {
       "id": "CC200-260",
       "size": 165,
-      "subject": "Bells.  Campanology.  Cowbells"
+      "subject": "Bells.  Campanology.  Cowbells",
+      "parents": [
+        "C",
+        "CC",
+        "CC1-960"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CC] Archaeology",
+        "[CC1-960] Archaeology"
+      ]
     },
     {
       "id": "CC300-350",
       "size": 160,
-      "subject": "Crosses"
+      "subject": "Crosses",
+      "parents": [
+        "C",
+        "CC",
+        "CC1-960"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CC] Archaeology",
+        "[CC1-960] Archaeology"
+      ]
     },
     {
       "id": "CC710",
       "size": 9,
-      "subject": "Hill figures"
+      "subject": "Hill figures",
+      "parents": [
+        "C",
+        "CC",
+        "CC1-960"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CC] Archaeology",
+        "[CC1-960] Archaeology"
+      ]
     },
     {
       "id": "CC140",
       "size": 17,
-      "subject": "Forgeries of antiquities"
+      "subject": "Forgeries of antiquities",
+      "parents": [
+        "C",
+        "CC",
+        "CC1-960"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CC] Archaeology",
+        "[CC1-960] Archaeology"
+      ]
     },
     {
       "id": "CC960",
       "size": 1,
-      "subject": "Lanterns of the dead"
+      "subject": "Lanterns of the dead",
+      "parents": [
+        "C",
+        "CC",
+        "CC1-960"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CC] Archaeology",
+        "[CC1-960] Archaeology"
+      ]
     },
     {
       "id": "CC600-605",
       "size": 13,
-      "subject": "Boundary stones"
+      "subject": "Boundary stones",
+      "parents": [
+        "C",
+        "CC",
+        "CC1-960"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CC] Archaeology",
+        "[CC1-960] Archaeology"
+      ]
     },
     {
       "id": "CC700-705",
       "size": 1,
-      "subject": "Stone heaps, cairns, etc., of unknown purpose"
+      "subject": "Stone heaps, cairns, etc., of unknown purpose",
+      "parents": [
+        "C",
+        "CC",
+        "CC1-960"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CC] Archaeology",
+        "[CC1-960] Archaeology"
+      ]
     },
     {
       "id": "CN",
       "size": 0,
-      "subject": "Inscriptions.  Epigraphy"
+      "subject": "Inscriptions.  Epigraphy",
+      "parents": [
+        "C"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)"
+      ]
     },
     {
       "id": "CN1-1355",
       "size": 60,
-      "subject": "Inscriptions.  Epigraphy"
+      "subject": "Inscriptions.  Epigraphy",
+      "parents": [
+        "C",
+        "CN"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CN] Inscriptions.  Epigraphy"
+      ]
     },
     {
       "id": "CN120-740",
       "size": 922,
-      "subject": "Ancient inscriptions"
+      "subject": "Ancient inscriptions",
+      "parents": [
+        "C",
+        "CN",
+        "CN1-1355"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CN] Inscriptions.  Epigraphy",
+        "[CN1-1355] Inscriptions.  Epigraphy"
+      ]
     },
     {
       "id": "CN750-753",
       "size": 48,
-      "subject": "Early Christian inscriptions"
+      "subject": "Early Christian inscriptions",
+      "parents": [
+        "C",
+        "CN",
+        "CN1-1355"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CN] Inscriptions.  Epigraphy",
+        "[CN1-1355] Inscriptions.  Epigraphy"
+      ]
     },
     {
       "id": "CN870-1355",
       "size": 827,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "C",
+        "CN",
+        "CN1-1355"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CN] Inscriptions.  Epigraphy",
+        "[CN1-1355] Inscriptions.  Epigraphy"
+      ]
     },
     {
       "id": "CN805-865",
       "size": 15,
-      "subject": "By language"
+      "subject": "By language",
+      "parents": [
+        "C",
+        "CN",
+        "CN1-1355"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CN] Inscriptions.  Epigraphy",
+        "[CN1-1355] Inscriptions.  Epigraphy"
+      ]
     },
     {
       "id": "CN760",
       "size": 2,
-      "subject": "Modern inscriptions (General)"
+      "subject": "Modern inscriptions (General)",
+      "parents": [
+        "C",
+        "CN",
+        "CN1-1355"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CN] Inscriptions.  Epigraphy",
+        "[CN1-1355] Inscriptions.  Epigraphy"
+      ]
     },
     {
       "id": "CN755",
       "size": 6,
-      "subject": "Medieval inscriptions (General)"
+      "subject": "Medieval inscriptions (General)",
+      "parents": [
+        "C",
+        "CN",
+        "CN1-1355"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CN] Inscriptions.  Epigraphy",
+        "[CN1-1355] Inscriptions.  Epigraphy"
+      ]
     },
     {
       "id": "CD",
       "size": 0,
-      "subject": "Diplomatics.  Archives.  Seals"
+      "subject": "Diplomatics.  Archives.  Seals",
+      "parents": [
+        "C"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)"
+      ]
     },
     {
       "id": "CD1-6471",
       "size": 14,
-      "subject": "Diplomatics.  Archives.  Seals"
+      "subject": "Diplomatics.  Archives.  Seals",
+      "parents": [
+        "C",
+        "CD"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CD] Diplomatics.  Archives.  Seals"
+      ]
     },
     {
       "id": "CD921-4280",
       "size": 773,
-      "subject": "Archives"
+      "subject": "Archives",
+      "parents": [
+        "C",
+        "CD",
+        "CD1-6471"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CD] Diplomatics.  Archives.  Seals",
+        "[CD1-6471] Diplomatics.  Archives.  Seals"
+      ]
     },
     {
       "id": "CD995-4280",
       "size": 21,
-      "subject": "History and statistics"
+      "subject": "History and statistics",
+      "parents": [
+        "C",
+        "CD",
+        "CD1-6471",
+        "CD921-4280"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CD] Diplomatics.  Archives.  Seals",
+        "[CD1-6471] Diplomatics.  Archives.  Seals",
+        "[CD921-4280] Archives"
+      ]
     },
     {
       "id": "CD1000-4280",
       "size": 9252,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "C",
+        "CD",
+        "CD1-6471",
+        "CD921-4280",
+        "CD995-4280"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CD] Diplomatics.  Archives.  Seals",
+        "[CD1-6471] Diplomatics.  Archives.  Seals",
+        "[CD921-4280] Archives",
+        "[CD995-4280] History and statistics"
+      ]
     },
     {
       "id": "CD997",
       "size": 47,
-      "subject": "Biography of archivists"
+      "subject": "Biography of archivists",
+      "parents": [
+        "C",
+        "CD",
+        "CD1-6471",
+        "CD921-4280",
+        "CD995-4280"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CD] Diplomatics.  Archives.  Seals",
+        "[CD1-6471] Diplomatics.  Archives.  Seals",
+        "[CD921-4280] Archives",
+        "[CD995-4280] History and statistics"
+      ]
     },
     {
       "id": "CD91-392",
       "size": 114,
-      "subject": "Collection of documents, facsimiles, etc., for study"
+      "subject": "Collection of documents, facsimiles, etc., for study",
+      "parents": [
+        "C",
+        "CD",
+        "CD1-6471"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CD] Diplomatics.  Archives.  Seals",
+        "[CD1-6471] Diplomatics.  Archives.  Seals"
+      ]
     },
     {
       "id": "CD5001-6471",
       "size": 37,
-      "subject": "Seals"
+      "subject": "Seals",
+      "parents": [
+        "C",
+        "CD",
+        "CD1-6471"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CD] Diplomatics.  Archives.  Seals",
+        "[CD1-6471] Diplomatics.  Archives.  Seals"
+      ]
     },
     {
       "id": "CD5575-6471",
       "size": 883,
-      "subject": "Modern"
+      "subject": "Modern",
+      "parents": [
+        "C",
+        "CD",
+        "CD1-6471",
+        "CD5001-6471"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CD] Diplomatics.  Archives.  Seals",
+        "[CD1-6471] Diplomatics.  Archives.  Seals",
+        "[CD5001-6471] Seals"
+      ]
     },
     {
       "id": "CD5201-5391",
       "size": 206,
-      "subject": "Ancient"
+      "subject": "Ancient",
+      "parents": [
+        "C",
+        "CD",
+        "CD1-6471",
+        "CD5001-6471"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CD] Diplomatics.  Archives.  Seals",
+        "[CD1-6471] Diplomatics.  Archives.  Seals",
+        "[CD5001-6471] Seals"
+      ]
     },
     {
       "id": "CD5501-5557",
       "size": 25,
-      "subject": "Medieval"
+      "subject": "Medieval",
+      "parents": [
+        "C",
+        "CD",
+        "CD1-6471",
+        "CD5001-6471"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CD] Diplomatics.  Archives.  Seals",
+        "[CD1-6471] Diplomatics.  Archives.  Seals",
+        "[CD5001-6471] Seals"
+      ]
     },
     {
       "id": "CD1-511",
       "size": 277,
-      "subject": "Diplomatics"
+      "subject": "Diplomatics",
+      "parents": [
+        "C",
+        "CD",
+        "CD1-6471"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CD] Diplomatics.  Archives.  Seals",
+        "[CD1-6471] Diplomatics.  Archives.  Seals"
+      ]
     },
     {
       "id": "CD80-81",
       "size": 7,
-      "subject": "Formularies"
+      "subject": "Formularies",
+      "parents": [
+        "C",
+        "CD",
+        "CD1-6471"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CD] Diplomatics.  Archives.  Seals",
+        "[CD1-6471] Diplomatics.  Archives.  Seals"
+      ]
     },
     {
       "id": "CE",
       "size": 0,
-      "subject": "Technical chronology.  Calendar"
+      "subject": "Technical chronology.  Calendar",
+      "parents": [
+        "C"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)"
+      ]
     },
     {
       "id": "CE1-97",
       "size": 252,
-      "subject": "Technical chronology.  Calendar"
+      "subject": "Technical chronology.  Calendar",
+      "parents": [
+        "C",
+        "CE"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CE] Technical chronology.  Calendar"
+      ]
     },
     {
       "id": "CE51-85",
       "size": 461,
-      "subject": "Medieval and modern"
+      "subject": "Medieval and modern",
+      "parents": [
+        "C",
+        "CE",
+        "CE1-97"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CE] Technical chronology.  Calendar",
+        "[CE1-97] Technical chronology.  Calendar"
+      ]
     },
     {
       "id": "CE21-46",
       "size": 303,
-      "subject": "Ancient"
+      "subject": "Ancient",
+      "parents": [
+        "C",
+        "CE",
+        "CE1-97"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CE] Technical chronology.  Calendar",
+        "[CE1-97] Technical chronology.  Calendar"
+      ]
     },
     {
       "id": "CE91-92",
       "size": 36,
-      "subject": "Perpetual calendars.  Century calendars, etc."
+      "subject": "Perpetual calendars.  Century calendars, etc.",
+      "parents": [
+        "C",
+        "CE",
+        "CE1-97"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)",
+        "[CE] Technical chronology.  Calendar",
+        "[CE1-97] Technical chronology.  Calendar"
+      ]
     },
     {
       "id": "C1-51",
       "size": 66,
-      "subject": "Auxiliary Sciences of History (General)"
+      "subject": "Auxiliary Sciences of History (General)",
+      "parents": [
+        "C"
+      ],
+      "parentsSubjects": [
+        "[C] Auxiliary Sciences of History (General)"
+      ]
     }
   ],
   "links": [

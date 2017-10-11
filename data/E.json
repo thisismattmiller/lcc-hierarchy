@@ -3,742 +3,2406 @@
     {
       "id": "E",
       "size": 0,
-      "subject": "United States"
+      "subject": "United States",
+      "parents": [
+        "E"
+      ],
+      "parentsSubjects": [
+        "[E] American History"
+      ]
     },
     {
       "id": "E151-889",
       "size": 27,
-      "subject": "United States"
+      "subject": "United States",
+      "parents": [
+        "E"
+      ],
+      "parentsSubjects": [
+        "[E] American History"
+      ]
     },
     {
       "id": "E171-183.9",
       "size": 8,
-      "subject": "History"
+      "subject": "History",
+      "parents": [
+        "E",
+        "E151-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States"
+      ]
     },
     {
       "id": "E171-180",
       "size": 7725,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "E",
+        "E151-889",
+        "E171-183.9"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E171-183.9] History"
+      ]
     },
     {
       "id": "E181",
       "size": 492,
-      "subject": "Military history"
+      "subject": "Military history",
+      "parents": [
+        "E",
+        "E151-889",
+        "E171-183.9"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E171-183.9] History"
+      ]
     },
     {
       "id": "E182",
       "size": 311,
-      "subject": "Naval history"
+      "subject": "Naval history",
+      "parents": [
+        "E",
+        "E151-889",
+        "E171-183.9"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E171-183.9] History"
+      ]
     },
     {
       "id": "E183.7-183.9",
       "size": 543,
-      "subject": "Diplomatic history.  Foreign and general relations."
+      "subject": "Diplomatic history.  Foreign and general relations.",
+      "parents": [
+        "E",
+        "E151-889",
+        "E171-183.9"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E171-183.9] History"
+      ]
     },
     {
       "id": "E183.8",
       "size": 6057,
-      "subject": "Relations with individual countries"
+      "subject": "Relations with individual countries",
+      "parents": [
+        "E",
+        "E151-889",
+        "E171-183.9",
+        "E183.7-183.9"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E171-183.9] History",
+        "[E183.7-183.9] Diplomatic history.  Foreign and general relations."
+      ]
     },
     {
       "id": "E179.5",
       "size": 345,
-      "subject": "Historical geography"
+      "subject": "Historical geography",
+      "parents": [
+        "E",
+        "E151-889",
+        "E171-183.9"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E171-183.9] History"
+      ]
     },
     {
       "id": "E175-175.7",
       "size": 671,
-      "subject": "Historiography"
+      "subject": "Historiography",
+      "parents": [
+        "E",
+        "E151-889",
+        "E171-183.9"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E171-183.9] History"
+      ]
     },
     {
       "id": "E183-183.3",
       "size": 366,
-      "subject": "Political history"
+      "subject": "Political history",
+      "parents": [
+        "E",
+        "E151-889",
+        "E171-183.9"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E171-183.9] History"
+      ]
     },
     {
       "id": "E300-453",
       "size": 0,
-      "subject": "Revolution to the Civil War, 1775/1783-1861"
+      "subject": "Revolution to the Civil War, 1775/1783-1861",
+      "parents": [
+        "E",
+        "E151-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States"
+      ]
     },
     {
       "id": "E441-453",
       "size": 3836,
-      "subject": "Slavery in the United States.  Antislavery"
+      "subject": "Slavery in the United States.  Antislavery",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861"
+      ]
     },
     {
       "id": "E303-440.5",
       "size": 0,
-      "subject": "By period"
+      "subject": "By period",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861"
+      ]
     },
     {
       "id": "E415.6-440.5",
       "size": 0,
-      "subject": "Middle nineteenth century, 1845/1848-1861"
+      "subject": "Middle nineteenth century, 1845/1848-1861",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period"
+      ]
     },
     {
       "id": "E415.6-415.9",
       "size": 150,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E415.6-440.5"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E415.6-440.5] Middle nineteenth century, 1845/1848-1861"
+      ]
     },
     {
       "id": "E415.8-415.9",
       "size": 535,
-      "subject": "Biography"
+      "subject": "Biography",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E415.6-440.5"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E415.6-440.5] Middle nineteenth century, 1845/1848-1861"
+      ]
     },
     {
       "id": "E415.6",
       "size": 50,
-      "subject": "Collected works of American statesmen"
+      "subject": "Collected works of American statesmen",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E415.6-440.5"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E415.6-440.5] Middle nineteenth century, 1845/1848-1861"
+      ]
     },
     {
       "id": "E426-430",
       "size": 62,
-      "subject": "Fillmore's administration, July 9, 1850-1853"
+      "subject": "Fillmore's administration, July 9, 1850-1853",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E415.6-440.5"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E415.6-440.5] Middle nineteenth century, 1845/1848-1861"
+      ]
     },
     {
       "id": "E421-423",
       "size": 79,
-      "subject": "Taylor's administration, 1849-July 9, 1850"
+      "subject": "Taylor's administration, 1849-July 9, 1850",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E415.6-440.5"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E415.6-440.5] Middle nineteenth century, 1845/1848-1861"
+      ]
     },
     {
       "id": "E423",
       "size": 97,
-      "subject": "Slavery question, 1849-1853"
+      "subject": "Slavery question, 1849-1853",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E415.6-440.5",
+        "E421-423"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E415.6-440.5] Middle nineteenth century, 1845/1848-1861",
+        "[E421-423] Taylor's administration, 1849-July 9, 1850"
+      ]
     },
     {
       "id": "E416-420",
       "size": 118,
-      "subject": "Polk's administration, 1845-1849"
+      "subject": "Polk's administration, 1845-1849",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E415.6-440.5"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E415.6-440.5] Middle nineteenth century, 1845/1848-1861"
+      ]
     },
     {
       "id": "E431-435",
       "size": 99,
-      "subject": "Pierce's administration, 1853-1857"
+      "subject": "Pierce's administration, 1853-1857",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E415.6-440.5"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E415.6-440.5] Middle nineteenth century, 1845/1848-1861"
+      ]
     },
     {
       "id": "E433",
       "size": 73,
-      "subject": "Slavery question, 1853-1857"
+      "subject": "Slavery question, 1853-1857",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E415.6-440.5",
+        "E431-435"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E415.6-440.5] Middle nineteenth century, 1845/1848-1861",
+        "[E431-435] Pierce's administration, 1853-1857"
+      ]
     },
     {
       "id": "E436-440.5",
       "size": 144,
-      "subject": "Buchanan's administration, 1857-1861"
+      "subject": "Buchanan's administration, 1857-1861",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E415.6-440.5"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E415.6-440.5] Middle nineteenth century, 1845/1848-1861"
+      ]
     },
     {
       "id": "E440.5",
       "size": 175,
-      "subject": "State of the country, November 1860-"
+      "subject": "State of the country, November 1860-",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E415.6-440.5",
+        "E436-440.5"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E415.6-440.5] Middle nineteenth century, 1845/1848-1861",
+        "[E436-440.5] Buchanan's administration, 1857-1861"
+      ]
     },
     {
       "id": "E438",
       "size": 71,
-      "subject": "Slavery question, 1857-1861"
+      "subject": "Slavery question, 1857-1861",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E415.6-440.5",
+        "E436-440.5"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E415.6-440.5] Middle nineteenth century, 1845/1848-1861",
+        "[E436-440.5] Buchanan's administration, 1857-1861"
+      ]
     },
     {
       "id": "E310-337",
       "size": 81,
-      "subject": "1789-1809.  Constitutional period"
+      "subject": "1789-1809.  Constitutional period",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period"
+      ]
     },
     {
       "id": "E311-320",
       "size": 1632,
-      "subject": "Washington's administrations, 1789-1797"
+      "subject": "Washington's administrations, 1789-1797",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E310-337"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E310-337] 1789-1809.  Constitutional period"
+      ]
     },
     {
       "id": "E331-337",
       "size": 671,
-      "subject": "Jefferson's administrations, 1801-1809"
+      "subject": "Jefferson's administrations, 1801-1809",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E310-337"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E310-337] 1789-1809.  Constitutional period"
+      ]
     },
     {
       "id": "E333",
       "size": 68,
-      "subject": "Purchase of Louisiana, 1803"
+      "subject": "Purchase of Louisiana, 1803",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E310-337",
+        "E331-337"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E310-337] 1789-1809.  Constitutional period",
+        "[E331-337] Jefferson's administrations, 1801-1809"
+      ]
     },
     {
       "id": "E336-336.5",
       "size": 32,
-      "subject": "Neutral trade and its restrictions, 1800-1810"
+      "subject": "Neutral trade and its restrictions, 1800-1810",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E310-337",
+        "E331-337"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E310-337] 1789-1809.  Constitutional period",
+        "[E331-337] Jefferson's administrations, 1801-1809"
+      ]
     },
     {
       "id": "E335",
       "size": 39,
-      "subject": "War with Tripoli, 1801-1805"
+      "subject": "War with Tripoli, 1801-1805",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E310-337",
+        "E331-337"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E310-337] 1789-1809.  Constitutional period",
+        "[E331-337] Jefferson's administrations, 1801-1809"
+      ]
     },
     {
       "id": "E321-330",
       "size": 315,
-      "subject": "John Adams' administration, 1797-1801"
+      "subject": "John Adams' administration, 1797-1801",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E310-337"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E310-337] 1789-1809.  Constitutional period"
+      ]
     },
     {
       "id": "E323",
       "size": 69,
-      "subject": "Troubles with France, 1796-1800"
+      "subject": "Troubles with France, 1796-1800",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E310-337",
+        "E321-330"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E310-337] 1789-1809.  Constitutional period",
+        "[E321-330] John Adams' administration, 1797-1801"
+      ]
     },
     {
       "id": "E310.7",
       "size": 18,
-      "subject": "Diplomatic history.  Foreign and general"
+      "subject": "Diplomatic history.  Foreign and general",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E310-337"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E310-337] 1789-1809.  Constitutional period"
+      ]
     },
     {
       "id": "E401-415.2",
       "size": 534,
-      "subject": "Mexican War, 1846-1848"
+      "subject": "Mexican War, 1846-1848",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period"
+      ]
     },
     {
       "id": "E408",
       "size": 22,
-      "subject": "Mexican cessions of 1848"
+      "subject": "Mexican cessions of 1848",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E401-415.2"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E401-415.2] Mexican War, 1846-1848"
+      ]
     },
     {
       "id": "E337.8-400",
       "size": 0,
-      "subject": "Early nineteenth century, 1801/1809-1845"
+      "subject": "Early nineteenth century, 1801/1809-1845",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period"
+      ]
     },
     {
       "id": "E381-385",
       "size": 277,
-      "subject": "Jackson's administrations, 1829-1837"
+      "subject": "Jackson's administrations, 1829-1837",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E337.8-400"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E337.8-400] Early nineteenth century, 1801/1809-1845"
+      ]
     },
     {
       "id": "E384.3",
       "size": 30,
-      "subject": "Nullification"
+      "subject": "Nullification",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E337.8-400",
+        "E381-385"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E337.8-400] Early nineteenth century, 1801/1809-1845",
+        "[E381-385] Jackson's administrations, 1829-1837"
+      ]
     },
     {
       "id": "E341-370",
       "size": 176,
-      "subject": "Madison's administrations, 1809-1817"
+      "subject": "Madison's administrations, 1809-1817",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E337.8-400"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E337.8-400] Early nineteenth century, 1801/1809-1845"
+      ]
     },
     {
       "id": "E351.5-364.9",
       "size": 923,
-      "subject": "War of 1812"
+      "subject": "War of 1812",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E337.8-400",
+        "E341-370"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E337.8-400] Early nineteenth century, 1801/1809-1845",
+        "[E341-370] Madison's administrations, 1809-1817"
+      ]
     },
     {
       "id": "E365",
       "size": 2,
-      "subject": "War with Algeria, 1815"
+      "subject": "War with Algeria, 1815",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E337.8-400",
+        "E341-370"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E337.8-400] Early nineteenth century, 1801/1809-1845",
+        "[E341-370] Madison's administrations, 1809-1817"
+      ]
     },
     {
       "id": "E337.8-340",
       "size": 712,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E337.8-400"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E337.8-400] Early nineteenth century, 1801/1809-1845"
+      ]
     },
     {
       "id": "E371-375",
       "size": 72,
-      "subject": "Monroe's administrations, 1817-1825"
+      "subject": "Monroe's administrations, 1817-1825",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E337.8-400"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E337.8-400] Early nineteenth century, 1801/1809-1845"
+      ]
     },
     {
       "id": "E374",
       "size": 5,
-      "subject": "Diplomatic history.  Foreign relations"
+      "subject": "Diplomatic history.  Foreign relations",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E337.8-400",
+        "E371-375"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E337.8-400] Early nineteenth century, 1801/1809-1845",
+        "[E371-375] Monroe's administrations, 1817-1825"
+      ]
     },
     {
       "id": "E373",
       "size": 21,
-      "subject": "Missouri Compromise, 1820"
+      "subject": "Missouri Compromise, 1820",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E337.8-400",
+        "E371-375"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E337.8-400] Early nineteenth century, 1801/1809-1845",
+        "[E371-375] Monroe's administrations, 1817-1825"
+      ]
     },
     {
       "id": "E386-390",
       "size": 89,
-      "subject": "Van Buren's administration, 1837-1841"
+      "subject": "Van Buren's administration, 1837-1841",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E337.8-400"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E337.8-400] Early nineteenth century, 1801/1809-1845"
+      ]
     },
     {
       "id": "E396-400",
       "size": 75,
-      "subject": "Tyler's administration, April 4, 1841-1845"
+      "subject": "Tyler's administration, April 4, 1841-1845",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E337.8-400"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E337.8-400] Early nineteenth century, 1801/1809-1845"
+      ]
     },
     {
       "id": "E398",
       "size": 34,
-      "subject": "Northeastern boundary disputes, 1783-1845"
+      "subject": "Northeastern boundary disputes, 1783-1845",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E337.8-400",
+        "E396-400"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E337.8-400] Early nineteenth century, 1801/1809-1845",
+        "[E396-400] Tyler's administration, April 4, 1841-1845"
+      ]
     },
     {
       "id": "E391-392",
       "size": 87,
-      "subject": "William H. Harrison's administration, March 4-"
+      "subject": "William H. Harrison's administration, March 4-",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E337.8-400"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E337.8-400] Early nineteenth century, 1801/1809-1845"
+      ]
     },
     {
       "id": "E376-380",
       "size": 122,
-      "subject": "John Quincy Adams' administration, 1825-1829"
+      "subject": "John Quincy Adams' administration, 1825-1829",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5",
+        "E337.8-400"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period",
+        "[E337.8-400] Early nineteenth century, 1801/1809-1845"
+      ]
     },
     {
       "id": "E303-309",
       "size": 173,
-      "subject": "1775-1789.  The Confederation, 1783-1789"
+      "subject": "1775-1789.  The Confederation, 1783-1789",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period"
+      ]
     },
     {
       "id": "E337.5",
       "size": 30,
-      "subject": "Nineteenth century (General)"
+      "subject": "Nineteenth century (General)",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453",
+        "E303-440.5"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861",
+        "[E303-440.5] By period"
+      ]
     },
     {
       "id": "E300-302.6",
       "size": 149,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861"
+      ]
     },
     {
       "id": "E302.1",
       "size": 90,
-      "subject": "Political history"
+      "subject": "Political history",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861"
+      ]
     },
     {
       "id": "E302.5-302.6",
       "size": 1600,
-      "subject": "Biography (Late eighteenth century)"
+      "subject": "Biography (Late eighteenth century)",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861"
+      ]
     },
     {
       "id": "E302",
       "size": 465,
-      "subject": "Collected works of American statesmen"
+      "subject": "Collected works of American statesmen",
+      "parents": [
+        "E",
+        "E151-889",
+        "E300-453"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E300-453] Revolution to the Civil War, 1775/1783-1861"
+      ]
     },
     {
       "id": "E151-169.12",
       "size": 9515,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "E",
+        "E151-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States"
+      ]
     },
     {
       "id": "E456-655",
       "size": 0,
-      "subject": "Civil War period, 1861-1865"
+      "subject": "Civil War period, 1861-1865",
+      "parents": [
+        "E",
+        "E151-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States"
+      ]
     },
     {
       "id": "E461-655",
       "size": 8180,
-      "subject": "The Civil War, 1861-1865"
+      "subject": "The Civil War, 1861-1865",
+      "parents": [
+        "E",
+        "E151-889",
+        "E456-655"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E456-655] Civil War period, 1861-1865"
+      ]
     },
     {
       "id": "E491-586",
       "size": 3633,
-      "subject": "Armies.  Troops"
+      "subject": "Armies.  Troops",
+      "parents": [
+        "E",
+        "E151-889",
+        "E456-655",
+        "E461-655"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E456-655] Civil War period, 1861-1865",
+        "[E461-655] The Civil War, 1861-1865"
+      ]
     },
     {
       "id": "E591-600",
       "size": 335,
-      "subject": "Naval history"
+      "subject": "Naval history",
+      "parents": [
+        "E",
+        "E151-889",
+        "E456-655",
+        "E461-655"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E456-655] Civil War period, 1861-1865",
+        "[E461-655] The Civil War, 1861-1865"
+      ]
     },
     {
       "id": "E482-489",
       "size": 468,
-      "subject": "Confederate States of America"
+      "subject": "Confederate States of America",
+      "parents": [
+        "E",
+        "E151-889",
+        "E456-655",
+        "E461-655"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E456-655] Civil War period, 1861-1865",
+        "[E461-655] The Civil War, 1861-1865"
+      ]
     },
     {
       "id": "E456-459",
       "size": 3771,
-      "subject": "Lincoln's administrations, 1861-April 15, 1865"
+      "subject": "Lincoln's administrations, 1861-April 15, 1865",
+      "parents": [
+        "E",
+        "E151-889",
+        "E456-655"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E456-655] Civil War period, 1861-1865"
+      ]
     },
     {
       "id": "E660-738",
       "size": 0,
-      "subject": "Late nineteenth century, 1865-1900"
+      "subject": "Late nineteenth century, 1865-1900",
+      "parents": [
+        "E",
+        "E151-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States"
+      ]
     },
     {
       "id": "E711-738",
       "size": 91,
-      "subject": "McKinley's first administration, 1897-1901"
+      "subject": "McKinley's first administration, 1897-1901",
+      "parents": [
+        "E",
+        "E151-889",
+        "E660-738"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E660-738] Late nineteenth century, 1865-1900"
+      ]
     },
     {
       "id": "E714-735",
       "size": 496,
-      "subject": "War of 1898 (Spanish-American War)"
+      "subject": "War of 1898 (Spanish-American War)",
+      "parents": [
+        "E",
+        "E151-889",
+        "E660-738",
+        "E711-738"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E660-738] Late nineteenth century, 1865-1900",
+        "[E711-738] McKinley's first administration, 1897-1901"
+      ]
     },
     {
       "id": "E713",
       "size": 94,
-      "subject": "Annexation in 1898 of Hawaii, the Philippines,"
+      "subject": "Annexation in 1898 of Hawaii, the Philippines,",
+      "parents": [
+        "E",
+        "E151-889",
+        "E660-738",
+        "E711-738"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E660-738] Late nineteenth century, 1865-1900",
+        "[E711-738] McKinley's first administration, 1897-1901"
+      ]
     },
     {
       "id": "E663-664",
       "size": 785,
-      "subject": "Biography"
+      "subject": "Biography",
+      "parents": [
+        "E",
+        "E151-889",
+        "E660-738"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E660-738] Late nineteenth century, 1865-1900"
+      ]
     },
     {
       "id": "E681-685",
       "size": 67,
-      "subject": "Hayes' administration, 1877-1881"
+      "subject": "Hayes' administration, 1877-1881",
+      "parents": [
+        "E",
+        "E151-889",
+        "E660-738"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E660-738] Late nineteenth century, 1865-1900"
+      ]
     },
     {
       "id": "E691-695",
       "size": 34,
-      "subject": "Arthur's administration, September 19, 1881-1885"
+      "subject": "Arthur's administration, September 19, 1881-1885",
+      "parents": [
+        "E",
+        "E151-889",
+        "E660-738"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E660-738] Late nineteenth century, 1865-1900"
+      ]
     },
     {
       "id": "E671-680",
       "size": 333,
-      "subject": "Grant's administrations, 1869-1877"
+      "subject": "Grant's administrations, 1869-1877",
+      "parents": [
+        "E",
+        "E151-889",
+        "E660-738"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E660-738] Late nineteenth century, 1865-1900"
+      ]
     },
     {
       "id": "E696-700",
       "size": 70,
-      "subject": "Cleveland's first administration, 1885-1889"
+      "subject": "Cleveland's first administration, 1885-1889",
+      "parents": [
+        "E",
+        "E151-889",
+        "E660-738"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E660-738] Late nineteenth century, 1865-1900"
+      ]
     },
     {
       "id": "E701-705",
       "size": 33,
-      "subject": "Benjamin Harrison's administration, 1889-1893"
+      "subject": "Benjamin Harrison's administration, 1889-1893",
+      "parents": [
+        "E",
+        "E151-889",
+        "E660-738"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E660-738] Late nineteenth century, 1865-1900"
+      ]
     },
     {
       "id": "E666-670",
       "size": 145,
-      "subject": "Johnson's administration, April 15, 1865-1869"
+      "subject": "Johnson's administration, April 15, 1865-1869",
+      "parents": [
+        "E",
+        "E151-889",
+        "E660-738"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E660-738] Late nineteenth century, 1865-1900"
+      ]
     },
     {
       "id": "E669",
       "size": 17,
-      "subject": "Purchase of Alaska, 1867"
+      "subject": "Purchase of Alaska, 1867",
+      "parents": [
+        "E",
+        "E151-889",
+        "E660-738",
+        "E666-670"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E660-738] Late nineteenth century, 1865-1900",
+        "[E666-670] Johnson's administration, April 15, 1865-1869"
+      ]
     },
     {
       "id": "E668",
       "size": 291,
-      "subject": "Reconstruction, 1865-1877"
+      "subject": "Reconstruction, 1865-1877",
+      "parents": [
+        "E",
+        "E151-889",
+        "E660-738",
+        "E666-670"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E660-738] Late nineteenth century, 1865-1900",
+        "[E666-670] Johnson's administration, April 15, 1865-1869"
+      ]
     },
     {
       "id": "E660-664",
       "size": 385,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "E",
+        "E151-889",
+        "E660-738"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E660-738] Late nineteenth century, 1865-1900"
+      ]
     },
     {
       "id": "E660",
       "size": 95,
-      "subject": "Collected works of American statesmen"
+      "subject": "Collected works of American statesmen",
+      "parents": [
+        "E",
+        "E151-889",
+        "E660-738"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E660-738] Late nineteenth century, 1865-1900"
+      ]
     },
     {
       "id": "E706-710",
       "size": 18,
-      "subject": "Cleveland's second administration, 1893-1897"
+      "subject": "Cleveland's second administration, 1893-1897",
+      "parents": [
+        "E",
+        "E151-889",
+        "E660-738"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E660-738] Late nineteenth century, 1865-1900"
+      ]
     },
     {
       "id": "E661.7",
       "size": 46,
-      "subject": "Diplomatic history.  Foreign and general"
+      "subject": "Diplomatic history.  Foreign and general",
+      "parents": [
+        "E",
+        "E151-889",
+        "E660-738"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E660-738] Late nineteenth century, 1865-1900"
+      ]
     },
     {
       "id": "E686-687.9",
       "size": 104,
-      "subject": "Garfield's administration, March 4-September"
+      "subject": "Garfield's administration, March 4-September",
+      "parents": [
+        "E",
+        "E151-889",
+        "E660-738"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E660-738] Late nineteenth century, 1865-1900"
+      ]
     },
     {
       "id": "E201-298",
       "size": 6637,
-      "subject": "The Revolution, 1775-1783"
+      "subject": "The Revolution, 1775-1783",
+      "parents": [
+        "E",
+        "E151-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States"
+      ]
     },
     {
       "id": "E184-185.98",
       "size": 10123,
-      "subject": "Elements in the population"
+      "subject": "Elements in the population",
+      "parents": [
+        "E",
+        "E151-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States"
+      ]
     },
     {
       "id": "E184.5-185.98",
       "size": 2525,
-      "subject": "Afro-Americans"
+      "subject": "Afro-Americans",
+      "parents": [
+        "E",
+        "E151-889",
+        "E184-185.98"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E184-185.98] Elements in the population"
+      ]
     },
     {
       "id": "E185.96-185.98",
       "size": 2393,
-      "subject": "Biography.  Genealogy"
+      "subject": "Biography.  Genealogy",
+      "parents": [
+        "E",
+        "E151-889",
+        "E184-185.98",
+        "E184.5-185.98"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E184-185.98] Elements in the population",
+        "[E184.5-185.98] Afro-Americans"
+      ]
     },
     {
       "id": "E185.2-185.89",
       "size": 5254,
-      "subject": "Status and development since emancipation"
+      "subject": "Status and development since emancipation",
+      "parents": [
+        "E",
+        "E151-889",
+        "E184-185.98",
+        "E184.5-185.98"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E184-185.98] Elements in the population",
+        "[E184.5-185.98] Afro-Americans"
+      ]
     },
     {
       "id": "E838-889",
       "size": 2,
-      "subject": "Later twentieth century, 1961-2000"
+      "subject": "Later twentieth century, 1961-2000",
+      "parents": [
+        "E",
+        "E151-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States"
+      ]
     },
     {
       "id": "E840.6-840.8",
       "size": 1321,
-      "subject": "Biography (General)"
+      "subject": "Biography (General)",
+      "parents": [
+        "E",
+        "E151-889",
+        "E838-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E838-889] Later twentieth century, 1961-2000"
+      ]
     },
     {
       "id": "E885-889",
       "size": 631,
-      "subject": "Clinton's administrations, 1993-2001"
+      "subject": "Clinton's administrations, 1993-2001",
+      "parents": [
+        "E",
+        "E151-889",
+        "E838-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E838-889] Later twentieth century, 1961-2000"
+      ]
     },
     {
       "id": "E841-843",
       "size": 892,
-      "subject": "Kennedy's administration, 1961-November 22, 1963"
+      "subject": "Kennedy's administration, 1961-November 22, 1963",
+      "parents": [
+        "E",
+        "E151-889",
+        "E838-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E838-889] Later twentieth century, 1961-2000"
+      ]
     },
     {
       "id": "E842.9",
       "size": 496,
-      "subject": "Assassination, funeral, memorial services, etc."
+      "subject": "Assassination, funeral, memorial services, etc.",
+      "parents": [
+        "E",
+        "E151-889",
+        "E838-889",
+        "E841-843"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E838-889] Later twentieth century, 1961-2000",
+        "[E841-843] Kennedy's administration, 1961-November 22, 1963"
+      ]
     },
     {
       "id": "E840-840.2",
       "size": 700,
-      "subject": "Diplomatic history.  Foreign and general"
+      "subject": "Diplomatic history.  Foreign and general",
+      "parents": [
+        "E",
+        "E151-889",
+        "E838-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E838-889] Later twentieth century, 1961-2000"
+      ]
     },
     {
       "id": "E872-875",
       "size": 302,
-      "subject": "Carter's administration, 1977-1981"
+      "subject": "Carter's administration, 1977-1981",
+      "parents": [
+        "E",
+        "E151-889",
+        "E838-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E838-889] Later twentieth century, 1961-2000"
+      ]
     },
     {
       "id": "E846-851",
       "size": 373,
-      "subject": "Johnson's administrations, November 22, 1963-1969"
+      "subject": "Johnson's administrations, November 22, 1963-1969",
+      "parents": [
+        "E",
+        "E151-889",
+        "E838-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E838-889] Later twentieth century, 1961-2000"
+      ]
     },
     {
       "id": "E865-868",
       "size": 138,
-      "subject": "Ford's administration, August 9, 1974-1977"
+      "subject": "Ford's administration, August 9, 1974-1977",
+      "parents": [
+        "E",
+        "E151-889",
+        "E838-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E838-889] Later twentieth century, 1961-2000"
+      ]
     },
     {
       "id": "E876-880",
       "size": 840,
-      "subject": "Reagan's administrations, 1981-1989"
+      "subject": "Reagan's administrations, 1981-1989",
+      "parents": [
+        "E",
+        "E151-889",
+        "E838-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E838-889] Later twentieth century, 1961-2000"
+      ]
     },
     {
       "id": "E877.3",
       "size": 6,
-      "subject": "Assassination attempt"
+      "subject": "Assassination attempt",
+      "parents": [
+        "E",
+        "E151-889",
+        "E838-889",
+        "E876-880"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E838-889] Later twentieth century, 1961-2000",
+        "[E876-880] Reagan's administrations, 1981-1989"
+      ]
     },
     {
       "id": "E855-861",
       "size": 453,
-      "subject": "Nixon's administrations, 1969-August 9, 1974"
+      "subject": "Nixon's administrations, 1969-August 9, 1974",
+      "parents": [
+        "E",
+        "E151-889",
+        "E838-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E838-889] Later twentieth century, 1961-2000"
+      ]
     },
     {
       "id": "E860-861",
       "size": 172,
-      "subject": "Watergate Affair.  Resignation"
+      "subject": "Watergate Affair.  Resignation",
+      "parents": [
+        "E",
+        "E151-889",
+        "E838-889",
+        "E855-861"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E838-889] Later twentieth century, 1961-2000",
+        "[E855-861] Nixon's administrations, 1969-August 9, 1974"
+      ]
     },
     {
       "id": "E881-884",
       "size": 264,
-      "subject": "George H.W. Bush's administration, 1989-1993"
+      "subject": "George H.W. Bush's administration, 1989-1993",
+      "parents": [
+        "E",
+        "E151-889",
+        "E838-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E838-889] Later twentieth century, 1961-2000"
+      ]
     },
     {
       "id": "E838-840.8",
       "size": 773,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "E",
+        "E151-889",
+        "E838-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E838-889] Later twentieth century, 1961-2000"
+      ]
     },
     {
       "id": "E839.5-839.8",
       "size": 0,
-      "subject": "Political history"
+      "subject": "Political history",
+      "parents": [
+        "E",
+        "E151-889",
+        "E838-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E838-889] Later twentieth century, 1961-2000"
+      ]
     },
     {
       "id": "E839.8",
       "size": 33,
-      "subject": "Un-American activities"
+      "subject": "Un-American activities",
+      "parents": [
+        "E",
+        "E151-889",
+        "E838-889",
+        "E839.5-839.8"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E838-889] Later twentieth century, 1961-2000",
+        "[E839.5-839.8] Political history"
+      ]
     },
     {
       "id": "E838.3",
       "size": 12,
-      "subject": "Sources and documents"
+      "subject": "Sources and documents",
+      "parents": [
+        "E",
+        "E151-889",
+        "E838-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E838-889] Later twentieth century, 1961-2000"
+      ]
     },
     {
       "id": "E740-837.7",
       "size": 1,
-      "subject": "Twentieth century"
+      "subject": "Twentieth century",
+      "parents": [
+        "E",
+        "E151-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States"
+      ]
     },
     {
       "id": "E740-749",
       "size": 4562,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "E",
+        "E151-889",
+        "E740-837.7"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E740-837.7] Twentieth century"
+      ]
     },
     {
       "id": "E756-760",
       "size": 448,
-      "subject": "Theodore Roosevelt's administrations,"
+      "subject": "Theodore Roosevelt's administrations,",
+      "parents": [
+        "E",
+        "E151-889",
+        "E740-837.7"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E740-837.7] Twentieth century"
+      ]
     },
     {
       "id": "E784-805",
       "size": 125,
-      "subject": "1919-1933.  Harding-Coolidge-Hoover era.  \"The"
+      "subject": "1919-1933.  Harding-Coolidge-Hoover era.  \"The",
+      "parents": [
+        "E",
+        "E151-889",
+        "E740-837.7"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E740-837.7] Twentieth century"
+      ]
     },
     {
       "id": "E785-786",
       "size": 85,
-      "subject": "Harding's administration, 1921-August 2, 1923"
+      "subject": "Harding's administration, 1921-August 2, 1923",
+      "parents": [
+        "E",
+        "E151-889",
+        "E740-837.7",
+        "E784-805"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E740-837.7] Twentieth century",
+        "[E784-805] 1919-1933.  Harding-Coolidge-Hoover era.  \"The"
+      ]
     },
     {
       "id": "E791-796",
       "size": 108,
-      "subject": "Coolidge's administration, August 2, 1923-1929"
+      "subject": "Coolidge's administration, August 2, 1923-1929",
+      "parents": [
+        "E",
+        "E151-889",
+        "E740-837.7",
+        "E784-805"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E740-837.7] Twentieth century",
+        "[E784-805] 1919-1933.  Harding-Coolidge-Hoover era.  \"The"
+      ]
     },
     {
       "id": "E801-805",
       "size": 183,
-      "subject": "Hoover's administration, 1919-1933"
+      "subject": "Hoover's administration, 1919-1933",
+      "parents": [
+        "E",
+        "E151-889",
+        "E740-837.7",
+        "E784-805"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E740-837.7] Twentieth century",
+        "[E784-805] 1919-1933.  Harding-Coolidge-Hoover era.  \"The"
+      ]
     },
     {
       "id": "E761-765",
       "size": 74,
-      "subject": "Taft's administration, 1909-1913"
+      "subject": "Taft's administration, 1909-1913",
+      "parents": [
+        "E",
+        "E151-889",
+        "E740-837.7"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E740-837.7] Twentieth century"
+      ]
     },
     {
       "id": "E835-837.7",
       "size": 429,
-      "subject": "Eisenhower's administrations, 1953-1961"
+      "subject": "Eisenhower's administrations, 1953-1961",
+      "parents": [
+        "E",
+        "E151-889",
+        "E740-837.7"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E740-837.7] Twentieth century"
+      ]
     },
     {
       "id": "E806-812",
       "size": 1285,
-      "subject": "Franklin Delano Roosevelt's administrations,"
+      "subject": "Franklin Delano Roosevelt's administrations,",
+      "parents": [
+        "E",
+        "E151-889",
+        "E740-837.7"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E740-837.7] Twentieth century"
+      ]
     },
     {
       "id": "E766-783",
       "size": 318,
-      "subject": "Wilson's administrations, 1913-1921"
+      "subject": "Wilson's administrations, 1913-1921",
+      "parents": [
+        "E",
+        "E151-889",
+        "E740-837.7"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E740-837.7] Twentieth century"
+      ]
     },
     {
       "id": "E768",
       "size": 48,
-      "subject": "Purchase of Danish West Indies (Virgin"
+      "subject": "Purchase of Danish West Indies (Virgin",
+      "parents": [
+        "E",
+        "E151-889",
+        "E740-837.7",
+        "E766-783"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E740-837.7] Twentieth century",
+        "[E766-783] Wilson's administrations, 1913-1921"
+      ]
     },
     {
       "id": "E780",
       "size": 18,
-      "subject": "Internal history during World War I"
+      "subject": "Internal history during World War I",
+      "parents": [
+        "E",
+        "E151-889",
+        "E740-837.7",
+        "E766-783"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E740-837.7] Twentieth century",
+        "[E766-783] Wilson's administrations, 1913-1921"
+      ]
     },
     {
       "id": "E813-816",
       "size": 425,
-      "subject": "Truman's administrations, April 12, 1945-1953"
+      "subject": "Truman's administrations, April 12, 1945-1953",
+      "parents": [
+        "E",
+        "E151-889",
+        "E740-837.7"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E740-837.7] Twentieth century"
+      ]
     },
     {
       "id": "E751",
       "size": 5,
-      "subject": "McKinley's second administration, March 4-"
+      "subject": "McKinley's second administration, March 4-",
+      "parents": [
+        "E",
+        "E151-889",
+        "E740-837.7"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E740-837.7] Twentieth century"
+      ]
     },
     {
       "id": "E186-199",
       "size": 1,
-      "subject": "Colonial history (1607-1775)"
+      "subject": "Colonial history (1607-1775)",
+      "parents": [
+        "E",
+        "E151-889"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States"
+      ]
     },
     {
       "id": "E191-199",
       "size": 1,
-      "subject": "By period"
+      "subject": "By period",
+      "parents": [
+        "E",
+        "E151-889",
+        "E186-199"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E186-199] Colonial history (1607-1775)"
+      ]
     },
     {
       "id": "E195-199",
       "size": 107,
-      "subject": "1689-1775"
+      "subject": "1689-1775",
+      "parents": [
+        "E",
+        "E151-889",
+        "E186-199",
+        "E191-199"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E186-199] Colonial history (1607-1775)",
+        "[E191-199] By period"
+      ]
     },
     {
       "id": "E199",
       "size": 441,
-      "subject": "French and Indian War, 1755-1763"
+      "subject": "French and Indian War, 1755-1763",
+      "parents": [
+        "E",
+        "E151-889",
+        "E186-199",
+        "E191-199",
+        "E195-199"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E186-199] Colonial history (1607-1775)",
+        "[E191-199] By period",
+        "[E195-199] 1689-1775"
+      ]
     },
     {
       "id": "E198",
       "size": 42,
-      "subject": "King George's War, 1744-1748"
+      "subject": "King George's War, 1744-1748",
+      "parents": [
+        "E",
+        "E151-889",
+        "E186-199",
+        "E191-199",
+        "E195-199"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E186-199] Colonial history (1607-1775)",
+        "[E191-199] By period",
+        "[E195-199] 1689-1775"
+      ]
     },
     {
       "id": "E196",
       "size": 14,
-      "subject": "King William's War, 1689-1697"
+      "subject": "King William's War, 1689-1697",
+      "parents": [
+        "E",
+        "E151-889",
+        "E186-199",
+        "E191-199",
+        "E195-199"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E186-199] Colonial history (1607-1775)",
+        "[E191-199] By period",
+        "[E195-199] 1689-1775"
+      ]
     },
     {
       "id": "E197",
       "size": 19,
-      "subject": "Queen Anne's War, 1702-1713"
+      "subject": "Queen Anne's War, 1702-1713",
+      "parents": [
+        "E",
+        "E151-889",
+        "E186-199",
+        "E191-199",
+        "E195-199"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E186-199] Colonial history (1607-1775)",
+        "[E191-199] By period",
+        "[E195-199] 1689-1775"
+      ]
     },
     {
       "id": "E191",
       "size": 36,
-      "subject": "1607-1689"
+      "subject": "1607-1689",
+      "parents": [
+        "E",
+        "E151-889",
+        "E186-199",
+        "E191-199"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E186-199] Colonial history (1607-1775)",
+        "[E191-199] By period"
+      ]
     },
     {
       "id": "E186-189",
       "size": 890,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "E",
+        "E151-889",
+        "E186-199"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E186-199] Colonial history (1607-1775)"
+      ]
     },
     {
       "id": "E743-743.5",
       "size": 0,
-      "subject": "Political history"
+      "subject": "Political history",
+      "parents": [
+        "E",
+        "E151-889",
+        "E740-837.7",
+        "E740-749"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E740-837.7] Twentieth century",
+        "[E740-749] General"
+      ]
     },
     {
       "id": "E743.5",
       "size": 290,
-      "subject": "Un-American activities"
+      "subject": "Un-American activities",
+      "parents": [
+        "E",
+        "E151-889",
+        "E740-837.7",
+        "E740-749",
+        "E743-743.5"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E151-889] United States",
+        "[E740-837.7] Twentieth century",
+        "[E740-749] General",
+        "[E743-743.5] Political history"
+      ]
     },
     {
       "id": "E11-143",
       "size": 75,
-      "subject": "America"
+      "subject": "America",
+      "parents": [
+        "E"
+      ],
+      "parentsSubjects": [
+        "[E] American History"
+      ]
     },
     {
       "id": "E75-99",
       "size": 14412,
-      "subject": "Indians of North America"
+      "subject": "Indians of North America",
+      "parents": [
+        "E",
+        "E11-143"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E11-143] America"
+      ]
     },
     {
       "id": "E99",
       "size": 11378,
-      "subject": "Indian tribes and cultures"
+      "subject": "Indian tribes and cultures",
+      "parents": [
+        "E"
+      ],
+      "parentsSubjects": [
+        "[E] American History"
+      ]
     },
     {
       "id": "E81-83",
       "size": 131,
-      "subject": "Indian wars"
+      "subject": "Indian wars",
+      "parents": [
+        "E",
+        "E11-143",
+        "E75-99"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E11-143] America",
+        "[E75-99] Indians of North America"
+      ]
     },
     {
       "id": "E51-73",
       "size": 2576,
-      "subject": "Pre-Columbian America.  The Indians"
+      "subject": "Pre-Columbian America.  The Indians",
+      "parents": [
+        "E",
+        "E11-143"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E11-143] America"
+      ]
     },
     {
       "id": "E101-135",
       "size": 250,
-      "subject": "Discovery of America and early explorations"
+      "subject": "Discovery of America and early explorations",
+      "parents": [
+        "E",
+        "E11-143"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E11-143] America"
+      ]
     },
     {
       "id": "E111-120",
       "size": 1321,
-      "subject": "Columbus"
+      "subject": "Columbus",
+      "parents": [
+        "E",
+        "E11-143",
+        "E101-135"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E11-143] America",
+        "[E101-135] Discovery of America and early explorations"
+      ]
     },
     {
       "id": "E121-135",
       "size": 1595,
-      "subject": "Post-Columbian period.  El Dorado"
+      "subject": "Post-Columbian period.  El Dorado",
+      "parents": [
+        "E",
+        "E11-143",
+        "E101-135"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E11-143] America",
+        "[E101-135] Discovery of America and early explorations"
+      ]
     },
     {
       "id": "E103-110",
       "size": 418,
-      "subject": "Pre-Columbian period"
+      "subject": "Pre-Columbian period",
+      "parents": [
+        "E",
+        "E11-143",
+        "E101-135"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E11-143] America",
+        "[E101-135] Discovery of America and early explorations"
+      ]
     },
     {
       "id": "E31-49.2",
       "size": 399,
-      "subject": "North America"
+      "subject": "North America",
+      "parents": [
+        "E",
+        "E11-143"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E11-143] America"
+      ]
     },
     {
       "id": "E11-29",
       "size": 939,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "E",
+        "E11-143"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E11-143] America"
+      ]
     },
     {
       "id": "E141-143",
       "size": 304,
-      "subject": "Descriptive accounts of America.  Earliest to 1810"
+      "subject": "Descriptive accounts of America.  Earliest to 1810",
+      "parents": [
+        "E",
+        "E11-143"
+      ],
+      "parentsSubjects": [
+        "[E] American History",
+        "[E11-143] America"
+      ]
     },
     {
       "id": "E895-904",
       "size": 1048,
-      "subject": "Twenty-first century"
+      "subject": "Twenty-first century",
+      "parents": [
+        "E"
+      ],
+      "parentsSubjects": [
+        "[E] American History"
+      ]
     },
     {
       "id": "E902-906",
       "size": 53,
-      "subject": "George W. Bush's administrations, 2001-2009"
+      "subject": "George W. Bush's administrations, 2001-2009",
+      "parents": [
+        "E"
+      ],
+      "parentsSubjects": [
+        "[E] American History"
+      ]
     },
     {
       "id": "E907-909",
       "size": 390,
-      "subject": "Barack Obama's administration, 2009-"
+      "subject": "Barack Obama's administration, 2009-",
+      "parents": [
+        "E"
+      ],
+      "parentsSubjects": [
+        "[E] American History"
+      ]
     }
   ],
   "links": [
@@ -1321,6 +2985,10 @@
     {
       "source": "E75-99",
       "target": "E81-83"
+    },
+    {
+      "source": "E",
+      "target": "E99"
     },
     {
       "source": "E101-135",

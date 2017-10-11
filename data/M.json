@@ -3,657 +3,2029 @@
     {
       "id": "M",
       "size": 0,
-      "subject": "Music"
+      "subject": "Music",
+      "parents": [
+        "M"
+      ],
+      "parentsSubjects": [
+        "[M] Music"
+      ]
     },
     {
       "id": "ML",
       "size": 0,
-      "subject": "Literature on music"
+      "subject": "Literature on music",
+      "parents": [
+        "M"
+      ],
+      "parentsSubjects": [
+        "[M] Music"
+      ]
     },
     {
       "id": "ML1-3930",
       "size": 298,
-      "subject": "Literature on music"
+      "subject": "Literature on music",
+      "parents": [
+        "M",
+        "ML"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music"
+      ]
     },
     {
       "id": "ML3928-3930",
       "size": 2069,
-      "subject": "Literature for children"
+      "subject": "Literature for children",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML159-3785",
       "size": 9,
-      "subject": "History and criticism"
+      "subject": "History and criticism",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML385-429",
       "size": 38779,
-      "subject": "Biography"
+      "subject": "Biography",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML159-3785"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML159-3785] History and criticism"
+      ]
     },
     {
       "id": "ML1400-3275",
       "size": 6745,
-      "subject": "Vocal music"
+      "subject": "Vocal music",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML159-3785"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML159-3785] History and criticism"
+      ]
     },
     {
       "id": "ML3469-3541",
       "size": 5276,
-      "subject": "Popular music"
+      "subject": "Popular music",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML159-3785"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML159-3785] History and criticism"
+      ]
     },
     {
       "id": "ML198-360.6",
       "size": 7084,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML159-3785"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML159-3785] History and criticism"
+      ]
     },
     {
       "id": "ML459-1380",
       "size": 7507,
-      "subject": "Instruments and instrumental music"
+      "subject": "Instruments and instrumental music",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML159-3785"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML159-3785] History and criticism"
+      ]
     },
     {
       "id": "ML162-197",
       "size": 2128,
-      "subject": "By period"
+      "subject": "By period",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML159-3785"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML159-3785] History and criticism"
+      ]
     },
     {
       "id": "ML3544-3776",
       "size": 5467,
-      "subject": "Folk, national, and ethnic music"
+      "subject": "Folk, national, and ethnic music",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML159-3785"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML159-3785] History and criticism"
+      ]
     },
     {
       "id": "ML430-458",
       "size": 697,
-      "subject": "Composition and performance"
+      "subject": "Composition and performance",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML159-3785"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML159-3785] History and criticism"
+      ]
     },
     {
       "id": "ML3780",
       "size": 36,
-      "subject": "Music on particular topics"
+      "subject": "Music on particular topics",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML159-3785"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML159-3785] History and criticism"
+      ]
     },
     {
       "id": "ML3300-3351",
       "size": 14,
-      "subject": "Program music"
+      "subject": "Program music",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML159-3785"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML159-3785] History and criticism"
+      ]
     },
     {
       "id": "ML159-161",
       "size": 986,
-      "subject": "General works"
+      "subject": "General works",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML159-3785"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML159-3785] History and criticism"
+      ]
     },
     {
       "id": "ML3400-3465",
       "size": 313,
-      "subject": "Dance music"
+      "subject": "Dance music",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML159-3785"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML159-3785] History and criticism"
+      ]
     },
     {
       "id": "ML3785",
       "size": 31,
-      "subject": "Musical journalism"
+      "subject": "Musical journalism",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML159-3785"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML159-3785] History and criticism"
+      ]
     },
     {
       "id": "ML100-109",
       "size": 2118,
-      "subject": "Dictionaries. Encyclopedias"
+      "subject": "Dictionaries. Encyclopedias",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML3795",
       "size": 692,
-      "subject": "Music as a profession. Vocational guidance"
+      "subject": "Music as a profession. Vocational guidance",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML3800-3923",
       "size": 8,
-      "subject": "Philosophical  and  societal  aspects  of  music.  Physics"
+      "subject": "Philosophical  and  societal  aspects  of  music.  Physics",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML3916-3918",
       "size": 645,
-      "subject": "Social and political aspects of music"
+      "subject": "Social and political aspects of music",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML3800-3923"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML3800-3923] Philosophical  and  societal  aspects  of  music.  Physics"
+      ]
     },
     {
       "id": "ML3919-3920",
       "size": 580,
-      "subject": "Moral influence of music.    Therapeutic use of music"
+      "subject": "Moral influence of music.    Therapeutic use of music",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML3800-3923"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML3800-3923] Philosophical  and  societal  aspects  of  music.  Physics"
+      ]
     },
     {
       "id": "ML3830-3840",
       "size": 747,
-      "subject": "Psychology"
+      "subject": "Psychology",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML3800-3923"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML3800-3923] Philosophical  and  societal  aspects  of  music.  Physics"
+      ]
     },
     {
       "id": "ML3845-3877",
       "size": 1547,
-      "subject": "Aesthetics"
+      "subject": "Aesthetics",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML3800-3923"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML3800-3923] Philosophical  and  societal  aspects  of  music.  Physics"
+      ]
     },
     {
       "id": "ML3800",
       "size": 591,
-      "subject": "General works"
+      "subject": "General works",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML3800-3923"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML3800-3923] Philosophical  and  societal  aspects  of  music.  Physics"
+      ]
     },
     {
       "id": "ML3880-3915",
       "size": 100,
-      "subject": "Criticism"
+      "subject": "Criticism",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML3800-3923"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML3800-3923] Philosophical  and  societal  aspects  of  music.  Physics"
+      ]
     },
     {
       "id": "ML3805-3817",
       "size": 668,
-      "subject": "Physics and acoustics"
+      "subject": "Physics and acoustics",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML3800-3923"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML3800-3923] Philosophical  and  societal  aspects  of  music.  Physics"
+      ]
     },
     {
       "id": "ML3921-3921.8",
       "size": 109,
-      "subject": "Religious aspects of music"
+      "subject": "Religious aspects of music",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML3800-3923"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML3800-3923] Philosophical  and  societal  aspects  of  music.  Physics"
+      ]
     },
     {
       "id": "ML3820",
       "size": 91,
-      "subject": "Physiological aspects of music"
+      "subject": "Physiological aspects of music",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML3800-3923"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML3800-3923] Philosophical  and  societal  aspects  of  music.  Physics"
+      ]
     },
     {
       "id": "ML3922",
       "size": 15,
-      "subject": "Music in the workplace"
+      "subject": "Music in the workplace",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930",
+        "ML3800-3923"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music",
+        "[ML3800-3923] Philosophical  and  societal  aspects  of  music.  Physics"
+      ]
     },
     {
       "id": "ML112.8-158.8",
       "size": 7983,
-      "subject": "Bibliography"
+      "subject": "Bibliography",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML55-89",
       "size": 4611,
-      "subject": "Aspects of the field of music as a whole"
+      "subject": "Aspects of the field of music as a whole",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML3790-3792",
       "size": 732,
-      "subject": "Music trade"
+      "subject": "Music trade",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML47-54.8",
       "size": 14182,
-      "subject": "Librettos. Texts. Scenarios"
+      "subject": "Librettos. Texts. Scenarios",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML12-21",
       "size": 541,
-      "subject": "Directories. Almanacs"
+      "subject": "Directories. Almanacs",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML110-111.5",
       "size": 314,
-      "subject": "Music librarianship"
+      "subject": "Music librarianship",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML3797-3799.5",
       "size": 552,
-      "subject": "Musical research"
+      "subject": "Musical research",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML112-112.5",
       "size": 167,
-      "subject": "Music printing and publishing"
+      "subject": "Music printing and publishing",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML35-38",
       "size": 613,
-      "subject": "Festivals. Congresses"
+      "subject": "Festivals. Congresses",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML25-28",
       "size": 1009,
-      "subject": "Societies and other organizations"
+      "subject": "Societies and other organizations",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML93-96.5",
       "size": 2551,
-      "subject": "Manuscript studies and manuscripts"
+      "subject": "Manuscript studies and manuscripts",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML1-5",
       "size": 2665,
-      "subject": "Periodicals. Serials"
+      "subject": "Periodicals. Serials",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML32-33",
       "size": 67,
-      "subject": "Institutions"
+      "subject": "Institutions",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML29-31",
       "size": 2182,
-      "subject": "Special collections"
+      "subject": "Special collections",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML40-44",
       "size": 207,
-      "subject": "Programs"
+      "subject": "Programs",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "ML45",
       "size": 3,
-      "subject": "Circulars and advertisements"
+      "subject": "Circulars and advertisements",
+      "parents": [
+        "M",
+        "ML",
+        "ML1-3930"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[ML] Literature on music",
+        "[ML1-3930] Literature on music"
+      ]
     },
     {
       "id": "MT",
       "size": 0,
-      "subject": "Instruction and study"
+      "subject": "Instruction and study",
+      "parents": [
+        "M"
+      ],
+      "parentsSubjects": [
+        "[M] Music"
+      ]
     },
     {
       "id": "MT1-960",
       "size": 92,
-      "subject": "Instruction and study"
+      "subject": "Instruction and study",
+      "parents": [
+        "M",
+        "MT"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study"
+      ]
     },
     {
       "id": "MT90-146",
       "size": 2687,
-      "subject": "Analysis and appreciation of musical works"
+      "subject": "Analysis and appreciation of musical works",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT820-915",
       "size": 1313,
-      "subject": "Singing and vocal technique"
+      "subject": "Singing and vocal technique",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT898-915",
       "size": 70,
-      "subject": "Vocal techniques for children"
+      "subject": "Vocal techniques for children",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960",
+        "MT820-915"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study",
+        "[MT820-915] Singing and vocal technique"
+      ]
     },
     {
       "id": "MT75",
       "size": 74,
-      "subject": "Interpretation"
+      "subject": "Interpretation",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT40-67",
       "size": 1604,
-      "subject": "Composition. Elements and techniques of music"
+      "subject": "Composition. Elements and techniques of music",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT918-948",
       "size": 7,
-      "subject": "School music"
+      "subject": "School music",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT930-948",
       "size": 310,
-      "subject": "Elementary schools. Junior high schools. High"
+      "subject": "Elementary schools. Junior high schools. High",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960",
+        "MT918-948"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study",
+        "[MT918-948] School music"
+      ]
     },
     {
       "id": "MT920-925",
       "size": 44,
-      "subject": "Kindergarten"
+      "subject": "Kindergarten",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960",
+        "MT918-948"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study",
+        "[MT918-948] School music"
+      ]
     },
     {
       "id": "MT170-810",
       "size": 131,
-      "subject": "Instrumental techniques"
+      "subject": "Instrumental techniques",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT539-654",
       "size": 1686,
-      "subject": "Plucked instruments"
+      "subject": "Plucked instruments",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960",
+        "MT170-810"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study",
+        "[MT170-810] Instrumental techniques"
+      ]
     },
     {
       "id": "MT179-258",
       "size": 1928,
-      "subject": "Keyboard instruments"
+      "subject": "Keyboard instruments",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960",
+        "MT170-810"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study",
+        "[MT170-810] Instrumental techniques"
+      ]
     },
     {
       "id": "MT339-533",
       "size": 1112,
-      "subject": "Wind instruments"
+      "subject": "Wind instruments",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960",
+        "MT170-810"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study",
+        "[MT170-810] Instrumental techniques"
+      ]
     },
     {
       "id": "MT728-735",
       "size": 240,
-      "subject": "Ensembles"
+      "subject": "Ensembles",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960",
+        "MT170-810"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study",
+        "[MT170-810] Instrumental techniques"
+      ]
     },
     {
       "id": "MT655-725",
       "size": 875,
-      "subject": "Percussion and other instruments"
+      "subject": "Percussion and other instruments",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960",
+        "MT170-810"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study",
+        "[MT170-810] Instrumental techniques"
+      ]
     },
     {
       "id": "MT740-810",
       "size": 618,
-      "subject": "Instrumental techniques for children"
+      "subject": "Instrumental techniques for children",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960",
+        "MT170-810"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study",
+        "[MT170-810] Instrumental techniques"
+      ]
     },
     {
       "id": "MT259-338",
       "size": 683,
-      "subject": "Stringed instruments. Bowed stringed instruments"
+      "subject": "Stringed instruments. Bowed stringed instruments",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960",
+        "MT170-810"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study",
+        "[MT170-810] Instrumental techniques"
+      ]
     },
     {
       "id": "MT737",
       "size": 13,
-      "subject": "Motion picture accompanying"
+      "subject": "Motion picture accompanying",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960",
+        "MT170-810"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study",
+        "[MT170-810] Instrumental techniques"
+      ]
     },
     {
       "id": "MT35-39",
       "size": 247,
-      "subject": "Notation"
+      "subject": "Notation",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT68",
       "size": 271,
-      "subject": "Improvisation. Accompaniment. Transposition"
+      "subject": "Improvisation. Accompaniment. Transposition",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT88",
       "size": 171,
-      "subject": "Administration and instruction of vocal groups"
+      "subject": "Administration and instruction of vocal groups",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT5.5-7",
       "size": 2092,
-      "subject": "Music theory"
+      "subject": "Music theory",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT1",
       "size": 1029,
-      "subject": "General works"
+      "subject": "General works",
+      "parents": [
+        "M"
+      ],
+      "parentsSubjects": [
+        "[M] Music"
+      ]
     },
     {
       "id": "MT85",
       "size": 277,
-      "subject": "Conducting. Score reading and playing"
+      "subject": "Conducting. Score reading and playing",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT3-5",
       "size": 1463,
-      "subject": "History"
+      "subject": "History",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT155",
       "size": 53,
-      "subject": "Music theory for children"
+      "subject": "Music theory for children",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT9-15",
       "size": 0,
-      "subject": "Printed pedagogical aids"
+      "subject": "Printed pedagogical aids",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT10",
       "size": 201,
-      "subject": "Teachers= and supervisors= manuals, etc."
+      "subject": "Teachers= and supervisors= manuals, etc.",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960",
+        "MT9-15"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study",
+        "[MT9-15] Printed pedagogical aids"
+      ]
     },
     {
       "id": "MT9",
       "size": 33,
-      "subject": "Examinations, exercises, etc."
+      "subject": "Examinations, exercises, etc.",
+      "parents": [
+        "M"
+      ],
+      "parentsSubjects": [
+        "[M] Music"
+      ]
     },
     {
       "id": "MT15",
       "size": 6,
-      "subject": "Charts, diagrams, etc."
+      "subject": "Charts, diagrams, etc.",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960",
+        "MT9-15"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study",
+        "[MT9-15] Printed pedagogical aids"
+      ]
     },
     {
       "id": "MT20-34",
       "size": 85,
-      "subject": "Systems and methods"
+      "subject": "Systems and methods",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT955-956",
       "size": 210,
-      "subject": "Musical theater"
+      "subject": "Musical theater",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT82",
       "size": 12,
-      "subject": "Memorizing"
+      "subject": "Memorizing",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT70-74",
       "size": 181,
-      "subject": "Instrumentation and orchestration"
+      "subject": "Instrumentation and orchestration",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT80",
       "size": 24,
-      "subject": "Embellishment"
+      "subject": "Embellishment",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT950",
       "size": 113,
-      "subject": "Music to accompany instruction in ballet, folk dancing,"
+      "subject": "Music to accompany instruction in ballet, folk dancing,",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT165",
       "size": 66,
-      "subject": "Tuning"
+      "subject": "Tuning",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT150",
       "size": 61,
-      "subject": "Audio-visual aids"
+      "subject": "Audio-visual aids",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT87",
       "size": 26,
-      "subject": "Community music"
+      "subject": "Community music",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT18",
       "size": 45,
-      "subject": "Music in colleges and universities"
+      "subject": "Music in colleges and universities",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT960",
       "size": 6,
-      "subject": "Music in the theater"
+      "subject": "Music in the theater",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "MT17",
       "size": 41,
-      "subject": "Music in special education"
+      "subject": "Music in special education",
+      "parents": [
+        "M",
+        "MT",
+        "MT1-960"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[MT] Instruction and study",
+        "[MT1-960] Instruction and study"
+      ]
     },
     {
       "id": "M1-5000",
       "size": 15,
-      "subject": "Music"
+      "subject": "Music",
+      "parents": [
+        "M"
+      ],
+      "parentsSubjects": [
+        "[M] Music"
+      ]
     },
     {
       "id": "M1495-2199",
       "size": 0,
-      "subject": "Vocal music"
+      "subject": "Vocal music",
+      "parents": [
+        "M",
+        "M1-5000"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music"
+      ]
     },
     {
       "id": "M1999-2199",
       "size": 0,
-      "subject": "Sacred vocal music"
+      "subject": "Sacred vocal music",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music"
+      ]
     },
     {
       "id": "M2115-2146",
       "size": 767,
-      "subject": "Hymnals. Hymn collections"
+      "subject": "Hymnals. Hymn collections",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1999-2199"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1999-2199] Sacred vocal music"
+      ]
     },
     {
       "id": "M2020-2101.5",
       "size": 6526,
-      "subject": "Choruses"
+      "subject": "Choruses",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1999-2199"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1999-2199] Sacred vocal music"
+      ]
     },
     {
       "id": "M2147-2188",
       "size": 377,
-      "subject": "Liturgy and ritual"
+      "subject": "Liturgy and ritual",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1999-2199"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1999-2199] Sacred vocal music"
+      ]
     },
     {
       "id": "M2190-2196",
       "size": 183,
-      "subject": "Sacred vocal music for children"
+      "subject": "Sacred vocal music for children",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1999-2199"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1999-2199] Sacred vocal music"
+      ]
     },
     {
       "id": "M2102-2114.8",
       "size": 989,
-      "subject": "One solo voice"
+      "subject": "One solo voice",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1999-2199"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1999-2199] Sacred vocal music"
+      ]
     },
     {
       "id": "M2010-2017.6",
       "size": 1359,
-      "subject": "Choral services, etc."
+      "subject": "Choral services, etc.",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1999-2199"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1999-2199] Sacred vocal music"
+      ]
     },
     {
       "id": "M1999",
       "size": 154,
-      "subject": "Collections"
+      "subject": "Collections",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1999-2199"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1999-2199] Sacred vocal music"
+      ]
     },
     {
       "id": "M2198-2199",
       "size": 511,
-      "subject": "Popular religious and devotional music"
+      "subject": "Popular religious and devotional music",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1999-2199"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1999-2199] Sacred vocal music"
+      ]
     },
     {
       "id": "M2018-2019.5",
       "size": 237,
-      "subject": "Two or more solo voices"
+      "subject": "Two or more solo voices",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1999-2199"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1999-2199] Sacred vocal music"
+      ]
     },
     {
       "id": "M2000-2007",
       "size": 507,
-      "subject": "Dramatic music"
+      "subject": "Dramatic music",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1999-2199"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1999-2199] Sacred vocal music"
+      ]
     },
     {
       "id": "M1497-1998",
       "size": 3,
-      "subject": "Secular vocal music"
+      "subject": "Secular vocal music",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music"
+      ]
     },
     {
       "id": "M1627-1853",
       "size": 17284,
-      "subject": "Folk, national and ethnic music"
+      "subject": "Folk, national and ethnic music",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1497-1998"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1497-1998] Secular vocal music"
+      ]
     },
     {
       "id": "M1900-1985",
       "size": 378,
-      "subject": "Songs of specific groups or on specific topics"
+      "subject": "Songs of specific groups or on specific topics",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1497-1998"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1497-1998] Secular vocal music"
+      ]
     },
     {
       "id": "M1990-1998",
       "size": 889,
-      "subject": "Secular vocal music for children"
+      "subject": "Secular vocal music for children",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1497-1998"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1497-1998] Secular vocal music"
+      ]
     },
     {
       "id": "M1611-1624.8",
       "size": 5575,
-      "subject": "One solo voice"
+      "subject": "One solo voice",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1497-1998"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1497-1998] Secular vocal music"
+      ]
     },
     {
       "id": "M1500-1527.8",
       "size": 6959,
-      "subject": "Dramatic music"
+      "subject": "Dramatic music",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1497-1998"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1497-1998] Secular vocal music"
+      ]
     },
     {
       "id": "M1497",
       "size": 189,
-      "subject": "Collections"
+      "subject": "Collections",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1497-1998"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1497-1998] Secular vocal music"
+      ]
     },
     {
       "id": "M1530-1609",
       "size": 5246,
-      "subject": "Choruses"
+      "subject": "Choruses",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1497-1998"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1497-1998] Secular vocal music"
+      ]
     },
     {
       "id": "M1528-1529.5",
       "size": 565,
-      "subject": "Two or more solo voices"
+      "subject": "Two or more solo voices",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1497-1998"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1497-1998] Secular vocal music"
+      ]
     },
     {
       "id": "M1625-1626",
       "size": 389,
-      "subject": "Recitations with music"
+      "subject": "Recitations with music",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199",
+        "M1497-1998"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music",
+        "[M1497-1998] Secular vocal music"
+      ]
     },
     {
       "id": "M1495",
       "size": 183,
-      "subject": "Collections"
+      "subject": "Collections",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M1495-2199"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M1495-2199] Vocal music"
+      ]
     },
     {
       "id": "M2-2.3",
       "size": 1212,
-      "subject": "Musical sources"
+      "subject": "Musical sources",
+      "parents": [
+        "M",
+        "M1-5000"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music"
+      ]
     },
     {
       "id": "M5-1480",
       "size": 15,
-      "subject": "Instrumental music"
+      "subject": "Instrumental music",
+      "parents": [
+        "M",
+        "M1-5000"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music"
+      ]
     },
     {
       "id": "M6-175.5",
       "size": 20691,
-      "subject": "One solo instrument"
+      "subject": "One solo instrument",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M5-1480"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M5-1480] Instrumental music"
+      ]
     },
     {
       "id": "M177-990",
       "size": 30329,
-      "subject": "Two or more solo instruments"
+      "subject": "Two or more solo instruments",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M5-1480"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M5-1480] Instrumental music"
+      ]
     },
     {
       "id": "M1375-1420",
       "size": 1063,
-      "subject": "Instrumental music for children"
+      "subject": "Instrumental music for children",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M5-1480"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M5-1480] Instrumental music"
+      ]
     },
     {
       "id": "M1100-1160",
       "size": 2846,
-      "subject": "String orchestra"
+      "subject": "String orchestra",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M5-1480"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M5-1480] Instrumental music"
+      ]
     },
     {
       "id": "M1000-1075",
       "size": 10659,
-      "subject": "Orchestra"
+      "subject": "Orchestra",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M5-1480"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M5-1480] Instrumental music"
+      ]
     },
     {
       "id": "M1470-1480",
       "size": 96,
-      "subject": "Aleatory music. Electronic music. Mixed media"
+      "subject": "Aleatory music. Electronic music. Mixed media",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M5-1480"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M5-1480] Instrumental music"
+      ]
     },
     {
       "id": "M176",
       "size": 34,
-      "subject": "Motion picture music"
+      "subject": "Motion picture music",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M5-1480"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M5-1480] Instrumental music"
+      ]
     },
     {
       "id": "M1200-1270",
       "size": 2803,
-      "subject": "Band"
+      "subject": "Band",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M5-1480"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M5-1480] Instrumental music"
+      ]
     },
     {
       "id": "M1350-1366",
       "size": 3135,
-      "subject": "Other ensembles"
+      "subject": "Other ensembles",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M5-1480"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M5-1480] Instrumental music"
+      ]
     },
     {
       "id": "M5",
       "size": 295,
-      "subject": "Collections"
+      "subject": "Collections",
+      "parents": [
+        "M"
+      ],
+      "parentsSubjects": [
+        "[M] Music"
+      ]
     },
     {
       "id": "M176.5",
       "size": 2,
-      "subject": "Radio and television music"
+      "subject": "Radio and television music",
+      "parents": [
+        "M",
+        "M1-5000",
+        "M5-1480"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music",
+        "[M5-1480] Instrumental music"
+      ]
     },
     {
       "id": "M1",
       "size": 1479,
-      "subject": "Miscellaneous"
+      "subject": "Miscellaneous",
+      "parents": [
+        "M"
+      ],
+      "parentsSubjects": [
+        "[M] Music"
+      ]
     },
     {
       "id": "M3-3.3",
       "size": 4168,
-      "subject": "Collected works of individual composers"
+      "subject": "Collected works of individual composers",
+      "parents": [
+        "M",
+        "M1-5000"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music"
+      ]
     },
     {
       "id": "M1490",
       "size": 197,
-      "subject": "Music printed or copied in manuscript before 1700"
+      "subject": "Music printed or copied in manuscript before 1700",
+      "parents": [
+        "M",
+        "M1-5000"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music"
+      ]
     },
     {
       "id": "M5000",
       "size": 1,
-      "subject": "Unidentified compositions"
+      "subject": "Unidentified compositions",
+      "parents": [
+        "M",
+        "M1-5000"
+      ],
+      "parentsSubjects": [
+        "[M] Music",
+        "[M1-5000] Music"
+      ]
     }
   ],
   "links": [
@@ -1002,6 +2374,10 @@
       "target": "MT737"
     },
     {
+      "source": "M",
+      "target": "MT1"
+    },
+    {
       "source": "MT9-15",
       "target": "MT10"
     },
@@ -1012,6 +2388,10 @@
     {
       "source": "MT9-15",
       "target": "MT15"
+    },
+    {
+      "source": "M",
+      "target": "MT9"
     },
     {
       "source": "M",

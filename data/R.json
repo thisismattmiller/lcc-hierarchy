@@ -3,1232 +3,3716 @@
     {
       "id": "R",
       "size": 0,
-      "subject": "Medicine"
+      "subject": "Medicine",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "RX",
       "size": 0,
-      "subject": "Homeopathy"
+      "subject": "Homeopathy",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "RX1-681",
       "size": 428,
-      "subject": "Homeopathy"
+      "subject": "Homeopathy",
+      "parents": [
+        "R",
+        "RX"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RX] Homeopathy"
+      ]
     },
     {
       "id": "RX601-675",
       "size": 220,
-      "subject": "Materia medica and therapeutics"
+      "subject": "Materia medica and therapeutics",
+      "parents": [
+        "R",
+        "RX",
+        "RX1-681"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RX] Homeopathy",
+        "[RX1-681] Homeopathy"
+      ]
     },
     {
       "id": "RX211-581",
       "size": 142,
-      "subject": "Diseases, treatment, etc."
+      "subject": "Diseases, treatment, etc.",
+      "parents": [
+        "R",
+        "RX",
+        "RX1-681"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RX] Homeopathy",
+        "[RX1-681] Homeopathy"
+      ]
     },
     {
       "id": "RA",
       "size": 0,
-      "subject": "Public aspects of medicine"
+      "subject": "Public aspects of medicine",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "RA1-1270",
       "size": 89,
-      "subject": "Public aspects of medicine"
+      "subject": "Public aspects of medicine",
+      "parents": [
+        "R",
+        "RA"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine"
+      ]
     },
     {
       "id": "RA421-790.95",
       "size": 10262,
-      "subject": "Public health.    Hygiene.    Preventive medicine"
+      "subject": "Public health.    Hygiene.    Preventive medicine",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine"
+      ]
     },
     {
       "id": "RA773-788",
       "size": 10651,
-      "subject": "Personal health and hygiene"
+      "subject": "Personal health and hygiene",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA421-790.95"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA421-790.95] Public health.    Hygiene.    Preventive medicine"
+      ]
     },
     {
       "id": "RA643-645",
       "size": 8351,
-      "subject": "Disease (Communicable and noninfectious) and public"
+      "subject": "Disease (Communicable and noninfectious) and public",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA421-790.95"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA421-790.95] Public health.    Hygiene.    Preventive medicine"
+      ]
     },
     {
       "id": "RA790-790.95",
       "size": 2919,
-      "subject": "Mental health.    Mental illness prevention"
+      "subject": "Mental health.    Mental illness prevention",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA421-790.95"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA421-790.95] Public health.    Hygiene.    Preventive medicine"
+      ]
     },
     {
       "id": "RA648.5-767",
       "size": 1192,
-      "subject": "Epidemics.    Epidemiology.    Quarantine.    Disinfection"
+      "subject": "Epidemics.    Epidemiology.    Quarantine.    Disinfection",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA421-790.95"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA421-790.95] Public health.    Hygiene.    Preventive medicine"
+      ]
     },
     {
       "id": "RA639-642",
       "size": 517,
-      "subject": "Transmission of disease"
+      "subject": "Transmission of disease",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA421-790.95"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA421-790.95] Public health.    Hygiene.    Preventive medicine"
+      ]
     },
     {
       "id": "RA565-600",
       "size": 2868,
-      "subject": "Environmental health"
+      "subject": "Environmental health",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA421-790.95"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA421-790.95] Public health.    Hygiene.    Preventive medicine"
+      ]
     },
     {
       "id": "RA604-618",
       "size": 160,
-      "subject": "Parks, public baths, public carriers, buildings, etc."
+      "subject": "Parks, public baths, public carriers, buildings, etc.",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA421-790.95"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA421-790.95] Public health.    Hygiene.    Preventive medicine"
+      ]
     },
     {
       "id": "RA440-440.87",
       "size": 1172,
-      "subject": "Study and teaching.    Research"
+      "subject": "Study and teaching.    Research",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA421-790.95"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA421-790.95] Public health.    Hygiene.    Preventive medicine"
+      ]
     },
     {
       "id": "RA645.5-645.9",
       "size": 608,
-      "subject": "Emergency medical services"
+      "subject": "Emergency medical services",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA421-790.95"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA421-790.95] Public health.    Hygiene.    Preventive medicine"
+      ]
     },
     {
       "id": "RA638",
       "size": 249,
-      "subject": "Immunity and immunization in relation to public health"
+      "subject": "Immunity and immunization in relation to public health",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA421-790.95"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA421-790.95] Public health.    Hygiene.    Preventive medicine"
+      ]
     },
     {
       "id": "RA645.3-645.37",
       "size": 543,
-      "subject": "Home health care services"
+      "subject": "Home health care services",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA421-790.95"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA421-790.95] Public health.    Hygiene.    Preventive medicine"
+      ]
     },
     {
       "id": "RA646-648.3",
       "size": 95,
-      "subject": "War and public health"
+      "subject": "War and public health",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA421-790.95"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA421-790.95] Public health.    Hygiene.    Preventive medicine"
+      ]
     },
     {
       "id": "RA601-602",
       "size": 265,
-      "subject": "Food and food supply in relation to public health"
+      "subject": "Food and food supply in relation to public health",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA421-790.95"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA421-790.95] Public health.    Hygiene.    Preventive medicine"
+      ]
     },
     {
       "id": "RA771-771.7",
       "size": 520,
-      "subject": "Rural health and hygiene.    Rural health services"
+      "subject": "Rural health and hygiene.    Rural health services",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA421-790.95"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA421-790.95] Public health.    Hygiene.    Preventive medicine"
+      ]
     },
     {
       "id": "RA619-637",
       "size": 206,
-      "subject": "Disposal of the dead.    Undertaking.    Burial.    Cremation."
+      "subject": "Disposal of the dead.    Undertaking.    Burial.    Cremation.",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA421-790.95"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA421-790.95] Public health.    Hygiene.    Preventive medicine"
+      ]
     },
     {
       "id": "RA428-428.5",
       "size": 61,
-      "subject": "Public health laboratories, institutes, etc."
+      "subject": "Public health laboratories, institutes, etc.",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA421-790.95"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA421-790.95] Public health.    Hygiene.    Preventive medicine"
+      ]
     },
     {
       "id": "RA1001-1171",
       "size": 2210,
-      "subject": "Forensic medicine.    Medical jurisprudence.    Legal medicine"
+      "subject": "Forensic medicine.    Medical jurisprudence.    Legal medicine",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine"
+      ]
     },
     {
       "id": "RA1-418.5",
       "size": 7906,
-      "subject": "Medicine and the state"
+      "subject": "Medicine and the state",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine"
+      ]
     },
     {
       "id": "RA960-1000.5",
       "size": 10311,
-      "subject": "Medical centers.    Hospitals.    Dispensaries.    Clinics"
+      "subject": "Medical centers.    Hospitals.    Dispensaries.    Clinics",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine"
+      ]
     },
     {
       "id": "RA1190-1270",
       "size": 4494,
-      "subject": "Toxicology.    Poisons"
+      "subject": "Toxicology.    Poisons",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine"
+      ]
     },
     {
       "id": "RA791-954",
       "size": 1213,
-      "subject": "Medical geography.    Climatology.    Meteorology"
+      "subject": "Medical geography.    Climatology.    Meteorology",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine"
+      ]
     },
     {
       "id": "RA418-418.5",
       "size": 1847,
-      "subject": "Medicine and society.    Social medicine.    Medical sociology"
+      "subject": "Medicine and society.    Social medicine.    Medical sociology",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA1-418.5"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA1-418.5] Medicine and the state"
+      ]
     },
     {
       "id": "RA399",
       "size": 659,
-      "subject": "Regulation of medical practice.    Evaluation and"
+      "subject": "Regulation of medical practice.    Evaluation and",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA1-418.5"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA1-418.5] Medicine and the state"
+      ]
     },
     {
       "id": "RA411-415",
       "size": 2136,
-      "subject": "Provisions for personal medical care.    Medical care plans"
+      "subject": "Provisions for personal medical care.    Medical care plans",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA1-418.5"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA1-418.5] Medicine and the state"
+      ]
     },
     {
       "id": "RA407-409.5",
       "size": 3257,
-      "subject": "Health status indicators.    Medical statistics and surveys"
+      "subject": "Health status indicators.    Medical statistics and surveys",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA1-418.5"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA1-418.5] Medicine and the state"
+      ]
     },
     {
       "id": "RA410-410.9",
       "size": 3027,
-      "subject": "Medical economics.    Economics of medical care."
+      "subject": "Medical economics.    Economics of medical care.",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA1-418.5"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA1-418.5] Medicine and the state"
+      ]
     },
     {
       "id": "RA396",
       "size": 88,
-      "subject": "Regulation of medical education.    Licensure"
+      "subject": "Regulation of medical education.    Licensure",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA1-418.5"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA1-418.5] Medicine and the state"
+      ]
     },
     {
       "id": "RA398",
       "size": 13,
-      "subject": "Registration of physicians, pharmacists, etc."
+      "subject": "Registration of physicians, pharmacists, etc.",
+      "parents": [
+        "R",
+        "RA",
+        "RA1-1270",
+        "RA1-418.5"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RA] Public aspects of medicine",
+        "[RA1-1270] Public aspects of medicine",
+        "[RA1-418.5] Medicine and the state"
+      ]
     },
     {
       "id": "RD",
       "size": 0,
-      "subject": "Surgery"
+      "subject": "Surgery",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "RD1-811",
       "size": 1055,
-      "subject": "Surgery"
+      "subject": "Surgery",
+      "parents": [
+        "R",
+        "RD"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery"
+      ]
     },
     {
       "id": "RD701-811",
       "size": 2820,
-      "subject": "Orthopedic surgery"
+      "subject": "Orthopedic surgery",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD792-811",
       "size": 229,
-      "subject": "Physical rehabilitation"
+      "subject": "Physical rehabilitation",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811",
+        "RD701-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery",
+        "[RD701-811] Orthopedic surgery"
+      ]
     },
     {
       "id": "RD57",
       "size": 107,
-      "subject": "Surgical pathology"
+      "subject": "Surgical pathology",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD1-31.7",
       "size": 1709,
-      "subject": "General works"
+      "subject": "General works",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD32-33.9",
       "size": 567,
-      "subject": "Operative surgery.    Technique of surgical operations"
+      "subject": "Operative surgery.    Technique of surgical operations",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD91-91.5",
       "size": 25,
-      "subject": "Asepsis and antisepsis.    Sterilization (Operative)"
+      "subject": "Asepsis and antisepsis.    Sterilization (Operative)",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD101-104",
       "size": 391,
-      "subject": "Fractures (General)"
+      "subject": "Fractures (General)",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD78.3-87.3",
       "size": 1587,
-      "subject": "Anesthesiology"
+      "subject": "Anesthesiology",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD520-599.5",
       "size": 6479,
-      "subject": "Surgery by region, system, or organ"
+      "subject": "Surgery by region, system, or organ",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD63-76",
       "size": 221,
-      "subject": "Operating rooms and theaters.    Instruments, apparatus, and"
+      "subject": "Operating rooms and theaters.    Instruments, apparatus, and",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD130",
       "size": 80,
-      "subject": "Prosthesis.    Artificial organs"
+      "subject": "Prosthesis.    Artificial organs",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD120.6-129.8",
       "size": 750,
-      "subject": "Transplantation of organs, tissues, etc."
+      "subject": "Transplantation of organs, tissues, etc.",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD92-97.8",
       "size": 1340,
-      "subject": "Emergency surgery.    Wounds and injuries"
+      "subject": "Emergency surgery.    Wounds and injuries",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD137-145",
       "size": 315,
-      "subject": "Surgery in childhood, adolescence, pregnancy, old age"
+      "subject": "Surgery in childhood, adolescence, pregnancy, old age",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD118-120.5",
       "size": 669,
-      "subject": "Plastic surgery.    Reparative surgery"
+      "subject": "Plastic surgery.    Reparative surgery",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD651-678",
       "size": 435,
-      "subject": "Neoplasms.    Tumors.    Oncology"
+      "subject": "Neoplasms.    Tumors.    Oncology",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD98-98.4",
       "size": 100,
-      "subject": "Surgical complications"
+      "subject": "Surgical complications",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD49-52",
       "size": 246,
-      "subject": "Surgical therapeutics.    Preoperative and postoperative care"
+      "subject": "Surgical therapeutics.    Preoperative and postoperative care",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD680-688",
       "size": 249,
-      "subject": "Diseases of the locomotor system (Surgical treatment)"
+      "subject": "Diseases of the locomotor system (Surgical treatment)",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD151-498",
       "size": 163,
-      "subject": "Military and naval surgery"
+      "subject": "Military and naval surgery",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD59",
       "size": 30,
-      "subject": "Surgical shock.    Traumatic shock"
+      "subject": "Surgical shock.    Traumatic shock",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD99-99.35",
       "size": 164,
-      "subject": "Surgical nursing"
+      "subject": "Surgical nursing",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RD58",
       "size": 9,
-      "subject": "Reparative processes after operations (Physiological)"
+      "subject": "Reparative processes after operations (Physiological)",
+      "parents": [
+        "R",
+        "RD",
+        "RD1-811"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RD] Surgery",
+        "[RD1-811] Surgery"
+      ]
     },
     {
       "id": "RE",
       "size": 0,
-      "subject": "Ophthalmology"
+      "subject": "Ophthalmology",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "RE1-994",
       "size": 1995,
-      "subject": "Ophthalmology"
+      "subject": "Ophthalmology",
+      "parents": [
+        "R",
+        "RE"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RE] Ophthalmology"
+      ]
     },
     {
       "id": "RE91-912",
       "size": 1670,
-      "subject": "Particular diseases of the eye"
+      "subject": "Particular diseases of the eye",
+      "parents": [
+        "R",
+        "RE",
+        "RE1-994"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RE] Ophthalmology",
+        "[RE1-994] Ophthalmology"
+      ]
     },
     {
       "id": "RE925-939",
       "size": 210,
-      "subject": "Refraction and errors of refraction and accommodation"
+      "subject": "Refraction and errors of refraction and accommodation",
+      "parents": [
+        "R",
+        "RE",
+        "RE1-994"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RE] Ophthalmology",
+        "[RE1-994] Ophthalmology"
+      ]
     },
     {
       "id": "RE986-988",
       "size": 51,
-      "subject": "Artificial eyes and other prostheses"
+      "subject": "Artificial eyes and other prostheses",
+      "parents": [
+        "R",
+        "RE",
+        "RE1-994"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RE] Ophthalmology",
+        "[RE1-994] Ophthalmology"
+      ]
     },
     {
       "id": "RE75-79",
       "size": 325,
-      "subject": "Examination.    Diagnosis"
+      "subject": "Examination.    Diagnosis",
+      "parents": [
+        "R",
+        "RE",
+        "RE1-994"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RE] Ophthalmology",
+        "[RE1-994] Ophthalmology"
+      ]
     },
     {
       "id": "RE939.2-981",
       "size": 563,
-      "subject": "Optometry.    Opticians.    Eyeglasses"
+      "subject": "Optometry.    Opticians.    Eyeglasses",
+      "parents": [
+        "R",
+        "RE",
+        "RE1-994"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RE] Ophthalmology",
+        "[RE1-994] Ophthalmology"
+      ]
     },
     {
       "id": "RE991-992",
       "size": 97,
-      "subject": "Ocular therapeutics"
+      "subject": "Ocular therapeutics",
+      "parents": [
+        "R",
+        "RE",
+        "RE1-994"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RE] Ophthalmology",
+        "[RE1-994] Ophthalmology"
+      ]
     },
     {
       "id": "RE80-87",
       "size": 300,
-      "subject": "Eye surgery"
+      "subject": "Eye surgery",
+      "parents": [
+        "R",
+        "RE",
+        "RE1-994"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RE] Ophthalmology",
+        "[RE1-994] Ophthalmology"
+      ]
     },
     {
       "id": "RE918-921",
       "size": 49,
-      "subject": "Color vision tests, charts, etc."
+      "subject": "Color vision tests, charts, etc.",
+      "parents": [
+        "R",
+        "RE",
+        "RE1-994"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RE] Ophthalmology",
+        "[RE1-994] Ophthalmology"
+      ]
     },
     {
       "id": "RE89",
       "size": 12,
-      "subject": "Eye banks"
+      "subject": "Eye banks",
+      "parents": [
+        "R",
+        "RE",
+        "RE1-994"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RE] Ophthalmology",
+        "[RE1-994] Ophthalmology"
+      ]
     },
     {
       "id": "RE88",
       "size": 39,
-      "subject": "Ophthalmic nursing"
+      "subject": "Ophthalmic nursing",
+      "parents": [
+        "R",
+        "RE",
+        "RE1-994"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RE] Ophthalmology",
+        "[RE1-994] Ophthalmology"
+      ]
     },
     {
       "id": "RC",
       "size": 0,
-      "subject": "Internal medicine"
+      "subject": "Internal medicine",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "RC31-1245",
       "size": 2838,
-      "subject": "Internal medicine"
+      "subject": "Internal medicine",
+      "parents": [
+        "R",
+        "RC"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine"
+      ]
     },
     {
       "id": "RC321-571",
       "size": 2600,
-      "subject": "Neurosciences.    Biological psychiatry.    Neuropsychiatry"
+      "subject": "Neurosciences.    Biological psychiatry.    Neuropsychiatry",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine"
+      ]
     },
     {
       "id": "RC346-429",
       "size": 9123,
-      "subject": "Neurology.    Diseases of the nervous system"
+      "subject": "Neurology.    Diseases of the nervous system",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC321-571"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC321-571] Neurosciences.    Biological psychiatry.    Neuropsychiatry"
+      ]
     },
     {
       "id": "RC435-571",
       "size": 11372,
-      "subject": "Psychiatry"
+      "subject": "Psychiatry",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC321-571"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC321-571] Neurosciences.    Biological psychiatry.    Neuropsychiatry"
+      ]
     },
     {
       "id": "RC512-569.5",
       "size": 763,
-      "subject": "Psychopathology"
+      "subject": "Psychopathology",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC321-571",
+        "RC435-571"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC321-571] Neurosciences.    Biological psychiatry.    Neuropsychiatry",
+        "[RC435-571] Psychiatry"
+      ]
     },
     {
       "id": "RC554-569.5",
       "size": 5973,
-      "subject": "Personality disorders.    Behavior problems"
+      "subject": "Personality disorders.    Behavior problems",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC321-571",
+        "RC435-571",
+        "RC512-569.5"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC321-571] Neurosciences.    Biological psychiatry.    Neuropsychiatry",
+        "[RC435-571] Psychiatry",
+        "[RC512-569.5] Psychopathology"
+      ]
     },
     {
       "id": "RC512-528",
       "size": 2683,
-      "subject": "Psychoses"
+      "subject": "Psychoses",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC321-571",
+        "RC435-571",
+        "RC512-569.5"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC321-571] Neurosciences.    Biological psychiatry.    Neuropsychiatry",
+        "[RC435-571] Psychiatry",
+        "[RC512-569.5] Psychopathology"
+      ]
     },
     {
       "id": "RC530-552",
       "size": 4775,
-      "subject": "Neuroses"
+      "subject": "Neuroses",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC321-571",
+        "RC435-571",
+        "RC512-569.5"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC321-571] Neurosciences.    Biological psychiatry.    Neuropsychiatry",
+        "[RC435-571] Psychiatry",
+        "[RC512-569.5] Psychopathology"
+      ]
     },
     {
       "id": "RC475-489",
       "size": 8320,
-      "subject": "Therapeutics.    Psychotherapy"
+      "subject": "Therapeutics.    Psychotherapy",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC321-571",
+        "RC435-571"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC321-571] Neurosciences.    Biological psychiatry.    Neuropsychiatry",
+        "[RC435-571] Psychiatry"
+      ]
     },
     {
       "id": "RC569.7-571",
       "size": 671,
-      "subject": "Mental retardation.    Developmental disabilities"
+      "subject": "Mental retardation.    Developmental disabilities",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC321-571",
+        "RC435-571"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC321-571] Neurosciences.    Biological psychiatry.    Neuropsychiatry",
+        "[RC435-571] Psychiatry"
+      ]
     },
     {
       "id": "RC490-499",
       "size": 545,
-      "subject": "Hypnotism and hypnosis.    Suggestion therapy"
+      "subject": "Hypnotism and hypnosis.    Suggestion therapy",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC321-571",
+        "RC435-571"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC321-571] Neurosciences.    Biological psychiatry.    Neuropsychiatry",
+        "[RC435-571] Psychiatry"
+      ]
     },
     {
       "id": "RC500-510",
       "size": 1546,
-      "subject": "Psychoanalysis"
+      "subject": "Psychoanalysis",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC321-571",
+        "RC435-571"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC321-571] Neurosciences.    Biological psychiatry.    Neuropsychiatry",
+        "[RC435-571] Psychiatry"
+      ]
     },
     {
       "id": "RC581-951",
       "size": 991,
-      "subject": "Specialties of internal medicine"
+      "subject": "Specialties of internal medicine",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine"
+      ]
     },
     {
       "id": "RC870-923",
       "size": 3536,
-      "subject": "Diseases of the genitourinary system.    Urology"
+      "subject": "Diseases of the genitourinary system.    Urology",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC581-951"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC581-951] Specialties of internal medicine"
+      ]
     },
     {
       "id": "RC581-607",
       "size": 3659,
-      "subject": "Immunologic diseases.    Allergy"
+      "subject": "Immunologic diseases.    Allergy",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC581-951"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC581-951] Specialties of internal medicine"
+      ]
     },
     {
       "id": "RC799-869",
       "size": 3837,
-      "subject": "Diseases of the digestive system.    Gastroenterology"
+      "subject": "Diseases of the digestive system.    Gastroenterology",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC581-951"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC581-951] Specialties of internal medicine"
+      ]
     },
     {
       "id": "RC648-665",
       "size": 3091,
-      "subject": "Diseases of the endocrine glands.    Clinical endocrinology"
+      "subject": "Diseases of the endocrine glands.    Clinical endocrinology",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC581-951"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC581-951] Specialties of internal medicine"
+      ]
     },
     {
       "id": "RC925-935",
       "size": 2555,
-      "subject": "Diseases of the musculoskeletal system"
+      "subject": "Diseases of the musculoskeletal system",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC581-951"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC581-951] Specialties of internal medicine"
+      ]
     },
     {
       "id": "RC666-701",
       "size": 8314,
-      "subject": "Diseases of the circulatory (Cardiovascular) system"
+      "subject": "Diseases of the circulatory (Cardiovascular) system",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC581-951"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC581-951] Specialties of internal medicine"
+      ]
     },
     {
       "id": "RC924-924.5",
       "size": 167,
-      "subject": "Diseases of the connective tissues"
+      "subject": "Diseases of the connective tissues",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC581-951"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC581-951] Specialties of internal medicine"
+      ]
     },
     {
       "id": "RC633-647.5",
       "size": 1670,
-      "subject": "Diseases of the blood and blood-forming organs"
+      "subject": "Diseases of the blood and blood-forming organs",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC581-951"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC581-951] Specialties of internal medicine"
+      ]
     },
     {
       "id": "RC705-779",
       "size": 2093,
-      "subject": "Diseases of the respiratory system"
+      "subject": "Diseases of the respiratory system",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC581-951"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC581-951] Specialties of internal medicine"
+      ]
     },
     {
       "id": "RC627.5-632",
       "size": 1234,
-      "subject": "Metabolic diseases"
+      "subject": "Metabolic diseases",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC581-951"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC581-951] Specialties of internal medicine"
+      ]
     },
     {
       "id": "RC620-627",
       "size": 463,
-      "subject": "Nutritional diseases.    Deficiency diseases"
+      "subject": "Nutritional diseases.    Deficiency diseases",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC581-951"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC581-951] Specialties of internal medicine"
+      ]
     },
     {
       "id": "RC71-78.7",
       "size": 3764,
-      "subject": "Examination.    Diagnosis"
+      "subject": "Examination.    Diagnosis",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine"
+      ]
     },
     {
       "id": "RC254-282",
       "size": 12835,
-      "subject": "Neoplasms.    Tumors.    Oncology"
+      "subject": "Neoplasms.    Tumors.    Oncology",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine"
+      ]
     },
     {
       "id": "RC952-1245",
       "size": 10,
-      "subject": "Special situations and conditions"
+      "subject": "Special situations and conditions",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine"
+      ]
     },
     {
       "id": "RC963-969",
       "size": 1977,
-      "subject": "Industrial medicine.    Industrial hygiene"
+      "subject": "Industrial medicine.    Industrial hygiene",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC952-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC952-1245] Special situations and conditions"
+      ]
     },
     {
       "id": "RC952-954.6",
       "size": 1514,
-      "subject": "Geriatrics"
+      "subject": "Geriatrics",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC952-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC952-1245] Special situations and conditions"
+      ]
     },
     {
       "id": "RC1200-1245",
       "size": 1433,
-      "subject": "Sports medicine"
+      "subject": "Sports medicine",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC952-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC952-1245] Special situations and conditions"
+      ]
     },
     {
       "id": "RC970-986",
       "size": 280,
-      "subject": "Military medicine.    Naval medicine"
+      "subject": "Military medicine.    Naval medicine",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC952-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC952-1245] Special situations and conditions"
+      ]
     },
     {
       "id": "RC1030-1160",
       "size": 564,
-      "subject": "Transportation medicine"
+      "subject": "Transportation medicine",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC952-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC952-1245] Special situations and conditions"
+      ]
     },
     {
       "id": "RC955-962",
       "size": 408,
-      "subject": "Arctic medicine.    Tropical medicine"
+      "subject": "Arctic medicine.    Tropical medicine",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC952-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC952-1245] Special situations and conditions"
+      ]
     },
     {
       "id": "RC1000-1020",
       "size": 99,
-      "subject": "Submarine medicine"
+      "subject": "Submarine medicine",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245",
+        "RC952-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine",
+        "[RC952-1245] Special situations and conditions"
+      ]
     },
     {
       "id": "RC109-216",
       "size": 4981,
-      "subject": "Infectious and parasitic diseases"
+      "subject": "Infectious and parasitic diseases",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine"
+      ]
     },
     {
       "id": "RC306-320.5",
       "size": 893,
-      "subject": "Tuberculosis"
+      "subject": "Tuberculosis",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine"
+      ]
     },
     {
       "id": "RC81-82",
       "size": 974,
-      "subject": "Popular medicine"
+      "subject": "Popular medicine",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine"
+      ]
     },
     {
       "id": "RC86-88.9",
       "size": 2544,
-      "subject": "Medical emergencies.    Critical care.    Intensive care."
+      "subject": "Medical emergencies.    Critical care.    Intensive care.",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine"
+      ]
     },
     {
       "id": "RC49-52",
       "size": 465,
-      "subject": "Psychosomatic medicine"
+      "subject": "Psychosomatic medicine",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine"
+      ]
     },
     {
       "id": "RC91-103",
       "size": 211,
-      "subject": "Disease due to physical and chemical agents"
+      "subject": "Disease due to physical and chemical agents",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine"
+      ]
     },
     {
       "id": "RC251",
       "size": 9,
-      "subject": "Constitutional diseases (General)"
+      "subject": "Constitutional diseases (General)",
+      "parents": [
+        "R",
+        "RC",
+        "RC31-1245"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RC] Internal medicine",
+        "[RC31-1245] Internal medicine"
+      ]
     },
     {
       "id": "RG",
       "size": 0,
-      "subject": "Gynecology and obstetrics"
+      "subject": "Gynecology and obstetrics",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "RG1-991",
       "size": 2459,
-      "subject": "Gynecology and obstetrics"
+      "subject": "Gynecology and obstetrics",
+      "parents": [
+        "R",
+        "RG"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RG] Gynecology and obstetrics"
+      ]
     },
     {
       "id": "RG211-483",
       "size": 476,
-      "subject": "Abnormalities and diseases of the female genital organs"
+      "subject": "Abnormalities and diseases of the female genital organs",
+      "parents": [
+        "R",
+        "RG",
+        "RG1-991"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RG] Gynecology and obstetrics",
+        "[RG1-991] Gynecology and obstetrics"
+      ]
     },
     {
       "id": "RG500-991",
       "size": 2005,
-      "subject": "Obstetrics"
+      "subject": "Obstetrics",
+      "parents": [
+        "R",
+        "RG",
+        "RG1-991"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RG] Gynecology and obstetrics",
+        "[RG1-991] Gynecology and obstetrics"
+      ]
     },
     {
       "id": "RG940-991",
       "size": 1482,
-      "subject": "Maternal care.    Prenatal care services"
+      "subject": "Maternal care.    Prenatal care services",
+      "parents": [
+        "R",
+        "RG",
+        "RG1-991",
+        "RG500-991"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RG] Gynecology and obstetrics",
+        "[RG1-991] Gynecology and obstetrics",
+        "[RG500-991] Obstetrics"
+      ]
     },
     {
       "id": "RG725-791",
       "size": 426,
-      "subject": "Obstetric operations.    Operative obstetrics"
+      "subject": "Obstetric operations.    Operative obstetrics",
+      "parents": [
+        "R",
+        "RG",
+        "RG1-991",
+        "RG500-991"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RG] Gynecology and obstetrics",
+        "[RG1-991] Gynecology and obstetrics",
+        "[RG500-991] Obstetrics"
+      ]
     },
     {
       "id": "RG600-650",
       "size": 1335,
-      "subject": "The embryo and fetus"
+      "subject": "The embryo and fetus",
+      "parents": [
+        "R",
+        "RG",
+        "RG1-991",
+        "RG500-991"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RG] Gynecology and obstetrics",
+        "[RG1-991] Gynecology and obstetrics",
+        "[RG500-991] Obstetrics"
+      ]
     },
     {
       "id": "RG648",
       "size": 82,
-      "subject": "Spontaneous abortion.    Miscarriage"
+      "subject": "Spontaneous abortion.    Miscarriage",
+      "parents": [
+        "R",
+        "RG",
+        "RG1-991",
+        "RG500-991",
+        "RG600-650"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RG] Gynecology and obstetrics",
+        "[RG1-991] Gynecology and obstetrics",
+        "[RG500-991] Obstetrics",
+        "[RG600-650] The embryo and fetus"
+      ]
     },
     {
       "id": "RG551-591",
       "size": 1437,
-      "subject": "Pregnancy"
+      "subject": "Pregnancy",
+      "parents": [
+        "R",
+        "RG",
+        "RG1-991",
+        "RG500-991"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RG] Gynecology and obstetrics",
+        "[RG1-991] Gynecology and obstetrics",
+        "[RG500-991] Obstetrics"
+      ]
     },
     {
       "id": "RG801-871",
       "size": 202,
-      "subject": "Puerperal state"
+      "subject": "Puerperal state",
+      "parents": [
+        "R",
+        "RG",
+        "RG1-991",
+        "RG500-991"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RG] Gynecology and obstetrics",
+        "[RG1-991] Gynecology and obstetrics",
+        "[RG500-991] Obstetrics"
+      ]
     },
     {
       "id": "RG651-721",
       "size": 555,
-      "subject": "Labor.    Parturition"
+      "subject": "Labor.    Parturition",
+      "parents": [
+        "R",
+        "RG",
+        "RG1-991",
+        "RG500-991"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RG] Gynecology and obstetrics",
+        "[RG1-991] Gynecology and obstetrics",
+        "[RG500-991] Obstetrics"
+      ]
     },
     {
       "id": "RG491-499",
       "size": 299,
-      "subject": "Diseases of the breast"
+      "subject": "Diseases of the breast",
+      "parents": [
+        "R",
+        "RG",
+        "RG1-991"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RG] Gynecology and obstetrics",
+        "[RG1-991] Gynecology and obstetrics"
+      ]
     },
     {
       "id": "RG133-137.6",
       "size": 1525,
-      "subject": "Conception.    Artificial insemination.    Contraception"
+      "subject": "Conception.    Artificial insemination.    Contraception",
+      "parents": [
+        "R",
+        "RG",
+        "RG1-991"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RG] Gynecology and obstetrics",
+        "[RG1-991] Gynecology and obstetrics"
+      ]
     },
     {
       "id": "RG159-208",
       "size": 938,
-      "subject": "Functional and systemic disorders.    Endocrine gynecology"
+      "subject": "Functional and systemic disorders.    Endocrine gynecology",
+      "parents": [
+        "R",
+        "RG",
+        "RG1-991"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RG] Gynecology and obstetrics",
+        "[RG1-991] Gynecology and obstetrics"
+      ]
     },
     {
       "id": "RG104-104.7",
       "size": 209,
-      "subject": "Operative gynecology"
+      "subject": "Operative gynecology",
+      "parents": [
+        "R",
+        "RG",
+        "RG1-991"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RG] Gynecology and obstetrics",
+        "[RG1-991] Gynecology and obstetrics"
+      ]
     },
     {
       "id": "RG484-485",
       "size": 82,
-      "subject": "Urogynecology and obstetric urology.    Urogynecologic"
+      "subject": "Urogynecology and obstetric urology.    Urogynecologic",
+      "parents": [
+        "R",
+        "RG",
+        "RG1-991"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RG] Gynecology and obstetrics",
+        "[RG1-991] Gynecology and obstetrics"
+      ]
     },
     {
       "id": "RG138",
       "size": 41,
-      "subject": "Sterilization of women"
+      "subject": "Sterilization of women",
+      "parents": [
+        "R",
+        "RG",
+        "RG1-991"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RG] Gynecology and obstetrics",
+        "[RG1-991] Gynecology and obstetrics"
+      ]
     },
     {
       "id": "RK",
       "size": 0,
-      "subject": "Dentistry"
+      "subject": "Dentistry",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "RK1-715",
       "size": 2926,
-      "subject": "Dentistry"
+      "subject": "Dentistry",
+      "parents": [
+        "R",
+        "RK"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RK] Dentistry"
+      ]
     },
     {
       "id": "RK641-667",
       "size": 968,
-      "subject": "Prosthetic dentistry.    Prosthodontics"
+      "subject": "Prosthetic dentistry.    Prosthodontics",
+      "parents": [
+        "R",
+        "RK",
+        "RK1-715"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RK] Dentistry",
+        "[RK1-715] Dentistry"
+      ]
     },
     {
       "id": "RK520-528",
       "size": 449,
-      "subject": "Orthodontics"
+      "subject": "Orthodontics",
+      "parents": [
+        "R",
+        "RK",
+        "RK1-715"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RK] Dentistry",
+        "[RK1-715] Dentistry"
+      ]
     },
     {
       "id": "RK529-535",
       "size": 193,
-      "subject": "Oral surgery"
+      "subject": "Oral surgery",
+      "parents": [
+        "R",
+        "RK",
+        "RK1-715"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RK] Dentistry",
+        "[RK1-715] Dentistry"
+      ]
     },
     {
       "id": "RK280",
       "size": 104,
-      "subject": "Oral and dental anatomy and physiology"
+      "subject": "Oral and dental anatomy and physiology",
+      "parents": [
+        "R",
+        "RK",
+        "RK1-715"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RK] Dentistry",
+        "[RK1-715] Dentistry"
+      ]
     },
     {
       "id": "RK301-493",
       "size": 1240,
-      "subject": "Oral and dental medicine.    Pathology.    Diseases"
+      "subject": "Oral and dental medicine.    Pathology.    Diseases",
+      "parents": [
+        "R",
+        "RK",
+        "RK1-715"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RK] Dentistry",
+        "[RK1-715] Dentistry"
+      ]
     },
     {
       "id": "RK501-519",
       "size": 395,
-      "subject": "Operative dentistry.    Restorative dentistry"
+      "subject": "Operative dentistry.    Restorative dentistry",
+      "parents": [
+        "R",
+        "RK",
+        "RK1-715"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RK] Dentistry",
+        "[RK1-715] Dentistry"
+      ]
     },
     {
       "id": "RK58-59.3",
       "size": 270,
-      "subject": "Practice of dentistry.    Dental economics"
+      "subject": "Practice of dentistry.    Dental economics",
+      "parents": [
+        "R",
+        "RK",
+        "RK1-715"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RK] Dentistry",
+        "[RK1-715] Dentistry"
+      ]
     },
     {
       "id": "RK60.7-60.8",
       "size": 127,
-      "subject": "Preventive dentistry"
+      "subject": "Preventive dentistry",
+      "parents": [
+        "R",
+        "RK",
+        "RK1-715"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RK] Dentistry",
+        "[RK1-715] Dentistry"
+      ]
     },
     {
       "id": "RJ",
       "size": 0,
-      "subject": "Pediatrics"
+      "subject": "Pediatrics",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "RJ1-570",
       "size": 3092,
-      "subject": "Pediatrics"
+      "subject": "Pediatrics",
+      "parents": [
+        "R",
+        "RJ"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RJ] Pediatrics"
+      ]
     },
     {
       "id": "RJ206-235",
       "size": 1311,
-      "subject": "Nutrition and feeding of children and adolescents"
+      "subject": "Nutrition and feeding of children and adolescents",
+      "parents": [
+        "R",
+        "RJ",
+        "RJ1-570"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RJ] Pediatrics",
+        "[RJ1-570] Pediatrics"
+      ]
     },
     {
       "id": "RJ370-550",
       "size": 5127,
-      "subject": "Diseases of children and adolescents"
+      "subject": "Diseases of children and adolescents",
+      "parents": [
+        "R",
+        "RJ",
+        "RJ1-570"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RJ] Pediatrics",
+        "[RJ1-570] Pediatrics"
+      ]
     },
     {
       "id": "RJ499-507",
       "size": 6559,
-      "subject": "Mental disorders.    Child psychiatry"
+      "subject": "Mental disorders.    Child psychiatry",
+      "parents": [
+        "R",
+        "RJ",
+        "RJ1-570",
+        "RJ370-550"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RJ] Pediatrics",
+        "[RJ1-570] Pediatrics",
+        "[RJ370-550] Diseases of children and adolescents"
+      ]
     },
     {
       "id": "RJ245-247",
       "size": 397,
-      "subject": "Nursing of children.    Pediatric nursing"
+      "subject": "Nursing of children.    Pediatric nursing",
+      "parents": [
+        "R",
+        "RJ",
+        "RJ1-570"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RJ] Pediatrics",
+        "[RJ1-570] Pediatrics"
+      ]
     },
     {
       "id": "RJ52-53",
       "size": 257,
-      "subject": "Therapeutics"
+      "subject": "Therapeutics",
+      "parents": [
+        "R",
+        "RJ",
+        "RJ1-570"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RJ] Pediatrics",
+        "[RJ1-570] Pediatrics"
+      ]
     },
     {
       "id": "RJ50-51",
       "size": 397,
-      "subject": "Examination.    Diagnosis"
+      "subject": "Examination.    Diagnosis",
+      "parents": [
+        "R",
+        "RJ",
+        "RJ1-570"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RJ] Pediatrics",
+        "[RJ1-570] Pediatrics"
+      ]
     },
     {
       "id": "RJ125-145",
       "size": 1270,
-      "subject": "Physiology of children and adolescents"
+      "subject": "Physiology of children and adolescents",
+      "parents": [
+        "R",
+        "RJ",
+        "RJ1-570"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RJ] Pediatrics",
+        "[RJ1-570] Pediatrics"
+      ]
     },
     {
       "id": "RJ101-103",
       "size": 1031,
-      "subject": "Child health.    Child health services"
+      "subject": "Child health.    Child health services",
+      "parents": [
+        "R",
+        "RJ",
+        "RJ1-570"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RJ] Pediatrics",
+        "[RJ1-570] Pediatrics"
+      ]
     },
     {
       "id": "RJ250-250.3",
       "size": 132,
-      "subject": "Premature infants"
+      "subject": "Premature infants",
+      "parents": [
+        "R",
+        "RJ",
+        "RJ1-570"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RJ] Pediatrics",
+        "[RJ1-570] Pediatrics"
+      ]
     },
     {
       "id": "RJ251-325",
       "size": 969,
-      "subject": "Newborn infants"
+      "subject": "Newborn infants",
+      "parents": [
+        "R",
+        "RJ",
+        "RJ1-570"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RJ] Pediatrics",
+        "[RJ1-570] Pediatrics"
+      ]
     },
     {
       "id": "RJ240",
       "size": 163,
-      "subject": "Immunization of children (General)"
+      "subject": "Immunization of children (General)",
+      "parents": [
+        "R",
+        "RJ",
+        "RJ1-570"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RJ] Pediatrics",
+        "[RJ1-570] Pediatrics"
+      ]
     },
     {
       "id": "RJ91",
       "size": 26,
-      "subject": "Supposed prenatal influence.    Prenatal culture.    Stirpiculture"
+      "subject": "Supposed prenatal influence.    Prenatal culture.    Stirpiculture",
+      "parents": [
+        "R",
+        "RJ",
+        "RJ1-570"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RJ] Pediatrics",
+        "[RJ1-570] Pediatrics"
+      ]
     },
     {
       "id": "RJ59-60",
       "size": 208,
-      "subject": "Infant and neonatal morbidity and mortality"
+      "subject": "Infant and neonatal morbidity and mortality",
+      "parents": [
+        "R",
+        "RJ",
+        "RJ1-570"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RJ] Pediatrics",
+        "[RJ1-570] Pediatrics"
+      ]
     },
     {
       "id": "RJ242-243",
       "size": 127,
-      "subject": "Hospital care"
+      "subject": "Hospital care",
+      "parents": [
+        "R",
+        "RJ",
+        "RJ1-570"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RJ] Pediatrics",
+        "[RJ1-570] Pediatrics"
+      ]
     },
     {
       "id": "RJ47.3-47.4",
       "size": 25,
-      "subject": "Genetic aspects"
+      "subject": "Genetic aspects",
+      "parents": [
+        "R",
+        "RJ",
+        "RJ1-570"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RJ] Pediatrics",
+        "[RJ1-570] Pediatrics"
+      ]
     },
     {
       "id": "RL",
       "size": 0,
-      "subject": "Dermatology"
+      "subject": "Dermatology",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "RL1-803",
       "size": 1300,
-      "subject": "Dermatology"
+      "subject": "Dermatology",
+      "parents": [
+        "R",
+        "RL"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RL] Dermatology"
+      ]
     },
     {
       "id": "RL201-331",
       "size": 281,
-      "subject": "Hyperemias, inflammations, and infections of the skin"
+      "subject": "Hyperemias, inflammations, and infections of the skin",
+      "parents": [
+        "R",
+        "RL",
+        "RL1-803"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RL] Dermatology",
+        "[RL1-803] Dermatology"
+      ]
     },
     {
       "id": "RL760-785",
       "size": 64,
-      "subject": "Diseases due to parasites"
+      "subject": "Diseases due to parasites",
+      "parents": [
+        "R",
+        "RL",
+        "RL1-803"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RL] Dermatology",
+        "[RL1-803] Dermatology"
+      ]
     },
     {
       "id": "RL391-489",
       "size": 33,
-      "subject": "Atrophies.    Hypertrophies"
+      "subject": "Atrophies.    Hypertrophies",
+      "parents": [
+        "R",
+        "RL",
+        "RL1-803"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RL] Dermatology",
+        "[RL1-803] Dermatology"
+      ]
     },
     {
       "id": "RL87-94",
       "size": 412,
-      "subject": "Care and hygiene"
+      "subject": "Care and hygiene",
+      "parents": [
+        "R",
+        "RL",
+        "RL1-803"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RL] Dermatology",
+        "[RL1-803] Dermatology"
+      ]
     },
     {
       "id": "RL130-169",
       "size": 155,
-      "subject": "Diseases of the glands, hair, nails"
+      "subject": "Diseases of the glands, hair, nails",
+      "parents": [
+        "R",
+        "RL",
+        "RL1-803"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RL] Dermatology",
+        "[RL1-803] Dermatology"
+      ]
     },
     {
       "id": "RL110-120",
       "size": 117,
-      "subject": "Therapeutics"
+      "subject": "Therapeutics",
+      "parents": [
+        "R",
+        "RL",
+        "RL1-803"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RL] Dermatology",
+        "[RL1-803] Dermatology"
+      ]
     },
     {
       "id": "RL675",
       "size": 49,
-      "subject": "Chronic ulcer of the skin.    Bedsores"
+      "subject": "Chronic ulcer of the skin.    Bedsores",
+      "parents": [
+        "R",
+        "RL",
+        "RL1-803"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RL] Dermatology",
+        "[RL1-803] Dermatology"
+      ]
     },
     {
       "id": "RL701-751",
       "size": 24,
-      "subject": "Diseases due to psychosomatic and nerve disorders."
+      "subject": "Diseases due to psychosomatic and nerve disorders.",
+      "parents": [
+        "R",
+        "RL",
+        "RL1-803"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RL] Dermatology",
+        "[RL1-803] Dermatology"
+      ]
     },
     {
       "id": "RL95",
       "size": 37,
-      "subject": "Pathological anatomy"
+      "subject": "Pathological anatomy",
+      "parents": [
+        "R",
+        "RL",
+        "RL1-803"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RL] Dermatology",
+        "[RL1-803] Dermatology"
+      ]
     },
     {
       "id": "RL793",
       "size": 25,
-      "subject": "Congenital disorders of the skin.    Nevi.    Moles"
+      "subject": "Congenital disorders of the skin.    Nevi.    Moles",
+      "parents": [
+        "R",
+        "RL",
+        "RL1-803"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RL] Dermatology",
+        "[RL1-803] Dermatology"
+      ]
     },
     {
       "id": "RL790",
       "size": 19,
-      "subject": "Pigmentations.    Albinism"
+      "subject": "Pigmentations.    Albinism",
+      "parents": [
+        "R",
+        "RL",
+        "RL1-803"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RL] Dermatology",
+        "[RL1-803] Dermatology"
+      ]
     },
     {
       "id": "RS",
       "size": 0,
-      "subject": "Pharmacy and materia medica"
+      "subject": "Pharmacy and materia medica",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "RS1-441",
       "size": 2901,
-      "subject": "Pharmacy and materia medica"
+      "subject": "Pharmacy and materia medica",
+      "parents": [
+        "R",
+        "RS"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RS] Pharmacy and materia medica"
+      ]
     },
     {
       "id": "RS153-441",
       "size": 1329,
-      "subject": "Materia medica"
+      "subject": "Materia medica",
+      "parents": [
+        "R",
+        "RS",
+        "RS1-441"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RS] Pharmacy and materia medica",
+        "[RS1-441] Pharmacy and materia medica"
+      ]
     },
     {
       "id": "RS355-356",
       "size": 46,
-      "subject": "Pharmaceutical supplies"
+      "subject": "Pharmaceutical supplies",
+      "parents": [
+        "R",
+        "RS",
+        "RS1-441",
+        "RS153-441"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RS] Pharmacy and materia medica",
+        "[RS1-441] Pharmacy and materia medica",
+        "[RS153-441] Materia medica"
+      ]
     },
     {
       "id": "RS400-431",
       "size": 878,
-      "subject": "Pharmaceutical chemistry"
+      "subject": "Pharmaceutical chemistry",
+      "parents": [
+        "R",
+        "RS",
+        "RS1-441",
+        "RS153-441"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RS] Pharmacy and materia medica",
+        "[RS1-441] Pharmacy and materia medica",
+        "[RS153-441] Materia medica"
+      ]
     },
     {
       "id": "RS192-199",
       "size": 173,
-      "subject": "Pharmaceutical technology"
+      "subject": "Pharmaceutical technology",
+      "parents": [
+        "R",
+        "RS",
+        "RS1-441",
+        "RS153-441"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RS] Pharmacy and materia medica",
+        "[RS1-441] Pharmacy and materia medica",
+        "[RS153-441] Materia medica"
+      ]
     },
     {
       "id": "RS160-167",
       "size": 1245,
-      "subject": "Pharmacognosy.    Pharmaceutical substances (Plant,"
+      "subject": "Pharmacognosy.    Pharmaceutical substances (Plant,",
+      "parents": [
+        "R",
+        "RS",
+        "RS1-441",
+        "RS153-441"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RS] Pharmacy and materia medica",
+        "[RS1-441] Pharmacy and materia medica",
+        "[RS153-441] Materia medica"
+      ]
     },
     {
       "id": "RS200-201",
       "size": 366,
-      "subject": "Pharmaceutical dosage forms"
+      "subject": "Pharmaceutical dosage forms",
+      "parents": [
+        "R",
+        "RS",
+        "RS1-441",
+        "RS153-441"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RS] Pharmacy and materia medica",
+        "[RS1-441] Pharmacy and materia medica",
+        "[RS153-441] Materia medica"
+      ]
     },
     {
       "id": "RS189-190",
       "size": 397,
-      "subject": "Assay methods.    Standardization.    Analysis"
+      "subject": "Assay methods.    Standardization.    Analysis",
+      "parents": [
+        "R",
+        "RS",
+        "RS1-441",
+        "RS153-441"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RS] Pharmacy and materia medica",
+        "[RS1-441] Pharmacy and materia medica",
+        "[RS153-441] Materia medica"
+      ]
     },
     {
       "id": "RS441",
       "size": 11,
-      "subject": "Microscopical examination of drugs"
+      "subject": "Microscopical examination of drugs",
+      "parents": [
+        "R",
+        "RS",
+        "RS1-441",
+        "RS153-441"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RS] Pharmacy and materia medica",
+        "[RS1-441] Pharmacy and materia medica",
+        "[RS153-441] Materia medica"
+      ]
     },
     {
       "id": "RS250-252",
       "size": 13,
-      "subject": "Commercial preparations.    Patent medicines"
+      "subject": "Commercial preparations.    Patent medicines",
+      "parents": [
+        "R",
+        "RS",
+        "RS1-441",
+        "RS153-441"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RS] Pharmacy and materia medica",
+        "[RS1-441] Pharmacy and materia medica",
+        "[RS153-441] Materia medica"
+      ]
     },
     {
       "id": "RS139-141.9",
       "size": 243,
-      "subject": "Pharmacopoeias"
+      "subject": "Pharmacopoeias",
+      "parents": [
+        "R",
+        "RS",
+        "RS1-441"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RS] Pharmacy and materia medica",
+        "[RS1-441] Pharmacy and materia medica"
+      ]
     },
     {
       "id": "RS125-131.9",
       "size": 734,
-      "subject": "Formularies.    Collected prescriptions"
+      "subject": "Formularies.    Collected prescriptions",
+      "parents": [
+        "R",
+        "RS",
+        "RS1-441"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RS] Pharmacy and materia medica",
+        "[RS1-441] Pharmacy and materia medica"
+      ]
     },
     {
       "id": "RS151.2-151.9",
       "size": 24,
-      "subject": "Dispensatories"
+      "subject": "Dispensatories",
+      "parents": [
+        "R",
+        "RS",
+        "RS1-441"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RS] Pharmacy and materia medica",
+        "[RS1-441] Pharmacy and materia medica"
+      ]
     },
     {
       "id": "RM",
       "size": 0,
-      "subject": "Therapeutics.    Pharmacology"
+      "subject": "Therapeutics.    Pharmacology",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "RM1-950",
       "size": 1365,
-      "subject": "Therapeutics.    Pharmacology"
+      "subject": "Therapeutics.    Pharmacology",
+      "parents": [
+        "R",
+        "RM"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RM] Therapeutics.    Pharmacology"
+      ]
     },
     {
       "id": "RM671-671.5",
       "size": 149,
-      "subject": "Nonprescription drugs.    Patent medicines"
+      "subject": "Nonprescription drugs.    Patent medicines",
+      "parents": [
+        "R",
+        "RM",
+        "RM1-950"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RM] Therapeutics.    Pharmacology",
+        "[RM1-950] Therapeutics.    Pharmacology"
+      ]
     },
     {
       "id": "RM214-258",
       "size": 5803,
-      "subject": "Diet therapy.    Dietary cookbooks"
+      "subject": "Diet therapy.    Dietary cookbooks",
+      "parents": [
+        "R",
+        "RM",
+        "RM1-950"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RM] Therapeutics.    Pharmacology",
+        "[RM1-950] Therapeutics.    Pharmacology"
+      ]
     },
     {
       "id": "RM695-893",
       "size": 3931,
-      "subject": "Physical medicine.    Physical therapy"
+      "subject": "Physical medicine.    Physical therapy",
+      "parents": [
+        "R",
+        "RM",
+        "RM1-950"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RM] Therapeutics.    Pharmacology",
+        "[RM1-950] Therapeutics.    Pharmacology"
+      ]
     },
     {
       "id": "RM283-298",
       "size": 191,
-      "subject": "Endocrinotherapy.    Organotherapy"
+      "subject": "Endocrinotherapy.    Organotherapy",
+      "parents": [
+        "R",
+        "RM",
+        "RM1-950"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RM] Therapeutics.    Pharmacology",
+        "[RM1-950] Therapeutics.    Pharmacology"
+      ]
     },
     {
       "id": "RM300-666",
       "size": 7110,
-      "subject": "Drugs and their actions"
+      "subject": "Drugs and their actions",
+      "parents": [
+        "R",
+        "RM",
+        "RM1-950"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RM] Therapeutics.    Pharmacology",
+        "[RM1-950] Therapeutics.    Pharmacology"
+      ]
     },
     {
       "id": "RM930-931",
       "size": 400,
-      "subject": "Rehabilitation therapy"
+      "subject": "Rehabilitation therapy",
+      "parents": [
+        "R",
+        "RM",
+        "RM1-950"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RM] Therapeutics.    Pharmacology",
+        "[RM1-950] Therapeutics.    Pharmacology"
+      ]
     },
     {
       "id": "RM147-180",
       "size": 1181,
-      "subject": "Administration of drugs and other therapeutic agents"
+      "subject": "Administration of drugs and other therapeutic agents",
+      "parents": [
+        "R",
+        "RM",
+        "RM1-950"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RM] Therapeutics.    Pharmacology",
+        "[RM1-950] Therapeutics.    Pharmacology"
+      ]
     },
     {
       "id": "RM270-282",
       "size": 134,
-      "subject": "Immunotherapy.    Serotherapy"
+      "subject": "Immunotherapy.    Serotherapy",
+      "parents": [
+        "R",
+        "RM",
+        "RM1-950"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RM] Therapeutics.    Pharmacology",
+        "[RM1-950] Therapeutics.    Pharmacology"
+      ]
     },
     {
       "id": "RM260-263",
       "size": 403,
-      "subject": "Chemotherapy"
+      "subject": "Chemotherapy",
+      "parents": [
+        "R",
+        "RM",
+        "RM1-950"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RM] Therapeutics.    Pharmacology",
+        "[RM1-950] Therapeutics.    Pharmacology"
+      ]
     },
     {
       "id": "RM182-190",
       "size": 885,
-      "subject": "Other therapeutic procedures"
+      "subject": "Other therapeutic procedures",
+      "parents": [
+        "R",
+        "RM",
+        "RM1-950"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RM] Therapeutics.    Pharmacology",
+        "[RM1-950] Therapeutics.    Pharmacology"
+      ]
     },
     {
       "id": "RM265-267",
       "size": 262,
-      "subject": "Antibiotic therapy.    Antibiotics"
+      "subject": "Antibiotic therapy.    Antibiotics",
+      "parents": [
+        "R",
+        "RM",
+        "RM1-950"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RM] Therapeutics.    Pharmacology",
+        "[RM1-950] Therapeutics.    Pharmacology"
+      ]
     },
     {
       "id": "RM950",
       "size": 49,
-      "subject": "Rehabilitation technology"
+      "subject": "Rehabilitation technology",
+      "parents": [
+        "R",
+        "RM",
+        "RM1-950"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RM] Therapeutics.    Pharmacology",
+        "[RM1-950] Therapeutics.    Pharmacology"
+      ]
     },
     {
       "id": "RM138",
       "size": 66,
-      "subject": "Drug prescribing"
+      "subject": "Drug prescribing",
+      "parents": [
+        "R",
+        "RM",
+        "RM1-950"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RM] Therapeutics.    Pharmacology",
+        "[RM1-950] Therapeutics.    Pharmacology"
+      ]
     },
     {
       "id": "RM259",
       "size": 37,
-      "subject": "Vitamin therapy"
+      "subject": "Vitamin therapy",
+      "parents": [
+        "R",
+        "RM",
+        "RM1-950"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RM] Therapeutics.    Pharmacology",
+        "[RM1-950] Therapeutics.    Pharmacology"
+      ]
     },
     {
       "id": "RM139",
       "size": 29,
-      "subject": "Prescription writing"
+      "subject": "Prescription writing",
+      "parents": [
+        "R",
+        "RM",
+        "RM1-950"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RM] Therapeutics.    Pharmacology",
+        "[RM1-950] Therapeutics.    Pharmacology"
+      ]
     },
     {
       "id": "RM146-146.7",
       "size": 68,
-      "subject": "Misuse of therapeutic drugs.    Medication errors"
+      "subject": "Misuse of therapeutic drugs.    Medication errors",
+      "parents": [
+        "R",
+        "RM",
+        "RM1-950"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RM] Therapeutics.    Pharmacology",
+        "[RM1-950] Therapeutics.    Pharmacology"
+      ]
     },
     {
       "id": "R5-920",
       "size": 727,
-      "subject": "Medicine (General)"
+      "subject": "Medicine (General)",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "R5-130.5",
       "size": 7626,
-      "subject": "General works"
+      "subject": "General works",
+      "parents": [
+        "R",
+        "R5-920"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[R5-920] Medicine (General)"
+      ]
     },
     {
       "id": "R131-687",
       "size": 11008,
-      "subject": "History of medicine.    Medical expeditions"
+      "subject": "History of medicine.    Medical expeditions",
+      "parents": [
+        "R",
+        "R5-920"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[R5-920] Medicine (General)"
+      ]
     },
     {
       "id": "R723-726",
       "size": 3326,
-      "subject": "Medical philosophy.    Medical ethics"
+      "subject": "Medical philosophy.    Medical ethics",
+      "parents": [
+        "R",
+        "R5-920"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[R5-920] Medicine (General)"
+      ]
     },
     {
       "id": "R735-854",
       "size": 4930,
-      "subject": "Medical education.    Medical schools.    Research"
+      "subject": "Medical education.    Medical schools.    Research",
+      "parents": [
+        "R",
+        "R5-920"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[R5-920] Medicine (General)"
+      ]
     },
     {
       "id": "R690-697",
       "size": 1092,
-      "subject": "Medicine as a profession.    Physicians"
+      "subject": "Medicine as a profession.    Physicians",
+      "parents": [
+        "R",
+        "R5-920"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[R5-920] Medicine (General)"
+      ]
     },
     {
       "id": "R858-859.7",
       "size": 965,
-      "subject": "Computer applications to medicine.    Medical informatics"
+      "subject": "Computer applications to medicine.    Medical informatics",
+      "parents": [
+        "R",
+        "R5-920"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[R5-920] Medicine (General)"
+      ]
     },
     {
       "id": "R864",
       "size": 255,
-      "subject": "Medical records"
+      "subject": "Medical records",
+      "parents": [
+        "R",
+        "R5-920"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[R5-920] Medicine (General)"
+      ]
     },
     {
       "id": "R895-920",
       "size": 763,
-      "subject": "Medical physics.    Medical radiology.    Nuclear medicine"
+      "subject": "Medical physics.    Medical radiology.    Nuclear medicine",
+      "parents": [
+        "R",
+        "R5-920"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[R5-920] Medicine (General)"
+      ]
     },
     {
       "id": "R727-727.5",
       "size": 777,
-      "subject": "Medical personnel and the public.    Physician and the public"
+      "subject": "Medical personnel and the public.    Physician and the public",
+      "parents": [
+        "R",
+        "R5-920"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[R5-920] Medicine (General)"
+      ]
     },
     {
       "id": "R728-733",
       "size": 2705,
-      "subject": "Practice of medicine.    Medical practice economics"
+      "subject": "Practice of medicine.    Medical practice economics",
+      "parents": [
+        "R",
+        "R5-920"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[R5-920] Medicine (General)"
+      ]
     },
     {
       "id": "R726.5-726.8",
       "size": 1490,
-      "subject": "Medicine and disease in relation to psychology."
+      "subject": "Medicine and disease in relation to psychology.",
+      "parents": [
+        "R",
+        "R5-920"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[R5-920] Medicine (General)"
+      ]
     },
     {
       "id": "R855-855.5",
       "size": 260,
-      "subject": "Medical technology"
+      "subject": "Medical technology",
+      "parents": [
+        "R",
+        "R5-920"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[R5-920] Medicine (General)"
+      ]
     },
     {
       "id": "R856-857",
       "size": 2324,
-      "subject": "Biomedical engineering.    Electronics.    Instrumentation"
+      "subject": "Biomedical engineering.    Electronics.    Instrumentation",
+      "parents": [
+        "R",
+        "R5-920"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[R5-920] Medicine (General)"
+      ]
     },
     {
       "id": "R722-722.32",
       "size": 338,
-      "subject": "Missionary medicine.    Medical missionaries"
+      "subject": "Missionary medicine.    Medical missionaries",
+      "parents": [
+        "R",
+        "R5-920"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[R5-920] Medicine (General)"
+      ]
     },
     {
       "id": "R702-703",
       "size": 115,
-      "subject": "Medicine and the humanities.    Medicine and disease"
+      "subject": "Medicine and the humanities.    Medicine and disease",
+      "parents": [
+        "R",
+        "R5-920"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[R5-920] Medicine (General)"
+      ]
     },
     {
       "id": "R711-713.97",
       "size": 305,
-      "subject": "Directories"
+      "subject": "Directories",
+      "parents": [
+        "R",
+        "R5-920"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[R5-920] Medicine (General)"
+      ]
     },
     {
       "id": "RB",
       "size": 0,
-      "subject": "Pathology"
+      "subject": "Pathology",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "RB1-214",
       "size": 1417,
-      "subject": "Pathology"
+      "subject": "Pathology",
+      "parents": [
+        "R",
+        "RB"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RB] Pathology"
+      ]
     },
     {
       "id": "RB24-33",
       "size": 342,
-      "subject": "Pathological anatomy and histology"
+      "subject": "Pathological anatomy and histology",
+      "parents": [
+        "R",
+        "RB",
+        "RB1-214"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RB] Pathology",
+        "[RB1-214] Pathology"
+      ]
     },
     {
       "id": "RB37-56.5",
       "size": 2142,
-      "subject": "Clinical pathology.    Laboratory technique"
+      "subject": "Clinical pathology.    Laboratory technique",
+      "parents": [
+        "R",
+        "RB",
+        "RB1-214"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RB] Pathology",
+        "[RB1-214] Pathology"
+      ]
     },
     {
       "id": "RB151-214",
       "size": 1606,
-      "subject": "Theories of disease.    Etiology.    Pathogenesis"
+      "subject": "Theories of disease.    Etiology.    Pathogenesis",
+      "parents": [
+        "R",
+        "RB",
+        "RB1-214"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RB] Pathology",
+        "[RB1-214] Pathology"
+      ]
     },
     {
       "id": "RB127-150",
       "size": 2126,
-      "subject": "Manifestations of disease"
+      "subject": "Manifestations of disease",
+      "parents": [
+        "R",
+        "RB",
+        "RB1-214"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RB] Pathology",
+        "[RB1-214] Pathology"
+      ]
     },
     {
       "id": "RB1-17",
       "size": 279,
-      "subject": "General works"
+      "subject": "General works",
+      "parents": [
+        "R",
+        "RB",
+        "RB1-214"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RB] Pathology",
+        "[RB1-214] Pathology"
+      ]
     },
     {
       "id": "RB57",
       "size": 97,
-      "subject": "Post-mortem examination.    Autopsies"
+      "subject": "Post-mortem examination.    Autopsies",
+      "parents": [
+        "R",
+        "RB",
+        "RB1-214"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RB] Pathology",
+        "[RB1-214] Pathology"
+      ]
     },
     {
       "id": "RF",
       "size": 0,
-      "subject": "Otorhinolaryngology"
+      "subject": "Otorhinolaryngology",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "RF1-547",
       "size": 845,
-      "subject": "Otorhinolaryngology"
+      "subject": "Otorhinolaryngology",
+      "parents": [
+        "R",
+        "RF"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RF] Otorhinolaryngology"
+      ]
     },
     {
       "id": "RF341-437",
       "size": 276,
-      "subject": "Rhinology.    Diseases of the nose, accessory sinuses,"
+      "subject": "Rhinology.    Diseases of the nose, accessory sinuses,",
+      "parents": [
+        "R",
+        "RF",
+        "RF1-547"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RF] Otorhinolaryngology",
+        "[RF1-547] Otorhinolaryngology"
+      ]
     },
     {
       "id": "RF460-547",
       "size": 341,
-      "subject": "Laryngology.    Diseases of the throat"
+      "subject": "Laryngology.    Diseases of the throat",
+      "parents": [
+        "R",
+        "RF",
+        "RF1-547"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RF] Otorhinolaryngology",
+        "[RF1-547] Otorhinolaryngology"
+      ]
     },
     {
       "id": "RF110-320",
       "size": 1585,
-      "subject": "Otology.    Diseases of the ear"
+      "subject": "Otology.    Diseases of the ear",
+      "parents": [
+        "R",
+        "RF",
+        "RF1-547"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RF] Otorhinolaryngology",
+        "[RF1-547] Otorhinolaryngology"
+      ]
     },
     {
       "id": "RZ",
       "size": 0,
-      "subject": "Other systems of medicine"
+      "subject": "Other systems of medicine",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "RZ201-999",
       "size": 0,
-      "subject": "Other systems of medicine"
+      "subject": "Other systems of medicine",
+      "parents": [
+        "R",
+        "RZ"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RZ] Other systems of medicine"
+      ]
     },
     {
       "id": "RZ400-408",
       "size": 694,
-      "subject": "Mental healing"
+      "subject": "Mental healing",
+      "parents": [
+        "R",
+        "RZ",
+        "RZ201-999"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RZ] Other systems of medicine",
+        "[RZ201-999] Other systems of medicine"
+      ]
     },
     {
       "id": "RZ409.7-999",
       "size": 892,
-      "subject": "Miscellaneous systems and treatments"
+      "subject": "Miscellaneous systems and treatments",
+      "parents": [
+        "R",
+        "RZ",
+        "RZ201-999"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RZ] Other systems of medicine",
+        "[RZ201-999] Other systems of medicine"
+      ]
     },
     {
       "id": "RZ301-397.5",
       "size": 215,
-      "subject": "Osteopathy"
+      "subject": "Osteopathy",
+      "parents": [
+        "R",
+        "RZ",
+        "RZ201-999"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RZ] Other systems of medicine",
+        "[RZ201-999] Other systems of medicine"
+      ]
     },
     {
       "id": "RZ201-275",
       "size": 402,
-      "subject": "Chiropractic"
+      "subject": "Chiropractic",
+      "parents": [
+        "R",
+        "RZ",
+        "RZ201-999"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RZ] Other systems of medicine",
+        "[RZ201-999] Other systems of medicine"
+      ]
     },
     {
       "id": "RZ399",
       "size": 47,
-      "subject": "Osteo-magnetics, neuropathy, etc., A-Z"
+      "subject": "Osteo-magnetics, neuropathy, etc., A-Z",
+      "parents": [
+        "R",
+        "RZ",
+        "RZ201-999"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RZ] Other systems of medicine",
+        "[RZ201-999] Other systems of medicine"
+      ]
     },
     {
       "id": "RT",
       "size": 0,
-      "subject": "Nursing"
+      "subject": "Nursing",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "RT1-120",
       "size": 9005,
-      "subject": "Nursing"
+      "subject": "Nursing",
+      "parents": [
+        "R",
+        "RT"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RT] Nursing"
+      ]
     },
     {
       "id": "RT89-120",
       "size": 1987,
-      "subject": "Specialties in nursing"
+      "subject": "Specialties in nursing",
+      "parents": [
+        "R",
+        "RT",
+        "RT1-120"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RT] Nursing",
+        "[RT1-120] Nursing"
+      ]
     },
     {
       "id": "RV",
       "size": 0,
-      "subject": "Botanic, Thomsonian, and eclectic medicine"
+      "subject": "Botanic, Thomsonian, and eclectic medicine",
+      "parents": [
+        "R"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine"
+      ]
     },
     {
       "id": "RV1-431",
       "size": 98,
-      "subject": "Botanic, Thomsonian, and eclectic medicine"
+      "subject": "Botanic, Thomsonian, and eclectic medicine",
+      "parents": [
+        "R",
+        "RV"
+      ],
+      "parentsSubjects": [
+        "[R] Medicine",
+        "[RV] Botanic, Thomsonian, and eclectic medicine"
+      ]
     }
   ],
   "links": [

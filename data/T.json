@@ -3,1227 +3,3581 @@
     {
       "id": "T",
       "size": 0,
-      "subject": "Technology"
+      "subject": "Technology",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "TN",
       "size": 0,
-      "subject": "Mining engineering.    Metallurgy"
+      "subject": "Mining engineering.    Metallurgy",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "TN1-997",
       "size": 10685,
-      "subject": "Mining engineering.    Metallurgy"
+      "subject": "Mining engineering.    Metallurgy",
+      "parents": [
+        "T",
+        "TN"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TN] Mining engineering.    Metallurgy"
+      ]
     },
     {
       "id": "TN799.5-948",
       "size": 11082,
-      "subject": "Nonmetallic minerals"
+      "subject": "Nonmetallic minerals",
+      "parents": [
+        "T",
+        "TN",
+        "TN1-997"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TN] Mining engineering.    Metallurgy",
+        "[TN1-997] Mining engineering.    Metallurgy"
+      ]
     },
     {
       "id": "TN400-580",
       "size": 3347,
-      "subject": "Ore deposits and mining of particular metals"
+      "subject": "Ore deposits and mining of particular metals",
+      "parents": [
+        "T",
+        "TN",
+        "TN1-997"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TN] Mining engineering.    Metallurgy",
+        "[TN1-997] Mining engineering.    Metallurgy"
+      ]
     },
     {
       "id": "TN263-271",
       "size": 2435,
-      "subject": "Mineral deposits.    Metallic ore deposits."
+      "subject": "Mineral deposits.    Metallic ore deposits.",
+      "parents": [
+        "T",
+        "TN",
+        "TN1-997"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TN] Mining engineering.    Metallurgy",
+        "[TN1-997] Mining engineering.    Metallurgy"
+      ]
     },
     {
       "id": "TN950-997",
       "size": 584,
-      "subject": "Building and ornamental stones"
+      "subject": "Building and ornamental stones",
+      "parents": [
+        "T",
+        "TN",
+        "TN1-997"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TN] Mining engineering.    Metallurgy",
+        "[TN1-997] Mining engineering.    Metallurgy"
+      ]
     },
     {
       "id": "TN600-799",
       "size": 6308,
-      "subject": "Metallurgy"
+      "subject": "Metallurgy",
+      "parents": [
+        "T",
+        "TN",
+        "TN1-997"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TN] Mining engineering.    Metallurgy",
+        "[TN1-997] Mining engineering.    Metallurgy"
+      ]
     },
     {
       "id": "TN275-325",
       "size": 3390,
-      "subject": "Practical mining operations.    Safety measures"
+      "subject": "Practical mining operations.    Safety measures",
+      "parents": [
+        "T",
+        "TN",
+        "TN1-997"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TN] Mining engineering.    Metallurgy",
+        "[TN1-997] Mining engineering.    Metallurgy"
+      ]
     },
     {
       "id": "TN331-347",
       "size": 497,
-      "subject": "Mine transportation, haulage and hoisting."
+      "subject": "Mine transportation, haulage and hoisting.",
+      "parents": [
+        "T",
+        "TN",
+        "TN1-997"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TN] Mining engineering.    Metallurgy",
+        "[TN1-997] Mining engineering.    Metallurgy"
+      ]
     },
     {
       "id": "TR",
       "size": 0,
-      "subject": "Photography"
+      "subject": "Photography",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "TR1-1050",
       "size": 7212,
-      "subject": "Photography"
+      "subject": "Photography",
+      "parents": [
+        "T",
+        "TR"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TR] Photography"
+      ]
     },
     {
       "id": "TR510-545",
       "size": 287,
-      "subject": "Color photography"
+      "subject": "Color photography",
+      "parents": [
+        "T",
+        "TR",
+        "TR1-1050"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TR] Photography",
+        "[TR1-1050] Photography"
+      ]
     },
     {
       "id": "TR287-500",
       "size": 923,
-      "subject": "Photographic processing.    Darkroom technique"
+      "subject": "Photographic processing.    Darkroom technique",
+      "parents": [
+        "T",
+        "TR",
+        "TR1-1050"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TR] Photography",
+        "[TR1-1050] Photography"
+      ]
     },
     {
       "id": "TR624-835",
       "size": 18031,
-      "subject": "Applied photography"
+      "subject": "Applied photography",
+      "parents": [
+        "T",
+        "TR",
+        "TR1-1050"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TR] Photography",
+        "[TR1-1050] Photography"
+      ]
     },
     {
       "id": "TR845-899",
       "size": 3244,
-      "subject": "Cinematography.    Motion pictures"
+      "subject": "Cinematography.    Motion pictures",
+      "parents": [
+        "T",
+        "TR",
+        "TR1-1050"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TR] Photography",
+        "[TR1-1050] Photography"
+      ]
     },
     {
       "id": "TR590-620",
       "size": 492,
-      "subject": "Lighting"
+      "subject": "Lighting",
+      "parents": [
+        "T",
+        "TR",
+        "TR1-1050"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TR] Photography",
+        "[TR1-1050] Photography"
+      ]
     },
     {
       "id": "TR550-581",
       "size": 401,
-      "subject": "Studio and laboratory"
+      "subject": "Studio and laboratory",
+      "parents": [
+        "T",
+        "TR",
+        "TR1-1050"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TR] Photography",
+        "[TR1-1050] Photography"
+      ]
     },
     {
       "id": "TR250-265",
       "size": 869,
-      "subject": "Cameras"
+      "subject": "Cameras",
+      "parents": [
+        "T",
+        "TR",
+        "TR1-1050"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TR] Photography",
+        "[TR1-1050] Photography"
+      ]
     },
     {
       "id": "TR925-1050",
       "size": 342,
-      "subject": "Photomechanical processes"
+      "subject": "Photomechanical processes",
+      "parents": [
+        "T",
+        "TR",
+        "TR1-1050"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TR] Photography",
+        "[TR1-1050] Photography"
+      ]
     },
     {
       "id": "TR504-508",
       "size": 102,
-      "subject": "Transparencies.    Diapositives"
+      "subject": "Transparencies.    Diapositives",
+      "parents": [
+        "T",
+        "TR",
+        "TR1-1050"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TR] Photography",
+        "[TR1-1050] Photography"
+      ]
     },
     {
       "id": "TC",
       "size": 0,
-      "subject": "Hydraulic engineering"
+      "subject": "Hydraulic engineering",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "TC1-978",
       "size": 2097,
-      "subject": "Hydraulic engineering"
+      "subject": "Hydraulic engineering",
+      "parents": [
+        "T",
+        "TC"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TC] Hydraulic engineering"
+      ]
     },
     {
       "id": "TC160-181",
       "size": 1540,
-      "subject": "Technical hydraulics"
+      "subject": "Technical hydraulics",
+      "parents": [
+        "T",
+        "TC",
+        "TC1-978"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TC] Hydraulic engineering",
+        "[TC1-978] Hydraulic engineering"
+      ]
     },
     {
       "id": "TC401-506",
       "size": 3589,
-      "subject": "River, lake, and water-supply engineering"
+      "subject": "River, lake, and water-supply engineering",
+      "parents": [
+        "T",
+        "TC",
+        "TC1-978"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TC] Hydraulic engineering",
+        "[TC1-978] Hydraulic engineering"
+      ]
     },
     {
       "id": "TC601-791",
       "size": 705,
-      "subject": "Canals and inland navigation.    Waterways"
+      "subject": "Canals and inland navigation.    Waterways",
+      "parents": [
+        "T",
+        "TC",
+        "TC1-978"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TC] Hydraulic engineering",
+        "[TC1-978] Hydraulic engineering"
+      ]
     },
     {
       "id": "TC540-558",
       "size": 1196,
-      "subject": "Dams.    Barrages"
+      "subject": "Dams.    Barrages",
+      "parents": [
+        "T",
+        "TC",
+        "TC1-978"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TC] Hydraulic engineering",
+        "[TC1-978] Hydraulic engineering"
+      ]
     },
     {
       "id": "TC530-537",
       "size": 184,
-      "subject": "River protective works.    Regulation."
+      "subject": "River protective works.    Regulation.",
+      "parents": [
+        "T",
+        "TC",
+        "TC1-978"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TC] Hydraulic engineering",
+        "[TC1-978] Hydraulic engineering"
+      ]
     },
     {
       "id": "TC183-201",
       "size": 150,
-      "subject": "General preliminary operations.    Dredging."
+      "subject": "General preliminary operations.    Dredging.",
+      "parents": [
+        "T",
+        "TC",
+        "TC1-978"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TC] Hydraulic engineering",
+        "[TC1-978] Hydraulic engineering"
+      ]
     },
     {
       "id": "TC203-380",
       "size": 1150,
-      "subject": "Harbors and coast protective works.    Coastal"
+      "subject": "Harbors and coast protective works.    Coastal",
+      "parents": [
+        "T",
+        "TC",
+        "TC1-978"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TC] Hydraulic engineering",
+        "[TC1-978] Hydraulic engineering"
+      ]
     },
     {
       "id": "TC801-978",
       "size": 1938,
-      "subject": "Irrigation engineering.    Reclamation of"
+      "subject": "Irrigation engineering.    Reclamation of",
+      "parents": [
+        "T",
+        "TC",
+        "TC1-978"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TC] Hydraulic engineering",
+        "[TC1-978] Hydraulic engineering"
+      ]
     },
     {
       "id": "TC1501-1800",
       "size": 480,
-      "subject": "Ocean engineering"
+      "subject": "Ocean engineering",
+      "parents": [
+        "T",
+        "TC"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TC] Hydraulic engineering"
+      ]
     },
     {
       "id": "TD",
       "size": 0,
-      "subject": "Environmental technology.    Sanitary engineering"
+      "subject": "Environmental technology.    Sanitary engineering",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "TD1-1066",
       "size": 2626,
-      "subject": "Environmental technology.    Sanitary engineering"
+      "subject": "Environmental technology.    Sanitary engineering",
+      "parents": [
+        "T",
+        "TD"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering"
+      ]
     },
     {
       "id": "TD895-899",
       "size": 14,
-      "subject": "Industrial and factory sanitation"
+      "subject": "Industrial and factory sanitation",
+      "parents": [
+        "T",
+        "TD",
+        "TD1-1066"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering",
+        "[TD1-1066] Environmental technology.    Sanitary engineering"
+      ]
     },
     {
       "id": "TD896-899",
       "size": 2520,
-      "subject": "Industrial and factory wastes"
+      "subject": "Industrial and factory wastes",
+      "parents": [
+        "T",
+        "TD",
+        "TD1-1066",
+        "TD895-899"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering",
+        "[TD1-1066] Environmental technology.    Sanitary engineering",
+        "[TD895-899] Industrial and factory sanitation"
+      ]
     },
     {
       "id": "TD201-500",
       "size": 12359,
-      "subject": "Water supply for domestic and industrial purposes"
+      "subject": "Water supply for domestic and industrial purposes",
+      "parents": [
+        "T",
+        "TD",
+        "TD1-1066"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering",
+        "[TD1-1066] Environmental technology.    Sanitary engineering"
+      ]
     },
     {
       "id": "TD429.5-480.7",
       "size": 1603,
-      "subject": "Water purification.    Water treatment and"
+      "subject": "Water purification.    Water treatment and",
+      "parents": [
+        "T",
+        "TD",
+        "TD1-1066",
+        "TD201-500"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering",
+        "[TD1-1066] Environmental technology.    Sanitary engineering",
+        "[TD201-500] Water supply for domestic and industrial purposes"
+      ]
     },
     {
       "id": "TD419-428",
       "size": 2928,
-      "subject": "Water pollution"
+      "subject": "Water pollution",
+      "parents": [
+        "T",
+        "TD",
+        "TD1-1066",
+        "TD201-500"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering",
+        "[TD1-1066] Environmental technology.    Sanitary engineering",
+        "[TD201-500] Water supply for domestic and industrial purposes"
+      ]
     },
     {
       "id": "TD481-493",
       "size": 411,
-      "subject": "Water distribution systems"
+      "subject": "Water distribution systems",
+      "parents": [
+        "T",
+        "TD",
+        "TD1-1066",
+        "TD201-500"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering",
+        "[TD1-1066] Environmental technology.    Sanitary engineering",
+        "[TD201-500] Water supply for domestic and industrial purposes"
+      ]
     },
     {
       "id": "TD511-780",
       "size": 2972,
-      "subject": "Sewage collection and disposal systems."
+      "subject": "Sewage collection and disposal systems.",
+      "parents": [
+        "T",
+        "TD",
+        "TD1-1066"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering",
+        "[TD1-1066] Environmental technology.    Sanitary engineering"
+      ]
     },
     {
       "id": "TD1020-1066",
       "size": 1054,
-      "subject": "Hazardous substances and their disposal"
+      "subject": "Hazardous substances and their disposal",
+      "parents": [
+        "T",
+        "TD",
+        "TD1-1066"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering",
+        "[TD1-1066] Environmental technology.    Sanitary engineering"
+      ]
     },
     {
       "id": "TD172-193.5",
       "size": 2424,
-      "subject": "Environmental pollution"
+      "subject": "Environmental pollution",
+      "parents": [
+        "T",
+        "TD",
+        "TD1-1066"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering",
+        "[TD1-1066] Environmental technology.    Sanitary engineering"
+      ]
     },
     {
       "id": "TD783-812.5",
       "size": 3262,
-      "subject": "Municipal refuse.    Solid wastes"
+      "subject": "Municipal refuse.    Solid wastes",
+      "parents": [
+        "T",
+        "TD",
+        "TD1-1066"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering",
+        "[TD1-1066] Environmental technology.    Sanitary engineering"
+      ]
     },
     {
       "id": "TD194-195",
       "size": 3729,
-      "subject": "Environmental effects of industries and plants"
+      "subject": "Environmental effects of industries and plants",
+      "parents": [
+        "T",
+        "TD",
+        "TD1-1066"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering",
+        "[TD1-1066] Environmental technology.    Sanitary engineering"
+      ]
     },
     {
       "id": "TD169-171.8",
       "size": 3020,
-      "subject": "Environmental protection"
+      "subject": "Environmental protection",
+      "parents": [
+        "T",
+        "TD",
+        "TD1-1066"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering",
+        "[TD1-1066] Environmental technology.    Sanitary engineering"
+      ]
     },
     {
       "id": "TD878-894",
       "size": 6023,
-      "subject": "Special types of environment"
+      "subject": "Special types of environment",
+      "parents": [
+        "T",
+        "TD",
+        "TD1-1066"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering",
+        "[TD1-1066] Environmental technology.    Sanitary engineering"
+      ]
     },
     {
       "id": "TD813-870",
       "size": 115,
-      "subject": "Street cleaning.    Litter and its removal"
+      "subject": "Street cleaning.    Litter and its removal",
+      "parents": [
+        "T",
+        "TD",
+        "TD1-1066"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering",
+        "[TD1-1066] Environmental technology.    Sanitary engineering"
+      ]
     },
     {
       "id": "TD920-934",
       "size": 281,
-      "subject": "Rural and farm sanitary engineering"
+      "subject": "Rural and farm sanitary engineering",
+      "parents": [
+        "T",
+        "TD",
+        "TD1-1066"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering",
+        "[TD1-1066] Environmental technology.    Sanitary engineering"
+      ]
     },
     {
       "id": "TD159-168",
       "size": 119,
-      "subject": "Municipal engineering"
+      "subject": "Municipal engineering",
+      "parents": [
+        "T",
+        "TD",
+        "TD1-1066"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering",
+        "[TD1-1066] Environmental technology.    Sanitary engineering"
+      ]
     },
     {
       "id": "TD940-949",
       "size": 7,
-      "subject": "Low temperature sanitary engineering"
+      "subject": "Low temperature sanitary engineering",
+      "parents": [
+        "T",
+        "TD",
+        "TD1-1066"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TD] Environmental technology.    Sanitary engineering",
+        "[TD1-1066] Environmental technology.    Sanitary engineering"
+      ]
     },
     {
       "id": "TX",
       "size": 0,
-      "subject": "Home economics"
+      "subject": "Home economics",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "TX1-1110",
       "size": 2753,
-      "subject": "Home economics"
+      "subject": "Home economics",
+      "parents": [
+        "T",
+        "TX"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TX] Home economics"
+      ]
     },
     {
       "id": "TX301-339",
       "size": 2253,
-      "subject": "The house"
+      "subject": "The house",
+      "parents": [
+        "T",
+        "TX",
+        "TX1-1110"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TX] Home economics",
+        "[TX1-1110] Home economics"
+      ]
     },
     {
       "id": "TX901-946.5",
       "size": 7409,
-      "subject": "Hospitality industry.    Hotels, clubs,"
+      "subject": "Hospitality industry.    Hotels, clubs,",
+      "parents": [
+        "T",
+        "TX",
+        "TX1-1110"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TX] Home economics",
+        "[TX1-1110] Home economics"
+      ]
     },
     {
       "id": "TX642-840",
       "size": 44665,
-      "subject": "Cooking"
+      "subject": "Cooking",
+      "parents": [
+        "T",
+        "TX",
+        "TX1-1110"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TX] Home economics",
+        "[TX1-1110] Home economics"
+      ]
     },
     {
       "id": "TX341-641",
       "size": 10926,
-      "subject": "Nutrition.    Foods and food supply"
+      "subject": "Nutrition.    Foods and food supply",
+      "parents": [
+        "T",
+        "TX",
+        "TX1-1110"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TX] Home economics",
+        "[TX1-1110] Home economics"
+      ]
     },
     {
       "id": "TX950-953",
       "size": 953,
-      "subject": "Taverns, barrooms, saloons"
+      "subject": "Taverns, barrooms, saloons",
+      "parents": [
+        "T",
+        "TX",
+        "TX1-1110"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TX] Home economics",
+        "[TX1-1110] Home economics"
+      ]
     },
     {
       "id": "TX851-885",
       "size": 249,
-      "subject": "Dining-room service"
+      "subject": "Dining-room service",
+      "parents": [
+        "T",
+        "TX",
+        "TX1-1110"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TX] Home economics",
+        "[TX1-1110] Home economics"
+      ]
     },
     {
       "id": "TX1110",
       "size": 37,
-      "subject": "ERROR, could not find"
+      "subject": "ERROR, could not find",
+      "parents": [
+        "T",
+        "TX",
+        "TX1-1110"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TX] Home economics",
+        "[TX1-1110] Home economics"
+      ]
     },
     {
       "id": "TX955-985",
       "size": 153,
-      "subject": "Building operation and housekeeping"
+      "subject": "Building operation and housekeeping",
+      "parents": [
+        "T",
+        "TX",
+        "TX1-1110"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TX] Home economics",
+        "[TX1-1110] Home economics"
+      ]
     },
     {
       "id": "TX1100-1105",
       "size": 35,
-      "subject": "Mobile home living"
+      "subject": "Mobile home living",
+      "parents": [
+        "T",
+        "TX",
+        "TX1-1110"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TX] Home economics",
+        "[TX1-1110] Home economics"
+      ]
     },
     {
       "id": "TP",
       "size": 0,
-      "subject": "Chemical technology"
+      "subject": "Chemical technology",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "TP1-1185",
       "size": 5395,
-      "subject": "Chemical technology"
+      "subject": "Chemical technology",
+      "parents": [
+        "T",
+        "TP"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology"
+      ]
     },
     {
       "id": "TP934-945",
       "size": 580,
-      "subject": "Paints, pigments, varnishes, etc."
+      "subject": "Paints, pigments, varnishes, etc.",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology"
+      ]
     },
     {
       "id": "TP480-498",
       "size": 821,
-      "subject": "Low temperature engineering.    Cryogenic"
+      "subject": "Low temperature engineering.    Cryogenic",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology"
+      ]
     },
     {
       "id": "TP670-699",
       "size": 542,
-      "subject": "Oils, fats, and waxes"
+      "subject": "Oils, fats, and waxes",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology"
+      ]
     },
     {
       "id": "TP690-692.5",
       "size": 1318,
-      "subject": "Petroleum refining.    Petroleum products"
+      "subject": "Petroleum refining.    Petroleum products",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185",
+        "TP670-699"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology",
+        "[TP670-699] Oils, fats, and waxes"
+      ]
     },
     {
       "id": "TP315-360",
       "size": 3332,
-      "subject": "Fuel"
+      "subject": "Fuel",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology"
+      ]
     },
     {
       "id": "TP1080-1185",
       "size": 2141,
-      "subject": "Polymers and polymer manufacture"
+      "subject": "Polymers and polymer manufacture",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology"
+      ]
     },
     {
       "id": "TP785-869",
       "size": 2388,
-      "subject": "Clay industries.    Ceramics.    Glass"
+      "subject": "Clay industries.    Ceramics.    Glass",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology"
+      ]
     },
     {
       "id": "TP248.13-248.65",
       "size": 2437,
-      "subject": "Biotechnology"
+      "subject": "Biotechnology",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology"
+      ]
     },
     {
       "id": "TP155-156",
       "size": 2892,
-      "subject": "Chemical engineering"
+      "subject": "Chemical engineering",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology"
+      ]
     },
     {
       "id": "TP368-456",
       "size": 2704,
-      "subject": "Food processing and manufacture"
+      "subject": "Food processing and manufacture",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology"
+      ]
     },
     {
       "id": "TP500-660",
       "size": 5203,
-      "subject": "Fermentation industries.    Beverages.    Alcohol"
+      "subject": "Fermentation industries.    Beverages.    Alcohol",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology"
+      ]
     },
     {
       "id": "TP890-933",
       "size": 786,
-      "subject": "Textile bleaching, dyeing, printing, etc."
+      "subject": "Textile bleaching, dyeing, printing, etc.",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology"
+      ]
     },
     {
       "id": "TP200-248",
       "size": 1711,
-      "subject": "Chemicals: Manufacture, use, etc."
+      "subject": "Chemicals: Manufacture, use, etc.",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology"
+      ]
     },
     {
       "id": "TP267.5-301",
       "size": 439,
-      "subject": "Explosives and pyrotechnics"
+      "subject": "Explosives and pyrotechnics",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology"
+      ]
     },
     {
       "id": "TP875-888",
       "size": 553,
-      "subject": "Cement industries"
+      "subject": "Cement industries",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology"
+      ]
     },
     {
       "id": "TP751-762",
       "size": 667,
-      "subject": "Gas industry"
+      "subject": "Gas industry",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology"
+      ]
     },
     {
       "id": "TP700-746",
       "size": 289,
-      "subject": "Illuminating industries (Nonelectric)"
+      "subject": "Illuminating industries (Nonelectric)",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology"
+      ]
     },
     {
       "id": "TP250-261",
       "size": 132,
-      "subject": "Industrial electrochemistry"
+      "subject": "Industrial electrochemistry",
+      "parents": [
+        "T",
+        "TP",
+        "TP1-1185"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TP] Chemical technology",
+        "[TP1-1185] Chemical technology"
+      ]
     },
     {
       "id": "TK",
       "size": 0,
-      "subject": "Electrical engineering.    Electronics.    Nuclear"
+      "subject": "Electrical engineering.    Electronics.    Nuclear",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "TK1-9971",
       "size": 5907,
-      "subject": "Electrical engineering.    Electronics.    Nuclear"
+      "subject": "Electrical engineering.    Electronics.    Nuclear",
+      "parents": [
+        "T",
+        "TK"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TK] Electrical engineering.    Electronics.    Nuclear"
+      ]
     },
     {
       "id": "TK5101-6720",
       "size": 26528,
-      "subject": "Telecommunication"
+      "subject": "Telecommunication",
+      "parents": [
+        "T",
+        "TK",
+        "TK1-9971"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TK] Electrical engineering.    Electronics.    Nuclear",
+        "[TK1-9971] Electrical engineering.    Electronics.    Nuclear"
+      ]
     },
     {
       "id": "TK7800-8360",
       "size": 19123,
-      "subject": "Electronics"
+      "subject": "Electronics",
+      "parents": [
+        "T",
+        "TK",
+        "TK1-9971"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TK] Electrical engineering.    Electronics.    Nuclear",
+        "[TK1-9971] Electrical engineering.    Electronics.    Nuclear"
+      ]
     },
     {
       "id": "TK7885-7895",
       "size": 3624,
-      "subject": "Computer engineering.    Computer hardware"
+      "subject": "Computer engineering.    Computer hardware",
+      "parents": [
+        "T",
+        "TK",
+        "TK1-9971",
+        "TK7800-8360"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TK] Electrical engineering.    Electronics.    Nuclear",
+        "[TK1-9971] Electrical engineering.    Electronics.    Nuclear",
+        "[TK7800-8360] Electronics"
+      ]
     },
     {
       "id": "TK8300-8360",
       "size": 525,
-      "subject": "Photoelectronic devices (General)"
+      "subject": "Photoelectronic devices (General)",
+      "parents": [
+        "T",
+        "TK",
+        "TK1-9971",
+        "TK7800-8360"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TK] Electrical engineering.    Electronics.    Nuclear",
+        "[TK1-9971] Electrical engineering.    Electronics.    Nuclear",
+        "[TK7800-8360] Electronics"
+      ]
     },
     {
       "id": "TK9001-9401",
       "size": 4740,
-      "subject": "Nuclear engineering.    Atomic power"
+      "subject": "Nuclear engineering.    Atomic power",
+      "parents": [
+        "T",
+        "TK",
+        "TK1-9971"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TK] Electrical engineering.    Electronics.    Nuclear",
+        "[TK1-9971] Electrical engineering.    Electronics.    Nuclear"
+      ]
     },
     {
       "id": "TK1001-1841",
       "size": 4707,
-      "subject": "Production of electric energy or power."
+      "subject": "Production of electric energy or power.",
+      "parents": [
+        "T",
+        "TK",
+        "TK1-9971"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TK] Electrical engineering.    Electronics.    Nuclear",
+        "[TK1-9971] Electrical engineering.    Electronics.    Nuclear"
+      ]
     },
     {
       "id": "TK4125-4399",
       "size": 561,
-      "subject": "Electric lighting"
+      "subject": "Electric lighting",
+      "parents": [
+        "T",
+        "TK",
+        "TK1-9971"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TK] Electrical engineering.    Electronics.    Nuclear",
+        "[TK1-9971] Electrical engineering.    Electronics.    Nuclear"
+      ]
     },
     {
       "id": "TK2000-2891",
       "size": 2349,
-      "subject": "Dynamoelectric machinery and auxiliaries"
+      "subject": "Dynamoelectric machinery and auxiliaries",
+      "parents": [
+        "T",
+        "TK",
+        "TK1-9971"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TK] Electrical engineering.    Electronics.    Nuclear",
+        "[TK1-9971] Electrical engineering.    Electronics.    Nuclear"
+      ]
     },
     {
       "id": "TK452-454.4",
       "size": 1184,
-      "subject": "Electric apparatus and materials.    Electric"
+      "subject": "Electric apparatus and materials.    Electric",
+      "parents": [
+        "T",
+        "TK",
+        "TK1-9971"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TK] Electrical engineering.    Electronics.    Nuclear",
+        "[TK1-9971] Electrical engineering.    Electronics.    Nuclear"
+      ]
     },
     {
       "id": "TK4001-4102",
       "size": 581,
-      "subject": "Applications of electric power"
+      "subject": "Applications of electric power",
+      "parents": [
+        "T",
+        "TK",
+        "TK1-9971"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TK] Electrical engineering.    Electronics.    Nuclear",
+        "[TK1-9971] Electrical engineering.    Electronics.    Nuclear"
+      ]
     },
     {
       "id": "TK3001-3521",
       "size": 2498,
-      "subject": "Distribution or transmission of electric power"
+      "subject": "Distribution or transmission of electric power",
+      "parents": [
+        "T",
+        "TK",
+        "TK1-9971"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TK] Electrical engineering.    Electronics.    Nuclear",
+        "[TK1-9971] Electrical engineering.    Electronics.    Nuclear"
+      ]
     },
     {
       "id": "TK2896-2985",
       "size": 1006,
-      "subject": "Production of electricity by direct energy"
+      "subject": "Production of electricity by direct energy",
+      "parents": [
+        "T",
+        "TK",
+        "TK1-9971"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TK] Electrical engineering.    Electronics.    Nuclear",
+        "[TK1-9971] Electrical engineering.    Electronics.    Nuclear"
+      ]
     },
     {
       "id": "TK4601-4661",
       "size": 581,
-      "subject": "Electric heating"
+      "subject": "Electric heating",
+      "parents": [
+        "T",
+        "TK",
+        "TK1-9971"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TK] Electrical engineering.    Electronics.    Nuclear",
+        "[TK1-9971] Electrical engineering.    Electronics.    Nuclear"
+      ]
     },
     {
       "id": "TK9900-9971",
       "size": 1204,
-      "subject": "Electricity for amateurs.    Amateur"
+      "subject": "Electricity for amateurs.    Amateur",
+      "parents": [
+        "T",
+        "TK",
+        "TK1-9971"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TK] Electrical engineering.    Electronics.    Nuclear",
+        "[TK1-9971] Electrical engineering.    Electronics.    Nuclear"
+      ]
     },
     {
       "id": "TK301-399",
       "size": 261,
-      "subject": "Electric meters"
+      "subject": "Electric meters",
+      "parents": [
+        "T",
+        "TK",
+        "TK1-9971"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TK] Electrical engineering.    Electronics.    Nuclear",
+        "[TK1-9971] Electrical engineering.    Electronics.    Nuclear"
+      ]
     },
     {
       "id": "TA",
       "size": 0,
-      "subject": "Engineering (General).    Civil engineering (General)"
+      "subject": "Engineering (General).    Civil engineering (General)",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "TA1-2040",
       "size": 8560,
-      "subject": "Engineering (General).    Civil engineering (General)"
+      "subject": "Engineering (General).    Civil engineering (General)",
+      "parents": [
+        "T",
+        "TA"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA501-625",
       "size": 2000,
-      "subject": "Surveying"
+      "subject": "Surveying",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA401-492",
       "size": 17483,
-      "subject": "Materials of engineering and construction."
+      "subject": "Materials of engineering and construction.",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA166-167",
       "size": 600,
-      "subject": "Human engineering"
+      "subject": "Human engineering",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA715-787",
       "size": 1374,
-      "subject": "Earthwork.    Foundations"
+      "subject": "Earthwork.    Foundations",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA165",
       "size": 525,
-      "subject": "Engineering instruments, meters, etc."
+      "subject": "Engineering instruments, meters, etc.",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA1501-1820",
       "size": 6090,
-      "subject": "Applied optics.    Photonics"
+      "subject": "Applied optics.    Photonics",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA168",
       "size": 587,
-      "subject": "Systems engineering"
+      "subject": "Systems engineering",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA630-695",
       "size": 7251,
-      "subject": "Structural engineering (General)"
+      "subject": "Structural engineering (General)",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA329-348",
       "size": 2161,
-      "subject": "Engineering mathematics.    Engineering analysis"
+      "subject": "Engineering mathematics.    Engineering analysis",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA1001-1280",
       "size": 1014,
-      "subject": "Transportation engineering"
+      "subject": "Transportation engineering",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA703-712",
       "size": 2841,
-      "subject": "Engineering geology.    Rock mechanics.    Soil"
+      "subject": "Engineering geology.    Rock mechanics.    Soil",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA349-359",
       "size": 3623,
-      "subject": "Mechanics of engineering.    Applied mechanics"
+      "subject": "Mechanics of engineering.    Applied mechanics",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA800-820",
       "size": 339,
-      "subject": "Tunneling.    Tunnels"
+      "subject": "Tunneling.    Tunnels",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA174",
       "size": 993,
-      "subject": "Engineering design"
+      "subject": "Engineering design",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA177.4-185",
       "size": 358,
-      "subject": "Engineering economy"
+      "subject": "Engineering economy",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA190-194",
       "size": 372,
-      "subject": "Management of engineering works"
+      "subject": "Management of engineering works",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA2001-2040",
       "size": 93,
-      "subject": "Plasma engineering"
+      "subject": "Plasma engineering",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA170-171",
       "size": 188,
-      "subject": "Environmental engineering"
+      "subject": "Environmental engineering",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA365-367",
       "size": 236,
-      "subject": "Acoustics in engineering.    Acoustical"
+      "subject": "Acoustics in engineering.    Acoustical",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA213-215",
       "size": 30,
-      "subject": "Engineering machinery, tools, and implements"
+      "subject": "Engineering machinery, tools, and implements",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA197-198",
       "size": 15,
-      "subject": "Engineering meteorology"
+      "subject": "Engineering meteorology",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA164",
       "size": 95,
-      "subject": "Bioengineering"
+      "subject": "Bioengineering",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TA495",
       "size": 15,
-      "subject": "Disasters and engineering"
+      "subject": "Disasters and engineering",
+      "parents": [
+        "T",
+        "TA",
+        "TA1-2040"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TA] Engineering (General).    Civil engineering (General)",
+        "[TA1-2040] Engineering (General).    Civil engineering (General)"
+      ]
     },
     {
       "id": "TS",
       "size": 0,
-      "subject": "Manufactures"
+      "subject": "Manufactures",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "TS1-2301",
       "size": 1749,
-      "subject": "Manufactures"
+      "subject": "Manufactures",
+      "parents": [
+        "T",
+        "TS"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TS] Manufactures"
+      ]
     },
     {
       "id": "TS1950-1982",
       "size": 468,
-      "subject": "Animal products"
+      "subject": "Animal products",
+      "parents": [
+        "T",
+        "TS",
+        "TS1-2301"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TS] Manufactures",
+        "[TS1-2301] Manufactures"
+      ]
     },
     {
       "id": "TS1870-1935",
       "size": 654,
-      "subject": "Rubber industry"
+      "subject": "Rubber industry",
+      "parents": [
+        "T",
+        "TS",
+        "TS1-2301"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TS] Manufactures",
+        "[TS1-2301] Manufactures"
+      ]
     },
     {
       "id": "TS1300-1865",
       "size": 3753,
-      "subject": "Textile industries"
+      "subject": "Textile industries",
+      "parents": [
+        "T",
+        "TS",
+        "TS1-2301"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TS] Manufactures",
+        "[TS1-2301] Manufactures"
+      ]
     },
     {
       "id": "TS200-770",
       "size": 10802,
-      "subject": "Metal manufactures.    Metalworking"
+      "subject": "Metal manufactures.    Metalworking",
+      "parents": [
+        "T",
+        "TS",
+        "TS1-2301"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TS] Manufactures",
+        "[TS1-2301] Manufactures"
+      ]
     },
     {
       "id": "TS1080-1268",
       "size": 2302,
-      "subject": "Paper manufacture and trade"
+      "subject": "Paper manufacture and trade",
+      "parents": [
+        "T",
+        "TS",
+        "TS1-2301"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TS] Manufactures",
+        "[TS1-2301] Manufactures"
+      ]
     },
     {
       "id": "TS155-194",
       "size": 10051,
-      "subject": "Production management.    Operations"
+      "subject": "Production management.    Operations",
+      "parents": [
+        "T",
+        "TS",
+        "TS1-2301"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TS] Manufactures",
+        "[TS1-2301] Manufactures"
+      ]
     },
     {
       "id": "TS195-198.8",
       "size": 431,
-      "subject": "Packaging"
+      "subject": "Packaging",
+      "parents": [
+        "T",
+        "TS",
+        "TS1-2301"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TS] Manufactures",
+        "[TS1-2301] Manufactures"
+      ]
     },
     {
       "id": "TS2220-2283",
       "size": 231,
-      "subject": "Tobacco industry"
+      "subject": "Tobacco industry",
+      "parents": [
+        "T",
+        "TS",
+        "TS1-2301"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TS] Manufactures",
+        "[TS1-2301] Manufactures"
+      ]
     },
     {
       "id": "TS800-937",
       "size": 764,
-      "subject": "Wood technology.    Lumber"
+      "subject": "Wood technology.    Lumber",
+      "parents": [
+        "T",
+        "TS",
+        "TS1-2301"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TS] Manufactures",
+        "[TS1-2301] Manufactures"
+      ]
     },
     {
       "id": "TS840-915",
       "size": 880,
-      "subject": "Wood products.    Furniture"
+      "subject": "Wood products.    Furniture",
+      "parents": [
+        "T",
+        "TS",
+        "TS1-2301",
+        "TS800-937"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TS] Manufactures",
+        "[TS1-2301] Manufactures",
+        "[TS800-937] Wood technology.    Lumber"
+      ]
     },
     {
       "id": "TS920-937",
       "size": 113,
-      "subject": "Chemical processing of wood"
+      "subject": "Chemical processing of wood",
+      "parents": [
+        "T",
+        "TS",
+        "TS1-2301",
+        "TS800-937"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TS] Manufactures",
+        "[TS1-2301] Manufactures",
+        "[TS800-937] Wood technology.    Lumber"
+      ]
     },
     {
       "id": "TS940-1047",
       "size": 558,
-      "subject": "Leather industries.    Tanning"
+      "subject": "Leather industries.    Tanning",
+      "parents": [
+        "T",
+        "TS",
+        "TS1-2301"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TS] Manufactures",
+        "[TS1-2301] Manufactures"
+      ]
     },
     {
       "id": "TS2120-2159",
       "size": 297,
-      "subject": "Cereals and grain.    Milling industry"
+      "subject": "Cereals and grain.    Milling industry",
+      "parents": [
+        "T",
+        "TS",
+        "TS1-2301"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TS] Manufactures",
+        "[TS1-2301] Manufactures"
+      ]
     },
     {
       "id": "TS1060-1070",
       "size": 36,
-      "subject": "Furs"
+      "subject": "Furs",
+      "parents": [
+        "T",
+        "TS",
+        "TS1-2301"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TS] Manufactures",
+        "[TS1-2301] Manufactures"
+      ]
     },
     {
       "id": "TS780-788",
       "size": 4,
-      "subject": "Stonework"
+      "subject": "Stonework",
+      "parents": [
+        "T",
+        "TS",
+        "TS1-2301"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TS] Manufactures",
+        "[TS1-2301] Manufactures"
+      ]
     },
     {
       "id": "TS2284-2288",
       "size": 5,
-      "subject": "Animal feeds and feed mills.    Pet food industry"
+      "subject": "Animal feeds and feed mills.    Pet food industry",
+      "parents": [
+        "T",
+        "TS",
+        "TS1-2301"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TS] Manufactures",
+        "[TS1-2301] Manufactures"
+      ]
     },
     {
       "id": "TJ",
       "size": 0,
-      "subject": "Mechanical engineering and machinery"
+      "subject": "Mechanical engineering and machinery",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "TJ1-1570",
       "size": 4404,
-      "subject": "Mechanical engineering and machinery"
+      "subject": "Mechanical engineering and machinery",
+      "parents": [
+        "T",
+        "TJ"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ1040-1119",
       "size": 1248,
-      "subject": "Machinery exclusive of prime movers"
+      "subject": "Machinery exclusive of prime movers",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ212-225",
       "size": 3622,
-      "subject": "Control engineering systems.    Automatic"
+      "subject": "Control engineering systems.    Automatic",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ268-740",
       "size": 1761,
-      "subject": "Steam engineering"
+      "subject": "Steam engineering",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ603-695",
       "size": 2032,
-      "subject": "Locomotives"
+      "subject": "Locomotives",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570",
+        "TJ268-740"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery",
+        "[TJ268-740] Steam engineering"
+      ]
     },
     {
       "id": "TJ751-805",
       "size": 1596,
-      "subject": "Miscellaneous motors and engines"
+      "subject": "Miscellaneous motors and engines",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ1125-1345",
       "size": 3806,
-      "subject": "Machine shops and machine shop practice"
+      "subject": "Machine shops and machine shop practice",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ181-210",
       "size": 732,
-      "subject": "Mechanical movements"
+      "subject": "Mechanical movements",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ163.13-163.25",
       "size": 2897,
-      "subject": "Power resources"
+      "subject": "Power resources",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ1350-1418",
       "size": 490,
-      "subject": "Hoisting and conveying machinery"
+      "subject": "Hoisting and conveying machinery",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ210.2-211.47",
       "size": 1582,
-      "subject": "Mechanical devices and figures.    Automata."
+      "subject": "Mechanical devices and figures.    Automata.",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ227-240",
       "size": 473,
-      "subject": "Machine design and drawing"
+      "subject": "Machine design and drawing",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ266-267.5",
       "size": 325,
-      "subject": "Turbines.    Turbomachines (General)"
+      "subject": "Turbines.    Turbomachines (General)",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ170-179",
       "size": 526,
-      "subject": "Mechanics applied to machinery.    Dynamics"
+      "subject": "Mechanics applied to machinery.    Dynamics",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ836-927",
       "size": 1435,
-      "subject": "Hydraulic machinery"
+      "subject": "Hydraulic machinery",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ255-265",
       "size": 1850,
-      "subject": "Heat engines"
+      "subject": "Heat engines",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ807-830",
       "size": 2672,
-      "subject": "Renewable energy sources"
+      "subject": "Renewable energy sources",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ163.26-163.5",
       "size": 1908,
-      "subject": "Energy conservation"
+      "subject": "Energy conservation",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ241-254.7",
       "size": 641,
-      "subject": "Machine construction (General)"
+      "subject": "Machine construction (General)",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ950-1030",
       "size": 359,
-      "subject": "Pneumatic machinery"
+      "subject": "Pneumatic machinery",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ1480-1496",
       "size": 93,
-      "subject": "Agricultural machinery.    Farm machinery"
+      "subject": "Agricultural machinery.    Farm machinery",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ1501-1519",
       "size": 49,
-      "subject": "Sewing machines"
+      "subject": "Sewing machines",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ940-940.5",
       "size": 129,
-      "subject": "Vacuum technology"
+      "subject": "Vacuum technology",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TJ1425-1475",
       "size": 44,
-      "subject": "Lifting and pressing machinery"
+      "subject": "Lifting and pressing machinery",
+      "parents": [
+        "T",
+        "TJ",
+        "TJ1-1570"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TJ] Mechanical engineering and machinery",
+        "[TJ1-1570] Mechanical engineering and machinery"
+      ]
     },
     {
       "id": "TT",
       "size": 0,
-      "subject": "Handicrafts.    Arts and crafts"
+      "subject": "Handicrafts.    Arts and crafts",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "TT1-999",
       "size": 4745,
-      "subject": "Handicrafts.    Arts and crafts"
+      "subject": "Handicrafts.    Arts and crafts",
+      "parents": [
+        "T",
+        "TT"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TT] Handicrafts.    Arts and crafts"
+      ]
     },
     {
       "id": "TT980-999",
       "size": 113,
-      "subject": "Laundry work"
+      "subject": "Laundry work",
+      "parents": [
+        "T",
+        "TT",
+        "TT1-999"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TT] Handicrafts.    Arts and crafts",
+        "[TT1-999] Handicrafts.    Arts and crafts"
+      ]
     },
     {
       "id": "TT490-695",
       "size": 4812,
-      "subject": "Clothing manufacture.    Dressmaking.    Tailoring"
+      "subject": "Clothing manufacture.    Dressmaking.    Tailoring",
+      "parents": [
+        "T",
+        "TT",
+        "TT1-999"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TT] Handicrafts.    Arts and crafts",
+        "[TT1-999] Handicrafts.    Arts and crafts"
+      ]
     },
     {
       "id": "TT697-927",
       "size": 15646,
-      "subject": "Home arts.    Homecrafts"
+      "subject": "Home arts.    Homecrafts",
+      "parents": [
+        "T",
+        "TT",
+        "TT1-999"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TT] Handicrafts.    Arts and crafts",
+        "[TT1-999] Handicrafts.    Arts and crafts"
+      ]
     },
     {
       "id": "TT205-267",
       "size": 1090,
-      "subject": "Metalworking"
+      "subject": "Metalworking",
+      "parents": [
+        "T",
+        "TT",
+        "TT1-999"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TT] Handicrafts.    Arts and crafts",
+        "[TT1-999] Handicrafts.    Arts and crafts"
+      ]
     },
     {
       "id": "TT174-176",
       "size": 1062,
-      "subject": "Articles for children"
+      "subject": "Articles for children",
+      "parents": [
+        "T",
+        "TT",
+        "TT1-999"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TT] Handicrafts.    Arts and crafts",
+        "[TT1-999] Handicrafts.    Arts and crafts"
+      ]
     },
     {
       "id": "TT950-979",
       "size": 795,
-      "subject": "Hairdressing.    Beauty culture.    Barbers' work"
+      "subject": "Hairdressing.    Beauty culture.    Barbers' work",
+      "parents": [
+        "T",
+        "TT",
+        "TT1-999"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TT] Handicrafts.    Arts and crafts",
+        "[TT1-999] Handicrafts.    Arts and crafts"
+      ]
     },
     {
       "id": "TT180-200",
       "size": 3300,
-      "subject": "Woodworking.    Furniture making.    Upholstering"
+      "subject": "Woodworking.    Furniture making.    Upholstering",
+      "parents": [
+        "T",
+        "TT",
+        "TT1-999"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TT] Handicrafts.    Arts and crafts",
+        "[TT1-999] Handicrafts.    Arts and crafts"
+      ]
     },
     {
       "id": "TT387-410",
       "size": 297,
-      "subject": "Soft home furnishings"
+      "subject": "Soft home furnishings",
+      "parents": [
+        "T",
+        "TT",
+        "TT1-999"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TT] Handicrafts.    Arts and crafts",
+        "[TT1-999] Handicrafts.    Arts and crafts"
+      ]
     },
     {
       "id": "TT300-382.8",
       "size": 748,
-      "subject": "Painting.    Wood finishing"
+      "subject": "Painting.    Wood finishing",
+      "parents": [
+        "T",
+        "TT",
+        "TT1-999"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TT] Handicrafts.    Arts and crafts",
+        "[TT1-999] Handicrafts.    Arts and crafts"
+      ]
     },
     {
       "id": "TT201-203",
       "size": 230,
-      "subject": "Lathework.    Turning"
+      "subject": "Lathework.    Turning",
+      "parents": [
+        "T",
+        "TT",
+        "TT1-999"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TT] Handicrafts.    Arts and crafts",
+        "[TT1-999] Handicrafts.    Arts and crafts"
+      ]
     },
     {
       "id": "TT161-170.7",
       "size": 252,
-      "subject": "Manual training.    School shops"
+      "subject": "Manual training.    School shops",
+      "parents": [
+        "T",
+        "TT",
+        "TT1-999"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TT] Handicrafts.    Arts and crafts",
+        "[TT1-999] Handicrafts.    Arts and crafts"
+      ]
     },
     {
       "id": "T1-995",
       "size": 10155,
-      "subject": "Technology (General)"
+      "subject": "Technology (General)",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "T351-385",
       "size": 5164,
-      "subject": "Mechanical drawing.    Engineering graphics"
+      "subject": "Mechanical drawing.    Engineering graphics",
+      "parents": [
+        "T",
+        "T1-995"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)"
+      ]
     },
     {
       "id": "T55.4-60.8",
       "size": 1238,
-      "subject": "Industrial engineering.    Management"
+      "subject": "Industrial engineering.    Management",
+      "parents": [
+        "T",
+        "T1-995"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)"
+      ]
     },
     {
       "id": "T58.5-58.64",
       "size": 1404,
-      "subject": "Information technology"
+      "subject": "Information technology",
+      "parents": [
+        "T",
+        "T1-995",
+        "T55.4-60.8"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)",
+        "[T55.4-60.8] Industrial engineering.    Management"
+      ]
     },
     {
       "id": "T58.6-58.62",
       "size": 1287,
-      "subject": "Management information systems"
+      "subject": "Management information systems",
+      "parents": [
+        "T",
+        "T1-995",
+        "T55.4-60.8",
+        "T58.5-58.64"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)",
+        "[T55.4-60.8] Industrial engineering.    Management",
+        "[T58.5-58.64] Information technology"
+      ]
     },
     {
       "id": "T59.7-59.77",
       "size": 229,
-      "subject": "Human engineering in industry.    Man-"
+      "subject": "Human engineering in industry.    Man-",
+      "parents": [
+        "T",
+        "T1-995",
+        "T55.4-60.8"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)",
+        "[T55.4-60.8] Industrial engineering.    Management"
+      ]
     },
     {
       "id": "T58.7-58.8",
       "size": 133,
-      "subject": "Production capacity.    Manufacturing capacity"
+      "subject": "Production capacity.    Manufacturing capacity",
+      "parents": [
+        "T",
+        "T1-995",
+        "T55.4-60.8"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)",
+        "[T55.4-60.8] Industrial engineering.    Management"
+      ]
     },
     {
       "id": "T57-57.97",
       "size": 238,
-      "subject": "Applied mathematics.    Quantitative methods"
+      "subject": "Applied mathematics.    Quantitative methods",
+      "parents": [
+        "T",
+        "T1-995",
+        "T55.4-60.8"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)",
+        "[T55.4-60.8] Industrial engineering.    Management"
+      ]
     },
     {
       "id": "T57.6-57.97",
       "size": 2180,
-      "subject": "Operations research.    Systems analysis"
+      "subject": "Operations research.    Systems analysis",
+      "parents": [
+        "T",
+        "T1-995",
+        "T55.4-60.8",
+        "T57-57.97"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)",
+        "[T55.4-60.8] Industrial engineering.    Management",
+        "[T57-57.97] Applied mathematics.    Quantitative methods"
+      ]
     },
     {
       "id": "T59.5",
       "size": 202,
-      "subject": "Automation"
+      "subject": "Automation",
+      "parents": [
+        "T",
+        "T1-995",
+        "T55.4-60.8"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)",
+        "[T55.4-60.8] Industrial engineering.    Management"
+      ]
     },
     {
       "id": "T60-60.8",
       "size": 406,
-      "subject": "Work measurement.    Methods engineering"
+      "subject": "Work measurement.    Methods engineering",
+      "parents": [
+        "T",
+        "T1-995",
+        "T55.4-60.8"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)",
+        "[T55.4-60.8] Industrial engineering.    Management"
+      ]
     },
     {
       "id": "T59-59.2",
       "size": 349,
-      "subject": "Standardization"
+      "subject": "Standardization",
+      "parents": [
+        "T",
+        "T1-995",
+        "T55.4-60.8"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)",
+        "[T55.4-60.8] Industrial engineering.    Management"
+      ]
     },
     {
       "id": "T58.4",
       "size": 4,
-      "subject": "Managerial control systems"
+      "subject": "Managerial control systems",
+      "parents": [
+        "T",
+        "T1-995",
+        "T55.4-60.8"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)",
+        "[T55.4-60.8] Industrial engineering.    Management"
+      ]
     },
     {
       "id": "T55-55.3",
       "size": 1921,
-      "subject": "Industrial safety.    Industrial accident"
+      "subject": "Industrial safety.    Industrial accident",
+      "parents": [
+        "T",
+        "T1-995"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)"
+      ]
     },
     {
       "id": "T173.2-174.5",
       "size": 1927,
-      "subject": "Technological change"
+      "subject": "Technological change",
+      "parents": [
+        "T",
+        "T1-995"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)"
+      ]
     },
     {
       "id": "T61-173",
       "size": 3677,
-      "subject": "Technical education.    Technical schools"
+      "subject": "Technical education.    Technical schools",
+      "parents": [
+        "T",
+        "T1-995"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)"
+      ]
     },
     {
       "id": "T10.5-11.9",
       "size": 1381,
-      "subject": "Communication of technical information"
+      "subject": "Communication of technical information",
+      "parents": [
+        "T",
+        "T1-995"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)"
+      ]
     },
     {
       "id": "T201-342",
       "size": 1589,
-      "subject": "Patents.    Trademarks"
+      "subject": "Patents.    Trademarks",
+      "parents": [
+        "T",
+        "T1-995"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)"
+      ]
     },
     {
       "id": "T175-178",
       "size": 1633,
-      "subject": "Industrial research.    Research and development"
+      "subject": "Industrial research.    Research and development",
+      "parents": [
+        "T",
+        "T1-995"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)"
+      ]
     },
     {
       "id": "T391-995",
       "size": 1255,
-      "subject": "Exhibitions.    Trade shows.    World's fairs"
+      "subject": "Exhibitions.    Trade shows.    World's fairs",
+      "parents": [
+        "T",
+        "T1-995"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)"
+      ]
     },
     {
       "id": "T11.95-12.5",
       "size": 398,
-      "subject": "Industrial directories"
+      "subject": "Industrial directories",
+      "parents": [
+        "T",
+        "T1-995"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[T1-995] Technology (General)"
+      ]
     },
     {
       "id": "TH",
       "size": 0,
-      "subject": "Building construction"
+      "subject": "Building construction",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "TH1-9745",
       "size": 5519,
-      "subject": "Building construction"
+      "subject": "Building construction",
+      "parents": [
+        "T",
+        "TH"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TH] Building construction"
+      ]
     },
     {
       "id": "TH1000-1725",
       "size": 1954,
-      "subject": "Systems of building construction"
+      "subject": "Systems of building construction",
+      "parents": [
+        "T",
+        "TH",
+        "TH1-9745"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TH] Building construction",
+        "[TH1-9745] Building construction"
+      ]
     },
     {
       "id": "TH2025-3000",
       "size": 1477,
-      "subject": "Details in building design and construction"
+      "subject": "Details in building design and construction",
+      "parents": [
+        "T",
+        "TH",
+        "TH1-9745"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TH] Building construction",
+        "[TH1-9745] Building construction"
+      ]
     },
     {
       "id": "TH5011-5701",
       "size": 901,
-      "subject": "Construction by phase of the work (Building trades)"
+      "subject": "Construction by phase of the work (Building trades)",
+      "parents": [
+        "T",
+        "TH",
+        "TH1-9745"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TH] Building construction",
+        "[TH1-9745] Building construction"
+      ]
     },
     {
       "id": "TH9025-9745",
       "size": 4496,
-      "subject": "Protection of buildings"
+      "subject": "Protection of buildings",
+      "parents": [
+        "T",
+        "TH",
+        "TH1-9745"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TH] Building construction",
+        "[TH1-9745] Building construction"
+      ]
     },
     {
       "id": "TH4021-4977",
       "size": 4498,
-      "subject": "Buildings: Construction with reference to use"
+      "subject": "Buildings: Construction with reference to use",
+      "parents": [
+        "T",
+        "TH",
+        "TH1-9745"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TH] Building construction",
+        "[TH1-9745] Building construction"
+      ]
     },
     {
       "id": "TH7005-7699",
       "size": 2872,
-      "subject": "Heating and ventilation.    Air conditioning"
+      "subject": "Heating and ventilation.    Air conditioning",
+      "parents": [
+        "T",
+        "TH",
+        "TH1-9745"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TH] Building construction",
+        "[TH1-9745] Building construction"
+      ]
     },
     {
       "id": "TH845-895",
       "size": 441,
-      "subject": "Architectural engineering.    Structural"
+      "subject": "Architectural engineering.    Structural",
+      "parents": [
+        "T",
+        "TH",
+        "TH1-9745"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TH] Building construction",
+        "[TH1-9745] Building construction"
+      ]
     },
     {
       "id": "TH6101-6887",
       "size": 880,
-      "subject": "Plumbing and pipefitting"
+      "subject": "Plumbing and pipefitting",
+      "parents": [
+        "T",
+        "TH",
+        "TH1-9745"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TH] Building construction",
+        "[TH1-9745] Building construction"
+      ]
     },
     {
       "id": "TH7700-7975",
       "size": 342,
-      "subject": "Illumination.    Lighting"
+      "subject": "Illumination.    Lighting",
+      "parents": [
+        "T",
+        "TH",
+        "TH1-9745"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TH] Building construction",
+        "[TH1-9745] Building construction"
+      ]
     },
     {
       "id": "TH3301-3411",
       "size": 406,
-      "subject": "Maintenance and repair"
+      "subject": "Maintenance and repair",
+      "parents": [
+        "T",
+        "TH",
+        "TH1-9745"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TH] Building construction",
+        "[TH1-9745] Building construction"
+      ]
     },
     {
       "id": "TH8001-8581",
       "size": 186,
-      "subject": "Decoration and decorative furnishings"
+      "subject": "Decoration and decorative furnishings",
+      "parents": [
+        "T",
+        "TH",
+        "TH1-9745"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TH] Building construction",
+        "[TH1-9745] Building construction"
+      ]
     },
     {
       "id": "TH6014-6081",
       "size": 314,
-      "subject": "Environmental engineering of buildings."
+      "subject": "Environmental engineering of buildings.",
+      "parents": [
+        "T",
+        "TH",
+        "TH1-9745"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TH] Building construction",
+        "[TH1-9745] Building construction"
+      ]
     },
     {
       "id": "TH900-915",
       "size": 194,
-      "subject": "Construction equipment in building"
+      "subject": "Construction equipment in building",
+      "parents": [
+        "T",
+        "TH",
+        "TH1-9745"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TH] Building construction",
+        "[TH1-9745] Building construction"
+      ]
     },
     {
       "id": "TF",
       "size": 0,
-      "subject": "Railroad engineering and operation"
+      "subject": "Railroad engineering and operation",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "TF1-1620",
       "size": 5927,
-      "subject": "Railroad engineering and operation"
+      "subject": "Railroad engineering and operation",
+      "parents": [
+        "T",
+        "TF"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TF] Railroad engineering and operation"
+      ]
     },
     {
       "id": "TF200-320",
       "size": 970,
-      "subject": "Railway construction"
+      "subject": "Railway construction",
+      "parents": [
+        "T",
+        "TF",
+        "TF1-1620"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TF] Railroad engineering and operation",
+        "[TF1-1620] Railroad engineering and operation"
+      ]
     },
     {
       "id": "TF855-1127",
       "size": 479,
-      "subject": "Electric railways"
+      "subject": "Electric railways",
+      "parents": [
+        "T",
+        "TF",
+        "TF1-1620"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TF] Railroad engineering and operation",
+        "[TF1-1620] Railroad engineering and operation"
+      ]
     },
     {
       "id": "TF340-499",
       "size": 594,
-      "subject": "Railway equipment and supplies"
+      "subject": "Railway equipment and supplies",
+      "parents": [
+        "T",
+        "TF",
+        "TF1-1620"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TF] Railroad engineering and operation",
+        "[TF1-1620] Railroad engineering and operation"
+      ]
     },
     {
       "id": "TF670-851",
       "size": 956,
-      "subject": "Local and light railways"
+      "subject": "Local and light railways",
+      "parents": [
+        "T",
+        "TF",
+        "TF1-1620"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TF] Railroad engineering and operation",
+        "[TF1-1620] Railroad engineering and operation"
+      ]
     },
     {
       "id": "TF840-851",
       "size": 318,
-      "subject": "Elevated railways and subways"
+      "subject": "Elevated railways and subways",
+      "parents": [
+        "T",
+        "TF",
+        "TF1-1620",
+        "TF670-851"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TF] Railroad engineering and operation",
+        "[TF1-1620] Railroad engineering and operation",
+        "[TF670-851] Local and light railways"
+      ]
     },
     {
       "id": "TF1300-1620",
       "size": 130,
-      "subject": "High speed ground transporation"
+      "subject": "High speed ground transporation",
+      "parents": [
+        "T",
+        "TF",
+        "TF1-1620"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TF] Railroad engineering and operation",
+        "[TF1-1620] Railroad engineering and operation"
+      ]
     },
     {
       "id": "TF501-668",
       "size": 759,
-      "subject": "Railway operation and management"
+      "subject": "Railway operation and management",
+      "parents": [
+        "T",
+        "TF",
+        "TF1-1620"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TF] Railroad engineering and operation",
+        "[TF1-1620] Railroad engineering and operation"
+      ]
     },
     {
       "id": "TL",
       "size": 0,
-      "subject": "Motor vehicles.    Aeronautics.    Astronautics"
+      "subject": "Motor vehicles.    Aeronautics.    Astronautics",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "TL1-4050",
       "size": 92,
-      "subject": "Motor vehicles.    Aeronautics.    Astronautics"
+      "subject": "Motor vehicles.    Aeronautics.    Astronautics",
+      "parents": [
+        "T",
+        "TL"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TL] Motor vehicles.    Aeronautics.    Astronautics"
+      ]
     },
     {
       "id": "TL1-484",
       "size": 23588,
-      "subject": "Motor vehicles.    Cycles"
+      "subject": "Motor vehicles.    Cycles",
+      "parents": [
+        "T",
+        "TL",
+        "TL1-4050"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TL] Motor vehicles.    Aeronautics.    Astronautics",
+        "[TL1-4050] Motor vehicles.    Aeronautics.    Astronautics"
+      ]
     },
     {
       "id": "TL787-4050",
       "size": 8228,
-      "subject": "Astronautics.    Space travel"
+      "subject": "Astronautics.    Space travel",
+      "parents": [
+        "T",
+        "TL",
+        "TL1-4050"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TL] Motor vehicles.    Aeronautics.    Astronautics",
+        "[TL1-4050] Motor vehicles.    Aeronautics.    Astronautics"
+      ]
     },
     {
       "id": "TL500-777",
       "size": 23029,
-      "subject": "Aeronautics.    Aeronautical engineering"
+      "subject": "Aeronautics.    Aeronautical engineering",
+      "parents": [
+        "T",
+        "TL",
+        "TL1-4050"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TL] Motor vehicles.    Aeronautics.    Astronautics",
+        "[TL1-4050] Motor vehicles.    Aeronautics.    Astronautics"
+      ]
     },
     {
       "id": "TL780-785.8",
       "size": 896,
-      "subject": "Rocket propulsion.    Rockets"
+      "subject": "Rocket propulsion.    Rockets",
+      "parents": [
+        "T",
+        "TL",
+        "TL1-4050"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TL] Motor vehicles.    Aeronautics.    Astronautics",
+        "[TL1-4050] Motor vehicles.    Aeronautics.    Astronautics"
+      ]
     },
     {
       "id": "TG",
       "size": 0,
-      "subject": "Bridge engineering"
+      "subject": "Bridge engineering",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "TG1-470",
       "size": 3191,
-      "subject": "Bridge engineering"
+      "subject": "Bridge engineering",
+      "parents": [
+        "T",
+        "TG"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TG] Bridge engineering"
+      ]
     },
     {
       "id": "TE",
       "size": 0,
-      "subject": "Highway engineering.    Roads and pavements"
+      "subject": "Highway engineering.    Roads and pavements",
+      "parents": [
+        "T"
+      ],
+      "parentsSubjects": [
+        "[T] Technology"
+      ]
     },
     {
       "id": "TE1-450",
       "size": 4318,
-      "subject": "Highway engineering.    Roads and pavements"
+      "subject": "Highway engineering.    Roads and pavements",
+      "parents": [
+        "T",
+        "TE"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TE] Highway engineering.    Roads and pavements"
+      ]
     },
     {
       "id": "TE250-278.8",
       "size": 970,
-      "subject": "Pavements and paved roads"
+      "subject": "Pavements and paved roads",
+      "parents": [
+        "T",
+        "TE",
+        "TE1-450"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TE] Highway engineering.    Roads and pavements",
+        "[TE1-450] Highway engineering.    Roads and pavements"
+      ]
     },
     {
       "id": "TE210-228.3",
       "size": 1259,
-      "subject": "Construction details"
+      "subject": "Construction details",
+      "parents": [
+        "T",
+        "TE",
+        "TE1-450"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TE] Highway engineering.    Roads and pavements",
+        "[TE1-450] Highway engineering.    Roads and pavements"
+      ]
     },
     {
       "id": "TE175-176.5",
       "size": 318,
-      "subject": "Highway design.    Interchanges and intersections"
+      "subject": "Highway design.    Interchanges and intersections",
+      "parents": [
+        "T",
+        "TE",
+        "TE1-450"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TE] Highway engineering.    Roads and pavements",
+        "[TE1-450] Highway engineering.    Roads and pavements"
+      ]
     },
     {
       "id": "TE279.5-298",
       "size": 41,
-      "subject": "Pedestrian facilities"
+      "subject": "Pedestrian facilities",
+      "parents": [
+        "T",
+        "TE",
+        "TE1-450"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TE] Highway engineering.    Roads and pavements",
+        "[TE1-450] Highway engineering.    Roads and pavements"
+      ]
     },
     {
       "id": "TE298",
       "size": 4,
-      "subject": "Curbs.    Curbstones"
+      "subject": "Curbs.    Curbstones",
+      "parents": [
+        "T",
+        "TE",
+        "TE1-450",
+        "TE279.5-298"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TE] Highway engineering.    Roads and pavements",
+        "[TE1-450] Highway engineering.    Roads and pavements",
+        "[TE279.5-298] Pedestrian facilities"
+      ]
     },
     {
       "id": "TE280-295",
       "size": 8,
-      "subject": "Sidewalks.    Footpaths.    Flagging"
+      "subject": "Sidewalks.    Footpaths.    Flagging",
+      "parents": [
+        "T",
+        "TE",
+        "TE1-450",
+        "TE279.5-298"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TE] Highway engineering.    Roads and pavements",
+        "[TE1-450] Highway engineering.    Roads and pavements",
+        "[TE279.5-298] Pedestrian facilities"
+      ]
     },
     {
       "id": "TE206-209.5",
       "size": 71,
-      "subject": "Location engineering"
+      "subject": "Location engineering",
+      "parents": [
+        "T",
+        "TE",
+        "TE1-450"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TE] Highway engineering.    Roads and pavements",
+        "[TE1-450] Highway engineering.    Roads and pavements"
+      ]
     },
     {
       "id": "TE177-178.8",
       "size": 93,
-      "subject": "Roadside development.    Landscaping"
+      "subject": "Roadside development.    Landscaping",
+      "parents": [
+        "T",
+        "TE",
+        "TE1-450"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TE] Highway engineering.    Roads and pavements",
+        "[TE1-450] Highway engineering.    Roads and pavements"
+      ]
     },
     {
       "id": "TE200-205",
       "size": 180,
-      "subject": "Materials for roadmaking"
+      "subject": "Materials for roadmaking",
+      "parents": [
+        "T",
+        "TE",
+        "TE1-450"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TE] Highway engineering.    Roads and pavements",
+        "[TE1-450] Highway engineering.    Roads and pavements"
+      ]
     },
     {
       "id": "TE279",
       "size": 35,
-      "subject": "Streets"
+      "subject": "Streets",
+      "parents": [
+        "T",
+        "TE",
+        "TE1-450"
+      ],
+      "parentsSubjects": [
+        "[T] Technology",
+        "[TE] Highway engineering.    Roads and pavements",
+        "[TE1-450] Highway engineering.    Roads and pavements"
+      ]
     }
   ],
   "links": [

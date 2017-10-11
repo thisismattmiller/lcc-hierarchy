@@ -3,632 +3,1792 @@
     {
       "id": "U",
       "size": 0,
-      "subject": "Military science (General)"
+      "subject": "Military science (General)",
+      "parents": [
+        "U"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science"
+      ]
     },
     {
       "id": "U1-900",
       "size": 6954,
-      "subject": "Military science (General)"
+      "subject": "Military science (General)",
+      "parents": [
+        "U"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science"
+      ]
     },
     {
       "id": "U21-22.3",
       "size": 1829,
-      "subject": "War.    Philosophy.    Military sociology"
+      "subject": "War.    Philosophy.    Military sociology",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U27-43",
       "size": 1850,
-      "subject": "History of military science"
+      "subject": "History of military science",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U799-897",
       "size": 1423,
-      "subject": "History of arms and armor"
+      "subject": "History of arms and armor",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U400-714",
       "size": 1958,
-      "subject": "Military education and training"
+      "subject": "Military education and training",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U150-155",
       "size": 128,
-      "subject": "Military planning"
+      "subject": "Military planning",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U263-264.5",
       "size": 1150,
-      "subject": "Atomic warfare.    Atomic weapons"
+      "subject": "Atomic warfare.    Atomic weapons",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U262",
       "size": 152,
-      "subject": "Commando tactics"
+      "subject": "Commando tactics",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U164-167.5",
       "size": 455,
-      "subject": "Tactics"
+      "subject": "Tactics",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U161-163",
       "size": 1198,
-      "subject": "Strategy"
+      "subject": "Strategy",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U750-773",
       "size": 460,
-      "subject": "Military life, manners and customs, antiquities, etc."
+      "subject": "Military life, manners and customs, antiquities, etc.",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U310-310.2",
       "size": 267,
-      "subject": "War games"
+      "subject": "War games",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U260",
       "size": 107,
-      "subject": "Joint operations.    Combined operations"
+      "subject": "Joint operations.    Combined operations",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U168",
       "size": 125,
-      "subject": "Logistics"
+      "subject": "Logistics",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U261",
       "size": 32,
-      "subject": "Amphibious warfare"
+      "subject": "Amphibious warfare",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U320-325",
       "size": 48,
-      "subject": "Physical training of soldiers"
+      "subject": "Physical training of soldiers",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U300-305",
       "size": 13,
-      "subject": "Artillery and rifle ranges"
+      "subject": "Artillery and rifle ranges",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U250-255",
       "size": 46,
-      "subject": "Maneuvers (combined arms)"
+      "subject": "Maneuvers (combined arms)",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U56-59",
       "size": 19,
-      "subject": "Army clubs"
+      "subject": "Army clubs",
+      "parents": [
+        "U",
+        "U1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[U1-900] Military science (General)"
+      ]
     },
     {
       "id": "U45",
       "size": 5,
-      "subject": "Historiography"
+      "subject": "Historiography",
+      "parents": [
+        "U"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science"
+      ]
     },
     {
       "id": "UG",
       "size": 0,
-      "subject": "Air forces.    Air warfare"
+      "subject": "Air forces.    Air warfare",
+      "parents": [
+        "U"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science"
+      ]
     },
     {
       "id": "UG1-620",
       "size": 1034,
-      "subject": "Military engineering"
+      "subject": "Military engineering",
+      "parents": [
+        "U",
+        "UG"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare"
+      ]
     },
     {
       "id": "UG443-449",
       "size": 1668,
-      "subject": "Attack and defense.    Siege warfare"
+      "subject": "Attack and defense.    Siege warfare",
+      "parents": [
+        "U",
+        "UG",
+        "UG1-620"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG1-620] Military engineering"
+      ]
     },
     {
       "id": "UG360-390",
       "size": 22,
-      "subject": "Field engineering"
+      "subject": "Field engineering",
+      "parents": [
+        "U",
+        "UG",
+        "UG1-620"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG1-620] Military engineering"
+      ]
     },
     {
       "id": "UG400-442",
       "size": 1253,
-      "subject": "Fortification"
+      "subject": "Fortification",
+      "parents": [
+        "U",
+        "UG",
+        "UG1-620"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG1-620] Military engineering"
+      ]
     },
     {
       "id": "UG490",
       "size": 143,
-      "subject": "Land mines, etc."
+      "subject": "Land mines, etc.",
+      "parents": [
+        "U",
+        "UG",
+        "UG1-620"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG1-620] Military engineering"
+      ]
     },
     {
       "id": "UG590-613.5",
       "size": 151,
-      "subject": "Military telegraphy and telephony"
+      "subject": "Military telegraphy and telephony",
+      "parents": [
+        "U",
+        "UG",
+        "UG1-620"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG1-620] Military engineering"
+      ]
     },
     {
       "id": "UG615-620",
       "size": 230,
-      "subject": "Military motor vehicles"
+      "subject": "Military motor vehicles",
+      "parents": [
+        "U",
+        "UG",
+        "UG1-620"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG1-620] Military engineering"
+      ]
     },
     {
       "id": "UG470-474",
       "size": 144,
-      "subject": "Military surveying, topography, and    mapping"
+      "subject": "Military surveying, topography, and    mapping",
+      "parents": [
+        "U",
+        "UG",
+        "UG1-620"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG1-620] Military engineering"
+      ]
     },
     {
       "id": "UG335",
       "size": 21,
-      "subject": "Bridges"
+      "subject": "Bridges",
+      "parents": [
+        "U",
+        "UG",
+        "UG1-620"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG1-620] Military engineering"
+      ]
     },
     {
       "id": "UG570-582",
       "size": 77,
-      "subject": "Military signaling"
+      "subject": "Military signaling",
+      "parents": [
+        "U",
+        "UG",
+        "UG1-620"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG1-620] Military engineering"
+      ]
     },
     {
       "id": "UG500-565",
       "size": 29,
-      "subject": "Technical troops and other special corps"
+      "subject": "Technical troops and other special corps",
+      "parents": [
+        "U",
+        "UG",
+        "UG1-620"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG1-620] Military engineering"
+      ]
     },
     {
       "id": "UG160-302",
       "size": 5,
-      "subject": "Tactics and regulations"
+      "subject": "Tactics and regulations",
+      "parents": [
+        "U",
+        "UG",
+        "UG1-620"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG1-620] Military engineering"
+      ]
     },
     {
       "id": "UG340",
       "size": 5,
-      "subject": "Tunnels"
+      "subject": "Tunnels",
+      "parents": [
+        "U",
+        "UG",
+        "UG1-620"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG1-620] Military engineering"
+      ]
     },
     {
       "id": "UG622-1435",
       "size": 1628,
-      "subject": "Air forces.    Air warfare"
+      "subject": "Air forces.    Air warfare",
+      "parents": [
+        "U",
+        "UG"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare"
+      ]
     },
     {
       "id": "UG633-635",
       "size": 2594,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "U",
+        "UG",
+        "UG622-1435"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG622-1435] Air forces.    Air warfare"
+      ]
     },
     {
       "id": "UG1100-1435",
       "size": 3516,
-      "subject": "Equipment and supplies"
+      "subject": "Equipment and supplies",
+      "parents": [
+        "U",
+        "UG",
+        "UG622-1435"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG622-1435] Air forces.    Air warfare"
+      ]
     },
     {
       "id": "UG700-705",
       "size": 123,
-      "subject": "Tactics"
+      "subject": "Tactics",
+      "parents": [
+        "U",
+        "UG",
+        "UG622-1435"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG622-1435] Air forces.    Air warfare"
+      ]
     },
     {
       "id": "UG760-765",
       "size": 66,
-      "subject": "Aerial reconnaissance"
+      "subject": "Aerial reconnaissance",
+      "parents": [
+        "U",
+        "UG",
+        "UG622-1435"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG622-1435] Air forces.    Air warfare"
+      ]
     },
     {
       "id": "UG637-639",
       "size": 200,
-      "subject": "Education and training"
+      "subject": "Education and training",
+      "parents": [
+        "U",
+        "UG",
+        "UG622-1435"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG622-1435] Air forces.    Air warfare"
+      ]
     },
     {
       "id": "UG770-1045",
       "size": 178,
-      "subject": "Organization.    Personnel management"
+      "subject": "Organization.    Personnel management",
+      "parents": [
+        "U",
+        "UG",
+        "UG622-1435"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG622-1435] Air forces.    Air warfare"
+      ]
     },
     {
       "id": "UG640-645",
       "size": 55,
-      "subject": "Military aeronautical research"
+      "subject": "Military aeronautical research",
+      "parents": [
+        "U",
+        "UG",
+        "UG622-1435"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG622-1435] Air forces.    Air warfare"
+      ]
     },
     {
       "id": "UG730-735",
       "size": 195,
-      "subject": "Air defenses"
+      "subject": "Air defenses",
+      "parents": [
+        "U",
+        "UG",
+        "UG622-1435"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG622-1435] Air forces.    Air warfare"
+      ]
     },
     {
       "id": "UG1097",
       "size": 3,
-      "subject": "Air bases"
+      "subject": "Air bases",
+      "parents": [
+        "U",
+        "UG",
+        "UG622-1435"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG622-1435] Air forces.    Air warfare"
+      ]
     },
     {
       "id": "UG1500-1530",
       "size": 157,
-      "subject": "Military astronautics.    Space warfare.    Space surveillance"
+      "subject": "Military astronautics.    Space warfare.    Space surveillance",
+      "parents": [
+        "U",
+        "UG"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare"
+      ]
     },
     {
       "id": "UG1523-1525",
       "size": 147,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "U",
+        "UG",
+        "UG1500-1530"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UG] Air forces.    Air warfare",
+        "[UG1500-1530] Military astronautics.    Space warfare.    Space surveillance"
+      ]
     },
     {
       "id": "UA",
       "size": 0,
-      "subject": "Armies: Organization, distribution, military situation"
+      "subject": "Armies: Organization, distribution, military situation",
+      "parents": [
+        "U"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science"
+      ]
     },
     {
       "id": "UA10-997",
       "size": 1737,
-      "subject": "Armies: Organization, distribution, military situation"
+      "subject": "Armies: Organization, distribution, military situation",
+      "parents": [
+        "U",
+        "UA"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UA] Armies: Organization, distribution, military situation"
+      ]
     },
     {
       "id": "UA21-885",
       "size": 20479,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "U",
+        "UA",
+        "UA10-997"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UA] Armies: Organization, distribution, military situation",
+        "[UA10-997] Armies: Organization, distribution, military situation"
+      ]
     },
     {
       "id": "UA940-945",
       "size": 121,
-      "subject": "Military communication"
+      "subject": "Military communication",
+      "parents": [
+        "U",
+        "UA",
+        "UA10-997"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UA] Armies: Organization, distribution, military situation",
+        "[UA10-997] Armies: Organization, distribution, military situation"
+      ]
     },
     {
       "id": "UA985-997",
       "size": 153,
-      "subject": "Military geography"
+      "subject": "Military geography",
+      "parents": [
+        "U",
+        "UA",
+        "UA10-997"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UA] Armies: Organization, distribution, military situation",
+        "[UA10-997] Armies: Organization, distribution, military situation"
+      ]
     },
     {
       "id": "UA926-929",
       "size": 853,
-      "subject": "Civil defense"
+      "subject": "Civil defense",
+      "parents": [
+        "U",
+        "UA",
+        "UA10-997"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UA] Armies: Organization, distribution, military situation",
+        "[UA10-997] Armies: Organization, distribution, military situation"
+      ]
     },
     {
       "id": "UA920-925",
       "size": 3,
-      "subject": "Plans for attack and defense"
+      "subject": "Plans for attack and defense",
+      "parents": [
+        "U",
+        "UA",
+        "UA10-997"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UA] Armies: Organization, distribution, military situation",
+        "[UA10-997] Armies: Organization, distribution, military situation"
+      ]
     },
     {
       "id": "UA950-979",
       "size": 6,
-      "subject": "Routes of travel.    Distances"
+      "subject": "Routes of travel.    Distances",
+      "parents": [
+        "U",
+        "UA",
+        "UA10-997"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UA] Armies: Organization, distribution, military situation",
+        "[UA10-997] Armies: Organization, distribution, military situation"
+      ]
     },
     {
       "id": "UA910-915",
       "size": 36,
-      "subject": "Mobilization"
+      "subject": "Mobilization",
+      "parents": [
+        "U",
+        "UA",
+        "UA10-997"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UA] Armies: Organization, distribution, military situation",
+        "[UA10-997] Armies: Organization, distribution, military situation"
+      ]
     },
     {
       "id": "UA929.5-929.95",
       "size": 80,
-      "subject": "War damage in industry.    Industrial defense"
+      "subject": "War damage in industry.    Industrial defense",
+      "parents": [
+        "U",
+        "UA",
+        "UA10-997"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UA] Armies: Organization, distribution, military situation",
+        "[UA10-997] Armies: Organization, distribution, military situation"
+      ]
     },
     {
       "id": "UB",
       "size": 0,
-      "subject": "Military administration"
+      "subject": "Military administration",
+      "parents": [
+        "U"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science"
+      ]
     },
     {
       "id": "UB1-900",
       "size": 2137,
-      "subject": "Military administration"
+      "subject": "Military administration",
+      "parents": [
+        "U",
+        "UB"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UB] Military administration"
+      ]
     },
     {
       "id": "UB356-369.5",
       "size": 1263,
-      "subject": "Provision for veterans"
+      "subject": "Provision for veterans",
+      "parents": [
+        "U",
+        "UB",
+        "UB1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UB] Military administration",
+        "[UB1-900] Military administration"
+      ]
     },
     {
       "id": "UB250-271",
       "size": 1931,
-      "subject": "Intelligence"
+      "subject": "Intelligence",
+      "parents": [
+        "U",
+        "UB",
+        "UB1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UB] Military administration",
+        "[UB1-900] Military administration"
+      ]
     },
     {
       "id": "UB416-419",
       "size": 432,
-      "subject": "Minorities, women, etc. in armed forces"
+      "subject": "Minorities, women, etc. in armed forces",
+      "parents": [
+        "U",
+        "UB",
+        "UB1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UB] Military administration",
+        "[UB1-900] Military administration"
+      ]
     },
     {
       "id": "UB320-338",
       "size": 481,
-      "subject": "Enlistment, recruiting, etc."
+      "subject": "Enlistment, recruiting, etc.",
+      "parents": [
+        "U",
+        "UB",
+        "UB1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UB] Military administration",
+        "[UB1-900] Military administration"
+      ]
     },
     {
       "id": "UB180-197",
       "size": 63,
-      "subject": "Civilian personnel departments"
+      "subject": "Civilian personnel departments",
+      "parents": [
+        "U",
+        "UB",
+        "UB1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UB] Military administration",
+        "[UB1-900] Military administration"
+      ]
     },
     {
       "id": "UB407-409",
       "size": 50,
-      "subject": "Warrant officers.    Noncommissioned officers"
+      "subject": "Warrant officers.    Noncommissioned officers",
+      "parents": [
+        "U",
+        "UB",
+        "UB1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UB] Military administration",
+        "[UB1-900] Military administration"
+      ]
     },
     {
       "id": "UB440-449.5",
       "size": 34,
-      "subject": "Retired military personnel"
+      "subject": "Retired military personnel",
+      "parents": [
+        "U",
+        "UB",
+        "UB1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UB] Military administration",
+        "[UB1-900] Military administration"
+      ]
     },
     {
       "id": "UB340-345",
       "size": 695,
-      "subject": "Compulsory service.    Conscription and exemption"
+      "subject": "Compulsory service.    Conscription and exemption",
+      "parents": [
+        "U",
+        "UB",
+        "UB1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UB] Military administration",
+        "[UB1-900] Military administration"
+      ]
     },
     {
       "id": "UB410-415",
       "size": 278,
-      "subject": "Officers"
+      "subject": "Officers",
+      "parents": [
+        "U",
+        "UB",
+        "UB1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UB] Military administration",
+        "[UB1-900] Military administration"
+      ]
     },
     {
       "id": "UB160-165",
       "size": 55,
-      "subject": "Records, returns, muster rolls, etc."
+      "subject": "Records, returns, muster rolls, etc.",
+      "parents": [
+        "U",
+        "UB",
+        "UB1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UB] Military administration",
+        "[UB1-900] Military administration"
+      ]
     },
     {
       "id": "UB275-277",
       "size": 129,
-      "subject": "Psychological warfare.    Propaganda"
+      "subject": "Psychological warfare.    Propaganda",
+      "parents": [
+        "U",
+        "UB",
+        "UB1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UB] Military administration",
+        "[UB1-900] Military administration"
+      ]
     },
     {
       "id": "UB370-375",
       "size": 228,
-      "subject": "Military pensions, etc."
+      "subject": "Military pensions, etc.",
+      "parents": [
+        "U",
+        "UB",
+        "UB1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UB] Military administration",
+        "[UB1-900] Military administration"
+      ]
     },
     {
       "id": "UB380-385",
       "size": 58,
-      "subject": "Soldiers' and sailors' homes"
+      "subject": "Soldiers' and sailors' homes",
+      "parents": [
+        "U",
+        "UB",
+        "UB1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UB] Military administration",
+        "[UB1-900] Military administration"
+      ]
     },
     {
       "id": "UB273-274",
       "size": 7,
-      "subject": "Sabotage"
+      "subject": "Sabotage",
+      "parents": [
+        "U",
+        "UB",
+        "UB1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UB] Military administration",
+        "[UB1-900] Military administration"
+      ]
     },
     {
       "id": "UB420-425",
       "size": 7,
-      "subject": "Furloughs"
+      "subject": "Furloughs",
+      "parents": [
+        "U",
+        "UB",
+        "UB1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UB] Military administration",
+        "[UB1-900] Military administration"
+      ]
     },
     {
       "id": "UB170-175",
       "size": 7,
-      "subject": "Adjutant generals' offices"
+      "subject": "Adjutant generals' offices",
+      "parents": [
+        "U",
+        "UB",
+        "UB1-900"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UB] Military administration",
+        "[UB1-900] Military administration"
+      ]
     },
     {
       "id": "UD",
       "size": 0,
-      "subject": "Infantry"
+      "subject": "Infantry",
+      "parents": [
+        "U"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science"
+      ]
     },
     {
       "id": "UD1-495",
       "size": 117,
-      "subject": "Infantry"
+      "subject": "Infantry",
+      "parents": [
+        "U",
+        "UD"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UD] Infantry"
+      ]
     },
     {
       "id": "UD480-485",
       "size": 137,
-      "subject": "Airborne troops.    Parachute troops"
+      "subject": "Airborne troops.    Parachute troops",
+      "parents": [
+        "U",
+        "UD",
+        "UD1-495"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UD] Infantry",
+        "[UD1-495] Infantry"
+      ]
     },
     {
       "id": "UD157-302",
       "size": 225,
-      "subject": "Tactics.    Maneuvers.    Drill regulations"
+      "subject": "Tactics.    Maneuvers.    Drill regulations",
+      "parents": [
+        "U",
+        "UD",
+        "UD1-495"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UD] Infantry",
+        "[UD1-495] Infantry"
+      ]
     },
     {
       "id": "UD380-425",
       "size": 685,
-      "subject": "Small arms.    Swords, etc."
+      "subject": "Small arms.    Swords, etc.",
+      "parents": [
+        "U",
+        "UD",
+        "UD1-495"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UD] Infantry",
+        "[UD1-495] Infantry"
+      ]
     },
     {
       "id": "UD330-335",
       "size": 89,
-      "subject": "Firing.    Military sharpshooting"
+      "subject": "Firing.    Military sharpshooting",
+      "parents": [
+        "U",
+        "UD",
+        "UD1-495"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UD] Infantry",
+        "[UD1-495] Infantry"
+      ]
     },
     {
       "id": "UD320-325",
       "size": 4,
-      "subject": "Manual of arms"
+      "subject": "Manual of arms",
+      "parents": [
+        "U",
+        "UD",
+        "UD1-495"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UD] Infantry",
+        "[UD1-495] Infantry"
+      ]
     },
     {
       "id": "UD340-345",
       "size": 3,
-      "subject": "Bayonet drill"
+      "subject": "Bayonet drill",
+      "parents": [
+        "U",
+        "UD",
+        "UD1-495"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UD] Infantry",
+        "[UD1-495] Infantry"
+      ]
     },
     {
       "id": "UD470-475",
       "size": 5,
-      "subject": "Ski troops"
+      "subject": "Ski troops",
+      "parents": [
+        "U",
+        "UD",
+        "UD1-495"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UD] Infantry",
+        "[UD1-495] Infantry"
+      ]
     },
     {
       "id": "UD450-455",
       "size": 2,
-      "subject": "Mounted infantry"
+      "subject": "Mounted infantry",
+      "parents": [
+        "U",
+        "UD",
+        "UD1-495"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UD] Infantry",
+        "[UD1-495] Infantry"
+      ]
     },
     {
       "id": "UD460-464",
       "size": 12,
-      "subject": "Mountain troops"
+      "subject": "Mountain troops",
+      "parents": [
+        "U",
+        "UD",
+        "UD1-495"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UD] Infantry",
+        "[UD1-495] Infantry"
+      ]
     },
     {
       "id": "UD490-495",
       "size": 3,
-      "subject": "Airmobile operations"
+      "subject": "Airmobile operations",
+      "parents": [
+        "U",
+        "UD",
+        "UD1-495"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UD] Infantry",
+        "[UD1-495] Infantry"
+      ]
     },
     {
       "id": "UF",
       "size": 0,
-      "subject": "Artillery"
+      "subject": "Artillery",
+      "parents": [
+        "U"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science"
+      ]
     },
     {
       "id": "UF1-910",
       "size": 429,
-      "subject": "Artillery"
+      "subject": "Artillery",
+      "parents": [
+        "U",
+        "UF"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UF] Artillery"
+      ]
     },
     {
       "id": "UF560-780",
       "size": 778,
-      "subject": "Ordnance material (Ordnance proper)"
+      "subject": "Ordnance material (Ordnance proper)",
+      "parents": [
+        "U",
+        "UF",
+        "UF1-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UF] Artillery",
+        "[UF1-910] Artillery"
+      ]
     },
     {
       "id": "UF500-515",
       "size": 365,
-      "subject": "Weapons systems"
+      "subject": "Weapons systems",
+      "parents": [
+        "U",
+        "UF",
+        "UF1-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UF] Artillery",
+        "[UF1-910] Artillery"
+      ]
     },
     {
       "id": "UF820-830",
       "size": 126,
-      "subject": "Ballistics.    Velocities and motions of projectiles"
+      "subject": "Ballistics.    Velocities and motions of projectiles",
+      "parents": [
+        "U",
+        "UF",
+        "UF1-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UF] Artillery",
+        "[UF1-910] Artillery"
+      ]
     },
     {
       "id": "UF400-405",
       "size": 71,
-      "subject": "Field artillery"
+      "subject": "Field artillery",
+      "parents": [
+        "U",
+        "UF",
+        "UF1-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UF] Artillery",
+        "[UF1-910] Artillery"
+      ]
     },
     {
       "id": "UF450-455",
       "size": 30,
-      "subject": "Seacoast artillery"
+      "subject": "Seacoast artillery",
+      "parents": [
+        "U",
+        "UF",
+        "UF1-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UF] Artillery",
+        "[UF1-910] Artillery"
+      ]
     },
     {
       "id": "UF520-537",
       "size": 556,
-      "subject": "Ordnance and small arms"
+      "subject": "Ordnance and small arms",
+      "parents": [
+        "U",
+        "UF",
+        "UF1-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UF] Artillery",
+        "[UF1-910] Artillery"
+      ]
     },
     {
       "id": "UF157-302",
       "size": 44,
-      "subject": "Tactics.    Maneuvers.    Drill regulations"
+      "subject": "Tactics.    Maneuvers.    Drill regulations",
+      "parents": [
+        "U",
+        "UF",
+        "UF1-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UF] Artillery",
+        "[UF1-910] Artillery"
+      ]
     },
     {
       "id": "UF540-545",
       "size": 86,
-      "subject": "Arsenals, magazines, armories, etc."
+      "subject": "Arsenals, magazines, armories, etc.",
+      "parents": [
+        "U",
+        "UF",
+        "UF1-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UF] Artillery",
+        "[UF1-910] Artillery"
+      ]
     },
     {
       "id": "UF460-465",
       "size": 3,
-      "subject": "Siege artillery"
+      "subject": "Siege artillery",
+      "parents": [
+        "U",
+        "UF",
+        "UF1-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UF] Artillery",
+        "[UF1-910] Artillery"
+      ]
     },
     {
       "id": "UF848-856",
       "size": 21,
-      "subject": "Artillery instruments.    Fire control, etc."
+      "subject": "Artillery instruments.    Fire control, etc.",
+      "parents": [
+        "U",
+        "UF",
+        "UF1-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UF] Artillery",
+        "[UF1-910] Artillery"
+      ]
     },
     {
       "id": "UF480-485",
       "size": 4,
-      "subject": "Garrison artillery"
+      "subject": "Garrison artillery",
+      "parents": [
+        "U",
+        "UF",
+        "UF1-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UF] Artillery",
+        "[UF1-910] Artillery"
+      ]
     },
     {
       "id": "UF470-475",
       "size": 11,
-      "subject": "Howitzer artillery.    Mortar batteries"
+      "subject": "Howitzer artillery.    Mortar batteries",
+      "parents": [
+        "U",
+        "UF",
+        "UF1-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UF] Artillery",
+        "[UF1-910] Artillery"
+      ]
     },
     {
       "id": "UC",
       "size": 0,
-      "subject": "Maintenance and transportation"
+      "subject": "Maintenance and transportation",
+      "parents": [
+        "U"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science"
+      ]
     },
     {
       "id": "UC10-780",
       "size": 75,
-      "subject": "Maintenance and transportation"
+      "subject": "Maintenance and transportation",
+      "parents": [
+        "U",
+        "UC"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UC] Maintenance and transportation"
+      ]
     },
     {
       "id": "UC270-360",
       "size": 332,
-      "subject": "Transportation"
+      "subject": "Transportation",
+      "parents": [
+        "U",
+        "UC",
+        "UC10-780"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UC] Maintenance and transportation",
+        "[UC10-780] Maintenance and transportation"
+      ]
     },
     {
       "id": "UC460-535",
       "size": 1110,
-      "subject": "Clothing and equipment"
+      "subject": "Clothing and equipment",
+      "parents": [
+        "U",
+        "UC",
+        "UC10-780"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UC] Maintenance and transportation",
+        "[UC10-780] Maintenance and transportation"
+      ]
     },
     {
       "id": "UC260-267",
       "size": 950,
-      "subject": "Supplies and stores"
+      "subject": "Supplies and stores",
+      "parents": [
+        "U",
+        "UC",
+        "UC10-780"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UC] Maintenance and transportation",
+        "[UC10-780] Maintenance and transportation"
+      ]
     },
     {
       "id": "UC20-258",
       "size": 271,
-      "subject": "Organization of the service.    By region or country"
+      "subject": "Organization of the service.    By region or country",
+      "parents": [
+        "U",
+        "UC",
+        "UC10-780"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UC] Maintenance and transportation",
+        "[UC10-780] Maintenance and transportation"
+      ]
     },
     {
       "id": "UC400-440",
       "size": 98,
-      "subject": "Barracks.    Quarters.    Camps"
+      "subject": "Barracks.    Quarters.    Camps",
+      "parents": [
+        "U",
+        "UC",
+        "UC10-780"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UC] Maintenance and transportation",
+        "[UC10-780] Maintenance and transportation"
+      ]
     },
     {
       "id": "UC700-780",
       "size": 125,
-      "subject": "Subsistence"
+      "subject": "Subsistence",
+      "parents": [
+        "U",
+        "UC",
+        "UC10-780"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UC] Maintenance and transportation",
+        "[UC10-780] Maintenance and transportation"
+      ]
     },
     {
       "id": "UC600-695",
       "size": 27,
-      "subject": "Horses.    Mules.    Remount service"
+      "subject": "Horses.    Mules.    Remount service",
+      "parents": [
+        "U",
+        "UC",
+        "UC10-780"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UC] Maintenance and transportation",
+        "[UC10-780] Maintenance and transportation"
+      ]
     },
     {
       "id": "UC540-585",
       "size": 1,
-      "subject": "Equipage.    Field kits"
+      "subject": "Equipage.    Field kits",
+      "parents": [
+        "U",
+        "UC",
+        "UC10-780"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UC] Maintenance and transportation",
+        "[UC10-780] Maintenance and transportation"
+      ]
     },
     {
       "id": "UH",
       "size": 0,
-      "subject": "Other services"
+      "subject": "Other services",
+      "parents": [
+        "U"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science"
+      ]
     },
     {
       "id": "UH20-910",
       "size": 363,
-      "subject": "Other services"
+      "subject": "Other services",
+      "parents": [
+        "U",
+        "UH"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UH] Other services"
+      ]
     },
     {
       "id": "UH201-515",
       "size": 641,
-      "subject": "Medical and sanitary services"
+      "subject": "Medical and sanitary services",
+      "parents": [
+        "U",
+        "UH",
+        "UH20-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UH] Other services",
+        "[UH20-910] Other services"
+      ]
     },
     {
       "id": "UH600-629.5",
       "size": 122,
-      "subject": "Military hygiene and sanitation"
+      "subject": "Military hygiene and sanitation",
+      "parents": [
+        "U",
+        "UH",
+        "UH20-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UH] Other services",
+        "[UH20-910] Other services"
+      ]
     },
     {
       "id": "UH520-560",
       "size": 69,
-      "subject": "Care of sick and wounded.    Relief societies"
+      "subject": "Care of sick and wounded.    Relief societies",
+      "parents": [
+        "U",
+        "UH",
+        "UH20-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UH] Other services",
+        "[UH20-910] Other services"
+      ]
     },
     {
       "id": "UH20-25",
       "size": 169,
-      "subject": "Chaplains"
+      "subject": "Chaplains",
+      "parents": [
+        "U",
+        "UH",
+        "UH20-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UH] Other services",
+        "[UH20-910] Other services"
+      ]
     },
     {
       "id": "UH800-910",
       "size": 36,
-      "subject": "Recreation and information services"
+      "subject": "Recreation and information services",
+      "parents": [
+        "U",
+        "UH",
+        "UH20-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UH] Other services",
+        "[UH20-910] Other services"
+      ]
     },
     {
       "id": "UH700-705",
       "size": 37,
-      "subject": "Public relations.    Press.    War correspondents"
+      "subject": "Public relations.    Press.    War correspondents",
+      "parents": [
+        "U",
+        "UH",
+        "UH20-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UH] Other services",
+        "[UH20-910] Other services"
+      ]
     },
     {
       "id": "UH750-769",
       "size": 29,
-      "subject": "Military social work.    Social welfare services"
+      "subject": "Military social work.    Social welfare services",
+      "parents": [
+        "U",
+        "UH",
+        "UH20-910"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UH] Other services",
+        "[UH20-910] Other services"
+      ]
     },
     {
       "id": "UE",
       "size": 0,
-      "subject": "Cavalry.    Armor"
+      "subject": "Cavalry.    Armor",
+      "parents": [
+        "U"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science"
+      ]
     },
     {
       "id": "UE1-500",
       "size": 181,
-      "subject": "Cavalry.    Armor"
+      "subject": "Cavalry.    Armor",
+      "parents": [
+        "U",
+        "UE"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UE] Cavalry.    Armor"
+      ]
     },
     {
       "id": "UE144-145",
       "size": 22,
-      "subject": "Horse cavalry"
+      "subject": "Horse cavalry",
+      "parents": [
+        "U",
+        "UE",
+        "UE1-500"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UE] Cavalry.    Armor",
+        "[UE1-500] Cavalry.    Armor"
+      ]
     },
     {
       "id": "UE157-302",
       "size": 98,
-      "subject": "Tactics.    Maneuvers.    Drill regulations"
+      "subject": "Tactics.    Maneuvers.    Drill regulations",
+      "parents": [
+        "U",
+        "UE",
+        "UE1-500"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UE] Cavalry.    Armor",
+        "[UE1-500] Cavalry.    Armor"
+      ]
     },
     {
       "id": "UE460-475",
       "size": 41,
-      "subject": "Horses"
+      "subject": "Horses",
+      "parents": [
+        "U",
+        "UE",
+        "UE1-500"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UE] Cavalry.    Armor",
+        "[UE1-500] Cavalry.    Armor"
+      ]
     },
     {
       "id": "UE147",
       "size": 5,
-      "subject": "Armored cavalry"
+      "subject": "Armored cavalry",
+      "parents": [
+        "U",
+        "UE",
+        "UE1-500"
+      ],
+      "parentsSubjects": [
+        "[U] Military Science",
+        "[UE] Cavalry.    Armor",
+        "[UE1-500] Cavalry.    Armor"
+      ]
     }
   ],
   "links": [
@@ -710,6 +1870,10 @@
     },
     {
       "source": "U1-900",
+      "target": "U45"
+    },
+    {
+      "source": "U",
       "target": "U45"
     },
     {

@@ -3,692 +3,2056 @@
     {
       "id": "Q",
       "size": 0,
-      "subject": "Science"
+      "subject": "Science",
+      "parents": [
+        "Q"
+      ],
+      "parentsSubjects": [
+        "[Q] Science"
+      ]
     },
     {
       "id": "QR",
       "size": 0,
-      "subject": "Microbiology"
+      "subject": "Microbiology",
+      "parents": [
+        "Q"
+      ],
+      "parentsSubjects": [
+        "[Q] Science"
+      ]
     },
     {
       "id": "QR1-502",
       "size": 1508,
-      "subject": "Microbiology"
+      "subject": "Microbiology",
+      "parents": [
+        "Q",
+        "QR"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QR] Microbiology"
+      ]
     },
     {
       "id": "QR1-74.5",
       "size": 3304,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "Q",
+        "QR",
+        "QR1-502"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QR] Microbiology",
+        "[QR1-502] Microbiology"
+      ]
     },
     {
       "id": "QR180-189.5",
       "size": 2961,
-      "subject": "Immunology"
+      "subject": "Immunology",
+      "parents": [
+        "Q",
+        "QR",
+        "QR1-502"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QR] Microbiology",
+        "[QR1-502] Microbiology"
+      ]
     },
     {
       "id": "QR100-130",
       "size": 1118,
-      "subject": "Microbial ecology"
+      "subject": "Microbial ecology",
+      "parents": [
+        "Q",
+        "QR",
+        "QR1-502"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QR] Microbiology",
+        "[QR1-502] Microbiology"
+      ]
     },
     {
       "id": "QR355-502",
       "size": 851,
-      "subject": "Virology"
+      "subject": "Virology",
+      "parents": [
+        "Q",
+        "QR",
+        "QR1-502"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QR] Microbiology",
+        "[QR1-502] Microbiology"
+      ]
     },
     {
       "id": "QR75-99.5",
       "size": 1256,
-      "subject": "Bacteria"
+      "subject": "Bacteria",
+      "parents": [
+        "Q",
+        "QR",
+        "QR1-502"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QR] Microbiology",
+        "[QR1-502] Microbiology"
+      ]
     },
     {
       "id": "QR171",
       "size": 87,
-      "subject": "Microorganisms in the animal body"
+      "subject": "Microorganisms in the animal body",
+      "parents": [
+        "Q",
+        "QR",
+        "QR1-502"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QR] Microbiology",
+        "[QR1-502] Microbiology"
+      ]
     },
     {
       "id": "QR99.6-99.8",
       "size": 42,
-      "subject": "Cyanobacteria"
+      "subject": "Cyanobacteria",
+      "parents": [
+        "Q",
+        "QR",
+        "QR1-502"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QR] Microbiology",
+        "[QR1-502] Microbiology"
+      ]
     },
     {
       "id": "QK",
       "size": 0,
-      "subject": "Botany"
+      "subject": "Botany",
+      "parents": [
+        "Q"
+      ],
+      "parentsSubjects": [
+        "[Q] Science"
+      ]
     },
     {
       "id": "QK1-989",
       "size": 11,
-      "subject": "Botany"
+      "subject": "Botany",
+      "parents": [
+        "Q",
+        "QK"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QK] Botany"
+      ]
     },
     {
       "id": "QK1-474.5",
       "size": 17482,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "Q",
+        "QK",
+        "QK1-989"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QK] Botany",
+        "[QK1-989] Botany"
+      ]
     },
     {
       "id": "QK710-899",
       "size": 3641,
-      "subject": "Plant physiology"
+      "subject": "Plant physiology",
+      "parents": [
+        "Q",
+        "QK",
+        "QK1-989"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QK] Botany",
+        "[QK1-989] Botany"
+      ]
     },
     {
       "id": "QK474.8-495",
       "size": 1302,
-      "subject": "Spermatophyta.    Phanerogams"
+      "subject": "Spermatophyta.    Phanerogams",
+      "parents": [
+        "Q",
+        "QK",
+        "QK1-989"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QK] Botany",
+        "[QK1-989] Botany"
+      ]
     },
     {
       "id": "QK494-494.5",
       "size": 262,
-      "subject": "Gymnosperms"
+      "subject": "Gymnosperms",
+      "parents": [
+        "Q",
+        "QK",
+        "QK1-989",
+        "QK474.8-495"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QK] Botany",
+        "[QK1-989] Botany",
+        "[QK474.8-495] Spermatophyta.    Phanerogams"
+      ]
     },
     {
       "id": "QK495",
       "size": 3538,
-      "subject": "Angiosperms"
+      "subject": "Angiosperms",
+      "parents": [
+        "Q",
+        "QK",
+        "QK1-989",
+        "QK474.8-495"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QK] Botany",
+        "[QK1-989] Botany",
+        "[QK474.8-495] Spermatophyta.    Phanerogams"
+      ]
     },
     {
       "id": "QK504-638",
       "size": 5095,
-      "subject": "Cryptogams"
+      "subject": "Cryptogams",
+      "parents": [
+        "Q",
+        "QK",
+        "QK1-989"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QK] Botany",
+        "[QK1-989] Botany"
+      ]
     },
     {
       "id": "QK900-989",
       "size": 2044,
-      "subject": "Plant ecology"
+      "subject": "Plant ecology",
+      "parents": [
+        "Q",
+        "QK",
+        "QK1-989"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QK] Botany",
+        "[QK1-989] Botany"
+      ]
     },
     {
       "id": "QK640-707",
       "size": 1254,
-      "subject": "Plant anatomy"
+      "subject": "Plant anatomy",
+      "parents": [
+        "Q",
+        "QK",
+        "QK1-989"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QK] Botany",
+        "[QK1-989] Botany"
+      ]
     },
     {
       "id": "QL",
       "size": 0,
-      "subject": "Zoology"
+      "subject": "Zoology",
+      "parents": [
+        "Q"
+      ],
+      "parentsSubjects": [
+        "[Q] Science"
+      ]
     },
     {
       "id": "QL1-991",
       "size": 4,
-      "subject": "Zoology"
+      "subject": "Zoology",
+      "parents": [
+        "Q",
+        "QL"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QL] Zoology"
+      ]
     },
     {
       "id": "QL750-795",
       "size": 4179,
-      "subject": "Animal behavior"
+      "subject": "Animal behavior",
+      "parents": [
+        "Q",
+        "QL",
+        "QL1-991"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QL] Zoology",
+        "[QL1-991] Zoology"
+      ]
     },
     {
       "id": "QL791-795",
       "size": 1316,
-      "subject": "Stories and anecdotes"
+      "subject": "Stories and anecdotes",
+      "parents": [
+        "Q",
+        "QL",
+        "QL1-991",
+        "QL750-795"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QL] Zoology",
+        "[QL1-991] Zoology",
+        "[QL750-795] Animal behavior"
+      ]
     },
     {
       "id": "QL605-739.8",
       "size": 413,
-      "subject": "Chordates.    Vertebrates"
+      "subject": "Chordates.    Vertebrates",
+      "parents": [
+        "Q",
+        "QL",
+        "QL1-991"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QL] Zoology",
+        "[QL1-991] Zoology"
+      ]
     },
     {
       "id": "QL671-699",
       "size": 13030,
-      "subject": "Birds"
+      "subject": "Birds",
+      "parents": [
+        "Q",
+        "QL",
+        "QL1-991",
+        "QL605-739.8"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QL] Zoology",
+        "[QL1-991] Zoology",
+        "[QL605-739.8] Chordates.    Vertebrates"
+      ]
     },
     {
       "id": "QL700-739.8",
       "size": 13888,
-      "subject": "Mammals"
+      "subject": "Mammals",
+      "parents": [
+        "Q",
+        "QL",
+        "QL1-991",
+        "QL605-739.8"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QL] Zoology",
+        "[QL1-991] Zoology",
+        "[QL605-739.8] Chordates.    Vertebrates"
+      ]
     },
     {
       "id": "QL640-669.3",
       "size": 4591,
-      "subject": "Reptiles and amphibians"
+      "subject": "Reptiles and amphibians",
+      "parents": [
+        "Q",
+        "QL",
+        "QL1-991",
+        "QL605-739.8"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QL] Zoology",
+        "[QL1-991] Zoology",
+        "[QL605-739.8] Chordates.    Vertebrates"
+      ]
     },
     {
       "id": "QL614-639.8",
       "size": 6003,
-      "subject": "Fishes"
+      "subject": "Fishes",
+      "parents": [
+        "Q",
+        "QL",
+        "QL1-991",
+        "QL605-739.8"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QL] Zoology",
+        "[QL1-991] Zoology",
+        "[QL605-739.8] Chordates.    Vertebrates"
+      ]
     },
     {
       "id": "QL1-355",
       "size": 16215,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "Q",
+        "QL",
+        "QL1-991"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QL] Zoology",
+        "[QL1-991] Zoology"
+      ]
     },
     {
       "id": "QL360-599.82",
       "size": 7816,
-      "subject": "Invertebrates"
+      "subject": "Invertebrates",
+      "parents": [
+        "Q",
+        "QL",
+        "QL1-991"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QL] Zoology",
+        "[QL1-991] Zoology"
+      ]
     },
     {
       "id": "QL461-599.82",
       "size": 10648,
-      "subject": "Insects"
+      "subject": "Insects",
+      "parents": [
+        "Q",
+        "QL",
+        "QL1-991",
+        "QL360-599.82"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QL] Zoology",
+        "[QL1-991] Zoology",
+        "[QL360-599.82] Invertebrates"
+      ]
     },
     {
       "id": "QL951-991",
       "size": 893,
-      "subject": "Embryology"
+      "subject": "Embryology",
+      "parents": [
+        "Q",
+        "QL",
+        "QL1-991"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QL] Zoology",
+        "[QL1-991] Zoology"
+      ]
     },
     {
       "id": "QL801-950.9",
       "size": 1715,
-      "subject": "Anatomy"
+      "subject": "Anatomy",
+      "parents": [
+        "Q",
+        "QL",
+        "QL1-991"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QL] Zoology",
+        "[QL1-991] Zoology"
+      ]
     },
     {
       "id": "QL799-799.5",
       "size": 102,
-      "subject": "Morphology"
+      "subject": "Morphology",
+      "parents": [
+        "Q",
+        "QL",
+        "QL1-991"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QL] Zoology",
+        "[QL1-991] Zoology"
+      ]
     },
     {
       "id": "QB",
       "size": 0,
-      "subject": "Astronomy"
+      "subject": "Astronomy",
+      "parents": [
+        "Q"
+      ],
+      "parentsSubjects": [
+        "[Q] Science"
+      ]
     },
     {
       "id": "QB1-991",
       "size": 106,
-      "subject": "Astronomy"
+      "subject": "Astronomy",
+      "parents": [
+        "Q",
+        "QB"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QB] Astronomy"
+      ]
     },
     {
       "id": "QB1-139",
       "size": 9973,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "Q",
+        "QB",
+        "QB1-991"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QB] Astronomy",
+        "[QB1-991] Astronomy"
+      ]
     },
     {
       "id": "QB495-903",
       "size": 963,
-      "subject": "Descriptive astronomy"
+      "subject": "Descriptive astronomy",
+      "parents": [
+        "Q",
+        "QB",
+        "QB1-991"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QB] Astronomy",
+        "[QB1-991] Astronomy"
+      ]
     },
     {
       "id": "QB500.5-785",
       "size": 6101,
-      "subject": "Solar system"
+      "subject": "Solar system",
+      "parents": [
+        "Q",
+        "QB",
+        "QB1-991",
+        "QB495-903"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QB] Astronomy",
+        "[QB1-991] Astronomy",
+        "[QB495-903] Descriptive astronomy"
+      ]
     },
     {
       "id": "QB799-903",
       "size": 2698,
-      "subject": "Stars"
+      "subject": "Stars",
+      "parents": [
+        "Q",
+        "QB",
+        "QB1-991",
+        "QB495-903"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QB] Astronomy",
+        "[QB1-991] Astronomy",
+        "[QB495-903] Descriptive astronomy"
+      ]
     },
     {
       "id": "QB275-343",
       "size": 1674,
-      "subject": "Geodesy"
+      "subject": "Geodesy",
+      "parents": [
+        "Q",
+        "QB",
+        "QB1-991"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QB] Astronomy",
+        "[QB1-991] Astronomy"
+      ]
     },
     {
       "id": "QB980-991",
       "size": 1360,
-      "subject": "Cosmogony.    Cosmology"
+      "subject": "Cosmogony.    Cosmology",
+      "parents": [
+        "Q",
+        "QB",
+        "QB1-991"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QB] Astronomy",
+        "[QB1-991] Astronomy"
+      ]
     },
     {
       "id": "QB140-237",
       "size": 1110,
-      "subject": "Practical and spherical astronomy"
+      "subject": "Practical and spherical astronomy",
+      "parents": [
+        "Q",
+        "QB",
+        "QB1-991"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QB] Astronomy",
+        "[QB1-991] Astronomy"
+      ]
     },
     {
       "id": "QB460-466",
       "size": 1013,
-      "subject": "Astrophysics"
+      "subject": "Astrophysics",
+      "parents": [
+        "Q",
+        "QB",
+        "QB1-991"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QB] Astronomy",
+        "[QB1-991] Astronomy"
+      ]
     },
     {
       "id": "QB468-480",
       "size": 552,
-      "subject": "Non-optical methods of astronomy"
+      "subject": "Non-optical methods of astronomy",
+      "parents": [
+        "Q",
+        "QB",
+        "QB1-991"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QB] Astronomy",
+        "[QB1-991] Astronomy"
+      ]
     },
     {
       "id": "QB349-421",
       "size": 577,
-      "subject": "Theoretical astronomy and celestial mechanics"
+      "subject": "Theoretical astronomy and celestial mechanics",
+      "parents": [
+        "Q",
+        "QB",
+        "QB1-991"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QB] Astronomy",
+        "[QB1-991] Astronomy"
+      ]
     },
     {
       "id": "QB455-456",
       "size": 12,
-      "subject": "Astrogeology"
+      "subject": "Astrogeology",
+      "parents": [
+        "Q",
+        "QB",
+        "QB1-991"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QB] Astronomy",
+        "[QB1-991] Astronomy"
+      ]
     },
     {
       "id": "QA",
       "size": 0,
-      "subject": "Mathematics"
+      "subject": "Mathematics",
+      "parents": [
+        "Q"
+      ],
+      "parentsSubjects": [
+        "[Q] Science"
+      ]
     },
     {
       "id": "QA1-939",
       "size": 3044,
-      "subject": "Mathematics"
+      "subject": "Mathematics",
+      "parents": [
+        "Q",
+        "QA"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QA] Mathematics"
+      ]
     },
     {
       "id": "QA440-699",
       "size": 10402,
-      "subject": "Geometry.    Trigonometry.    Topology"
+      "subject": "Geometry.    Trigonometry.    Topology",
+      "parents": [
+        "Q",
+        "QA",
+        "QA1-939"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QA] Mathematics",
+        "[QA1-939] Mathematics"
+      ]
     },
     {
       "id": "QA299.6-433",
       "size": 18661,
-      "subject": "Analysis"
+      "subject": "Analysis",
+      "parents": [
+        "Q",
+        "QA",
+        "QA1-939"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QA] Mathematics",
+        "[QA1-939] Mathematics"
+      ]
     },
     {
       "id": "QA101-145",
       "size": 5428,
-      "subject": "Elementary mathematics.    Arithmetic"
+      "subject": "Elementary mathematics.    Arithmetic",
+      "parents": [
+        "Q",
+        "QA",
+        "QA1-939"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QA] Mathematics",
+        "[QA1-939] Mathematics"
+      ]
     },
     {
       "id": "QA1-43",
       "size": 20091,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "Q",
+        "QA",
+        "QA1-939"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QA] Mathematics",
+        "[QA1-939] Mathematics"
+      ]
     },
     {
       "id": "QA150-272.5",
       "size": 15335,
-      "subject": "Algebra"
+      "subject": "Algebra",
+      "parents": [
+        "Q",
+        "QA",
+        "QA1-939"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QA] Mathematics",
+        "[QA1-939] Mathematics"
+      ]
     },
     {
       "id": "QA801-939",
       "size": 4843,
-      "subject": "Analytic mechanics"
+      "subject": "Analytic mechanics",
+      "parents": [
+        "Q",
+        "QA",
+        "QA1-939"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QA] Mathematics",
+        "[QA1-939] Mathematics"
+      ]
     },
     {
       "id": "QA71-90",
       "size": 493,
-      "subject": "Instruments and machines"
+      "subject": "Instruments and machines",
+      "parents": [
+        "Q",
+        "QA",
+        "QA1-939"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QA] Mathematics",
+        "[QA1-939] Mathematics"
+      ]
     },
     {
       "id": "QA75-76.95",
       "size": 322,
-      "subject": "Calculating machines"
+      "subject": "Calculating machines",
+      "parents": [
+        "Q",
+        "QA",
+        "QA1-939",
+        "QA71-90"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QA] Mathematics",
+        "[QA1-939] Mathematics",
+        "[QA71-90] Instruments and machines"
+      ]
     },
     {
       "id": "QA75.5-76.95",
       "size": 48176,
-      "subject": "Electronic computers.    Computer science"
+      "subject": "Electronic computers.    Computer science",
+      "parents": [
+        "Q",
+        "QA",
+        "QA1-939",
+        "QA71-90",
+        "QA75-76.95"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QA] Mathematics",
+        "[QA1-939] Mathematics",
+        "[QA71-90] Instruments and machines",
+        "[QA75-76.95] Calculating machines"
+      ]
     },
     {
       "id": "QA76.75-76.765",
       "size": 13247,
-      "subject": "Computer software"
+      "subject": "Computer software",
+      "parents": [
+        "Q",
+        "QA",
+        "QA1-939",
+        "QA71-90",
+        "QA75-76.95",
+        "QA75.5-76.95"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QA] Mathematics",
+        "[QA1-939] Mathematics",
+        "[QA71-90] Instruments and machines",
+        "[QA75-76.95] Calculating machines",
+        "[QA75.5-76.95] Electronic computers.    Computer science"
+      ]
     },
     {
       "id": "QA273-280",
       "size": 10253,
-      "subject": "Probabilities.    Mathematical statistics"
+      "subject": "Probabilities.    Mathematical statistics",
+      "parents": [
+        "Q",
+        "QA",
+        "QA1-939"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QA] Mathematics",
+        "[QA1-939] Mathematics"
+      ]
     },
     {
       "id": "QA47-59",
       "size": 470,
-      "subject": "Tables"
+      "subject": "Tables",
+      "parents": [
+        "Q",
+        "QA",
+        "QA1-939"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QA] Mathematics",
+        "[QA1-939] Mathematics"
+      ]
     },
     {
       "id": "Q1-390",
       "size": 1,
-      "subject": "Science (General)"
+      "subject": "Science (General)",
+      "parents": [
+        "Q"
+      ],
+      "parentsSubjects": [
+        "[Q] Science"
+      ]
     },
     {
       "id": "Q1-295",
       "size": 45396,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "Q",
+        "Q1-390"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[Q1-390] Science (General)"
+      ]
     },
     {
       "id": "Q300-390",
       "size": 2979,
-      "subject": "Cybernetics"
+      "subject": "Cybernetics",
+      "parents": [
+        "Q",
+        "Q1-390"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[Q1-390] Science (General)"
+      ]
     },
     {
       "id": "Q350-390",
       "size": 699,
-      "subject": "Information theory"
+      "subject": "Information theory",
+      "parents": [
+        "Q",
+        "Q1-390",
+        "Q300-390"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[Q1-390] Science (General)",
+        "[Q300-390] Cybernetics"
+      ]
     },
     {
       "id": "QP",
       "size": 0,
-      "subject": "Physiology"
+      "subject": "Physiology",
+      "parents": [
+        "Q"
+      ],
+      "parentsSubjects": [
+        "[Q] Science"
+      ]
     },
     {
       "id": "QP1-981",
       "size": 2,
-      "subject": "Physiology"
+      "subject": "Physiology",
+      "parents": [
+        "Q",
+        "QP"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QP] Physiology"
+      ]
     },
     {
       "id": "QP1-345",
       "size": 17031,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "Q",
+        "QP",
+        "QP1-981"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QP] Physiology",
+        "[QP1-981] Physiology"
+      ]
     },
     {
       "id": "QP351-495",
       "size": 9683,
-      "subject": "Neurophysiology and neuropsychology"
+      "subject": "Neurophysiology and neuropsychology",
+      "parents": [
+        "Q",
+        "QP",
+        "QP1-981"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QP] Physiology",
+        "[QP1-981] Physiology"
+      ]
     },
     {
       "id": "QP501-801",
       "size": 11158,
-      "subject": "Animal biochemistry"
+      "subject": "Animal biochemistry",
+      "parents": [
+        "Q",
+        "QP",
+        "QP1-981"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QP] Physiology",
+        "[QP1-981] Physiology"
+      ]
     },
     {
       "id": "QP901-981",
       "size": 651,
-      "subject": "Experimental pharmacology"
+      "subject": "Experimental pharmacology",
+      "parents": [
+        "Q",
+        "QP",
+        "QP1-981"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QP] Physiology",
+        "[QP1-981] Physiology"
+      ]
     },
     {
       "id": "QH",
       "size": 0,
-      "subject": "Biology (General)"
+      "subject": "Biology (General)",
+      "parents": [
+        "Q"
+      ],
+      "parentsSubjects": [
+        "[Q] Science"
+      ]
     },
     {
       "id": "QH1-278.5",
       "size": 0,
-      "subject": "Natural history (General)"
+      "subject": "Natural history (General)",
+      "parents": [
+        "Q",
+        "QH"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QH] Biology (General)"
+      ]
     },
     {
       "id": "QH1-199.5",
       "size": 28721,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "Q",
+        "QH",
+        "QH1-278.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QH] Biology (General)",
+        "[QH1-278.5] Natural history (General)"
+      ]
     },
     {
       "id": "QH201-278.5",
       "size": 1298,
-      "subject": "Microscopy"
+      "subject": "Microscopy",
+      "parents": [
+        "Q",
+        "QH",
+        "QH1-278.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QH] Biology (General)",
+        "[QH1-278.5] Natural history (General)"
+      ]
     },
     {
       "id": "QH301-705.5",
       "size": 9395,
-      "subject": "Biology (General)"
+      "subject": "Biology (General)",
+      "parents": [
+        "Q",
+        "QH"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QH] Biology (General)"
+      ]
     },
     {
       "id": "QH359-425",
       "size": 2955,
-      "subject": "Evolution"
+      "subject": "Evolution",
+      "parents": [
+        "Q",
+        "QH",
+        "QH301-705.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QH] Biology (General)",
+        "[QH301-705.5] Biology (General)"
+      ]
     },
     {
       "id": "QH573-671",
       "size": 4038,
-      "subject": "Cytology"
+      "subject": "Cytology",
+      "parents": [
+        "Q",
+        "QH",
+        "QH301-705.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QH] Biology (General)",
+        "[QH301-705.5] Biology (General)"
+      ]
     },
     {
       "id": "QH540-549.5",
       "size": 9285,
-      "subject": "Ecology"
+      "subject": "Ecology",
+      "parents": [
+        "Q",
+        "QH",
+        "QH301-705.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QH] Biology (General)",
+        "[QH301-705.5] Biology (General)"
+      ]
     },
     {
       "id": "QH426-470",
       "size": 5152,
-      "subject": "Genetics"
+      "subject": "Genetics",
+      "parents": [
+        "Q",
+        "QH",
+        "QH301-705.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QH] Biology (General)",
+        "[QH301-705.5] Biology (General)"
+      ]
     },
     {
       "id": "QH501-531",
       "size": 2180,
-      "subject": "Life"
+      "subject": "Life",
+      "parents": [
+        "Q",
+        "QH",
+        "QH301-705.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QH] Biology (General)",
+        "[QH301-705.5] Biology (General)"
+      ]
     },
     {
       "id": "QH471-489",
       "size": 162,
-      "subject": "Reproduction"
+      "subject": "Reproduction",
+      "parents": [
+        "Q",
+        "QH",
+        "QH301-705.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QH] Biology (General)",
+        "[QH301-705.5] Biology (General)"
+      ]
     },
     {
       "id": "QH705-705.5",
       "size": 33,
-      "subject": "Economic biology"
+      "subject": "Economic biology",
+      "parents": [
+        "Q",
+        "QH",
+        "QH301-705.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QH] Biology (General)",
+        "[QH301-705.5] Biology (General)"
+      ]
     },
     {
       "id": "QD",
       "size": 0,
-      "subject": "Chemistry"
+      "subject": "Chemistry",
+      "parents": [
+        "Q"
+      ],
+      "parentsSubjects": [
+        "[Q] Science"
+      ]
     },
     {
       "id": "QD1-999",
       "size": 68,
-      "subject": "Chemistry"
+      "subject": "Chemistry",
+      "parents": [
+        "Q",
+        "QD"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QD] Chemistry"
+      ]
     },
     {
       "id": "QD450-801",
       "size": 10522,
-      "subject": "Physical and theoretical chemistry"
+      "subject": "Physical and theoretical chemistry",
+      "parents": [
+        "Q",
+        "QD",
+        "QD1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QD] Chemistry",
+        "[QD1-999] Chemistry"
+      ]
     },
     {
       "id": "QD701-731",
       "size": 209,
-      "subject": "Photochemistry"
+      "subject": "Photochemistry",
+      "parents": [
+        "Q",
+        "QD",
+        "QD1-999",
+        "QD450-801"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QD] Chemistry",
+        "[QD1-999] Chemistry",
+        "[QD450-801] Physical and theoretical chemistry"
+      ]
     },
     {
       "id": "QD625-655",
       "size": 107,
-      "subject": "Radiation chemistry"
+      "subject": "Radiation chemistry",
+      "parents": [
+        "Q",
+        "QD",
+        "QD1-999",
+        "QD450-801"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QD] Chemistry",
+        "[QD1-999] Chemistry",
+        "[QD450-801] Physical and theoretical chemistry"
+      ]
     },
     {
       "id": "QD1-65",
       "size": 9606,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "Q",
+        "QD",
+        "QD1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QD] Chemistry",
+        "[QD1-999] Chemistry"
+      ]
     },
     {
       "id": "QD146-197",
       "size": 3090,
-      "subject": "Inorganic chemistry"
+      "subject": "Inorganic chemistry",
+      "parents": [
+        "Q",
+        "QD",
+        "QD1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QD] Chemistry",
+        "[QD1-999] Chemistry"
+      ]
     },
     {
       "id": "QD241-441",
       "size": 8928,
-      "subject": "Organic chemistry"
+      "subject": "Organic chemistry",
+      "parents": [
+        "Q",
+        "QD",
+        "QD1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QD] Chemistry",
+        "[QD1-999] Chemistry"
+      ]
     },
     {
       "id": "QD415-436",
       "size": 938,
-      "subject": "Biochemistry"
+      "subject": "Biochemistry",
+      "parents": [
+        "Q",
+        "QD",
+        "QD1-999",
+        "QD241-441"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QD] Chemistry",
+        "[QD1-999] Chemistry",
+        "[QD241-441] Organic chemistry"
+      ]
     },
     {
       "id": "QD901-999",
       "size": 2170,
-      "subject": "Crystallography"
+      "subject": "Crystallography",
+      "parents": [
+        "Q",
+        "QD",
+        "QD1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QD] Chemistry",
+        "[QD1-999] Chemistry"
+      ]
     },
     {
       "id": "QD71-142",
       "size": 4782,
-      "subject": "Analytical chemistry"
+      "subject": "Analytical chemistry",
+      "parents": [
+        "Q",
+        "QD",
+        "QD1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QD] Chemistry",
+        "[QD1-999] Chemistry"
+      ]
     },
     {
       "id": "QE",
       "size": 0,
-      "subject": "Geology"
+      "subject": "Geology",
+      "parents": [
+        "Q"
+      ],
+      "parentsSubjects": [
+        "[Q] Science"
+      ]
     },
     {
       "id": "QE1-996.5",
       "size": 1,
-      "subject": "Geology"
+      "subject": "Geology",
+      "parents": [
+        "Q",
+        "QE"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QE] Geology"
+      ]
     },
     {
       "id": "QE1-350.62",
       "size": 30148,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "Q",
+        "QE",
+        "QE1-996.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QE] Geology",
+        "[QE1-996.5] Geology"
+      ]
     },
     {
       "id": "QE420-499",
       "size": 5294,
-      "subject": "Petrology"
+      "subject": "Petrology",
+      "parents": [
+        "Q",
+        "QE",
+        "QE1-996.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QE] Geology",
+        "[QE1-996.5] Geology"
+      ]
     },
     {
       "id": "QE760.8-899.2",
       "size": 6707,
-      "subject": "Paleozoology"
+      "subject": "Paleozoology",
+      "parents": [
+        "Q",
+        "QE",
+        "QE1-996.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QE] Geology",
+        "[QE1-996.5] Geology"
+      ]
     },
     {
       "id": "QE500-639.5",
       "size": 5967,
-      "subject": "Dynamic and structural geology"
+      "subject": "Dynamic and structural geology",
+      "parents": [
+        "Q",
+        "QE",
+        "QE1-996.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QE] Geology",
+        "[QE1-996.5] Geology"
+      ]
     },
     {
       "id": "QE521-545",
       "size": 4670,
-      "subject": "Volcanoes and earthquakes"
+      "subject": "Volcanoes and earthquakes",
+      "parents": [
+        "Q",
+        "QE",
+        "QE1-996.5",
+        "QE500-639.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QE] Geology",
+        "[QE1-996.5] Geology",
+        "[QE500-639.5] Dynamic and structural geology"
+      ]
     },
     {
       "id": "QE601-613.5",
       "size": 1698,
-      "subject": "Structural geology"
+      "subject": "Structural geology",
+      "parents": [
+        "Q",
+        "QE",
+        "QE1-996.5",
+        "QE500-639.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QE] Geology",
+        "[QE1-996.5] Geology",
+        "[QE500-639.5] Dynamic and structural geology"
+      ]
     },
     {
       "id": "QE701-760",
       "size": 3747,
-      "subject": "Paleontology"
+      "subject": "Paleontology",
+      "parents": [
+        "Q",
+        "QE",
+        "QE1-996.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QE] Geology",
+        "[QE1-996.5] Geology"
+      ]
     },
     {
       "id": "QE640-699",
       "size": 4907,
-      "subject": "Stratigraphy"
+      "subject": "Stratigraphy",
+      "parents": [
+        "Q",
+        "QE",
+        "QE1-996.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QE] Geology",
+        "[QE1-996.5] Geology"
+      ]
     },
     {
       "id": "QE351-399.2",
       "size": 4708,
-      "subject": "Mineralogy"
+      "subject": "Mineralogy",
+      "parents": [
+        "Q",
+        "QE",
+        "QE1-996.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QE] Geology",
+        "[QE1-996.5] Geology"
+      ]
     },
     {
       "id": "QE901-996.5",
       "size": 1394,
-      "subject": "Paleobotany"
+      "subject": "Paleobotany",
+      "parents": [
+        "Q",
+        "QE",
+        "QE1-996.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QE] Geology",
+        "[QE1-996.5] Geology"
+      ]
     },
     {
       "id": "QC",
       "size": 0,
-      "subject": "Physics"
+      "subject": "Physics",
+      "parents": [
+        "Q"
+      ],
+      "parentsSubjects": [
+        "[Q] Science"
+      ]
     },
     {
       "id": "QC1-999",
       "size": 54,
-      "subject": "Physics"
+      "subject": "Physics",
+      "parents": [
+        "Q",
+        "QC"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics"
+      ]
     },
     {
       "id": "QC501-766",
       "size": 0,
-      "subject": "Electricity and magnetism"
+      "subject": "Electricity and magnetism",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics"
+      ]
     },
     {
       "id": "QC501-721",
       "size": 7717,
-      "subject": "Electricity"
+      "subject": "Electricity",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999",
+        "QC501-766"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics",
+        "[QC501-766] Electricity and magnetism"
+      ]
     },
     {
       "id": "QC750-766",
       "size": 1588,
-      "subject": "Magnetism"
+      "subject": "Magnetism",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999",
+        "QC501-766"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics",
+        "[QC501-766] Electricity and magnetism"
+      ]
     },
     {
       "id": "QC701-715.4",
       "size": 675,
-      "subject": "Electric discharge"
+      "subject": "Electric discharge",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999",
+        "QC501-766"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics",
+        "[QC501-766] Electricity and magnetism"
+      ]
     },
     {
       "id": "QC350-467",
       "size": 3423,
-      "subject": "Optics.    Light"
+      "subject": "Optics.    Light",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics"
+      ]
     },
     {
       "id": "QC450-467",
       "size": 1851,
-      "subject": "Spectroscopy"
+      "subject": "Spectroscopy",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999",
+        "QC350-467"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics",
+        "[QC350-467] Optics.    Light"
+      ]
     },
     {
       "id": "QC1-75",
       "size": 13124,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics"
+      ]
     },
     {
       "id": "QC251-338.5",
       "size": 1696,
-      "subject": "Heat"
+      "subject": "Heat",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics"
+      ]
     },
     {
       "id": "QC310.15-319",
       "size": 836,
-      "subject": "Thermodynamics"
+      "subject": "Thermodynamics",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999",
+        "QC251-338.5"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics",
+        "[QC251-338.5] Heat"
+      ]
     },
     {
       "id": "QC170-197",
       "size": 10813,
-      "subject": "Atomic physics.    Constitution and properties of matter"
+      "subject": "Atomic physics.    Constitution and properties of matter",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics"
+      ]
     },
     {
       "id": "QC851-999",
       "size": 12816,
-      "subject": "Meteorology.    Climatology"
+      "subject": "Meteorology.    Climatology",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics"
+      ]
     },
     {
       "id": "QC980-999",
       "size": 6650,
-      "subject": "Climatology and weather"
+      "subject": "Climatology and weather",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999",
+        "QC851-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics",
+        "[QC851-999] Meteorology.    Climatology"
+      ]
     },
     {
       "id": "QC994.95-999",
       "size": 557,
-      "subject": "Weather forecasting"
+      "subject": "Weather forecasting",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999",
+        "QC851-999",
+        "QC980-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics",
+        "[QC851-999] Meteorology.    Climatology",
+        "[QC980-999] Climatology and weather"
+      ]
     },
     {
       "id": "QC974.5-976",
       "size": 310,
-      "subject": "Meteorological optics"
+      "subject": "Meteorological optics",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999",
+        "QC851-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics",
+        "[QC851-999] Meteorology.    Climatology"
+      ]
     },
     {
       "id": "QC221-246",
       "size": 1124,
-      "subject": "Acoustics.    Sound"
+      "subject": "Acoustics.    Sound",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics"
+      ]
     },
     {
       "id": "QC120-168.85",
       "size": 1951,
-      "subject": "Descriptive and experimental mechanics"
+      "subject": "Descriptive and experimental mechanics",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics"
+      ]
     },
     {
       "id": "QC474-496.9",
       "size": 2201,
-      "subject": "Radiation physics (General)"
+      "subject": "Radiation physics (General)",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics"
+      ]
     },
     {
       "id": "QC770-798",
       "size": 5461,
-      "subject": "Atomic  energy."
+      "subject": "Atomic  energy.",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics"
+      ]
     },
     {
       "id": "QC793-793.5",
       "size": 2942,
-      "subject": "Elementary particle physics"
+      "subject": "Elementary particle physics",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999",
+        "QC770-798"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics",
+        "[QC770-798] Atomic  energy."
+      ]
     },
     {
       "id": "QC794.95-798",
       "size": 552,
-      "subject": "Radioactivity and radioactive substances"
+      "subject": "Radioactivity and radioactive substances",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999",
+        "QC770-798"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics",
+        "[QC770-798] Atomic  energy."
+      ]
     },
     {
       "id": "QC801-809",
       "size": 2037,
-      "subject": "Geophysics.    Cosmic physics"
+      "subject": "Geophysics.    Cosmic physics",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics"
+      ]
     },
     {
       "id": "QC81-114",
       "size": 3651,
-      "subject": "Weights and measures"
+      "subject": "Weights and measures",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics"
+      ]
     },
     {
       "id": "QC811-849",
       "size": 795,
-      "subject": "Geomagnetism"
+      "subject": "Geomagnetism",
+      "parents": [
+        "Q",
+        "QC",
+        "QC1-999"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QC] Physics",
+        "[QC1-999] Physics"
+      ]
     },
     {
       "id": "QM",
       "size": 0,
-      "subject": "Human anatomy"
+      "subject": "Human anatomy",
+      "parents": [
+        "Q"
+      ],
+      "parentsSubjects": [
+        "[Q] Science"
+      ]
     },
     {
       "id": "QM1-695",
       "size": 0,
-      "subject": "Human anatomy"
+      "subject": "Human anatomy",
+      "parents": [
+        "Q",
+        "QM"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QM] Human anatomy"
+      ]
     },
     {
       "id": "QM1-511",
       "size": 3535,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "Q",
+        "QM",
+        "QM1-695"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QM] Human anatomy",
+        "[QM1-695] Human anatomy"
+      ]
     },
     {
       "id": "QM601-695",
       "size": 564,
-      "subject": "Human embryology"
+      "subject": "Human embryology",
+      "parents": [
+        "Q",
+        "QM",
+        "QM1-695"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QM] Human anatomy",
+        "[QM1-695] Human anatomy"
+      ]
     },
     {
       "id": "QM550-577.8",
       "size": 684,
-      "subject": "Human and comparative histology"
+      "subject": "Human and comparative histology",
+      "parents": [
+        "Q",
+        "QM",
+        "QM1-695"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QM] Human anatomy",
+        "[QM1-695] Human anatomy"
+      ]
     },
     {
       "id": "QM531-549",
       "size": 471,
-      "subject": "Regional anatomy"
+      "subject": "Regional anatomy",
+      "parents": [
+        "Q",
+        "QM",
+        "QM1-695"
+      ],
+      "parentsSubjects": [
+        "[Q] Science",
+        "[QM] Human anatomy",
+        "[QM1-695] Human anatomy"
+      ]
     }
   ],
   "links": [

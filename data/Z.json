@@ -3,522 +3,1504 @@
     {
       "id": "Z",
       "size": 0,
-      "subject": "National bibliography"
+      "subject": "National bibliography",
+      "parents": [
+        "Z"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science"
+      ]
     },
     {
       "id": "Z1001-1121",
       "size": 1768,
-      "subject": "General bibliography"
+      "subject": "General bibliography",
+      "parents": [
+        "Z"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science"
+      ]
     },
     {
       "id": "Z1036",
       "size": 20,
-      "subject": "Booksellers' general catalogs of modern books"
+      "subject": "Booksellers' general catalogs of modern books",
+      "parents": [
+        "Z",
+        "Z1001-1121"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z1001-1121] General bibliography"
+      ]
     },
     {
       "id": "Z1003-1003.5",
       "size": 1967,
-      "subject": "Choice of books.    Books and reading.    Book reviews"
+      "subject": "Choice of books.    Books and reading.    Book reviews",
+      "parents": [
+        "Z",
+        "Z1001-1121"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z1001-1121] General bibliography"
+      ]
     },
     {
       "id": "Z1037-1039",
       "size": 2818,
-      "subject": "Books for special classes of persons, institutions, etc."
+      "subject": "Books for special classes of persons, institutions, etc.",
+      "parents": [
+        "Z",
+        "Z1001-1121"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z1001-1121] General bibliography"
+      ]
     },
     {
       "id": "Z1035-1035.9",
       "size": 1332,
-      "subject": "Best books"
+      "subject": "Best books",
+      "parents": [
+        "Z",
+        "Z1001-1121"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z1001-1121] General bibliography"
+      ]
     },
     {
       "id": "Z1001",
       "size": 441,
-      "subject": "Introduction to bibliography. Theory, philosophy,"
+      "subject": "Introduction to bibliography. Theory, philosophy,",
+      "parents": [
+        "Z",
+        "Z1001-1121"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z1001-1121] General bibliography"
+      ]
     },
     {
       "id": "Z1019-1033",
       "size": 1500,
-      "subject": "Special classes of books"
+      "subject": "Special classes of books",
+      "parents": [
+        "Z",
+        "Z1001-1121"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z1001-1121] General bibliography"
+      ]
     },
     {
       "id": "Z1011-1017",
       "size": 426,
-      "subject": "General bibliographies"
+      "subject": "General bibliographies",
+      "parents": [
+        "Z",
+        "Z1001-1121"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z1001-1121] General bibliography"
+      ]
     },
     {
       "id": "Z1041-1107",
       "size": 241,
-      "subject": "Anonyms and pseudonyms"
+      "subject": "Anonyms and pseudonyms",
+      "parents": [
+        "Z",
+        "Z1001-1121"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z1001-1121] General bibliography"
+      ]
     },
     {
       "id": "Z1003.8-Z1004",
       "size": 146,
-      "subject": "Biography of bibliographers"
+      "subject": "Biography of bibliographers",
+      "parents": [
+        "Z",
+        "Z1001-1121"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z1001-1121] General bibliography"
+      ]
     },
     {
       "id": "Z4-115.5",
       "size": 4,
-      "subject": "Books (General).    Writing.    Paleography"
+      "subject": "Books (General).    Writing.    Paleography",
+      "parents": [
+        "Z"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science"
+      ]
     },
     {
       "id": "Z40-104.5",
       "size": 145,
-      "subject": "Writing"
+      "subject": "Writing",
+      "parents": [
+        "Z",
+        "Z4-115.5"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z4-115.5] Books (General).    Writing.    Paleography"
+      ]
     },
     {
       "id": "Z53-102",
       "size": 900,
-      "subject": "Shorthand.    Stenography.    Phonography"
+      "subject": "Shorthand.    Stenography.    Phonography",
+      "parents": [
+        "Z",
+        "Z4-115.5",
+        "Z40-104.5"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z4-115.5] Books (General).    Writing.    Paleography",
+        "[Z40-104.5] Writing"
+      ]
     },
     {
       "id": "Z49-51.5",
       "size": 635,
-      "subject": "Typewriters.    Typewriting.    Keyboards.    Keyboarding"
+      "subject": "Typewriters.    Typewriting.    Keyboards.    Keyboarding",
+      "parents": [
+        "Z",
+        "Z4-115.5",
+        "Z40-104.5"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z4-115.5] Books (General).    Writing.    Paleography",
+        "[Z40-104.5] Writing"
+      ]
     },
     {
       "id": "Z43-45",
       "size": 645,
-      "subject": "Calligraphy.    Penmanship"
+      "subject": "Calligraphy.    Penmanship",
+      "parents": [
+        "Z",
+        "Z4-115.5",
+        "Z40-104.5"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z4-115.5] Books (General).    Writing.    Paleography",
+        "[Z40-104.5] Writing"
+      ]
     },
     {
       "id": "Z52-52.5",
       "size": 2072,
-      "subject": "Word processing"
+      "subject": "Word processing",
+      "parents": [
+        "Z",
+        "Z4-115.5",
+        "Z40-104.5"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z4-115.5] Books (General).    Writing.    Paleography",
+        "[Z40-104.5] Writing"
+      ]
     },
     {
       "id": "Z102.5-104.5",
       "size": 340,
-      "subject": "Cryptography.    Ciphers.    Invisible writing"
+      "subject": "Cryptography.    Ciphers.    Invisible writing",
+      "parents": [
+        "Z",
+        "Z4-115.5",
+        "Z40-104.5"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z4-115.5] Books (General).    Writing.    Paleography",
+        "[Z40-104.5] Writing"
+      ]
     },
     {
       "id": "Z41-42.5",
       "size": 309,
-      "subject": "Autographs.    Signatures"
+      "subject": "Autographs.    Signatures",
+      "parents": [
+        "Z",
+        "Z4-115.5",
+        "Z40-104.5"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z4-115.5] Books (General).    Writing.    Paleography",
+        "[Z40-104.5] Writing"
+      ]
     },
     {
       "id": "Z48",
       "size": 104,
-      "subject": "Duplicating processes.    Copying services"
+      "subject": "Duplicating processes.    Copying services",
+      "parents": [
+        "Z"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science"
+      ]
     },
     {
       "id": "Z4-8",
       "size": 994,
-      "subject": "History of books and bookmaking"
+      "subject": "History of books and bookmaking",
+      "parents": [
+        "Z",
+        "Z4-115.5"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z4-115.5] Books (General).    Writing.    Paleography"
+      ]
     },
     {
       "id": "Z105-115.5",
       "size": 1426,
-      "subject": "Manuscripts.    Paleography"
+      "subject": "Manuscripts.    Paleography",
+      "parents": [
+        "Z",
+        "Z4-115.5"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z4-115.5] Books (General).    Writing.    Paleography"
+      ]
     },
     {
       "id": "Z1201-4980",
       "size": 30,
-      "subject": "National bibliography"
+      "subject": "National bibliography",
+      "parents": [
+        "Z"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science"
+      ]
     },
     {
       "id": "Z1201-1946",
       "size": 8717,
-      "subject": "America"
+      "subject": "America",
+      "parents": [
+        "Z",
+        "Z1201-4980"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z1201-4980] National bibliography"
+      ]
     },
     {
       "id": "Z3501-3975",
       "size": 1672,
-      "subject": "Africa"
+      "subject": "Africa",
+      "parents": [
+        "Z",
+        "Z1201-4980"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z1201-4980] National bibliography"
+      ]
     },
     {
       "id": "Z2000-2959",
       "size": 11035,
-      "subject": "Europe"
+      "subject": "Europe",
+      "parents": [
+        "Z",
+        "Z1201-4980"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z1201-4980] National bibliography"
+      ]
     },
     {
       "id": "Z4001-4980",
       "size": 514,
-      "subject": "Australia.    Oceania"
+      "subject": "Australia.    Oceania",
+      "parents": [
+        "Z",
+        "Z1201-4980"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z1201-4980] National bibliography"
+      ]
     },
     {
       "id": "Z3001-3496",
       "size": 6250,
-      "subject": "Asia"
+      "subject": "Asia",
+      "parents": [
+        "Z",
+        "Z1201-4980"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z1201-4980] National bibliography"
+      ]
     },
     {
       "id": "Z1975",
       "size": 2,
-      "subject": "Eastern Hemisphere"
+      "subject": "Eastern Hemisphere",
+      "parents": [
+        "Z",
+        "Z1201-4980"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z1201-4980] National bibliography"
+      ]
     },
     {
       "id": "Z116-659",
       "size": 1086,
-      "subject": "Book industries and trade"
+      "subject": "Book industries and trade",
+      "parents": [
+        "Z"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science"
+      ]
     },
     {
       "id": "Z242.9-264.5",
       "size": 4234,
-      "subject": "Practical printing"
+      "subject": "Practical printing",
+      "parents": [
+        "Z",
+        "Z116-659"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z116-659] Book industries and trade"
+      ]
     },
     {
       "id": "Z124-228",
       "size": 2369,
-      "subject": "History"
+      "subject": "History",
+      "parents": [
+        "Z",
+        "Z116-659"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z116-659] Book industries and trade"
+      ]
     },
     {
       "id": "Z278-549",
       "size": 9586,
-      "subject": "Bookselling and publishing"
+      "subject": "Bookselling and publishing",
+      "parents": [
+        "Z",
+        "Z116-659"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z116-659] Book industries and trade"
+      ]
     },
     {
       "id": "Z657-659",
       "size": 763,
-      "subject": "Freedom of the press.    Censorship"
+      "subject": "Freedom of the press.    Censorship",
+      "parents": [
+        "Z",
+        "Z116-659"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z116-659] Book industries and trade"
+      ]
     },
     {
       "id": "Z266-276",
       "size": 1162,
-      "subject": "Bookbinding.    Book decoration"
+      "subject": "Bookbinding.    Book decoration",
+      "parents": [
+        "Z",
+        "Z116-659"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z116-659] Book industries and trade"
+      ]
     },
     {
       "id": "Z237",
       "size": 71,
-      "subject": "Paper.    Watermarks, etc."
+      "subject": "Paper.    Watermarks, etc.",
+      "parents": [
+        "Z",
+        "Z116-659"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z116-659] Book industries and trade"
+      ]
     },
     {
       "id": "Z231-234",
       "size": 2007,
-      "subject": "Printers and printing establishments"
+      "subject": "Printers and printing establishments",
+      "parents": [
+        "Z",
+        "Z116-659"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z116-659] Book industries and trade"
+      ]
     },
     {
       "id": "Z234",
       "size": 5,
-      "subject": "Medallic history of printing.    Tokens"
+      "subject": "Medallic history of printing.    Tokens",
+      "parents": [
+        "Z",
+        "Z116-659",
+        "Z231-234"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z116-659] Book industries and trade",
+        "[Z231-234] Printers and printing establishments"
+      ]
     },
     {
       "id": "Z116",
       "size": 453,
-      "subject": "Printing"
+      "subject": "Printing",
+      "parents": [
+        "Z",
+        "Z116-659"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z116-659] Book industries and trade"
+      ]
     },
     {
       "id": "Z551-656",
       "size": 311,
-      "subject": "Copyright"
+      "subject": "Copyright",
+      "parents": [
+        "Z",
+        "Z116-659"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z116-659] Book industries and trade"
+      ]
     },
     {
       "id": "Z240-241.5",
       "size": 736,
-      "subject": "Incunabula.    Block books"
+      "subject": "Incunabula.    Block books",
+      "parents": [
+        "Z",
+        "Z116-659"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z116-659] Book industries and trade"
+      ]
     },
     {
       "id": "Z235-236",
       "size": 79,
-      "subject": "Printer's marks, mottoes, etc."
+      "subject": "Printer's marks, mottoes, etc.",
+      "parents": [
+        "Z",
+        "Z116-659"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z116-659] Book industries and trade"
+      ]
     },
     {
       "id": "Z265-265.5",
       "size": 120,
-      "subject": "Representation or reproduction of books, documents,"
+      "subject": "Representation or reproduction of books, documents,",
+      "parents": [
+        "Z",
+        "Z116-659"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z116-659] Book industries and trade"
+      ]
     },
     {
       "id": "Z662-1000.5",
       "size": 138,
-      "subject": "Libraries"
+      "subject": "Libraries",
+      "parents": [
+        "Z"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science"
+      ]
     },
     {
       "id": "Z729-875",
       "size": 11480,
-      "subject": "Library reports.    History.    Statistics"
+      "subject": "Library reports.    History.    Statistics",
+      "parents": [
+        "Z",
+        "Z662-1000.5"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries"
+      ]
     },
     {
       "id": "Z987-996.3",
       "size": 1761,
-      "subject": "Book collecting"
+      "subject": "Book collecting",
+      "parents": [
+        "Z",
+        "Z662-1000.5"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries"
+      ]
     },
     {
       "id": "Z719-723",
       "size": 1209,
-      "subject": "Libraries (General)"
+      "subject": "Libraries (General)",
+      "parents": [
+        "Z",
+        "Z662-1000.5"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries"
+      ]
     },
     {
       "id": "Z665-718.8",
       "size": 5743,
-      "subject": "Library science.    Information science"
+      "subject": "Library science.    Information science",
+      "parents": [
+        "Z",
+        "Z662-1000.5"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries"
+      ]
     },
     {
       "id": "Z682-682.4",
       "size": 825,
-      "subject": "Personnel"
+      "subject": "Personnel",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science"
+      ]
     },
     {
       "id": "Z679-680",
       "size": 544,
-      "subject": "Library buildings.    Library architecture"
+      "subject": "Library buildings.    Library architecture",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science"
+      ]
     },
     {
       "id": "Z687-718.85",
       "size": 0,
-      "subject": "The collections.    The books"
+      "subject": "The collections.    The books",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science"
+      ]
     },
     {
       "id": "Z695.9-695.94",
       "size": 342,
-      "subject": "Indexing.    Abstracting"
+      "subject": "Indexing.    Abstracting",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z693-695.83",
       "size": 2868,
-      "subject": "Cataloging"
+      "subject": "Cataloging",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z696-697",
       "size": 1651,
-      "subject": "Classification and notation"
+      "subject": "Classification and notation",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z711-711.95",
       "size": 1475,
-      "subject": "Public services.    Reference services"
+      "subject": "Public services.    Reference services",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z691-692",
       "size": 525,
-      "subject": "Special classes of materials"
+      "subject": "Special classes of materials",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z702",
       "size": 29,
-      "subject": "Thefts and losses of books and other library materials"
+      "subject": "Thefts and losses of books and other library materials",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z700.9-701.5",
       "size": 723,
-      "subject": "Physical parameters, preservation, conservation and"
+      "subject": "Physical parameters, preservation, conservation and",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z689-689.8",
       "size": 361,
-      "subject": "Acquisition (selection, purchase, gifts, duplicates)"
+      "subject": "Acquisition (selection, purchase, gifts, duplicates)",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z699-699.5",
       "size": 2273,
-      "subject": "Machine methods of information and retrieval."
+      "subject": "Machine methods of information and retrieval.",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z688",
       "size": 507,
-      "subject": "Special collections"
+      "subject": "Special collections",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z716-716.15",
       "size": 56,
-      "subject": "Library extension.    Library commissions.    Traveling"
+      "subject": "Library extension.    Library commissions.    Traveling",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z688.5-Z688.6",
       "size": 62,
-      "subject": "Processing"
+      "subject": "Processing",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z712-714",
       "size": 290,
-      "subject": "Circulation.    Loans.    Charging systems"
+      "subject": "Circulation.    Loans.    Charging systems",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z700",
       "size": 46,
-      "subject": "Bookbinding"
+      "subject": "Bookbinding",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z695.98",
       "size": 11,
-      "subject": "Recataloging.    Reclassification"
+      "subject": "Recataloging.    Reclassification",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z690",
       "size": 67,
-      "subject": "Exchanges"
+      "subject": "Exchanges",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z695.87",
       "size": 12,
-      "subject": "Printing of catalogs"
+      "subject": "Printing of catalogs",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z698",
       "size": 26,
-      "subject": "Shelflisting.    Author notation"
+      "subject": "Shelflisting.    Author notation",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z695.95",
       "size": 54,
-      "subject": "Alphabetizing.    Filing"
+      "subject": "Alphabetizing.    Filing",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z703.5",
       "size": 17,
-      "subject": "Stack management. Disposition of books on shelves,"
+      "subject": "Stack management. Disposition of books on shelves,",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z695.85",
       "size": 1,
-      "subject": "Library handwriting"
+      "subject": "Library handwriting",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z703.6",
       "size": 9,
-      "subject": "Discarding.    Weeding"
+      "subject": "Discarding.    Weeding",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z699.7",
       "size": 1,
-      "subject": "Physical processing.    Shelf preparation"
+      "subject": "Physical processing.    Shelf preparation",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z675",
       "size": 4967,
-      "subject": "Classes of libraries"
+      "subject": "Classes of libraries",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science"
+      ]
     },
     {
       "id": "Z678-678.88",
       "size": 1165,
-      "subject": "Library administration and organization.    Constitution"
+      "subject": "Library administration and organization.    Constitution",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science"
+      ]
     },
     {
       "id": "Z683-683.5",
       "size": 250,
-      "subject": "Finance.    Insurance"
+      "subject": "Finance.    Insurance",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science"
+      ]
     },
     {
       "id": "Z678.9-Z678.93",
       "size": 900,
-      "subject": "Automation"
+      "subject": "Automation",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science"
+      ]
     },
     {
       "id": "Z674.7-674.83",
       "size": 562,
-      "subject": "Library information networks"
+      "subject": "Library information networks",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science"
+      ]
     },
     {
       "id": "Z668-669.7",
       "size": 928,
-      "subject": "Library education.    Research"
+      "subject": "Library education.    Research",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science"
+      ]
     },
     {
       "id": "Z681-681.3",
       "size": 153,
-      "subject": "Reproduction of library materials.    Storage media of"
+      "subject": "Reproduction of library materials.    Storage media of",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science"
+      ]
     },
     {
       "id": "Z681.5-681.7",
       "size": 86,
-      "subject": "Trustees.    Library boards, committees, etc."
+      "subject": "Trustees.    Library boards, committees, etc.",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science"
+      ]
     },
     {
       "id": "Z680.3-680.6",
       "size": 66,
-      "subject": "Library communication systems"
+      "subject": "Library communication systems",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science"
+      ]
     },
     {
       "id": "Z684-685",
       "size": 84,
-      "subject": "Supplies.    Shelving.    Bookstacks"
+      "subject": "Supplies.    Shelving.    Bookstacks",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science"
+      ]
     },
     {
       "id": "Z686",
       "size": 55,
-      "subject": "Branches.    Delivery stations.    Bookmobiles"
+      "subject": "Branches.    Delivery stations.    Bookmobiles",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science"
+      ]
     },
     {
       "id": "Z678.89-678.892",
       "size": 15,
-      "subject": "Library service agencies"
+      "subject": "Library service agencies",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science"
+      ]
     },
     {
       "id": "Z716.2-718.85",
       "size": 1465,
-      "subject": "Libraries in relation to special topics"
+      "subject": "Libraries in relation to special topics",
+      "parents": [
+        "Z",
+        "Z662-1000.5",
+        "Z665-718.8",
+        "Z687-718.85"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries",
+        "[Z665-718.8] Library science.    Information science",
+        "[Z687-718.85] The collections.    The books"
+      ]
     },
     {
       "id": "Z662-664",
       "size": 348,
-      "subject": "Collections"
+      "subject": "Collections",
+      "parents": [
+        "Z",
+        "Z662-1000.5"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries"
+      ]
     },
     {
       "id": "Z997-997.2",
       "size": 1352,
-      "subject": "Private libraries"
+      "subject": "Private libraries",
+      "parents": [
+        "Z",
+        "Z662-1000.5"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries"
+      ]
     },
     {
       "id": "Z881-977",
       "size": 2923,
-      "subject": "Library catalogs and bulletins"
+      "subject": "Library catalogs and bulletins",
+      "parents": [
+        "Z",
+        "Z662-1000.5"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries"
+      ]
     },
     {
       "id": "Z999-1000.5",
       "size": 624,
-      "subject": "Booksellers' catalogs"
+      "subject": "Booksellers' catalogs",
+      "parents": [
+        "Z",
+        "Z662-1000.5"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[Z662-1000.5] Libraries"
+      ]
     },
     {
       "id": "Z8001-8999",
       "size": 11042,
-      "subject": "Personal bibliography"
+      "subject": "Personal bibliography",
+      "parents": [
+        "Z"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science"
+      ]
     },
     {
       "id": "Z5051-7999",
       "size": 61829,
-      "subject": "Subject bibliography"
+      "subject": "Subject bibliography",
+      "parents": [
+        "Z"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science"
+      ]
     },
     {
       "id": "ZA",
       "size": 0,
-      "subject": "Information resources (General)"
+      "subject": "Information resources (General)",
+      "parents": [
+        "Z"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science"
+      ]
     },
     {
       "id": "ZA3038-5190",
       "size": 281,
-      "subject": "Information resources (General)"
+      "subject": "Information resources (General)",
+      "parents": [
+        "Z",
+        "ZA"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[ZA] Information resources (General)"
+      ]
     },
     {
       "id": "ZA3150-3159",
       "size": 159,
-      "subject": "Information services. Information centers"
+      "subject": "Information services. Information centers",
+      "parents": [
+        "Z",
+        "ZA",
+        "ZA3038-5190"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[ZA] Information resources (General)",
+        "[ZA3038-5190] Information resources (General)"
+      ]
     },
     {
       "id": "ZA4050-4775",
       "size": 13,
-      "subject": "Information in specific formats or media"
+      "subject": "Information in specific formats or media",
+      "parents": [
+        "Z",
+        "ZA",
+        "ZA3038-5190"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[ZA] Information resources (General)",
+        "[ZA3038-5190] Information resources (General)"
+      ]
     },
     {
       "id": "ZA4050-4480",
       "size": 365,
-      "subject": "Electronic information resources"
+      "subject": "Electronic information resources",
+      "parents": [
+        "Z",
+        "ZA",
+        "ZA3038-5190",
+        "ZA4050-4775"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[ZA] Information resources (General)",
+        "[ZA3038-5190] Information resources (General)",
+        "[ZA4050-4775] Information in specific formats or media"
+      ]
     },
     {
       "id": "ZA4550-4575",
       "size": 12,
-      "subject": "Motion pictures. Video recordings"
+      "subject": "Motion pictures. Video recordings",
+      "parents": [
+        "Z",
+        "ZA",
+        "ZA3038-5190",
+        "ZA4050-4775"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[ZA] Information resources (General)",
+        "[ZA3038-5190] Information resources (General)",
+        "[ZA4050-4775] Information in specific formats or media"
+      ]
     },
     {
       "id": "ZA4650-4675",
       "size": 4,
-      "subject": "Pictures. Photographs"
+      "subject": "Pictures. Photographs",
+      "parents": [
+        "Z",
+        "ZA",
+        "ZA3038-5190",
+        "ZA4050-4775"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[ZA] Information resources (General)",
+        "[ZA3038-5190] Information resources (General)",
+        "[ZA4050-4775] Information in specific formats or media"
+      ]
     },
     {
       "id": "ZA4750-4775",
       "size": 12,
-      "subject": "Sound recordings"
+      "subject": "Sound recordings",
+      "parents": [
+        "Z",
+        "ZA",
+        "ZA3038-5190",
+        "ZA4050-4775"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[ZA] Information resources (General)",
+        "[ZA3038-5190] Information resources (General)",
+        "[ZA4050-4775] Information in specific formats or media"
+      ]
     },
     {
       "id": "ZA4150-4380",
       "size": 578,
-      "subject": "Computer network resources"
+      "subject": "Computer network resources",
+      "parents": [
+        "Z",
+        "ZA",
+        "ZA3038-5190",
+        "ZA4050-4775",
+        "ZA4050-4480"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[ZA] Information resources (General)",
+        "[ZA3038-5190] Information resources (General)",
+        "[ZA4050-4775] Information in specific formats or media",
+        "[ZA4050-4480] Electronic information resources"
+      ]
     },
     {
       "id": "ZA5049-5190",
       "size": 62,
-      "subject": "Government information"
+      "subject": "Government information",
+      "parents": [
+        "Z",
+        "ZA",
+        "ZA3038-5190"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[ZA] Information resources (General)",
+        "[ZA3038-5190] Information resources (General)"
+      ]
     },
     {
       "id": "ZA3201-3250",
       "size": 69,
-      "subject": "Information superhighway"
+      "subject": "Information superhighway",
+      "parents": [
+        "Z",
+        "ZA",
+        "ZA3038-5190"
+      ],
+      "parentsSubjects": [
+        "[Z] Bibliography, Library Science",
+        "[ZA] Information resources (General)",
+        "[ZA3038-5190] Information resources (General)"
+      ]
     }
   ],
   "links": [
@@ -624,6 +1606,10 @@
     },
     {
       "source": "Z40-104.5",
+      "target": "Z48"
+    },
+    {
+      "source": "Z",
       "target": "Z48"
     },
     {

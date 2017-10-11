@@ -3,1437 +3,4583 @@
     {
       "id": "L",
       "size": 0,
-      "subject": "Education"
+      "subject": "Education",
+      "parents": [
+        "L"
+      ],
+      "parentsSubjects": [
+        "[L] Education"
+      ]
     },
     {
       "id": "LB",
       "size": 0,
-      "subject": "Theory and practice of education"
+      "subject": "Theory and practice of education",
+      "parents": [
+        "L"
+      ],
+      "parentsSubjects": [
+        "[L] Education"
+      ]
     },
     {
       "id": "LB5-3640",
       "size": 336,
-      "subject": "Theory and practice of education"
+      "subject": "Theory and practice of education",
+      "parents": [
+        "L",
+        "LB"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education"
+      ]
     },
     {
       "id": "LB1141-1489",
       "size": 769,
-      "subject": "Kindergarten"
+      "subject": "Kindergarten",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB3401-3495",
       "size": 1275,
-      "subject": "School hygiene.    School health services"
+      "subject": "School hygiene.    School health services",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB3201-3325",
       "size": 1989,
-      "subject": "School architecture and equipment.    School physical"
+      "subject": "School architecture and equipment.    School physical",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB1705-2286",
       "size": 5362,
-      "subject": "Education and training of teachers and"
+      "subject": "Education and training of teachers and",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB1805-2151",
       "size": 5,
-      "subject": "State teachers colleges"
+      "subject": "State teachers colleges",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB1705-2286"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB1705-2286] Education and training of teachers and"
+      ]
     },
     {
       "id": "LB1811-1987",
       "size": 267,
-      "subject": "United States"
+      "subject": "United States",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB1705-2286",
+        "LB1805-2151"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB1705-2286] Education and training of teachers and",
+        "[LB1805-2151] State teachers colleges"
+      ]
     },
     {
       "id": "LB1991-2151",
       "size": 652,
-      "subject": "Other regions or countries"
+      "subject": "Other regions or countries",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB1705-2286",
+        "LB1805-2151"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB1705-2286] Education and training of teachers and",
+        "[LB1805-2151] State teachers colleges"
+      ]
     },
     {
       "id": "LB1775-1785",
       "size": 2140,
-      "subject": "Professional aspects of teaching and school"
+      "subject": "Professional aspects of teaching and school",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB1705-2286"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB1705-2286] Education and training of teachers and"
+      ]
     },
     {
       "id": "LB1771-1773",
       "size": 272,
-      "subject": "Certification of teachers"
+      "subject": "Certification of teachers",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB1705-2286"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB1705-2286] Education and training of teachers and"
+      ]
     },
     {
       "id": "LB2165-2278",
       "size": 335,
-      "subject": "Teacher training in universities and colleges"
+      "subject": "Teacher training in universities and colleges",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB1705-2286"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB1705-2286] Education and training of teachers and"
+      ]
     },
     {
       "id": "LB1555-1602",
       "size": 11530,
-      "subject": "Elementary or public school education"
+      "subject": "Elementary or public school education",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB51-885",
       "size": 5298,
-      "subject": "Systems of individual educators and writers"
+      "subject": "Systems of individual educators and writers",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB1603-1696.6",
       "size": 3517,
-      "subject": "Secondary education.    High schools"
+      "subject": "Secondary education.    High schools",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB2300-2430",
       "size": 9473,
-      "subject": "Higher education"
+      "subject": "Higher education",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB2341-2341.95",
       "size": 1655,
-      "subject": "Supervision and administration.    Business"
+      "subject": "Supervision and administration.    Business",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB2300-2430"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB2300-2430] Higher education"
+      ]
     },
     {
       "id": "LB2331.7-2335.8",
       "size": 977,
-      "subject": "Teaching personnel"
+      "subject": "Teaching personnel",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB2300-2430"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB2300-2430] Higher education"
+      ]
     },
     {
       "id": "LB2326.4-2330",
       "size": 1156,
-      "subject": "Institutions of higher education"
+      "subject": "Institutions of higher education",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB2300-2430"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB2300-2430] Higher education"
+      ]
     },
     {
       "id": "LB2361-2365",
       "size": 615,
-      "subject": "Curriculum"
+      "subject": "Curriculum",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB2300-2430"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB2300-2430] Higher education"
+      ]
     },
     {
       "id": "LB2371-2372",
       "size": 398,
-      "subject": "Graduate education"
+      "subject": "Graduate education",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB2300-2430"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB2300-2430] Higher education"
+      ]
     },
     {
       "id": "LB2351-2359",
       "size": 1649,
-      "subject": "Admissions and entrance requirements"
+      "subject": "Admissions and entrance requirements",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB2300-2430"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB2300-2430] Higher education"
+      ]
     },
     {
       "id": "LB2337.2-2340.8",
       "size": 1432,
-      "subject": "Student financial aid"
+      "subject": "Student financial aid",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB2300-2430"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB2300-2430] Higher education"
+      ]
     },
     {
       "id": "LB2366-2367.75",
       "size": 438,
-      "subject": "College examinations"
+      "subject": "College examinations",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB2300-2430"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB2300-2430] Higher education"
+      ]
     },
     {
       "id": "LB2335.86-2335.885",
       "size": 68,
-      "subject": "Trade unions"
+      "subject": "Trade unions",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB2300-2430"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB2300-2430] Higher education"
+      ]
     },
     {
       "id": "LB2381-2391",
       "size": 488,
-      "subject": "Academic degrees"
+      "subject": "Academic degrees",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB2300-2430"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB2300-2430] Higher education"
+      ]
     },
     {
       "id": "LB2335.95-2337",
       "size": 214,
-      "subject": "Endowments, trusts, etc."
+      "subject": "Endowments, trusts, etc.",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB2300-2430"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB2300-2430] Higher education"
+      ]
     },
     {
       "id": "LB1025-1050.75",
       "size": 19624,
-      "subject": "Teaching (Principles and practice)"
+      "subject": "Teaching (Principles and practice)",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB1049.9-1050.75",
       "size": 3023,
-      "subject": "Reading (General)"
+      "subject": "Reading (General)",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB1025-1050.75"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB1025-1050.75] Teaching (Principles and practice)"
+      ]
     },
     {
       "id": "LB1050.9-1091",
       "size": 5471,
-      "subject": "Educational psychology"
+      "subject": "Educational psychology",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB2801-3095",
       "size": 12407,
-      "subject": "School administration and organization"
+      "subject": "School administration and organization",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB3011-3095",
       "size": 3656,
-      "subject": "School management and discipline"
+      "subject": "School management and discipline",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB2801-3095"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB2801-3095] School administration and organization"
+      ]
     },
     {
       "id": "LB3050-3060.87",
       "size": 3076,
-      "subject": "Educational tests, measurements, evaluations"
+      "subject": "Educational tests, measurements, evaluations",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB2801-3095",
+        "LB3011-3095"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB2801-3095] School administration and organization",
+        "[LB3011-3095] School management and discipline"
+      ]
     },
     {
       "id": "LB3045-3048",
       "size": 665,
-      "subject": "Textbooks"
+      "subject": "Textbooks",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB2801-3095",
+        "LB3011-3095"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB2801-3095] School administration and organization",
+        "[LB3011-3095] School management and discipline"
+      ]
     },
     {
       "id": "LB2832-2844.1",
       "size": 3203,
-      "subject": "Teaching personnel"
+      "subject": "Teaching personnel",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB2801-3095"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB2801-3095] School administration and organization"
+      ]
     },
     {
       "id": "LB2831.6-2831.99",
       "size": 909,
-      "subject": "Administrative personnel"
+      "subject": "Administrative personnel",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB2801-3095"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB2801-3095] School administration and organization"
+      ]
     },
     {
       "id": "LB2844.52-2844.63",
       "size": 373,
-      "subject": "Trade unions"
+      "subject": "Trade unions",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640",
+        "LB2801-3095"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education",
+        "[LB2801-3095] School administration and organization"
+      ]
     },
     {
       "id": "LB5-45",
       "size": 4749,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB1139.2-1139.5",
       "size": 1631,
-      "subject": "Early childhood education"
+      "subject": "Early childhood education",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB1140-1140.5",
       "size": 2232,
-      "subject": "Preschool education.    Nursery schools"
+      "subject": "Preschool education.    Nursery schools",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB1501-1547",
       "size": 2180,
-      "subject": "Primary education"
+      "subject": "Primary education",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB1101-1139",
       "size": 3309,
-      "subject": "Child study"
+      "subject": "Child study",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB3602-3640",
       "size": 1240,
-      "subject": "School life.    Student manners and customs"
+      "subject": "School life.    Student manners and customs",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB3525-3575",
       "size": 46,
-      "subject": "Special days"
+      "subject": "Special days",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB3497-3499",
       "size": 44,
-      "subject": "Hygiene in universities and colleges"
+      "subject": "Hygiene in universities and colleges",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LB2799-2799.3",
       "size": 26,
-      "subject": "Educational consultants and consulting"
+      "subject": "Educational consultants and consulting",
+      "parents": [
+        "L",
+        "LB",
+        "LB5-3640"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LB] Theory and practice of education",
+        "[LB5-3640] Theory and practice of education"
+      ]
     },
     {
       "id": "LT",
       "size": 0,
-      "subject": "Textbooks"
+      "subject": "Textbooks",
+      "parents": [
+        "L"
+      ],
+      "parentsSubjects": [
+        "[L] Education"
+      ]
     },
     {
       "id": "LT6-1001",
       "size": 129,
-      "subject": "Textbooks"
+      "subject": "Textbooks",
+      "parents": [
+        "L",
+        "LT"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LT] Textbooks"
+      ]
     },
     {
       "id": "LA",
       "size": 0,
-      "subject": "History of education"
+      "subject": "History of education",
+      "parents": [
+        "L"
+      ],
+      "parentsSubjects": [
+        "[L] Education"
+      ]
     },
     {
       "id": "LA5-2396",
       "size": 18,
-      "subject": "History of education"
+      "subject": "History of education",
+      "parents": [
+        "L",
+        "LA"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LA] History of education"
+      ]
     },
     {
       "id": "LA201-398",
       "size": 6551,
-      "subject": "United States"
+      "subject": "United States",
+      "parents": [
+        "L",
+        "LA",
+        "LA5-2396"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LA] History of education",
+        "[LA5-2396] History of education"
+      ]
     },
     {
       "id": "LA2301-2396",
       "size": 3999,
-      "subject": "Biography"
+      "subject": "Biography",
+      "parents": [
+        "L",
+        "LA",
+        "LA5-2396"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LA] History of education",
+        "[LA5-2396] History of education"
+      ]
     },
     {
       "id": "LA5-25",
       "size": 694,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "L",
+        "LA",
+        "LA5-2396"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LA] History of education",
+        "[LA5-2396] History of education"
+      ]
     },
     {
       "id": "LA173-186",
       "size": 284,
-      "subject": "Higher education"
+      "subject": "Higher education",
+      "parents": [
+        "L",
+        "LA",
+        "LA5-2396"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LA] History of education",
+        "[LA5-2396] History of education"
+      ]
     },
     {
       "id": "LA410-2284",
       "size": 33128,
-      "subject": "Other regions or countries"
+      "subject": "Other regions or countries",
+      "parents": [
+        "L",
+        "LA",
+        "LA5-2396"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LA] History of education",
+        "[LA5-2396] History of education"
+      ]
     },
     {
       "id": "LA31-135",
       "size": 1003,
-      "subject": "By period"
+      "subject": "By period",
+      "parents": [
+        "L",
+        "LA",
+        "LA5-2396"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LA] History of education",
+        "[LA5-2396] History of education"
+      ]
     },
     {
       "id": "LD",
       "size": 0,
-      "subject": "United States"
+      "subject": "United States",
+      "parents": [
+        "L"
+      ],
+      "parentsSubjects": [
+        "[L] Education"
+      ]
     },
     {
       "id": "LD13-7501",
       "size": 1,
-      "subject": "United States"
+      "subject": "United States",
+      "parents": [
+        "L",
+        "LD"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LD] United States"
+      ]
     },
     {
       "id": "LD13-7251",
       "size": 7163,
-      "subject": "Universities.    Colleges"
+      "subject": "Universities.    Colleges",
+      "parents": [
+        "L",
+        "LD",
+        "LD13-7501"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LD] United States",
+        "[LD13-7501] United States"
+      ]
     },
     {
       "id": "LD7501",
       "size": 869,
-      "subject": "Secondary and elementary schools"
+      "subject": "Secondary and elementary schools",
+      "parents": [
+        "L",
+        "LD",
+        "LD13-7501"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LD] United States",
+        "[LD13-7501] United States"
+      ]
     },
     {
       "id": "LD6501",
       "size": 148,
-      "subject": "Community colleges.    Junior colleges"
+      "subject": "Community colleges.    Junior colleges",
+      "parents": [
+        "L",
+        "LD",
+        "LD13-7501"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LD] United States",
+        "[LD13-7501] United States"
+      ]
     },
     {
       "id": "LC",
       "size": 0,
-      "subject": "Special aspects of education"
+      "subject": "Special aspects of education",
+      "parents": [
+        "L"
+      ],
+      "parentsSubjects": [
+        "[L] Education"
+      ]
     },
     {
       "id": "LC8-6691",
       "size": 79,
-      "subject": "Special aspects of education"
+      "subject": "Special aspects of education",
+      "parents": [
+        "L",
+        "LC"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education"
+      ]
     },
     {
       "id": "LC1390-5160.3",
       "size": 107,
-      "subject": "Education of special classes of persons"
+      "subject": "Education of special classes of persons",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education"
+      ]
     },
     {
       "id": "LC2699-2913",
       "size": 1367,
-      "subject": "Blacks.    African Americans"
+      "subject": "Blacks.    African Americans",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons"
+      ]
     },
     {
       "id": "LC3950-4806.5",
       "size": 1507,
-      "subject": "Exceptional children and youth.    Special"
+      "subject": "Exceptional children and youth.    Special",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons"
+      ]
     },
     {
       "id": "LC4001-4806.5",
       "size": 7338,
-      "subject": "Children and youth with disabilities.    Learning"
+      "subject": "Children and youth with disabilities.    Learning",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3",
+        "LC3950-4806.5"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons",
+        "[LC3950-4806.5] Exceptional children and youth.    Special"
+      ]
     },
     {
       "id": "LC3991-4000",
       "size": 915,
-      "subject": "Gifted children and youth"
+      "subject": "Gifted children and youth",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3",
+        "LC3950-4806.5"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons",
+        "[LC3950-4806.5] Exceptional children and youth.    Special"
+      ]
     },
     {
       "id": "LC4812-5160.3",
       "size": 2448,
-      "subject": "Other special classes"
+      "subject": "Other special classes",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons"
+      ]
     },
     {
       "id": "LC2667-2698",
       "size": 184,
-      "subject": "Latin Americans.    Hispanic Americans"
+      "subject": "Latin Americans.    Hispanic Americans",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons"
+      ]
     },
     {
       "id": "LC2680-2688",
       "size": 117,
-      "subject": "Mexican Americans.    Mexicans in the United States"
+      "subject": "Mexican Americans.    Mexicans in the United States",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3",
+        "LC2667-2698"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons",
+        "[LC2667-2698] Latin Americans.    Hispanic Americans"
+      ]
     },
     {
       "id": "LC2690-2698",
       "size": 23,
-      "subject": "Puerto Ricans.    Puerto Ricans in the United"
+      "subject": "Puerto Ricans.    Puerto Ricans in the United",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3",
+        "LC2667-2698"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons",
+        "[LC2667-2698] Latin Americans.    Hispanic Americans"
+      ]
     },
     {
       "id": "LC1401-2572",
       "size": 2049,
-      "subject": "Women"
+      "subject": "Women",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons"
+      ]
     },
     {
       "id": "LC3701-3740",
       "size": 1786,
-      "subject": "Immigrants or ethnic and linguistic minorities."
+      "subject": "Immigrants or ethnic and linguistic minorities.",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons"
+      ]
     },
     {
       "id": "LC2601-2611",
       "size": 362,
-      "subject": "Education in developing countries"
+      "subject": "Education in developing countries",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons"
+      ]
     },
     {
       "id": "LC1390",
       "size": 41,
-      "subject": "Boys"
+      "subject": "Boys",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons"
+      ]
     },
     {
       "id": "LC2580-2582",
       "size": 11,
-      "subject": "Student-athletes"
+      "subject": "Student-athletes",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons"
+      ]
     },
     {
       "id": "LC3001-3501",
       "size": 573,
-      "subject": "Asians"
+      "subject": "Asians",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons"
+      ]
     },
     {
       "id": "LC3551-3593",
       "size": 74,
-      "subject": "Jews"
+      "subject": "Jews",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons"
+      ]
     },
     {
       "id": "LC3745-3747",
       "size": 301,
-      "subject": "Children of immigrants (First generation)"
+      "subject": "Children of immigrants (First generation)",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons"
+      ]
     },
     {
       "id": "LC3503-3520",
       "size": 73,
-      "subject": "Romanies.    Gypsies"
+      "subject": "Romanies.    Gypsies",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons"
+      ]
     },
     {
       "id": "LC2630-2638",
       "size": 38,
-      "subject": "Asian Americans.    Asians in the United States"
+      "subject": "Asian Americans.    Asians in the United States",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons"
+      ]
     },
     {
       "id": "LC3530-3540",
       "size": 10,
-      "subject": "Lapps"
+      "subject": "Lapps",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons"
+      ]
     },
     {
       "id": "LC2574-2576",
       "size": 13,
-      "subject": "Gays.    Lesbians.    Bisexuals"
+      "subject": "Gays.    Lesbians.    Bisexuals",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC1390-5160.3"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC1390-5160.3] Education of special classes of persons"
+      ]
     },
     {
       "id": "LC5201-6660.4",
       "size": 4463,
-      "subject": "Education extension.    Adult education.    Continuing"
+      "subject": "Education extension.    Adult education.    Continuing",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education"
+      ]
     },
     {
       "id": "LC6501-6560.4",
       "size": 212,
-      "subject": "Lyceums and lecture courses.    Forums"
+      "subject": "Lyceums and lecture courses.    Forums",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC5201-6660.4"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC5201-6660.4] Education extension.    Adult education.    Continuing"
+      ]
     },
     {
       "id": "LC5800-5808",
       "size": 708,
-      "subject": "Distance education"
+      "subject": "Distance education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC5201-6660.4"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC5201-6660.4] Education extension.    Adult education.    Continuing"
+      ]
     },
     {
       "id": "LC6571-6581",
       "size": 122,
-      "subject": "Radio and television extension courses."
+      "subject": "Radio and television extension courses.",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC5201-6660.4"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC5201-6660.4] Education extension.    Adult education.    Continuing"
+      ]
     },
     {
       "id": "LC6601-6660.4",
       "size": 68,
-      "subject": "Reading circles and correspondence clubs"
+      "subject": "Reading circles and correspondence clubs",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC5201-6660.4"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC5201-6660.4] Education extension.    Adult education.    Continuing"
+      ]
     },
     {
       "id": "LC6201-6401",
       "size": 479,
-      "subject": "University extension"
+      "subject": "University extension",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC5201-6660.4"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC5201-6660.4] Education extension.    Adult education.    Continuing"
+      ]
     },
     {
       "id": "LC5451-5493",
       "size": 83,
-      "subject": "Aged education"
+      "subject": "Aged education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC5201-6660.4"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC5201-6660.4] Education extension.    Adult education.    Continuing"
+      ]
     },
     {
       "id": "LC5701-5771",
       "size": 91,
-      "subject": "Vacation schools.    Summer schools"
+      "subject": "Vacation schools.    Summer schools",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC5201-6660.4"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC5201-6660.4] Education extension.    Adult education.    Continuing"
+      ]
     },
     {
       "id": "LC5900-6101",
       "size": 165,
-      "subject": "Correspondence schools"
+      "subject": "Correspondence schools",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC5201-6660.4"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC5201-6660.4] Education extension.    Adult education.    Continuing"
+      ]
     },
     {
       "id": "LC5501-5560",
       "size": 91,
-      "subject": "Evening schools"
+      "subject": "Evening schools",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC5201-6660.4"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC5201-6660.4] Education extension.    Adult education.    Continuing"
+      ]
     },
     {
       "id": "LC980-1099.5",
       "size": 166,
-      "subject": "Types of education"
+      "subject": "Types of education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education"
+      ]
     },
     {
       "id": "LC1037-1037.8",
       "size": 400,
-      "subject": "Career education"
+      "subject": "Career education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC980-1099.5"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC980-1099.5] Types of education"
+      ]
     },
     {
       "id": "LC1031-1034.5",
       "size": 169,
-      "subject": "Competency based education"
+      "subject": "Competency based education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC980-1099.5"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC980-1099.5] Types of education"
+      ]
     },
     {
       "id": "LC1099-1099.5",
       "size": 1227,
-      "subject": "Multicultural education (General)"
+      "subject": "Multicultural education (General)",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC980-1099.5"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC980-1099.5] Types of education"
+      ]
     },
     {
       "id": "LC1090-1091",
       "size": 704,
-      "subject": "Political education"
+      "subject": "Political education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC980-1099.5"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC980-1099.5] Types of education"
+      ]
     },
     {
       "id": "LC1051-1072",
       "size": 472,
-      "subject": "Professional education"
+      "subject": "Professional education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC980-1099.5"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC980-1099.5] Types of education"
+      ]
     },
     {
       "id": "LC1041-1048",
       "size": 3561,
-      "subject": "Vocational education (General)"
+      "subject": "Vocational education (General)",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC980-1099.5"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC980-1099.5] Types of education"
+      ]
     },
     {
       "id": "LC1001-1024",
       "size": 694,
-      "subject": "Humanistic education.    Liberal education"
+      "subject": "Humanistic education.    Liberal education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC980-1099.5"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC980-1099.5] Types of education"
+      ]
     },
     {
       "id": "LC1022-1022.25",
       "size": 4,
-      "subject": "Computer-assisted education"
+      "subject": "Computer-assisted education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC980-1099.5",
+        "LC1001-1024"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC980-1099.5] Types of education",
+        "[LC1001-1024] Humanistic education.    Liberal education"
+      ]
     },
     {
       "id": "LC1049-1049.8",
       "size": 78,
-      "subject": "Cooperative education"
+      "subject": "Cooperative education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC980-1099.5"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC980-1099.5] Types of education"
+      ]
     },
     {
       "id": "LC1081-1087.4",
       "size": 487,
-      "subject": "Industrial education (General)"
+      "subject": "Industrial education (General)",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC980-1099.5"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC980-1099.5] Types of education"
+      ]
     },
     {
       "id": "LC1035-1035.8",
       "size": 265,
-      "subject": "Basic education.    Basic skills education"
+      "subject": "Basic education.    Basic skills education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC980-1099.5"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC980-1099.5] Types of education"
+      ]
     },
     {
       "id": "LC1036-1036.8",
       "size": 81,
-      "subject": "Community education"
+      "subject": "Community education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC980-1099.5"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC980-1099.5] Types of education"
+      ]
     },
     {
       "id": "LC1030",
       "size": 107,
-      "subject": "Communist education"
+      "subject": "Communist education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC980-1099.5"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC980-1099.5] Types of education"
+      ]
     },
     {
       "id": "LC1025-1027",
       "size": 40,
-      "subject": "Collective education"
+      "subject": "Collective education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC980-1099.5"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC980-1099.5] Types of education"
+      ]
     },
     {
       "id": "LC1200-1203",
       "size": 363,
-      "subject": "Inclusive education"
+      "subject": "Inclusive education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education"
+      ]
     },
     {
       "id": "LC65-245",
       "size": 11,
-      "subject": "Social aspects of education"
+      "subject": "Social aspects of education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education"
+      ]
     },
     {
       "id": "LC215-238.4",
       "size": 654,
-      "subject": "Community and the school"
+      "subject": "Community and the school",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education"
+      ]
     },
     {
       "id": "LC225-226.7",
       "size": 696,
-      "subject": "Home and school"
+      "subject": "Home and school",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245",
+        "LC215-238.4"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education",
+        "[LC215-238.4] Community and the school"
+      ]
     },
     {
       "id": "LC237-238.4",
       "size": 180,
-      "subject": "College-university and the community"
+      "subject": "College-university and the community",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245",
+        "LC215-238.4"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education",
+        "[LC215-238.4] Community and the school"
+      ]
     },
     {
       "id": "LC230-235",
       "size": 114,
-      "subject": "Parent-teacher associations.    Home and"
+      "subject": "Parent-teacher associations.    Home and",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245",
+        "LC215-238.4"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education",
+        "[LC215-238.4] Community and the school"
+      ]
     },
     {
       "id": "LC223",
       "size": 9,
-      "subject": "Schools as community centers"
+      "subject": "Schools as community centers",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245",
+        "LC215-238.4"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education",
+        "[LC215-238.4] Community and the school"
+      ]
     },
     {
       "id": "LC165-182",
       "size": 707,
-      "subject": "Higher education and the state"
+      "subject": "Higher education and the state",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education"
+      ]
     },
     {
       "id": "LC189-214.53",
       "size": 4180,
-      "subject": "Educational sociology"
+      "subject": "Educational sociology",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education"
+      ]
     },
     {
       "id": "LC212-212.863",
       "size": 679,
-      "subject": "Discrimination in education"
+      "subject": "Discrimination in education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245",
+        "LC189-214.53"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education",
+        "[LC189-214.53] Educational sociology"
+      ]
     },
     {
       "id": "LC213-214.53",
       "size": 960,
-      "subject": "Educational equalization.    Right to education"
+      "subject": "Educational equalization.    Right to education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245",
+        "LC189-214.53"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education",
+        "[LC189-214.53] Educational sociology"
+      ]
     },
     {
       "id": "LC212.9-212.93",
       "size": 156,
-      "subject": "Sex differences in education"
+      "subject": "Sex differences in education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245",
+        "LC189-214.53"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education",
+        "[LC189-214.53] Educational sociology"
+      ]
     },
     {
       "id": "LC71-120.4",
       "size": 3600,
-      "subject": "Education and the state"
+      "subject": "Education and the state",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education"
+      ]
     },
     {
       "id": "LC107-120.4",
       "size": 366,
-      "subject": "Public school question.    Secularization."
+      "subject": "Public school question.    Secularization.",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245",
+        "LC71-120.4"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education",
+        "[LC71-120.4] Education and the state"
+      ]
     },
     {
       "id": "LC72-72.5",
       "size": 163,
-      "subject": "Academic freedom"
+      "subject": "Academic freedom",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245",
+        "LC71-120.4"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education",
+        "[LC71-120.4] Education and the state"
+      ]
     },
     {
       "id": "LC142-148.5",
       "size": 1427,
-      "subject": "Attendance.    Dropouts"
+      "subject": "Attendance.    Dropouts",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education"
+      ]
     },
     {
       "id": "LC241-245",
       "size": 119,
-      "subject": "Foundations, endowments, funds"
+      "subject": "Foundations, endowments, funds",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education"
+      ]
     },
     {
       "id": "LC149-161",
       "size": 1707,
-      "subject": "Literacy.    Illiteracy"
+      "subject": "Literacy.    Illiteracy",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education"
+      ]
     },
     {
       "id": "LC65-67.68",
       "size": 1123,
-      "subject": "Economic aspects of education"
+      "subject": "Economic aspects of education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education"
+      ]
     },
     {
       "id": "LC129-139",
       "size": 434,
-      "subject": "Compulsory education"
+      "subject": "Compulsory education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education"
+      ]
     },
     {
       "id": "LC68-70",
       "size": 83,
-      "subject": "Demographic aspects of education"
+      "subject": "Demographic aspects of education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education"
+      ]
     },
     {
       "id": "LC184-188",
       "size": 6,
-      "subject": "Taxation of schools and colleges"
+      "subject": "Taxation of schools and colleges",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC65-245"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC65-245] Social aspects of education"
+      ]
     },
     {
       "id": "LC251-951",
       "size": 0,
-      "subject": "Moral and religious education"
+      "subject": "Moral and religious education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education"
+      ]
     },
     {
       "id": "LC251-318",
       "size": 1481,
-      "subject": "Moral education.    Character building"
+      "subject": "Moral education.    Character building",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC251-951"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC251-951] Moral and religious education"
+      ]
     },
     {
       "id": "LC321-951",
       "size": 34,
-      "subject": "Religion and education.    Education under"
+      "subject": "Religion and education.    Education under",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC251-951"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC251-951] Moral and religious education"
+      ]
     },
     {
       "id": "LC361-629",
       "size": 491,
-      "subject": "Christian education.    Church education"
+      "subject": "Christian education.    Church education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC251-951",
+        "LC321-951"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC251-951] Moral and religious education",
+        "[LC321-951] Religion and education.    Education under"
+      ]
     },
     {
       "id": "LC531-629",
       "size": 295,
-      "subject": "Protestant"
+      "subject": "Protestant",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC251-951",
+        "LC321-951",
+        "LC361-629"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC251-951] Moral and religious education",
+        "[LC321-951] Religion and education.    Education under",
+        "[LC361-629] Christian education.    Church education"
+      ]
     },
     {
       "id": "LC461-510",
       "size": 1082,
-      "subject": "Roman Catholic"
+      "subject": "Roman Catholic",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC251-951",
+        "LC321-951",
+        "LC361-629"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC251-951] Moral and religious education",
+        "[LC321-951] Religion and education.    Education under",
+        "[LC361-629] Christian education.    Church education"
+      ]
     },
     {
       "id": "LC446-454",
       "size": 20,
-      "subject": "Orthodox Eastern Church"
+      "subject": "Orthodox Eastern Church",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC251-951",
+        "LC321-951",
+        "LC361-629"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC251-951] Moral and religious education",
+        "[LC321-951] Religion and education.    Education under",
+        "[LC361-629] Christian education.    Church education"
+      ]
     },
     {
       "id": "LC901-915",
       "size": 676,
-      "subject": "Islamic education"
+      "subject": "Islamic education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC251-951",
+        "LC321-951"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC251-951] Moral and religious education",
+        "[LC321-951] Religion and education.    Education under"
+      ]
     },
     {
       "id": "LC701-775",
       "size": 350,
-      "subject": "Jewish education"
+      "subject": "Jewish education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC251-951",
+        "LC321-951"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC251-951] Moral and religious education",
+        "[LC321-951] Religion and education.    Education under"
+      ]
     },
     {
       "id": "LC921-929.7",
       "size": 7,
-      "subject": "Buddhist education"
+      "subject": "Buddhist education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC251-951",
+        "LC321-951"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC251-951] Moral and religious education",
+        "[LC321-951] Religion and education.    Education under"
+      ]
     },
     {
       "id": "LC951",
       "size": 1,
-      "subject": "Other"
+      "subject": "Other",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC251-951",
+        "LC321-951"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC251-951] Moral and religious education",
+        "[LC321-951] Religion and education.    Education under"
+      ]
     },
     {
       "id": "LC8-59",
       "size": 1286,
-      "subject": "Forms of education"
+      "subject": "Forms of education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education"
+      ]
     },
     {
       "id": "LC47-58.7",
       "size": 0,
-      "subject": "Private school education"
+      "subject": "Private school education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education"
+      ]
     },
     {
       "id": "LC58-58.7",
       "size": 29,
-      "subject": "Preparatory schools.    Preparatory school"
+      "subject": "Preparatory schools.    Preparatory school",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691",
+        "LC47-58.7"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education",
+        "[LC47-58.7] Private school education"
+      ]
     },
     {
       "id": "LC25-33",
       "size": 172,
-      "subject": "Self-education.    Self-culture"
+      "subject": "Self-education.    Self-culture",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education"
+      ]
     },
     {
       "id": "LC45-45.8",
       "size": 280,
-      "subject": "Nonformal education"
+      "subject": "Nonformal education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education"
+      ]
     },
     {
       "id": "LC5161-5163",
       "size": 169,
-      "subject": "Fundamental education"
+      "subject": "Fundamental education",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education"
+      ]
     },
     {
       "id": "LC6691",
       "size": 1,
-      "subject": "Traveling educational exhibits"
+      "subject": "Traveling educational exhibits",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education"
+      ]
     },
     {
       "id": "LC6681",
       "size": 31,
-      "subject": "Education and travel"
+      "subject": "Education and travel",
+      "parents": [
+        "L",
+        "LC",
+        "LC8-6691"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LC] Special aspects of education",
+        "[LC8-6691] Special aspects of education"
+      ]
     },
     {
       "id": "L7-991",
       "size": 157,
-      "subject": "Education (General)"
+      "subject": "Education (General)",
+      "parents": [
+        "L"
+      ],
+      "parentsSubjects": [
+        "[L] Education"
+      ]
     },
     {
       "id": "L900-991",
       "size": 2517,
-      "subject": "Directories of educational institutions"
+      "subject": "Directories of educational institutions",
+      "parents": [
+        "L",
+        "L7-991"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[L7-991] Education (General)"
+      ]
     },
     {
       "id": "L111-791",
       "size": 5137,
-      "subject": "Official documents, reports, etc."
+      "subject": "Official documents, reports, etc.",
+      "parents": [
+        "L",
+        "L7-991"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[L7-991] Education (General)"
+      ]
     },
     {
       "id": "L107",
       "size": 140,
-      "subject": "Congresses"
+      "subject": "Congresses",
+      "parents": [
+        "L",
+        "L7-991"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[L7-991] Education (General)"
+      ]
     },
     {
       "id": "L7-97",
       "size": 3112,
-      "subject": "Periodicals.    Societies"
+      "subject": "Periodicals.    Societies",
+      "parents": [
+        "L",
+        "L7-991"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[L7-991] Education (General)"
+      ]
     },
     {
       "id": "L797-898",
       "size": 39,
-      "subject": "Educational exhibitions and museums"
+      "subject": "Educational exhibitions and museums",
+      "parents": [
+        "L",
+        "L7-991"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[L7-991] Education (General)"
+      ]
     },
     {
       "id": "L101",
       "size": 70,
-      "subject": "Yearbooks"
+      "subject": "Yearbooks",
+      "parents": [
+        "L",
+        "L7-991"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[L7-991] Education (General)"
+      ]
     },
     {
       "id": "L899",
       "size": 2,
-      "subject": "School fairs"
+      "subject": "School fairs",
+      "parents": [
+        "L",
+        "L7-991"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[L7-991] Education (General)"
+      ]
     },
     {
       "id": "LF",
       "size": 0,
-      "subject": "Individual institutions"
+      "subject": "Individual institutions",
+      "parents": [
+        "L"
+      ],
+      "parentsSubjects": [
+        "[L] Education"
+      ]
     },
     {
       "id": "LF14-5627",
       "size": 1,
-      "subject": "Individual institutions"
+      "subject": "Individual institutions",
+      "parents": [
+        "L",
+        "LF"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions"
+      ]
     },
     {
       "id": "LF14-1257",
       "size": 1533,
-      "subject": "Great Britain"
+      "subject": "Great Britain",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF2402-3197",
       "size": 1291,
-      "subject": "Germany"
+      "subject": "Germany",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF4440-4441",
       "size": 57,
-      "subject": "Estonia"
+      "subject": "Estonia",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF1541-1549",
       "size": 31,
-      "subject": "Czech Republic"
+      "subject": "Czech Republic",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF5051-5627",
       "size": 374,
-      "subject": "Turkey and the Baltic states"
+      "subject": "Turkey and the Baltic states",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF4610-4827",
       "size": 382,
-      "subject": "Spain"
+      "subject": "Spain",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF1311-1537",
       "size": 226,
-      "subject": "Austria"
+      "subject": "Austria",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF1711-2397",
       "size": 280,
-      "subject": "France"
+      "subject": "France",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF3211-3247",
       "size": 39,
-      "subject": "Greece"
+      "subject": "Greece",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF4211-4437",
       "size": 525,
-      "subject": "Russia (Federation)"
+      "subject": "Russia (Federation)",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF4493-4537",
       "size": 71,
-      "subject": "Norway"
+      "subject": "Norway",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF4901-5047",
       "size": 123,
-      "subject": "Switzerland"
+      "subject": "Switzerland",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF4539-4607",
       "size": 140,
-      "subject": "Sweden"
+      "subject": "Sweden",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF3248-3897",
       "size": 379,
-      "subject": "Italy"
+      "subject": "Italy",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF1705-1709",
       "size": 98,
-      "subject": "Finland"
+      "subject": "Finland",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF4203-4209",
       "size": 292,
-      "subject": "Poland"
+      "subject": "Poland",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF4449.2-4449.5",
       "size": 87,
-      "subject": "Ukraine"
+      "subject": "Ukraine",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF1561-1697",
       "size": 105,
-      "subject": "Hungary"
+      "subject": "Hungary",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF4489-4491",
       "size": 18,
-      "subject": "Iceland"
+      "subject": "Iceland",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF3911-4067",
       "size": 112,
-      "subject": "Belgium"
+      "subject": "Belgium",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF4071-4197",
       "size": 145,
-      "subject": "Netherlands"
+      "subject": "Netherlands",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF4451-4487",
       "size": 92,
-      "subject": "Denmark"
+      "subject": "Denmark",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF4831-4887",
       "size": 103,
-      "subject": "Portugal"
+      "subject": "Portugal",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF4445-4446",
       "size": 66,
-      "subject": "Lithuania"
+      "subject": "Lithuania",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF4443-4444",
       "size": 32,
-      "subject": "Latvia"
+      "subject": "Latvia",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF4447.2-4447.5",
       "size": 16,
-      "subject": "Belarus"
+      "subject": "Belarus",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF4488-4488.2",
       "size": 2,
-      "subject": "Faroe Islands"
+      "subject": "Faroe Islands",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF1550-1550.8",
       "size": 7,
-      "subject": "Slovakia"
+      "subject": "Slovakia",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF4448-4448.5",
       "size": 12,
-      "subject": "Moldova"
+      "subject": "Moldova",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LF3899",
       "size": 4,
-      "subject": "Malta"
+      "subject": "Malta",
+      "parents": [
+        "L",
+        "LF",
+        "LF14-5627"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LF] Individual institutions",
+        "[LF14-5627] Individual institutions"
+      ]
     },
     {
       "id": "LG",
       "size": 0,
-      "subject": "Individual institutions"
+      "subject": "Individual institutions",
+      "parents": [
+        "L"
+      ],
+      "parentsSubjects": [
+        "[L] Education"
+      ]
     },
     {
       "id": "LG21-961",
       "size": 24,
-      "subject": "Individual institutions"
+      "subject": "Individual institutions",
+      "parents": [
+        "L",
+        "LG"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions"
+      ]
     },
     {
       "id": "LG55-57",
       "size": 70,
-      "subject": "Taiwan"
+      "subject": "Taiwan",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG240-277",
       "size": 662,
-      "subject": "Japan"
+      "subject": "Japan",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG200-227",
       "size": 126,
-      "subject": "Philippines"
+      "subject": "Philippines",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG181-184",
       "size": 225,
-      "subject": "Indonesia"
+      "subject": "Indonesia",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG60-170.2",
       "size": 504,
-      "subject": "India.    Pakistan.    Bangladesh.    Burma.    Sri"
+      "subject": "India.    Pakistan.    Bangladesh.    Burma.    Sri",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG401-681",
       "size": 69,
-      "subject": "Africa"
+      "subject": "Africa",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG581-593",
       "size": 36,
-      "subject": "German Africa (Former)"
+      "subject": "German Africa (Former)",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG405-411",
       "size": 69,
-      "subject": "South Africa"
+      "subject": "South Africa",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG431-438",
       "size": 18,
-      "subject": "Natal"
+      "subject": "Natal",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG481-505",
       "size": 25,
-      "subject": "West Africa"
+      "subject": "West Africa",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG481-483",
       "size": 209,
-      "subject": "Nigeria"
+      "subject": "Nigeria",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681",
+        "LG481-505"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa",
+        "[LG481-505] West Africa"
+      ]
     },
     {
       "id": "LG497-499",
       "size": 22,
-      "subject": "Ghana"
+      "subject": "Ghana",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681",
+        "LG481-505"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa",
+        "[LG481-505] West Africa"
+      ]
     },
     {
       "id": "LG641-651",
       "size": 12,
-      "subject": "Portuguese Africa (Former)"
+      "subject": "Portuguese Africa (Former)",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG615",
       "size": 31,
-      "subject": "Zaire"
+      "subject": "Zaire",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG513-514",
       "size": 15,
-      "subject": "Sudan"
+      "subject": "Sudan",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG621",
       "size": 19,
-      "subject": "Liberia"
+      "subject": "Liberia",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG471-475",
       "size": 44,
-      "subject": "Transvaal"
+      "subject": "Transvaal",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG521",
       "size": 6,
-      "subject": "Algeria and Tunisia"
+      "subject": "Algeria and Tunisia",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG511",
       "size": 68,
-      "subject": "Egypt"
+      "subject": "Egypt",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG421-423",
       "size": 47,
-      "subject": "Uganda"
+      "subject": "Uganda",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG418",
       "size": 58,
-      "subject": "Kenya"
+      "subject": "Kenya",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG468",
       "size": 31,
-      "subject": "Tanzania"
+      "subject": "Tanzania",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG469",
       "size": 34,
-      "subject": "Zambia"
+      "subject": "Zambia",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG401",
       "size": 23,
-      "subject": "Ethiopia"
+      "subject": "Ethiopia",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG451",
       "size": 2,
-      "subject": "Orange Free State"
+      "subject": "Orange Free State",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG631-632",
       "size": 10,
-      "subject": "Morocco"
+      "subject": "Morocco",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG561",
       "size": 2,
-      "subject": "Mali"
+      "subject": "Mali",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG441-443",
       "size": 9,
-      "subject": "Malawi"
+      "subject": "Malawi",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG461-462",
       "size": 24,
-      "subject": "Zimbabwe"
+      "subject": "Zimbabwe",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG681",
       "size": 4,
-      "subject": "Libya"
+      "subject": "Libya",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG559-560",
       "size": 6,
-      "subject": "Ivory Coast"
+      "subject": "Ivory Coast",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG478",
       "size": 3,
-      "subject": "Zululand"
+      "subject": "Zululand",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG525",
       "size": 9,
-      "subject": "Burundi"
+      "subject": "Burundi",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG454",
       "size": 10,
-      "subject": "Swaziland"
+      "subject": "Swaziland",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG551-552",
       "size": 11,
-      "subject": "Senegal"
+      "subject": "Senegal",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG545-547",
       "size": 11,
-      "subject": "Rwanda"
+      "subject": "Rwanda",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG601-611",
       "size": 3,
-      "subject": "Italian Africa (Former)"
+      "subject": "Italian Africa (Former)",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG541-543",
       "size": 4,
-      "subject": "Madagascar"
+      "subject": "Madagascar",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG416",
       "size": 16,
-      "subject": "Botswana"
+      "subject": "Botswana",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG531-536",
       "size": 7,
-      "subject": "French Equatorial Africa.    French Congo"
+      "subject": "French Equatorial Africa.    French Congo",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG419",
       "size": 18,
-      "subject": "Lesotho"
+      "subject": "Lesotho",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG459",
       "size": 2,
-      "subject": "Venda"
+      "subject": "Venda",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG457",
       "size": 1,
-      "subject": "Transkei"
+      "subject": "Transkei",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG671",
       "size": 1,
-      "subject": "Spanish Africa"
+      "subject": "Spanish Africa",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG553-554",
       "size": 1,
-      "subject": "Benin"
+      "subject": "Benin",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961",
+        "LG401-681"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions",
+        "[LG401-681] Africa"
+      ]
     },
     {
       "id": "LG51-53",
       "size": 767,
-      "subject": "China"
+      "subject": "China",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG302.2-320",
       "size": 47,
-      "subject": "Former Soviet republics in Asia"
+      "subject": "Former Soviet republics in Asia",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG715-720",
       "size": 194,
-      "subject": "Australia"
+      "subject": "Australia",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG961",
       "size": 78,
-      "subject": "Pacific islands"
+      "subject": "Pacific islands",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG331-331.5",
       "size": 29,
-      "subject": "Armenia (Republic)"
+      "subject": "Armenia (Republic)",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG741-745",
       "size": 139,
-      "subject": "New Zealand"
+      "subject": "New Zealand",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG173",
       "size": 58,
-      "subject": "Malaysia"
+      "subject": "Malaysia",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG361-367",
       "size": 10,
-      "subject": "Syria"
+      "subject": "Syria",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG351-357",
       "size": 44,
-      "subject": "Lebanon"
+      "subject": "Lebanon",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG341-345",
       "size": 192,
-      "subject": "Israel.    Palestine"
+      "subject": "Israel.    Palestine",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG171-172",
       "size": 38,
-      "subject": "Indochina"
+      "subject": "Indochina",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG281-285",
       "size": 291,
-      "subject": "Korea"
+      "subject": "Korea",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG291",
       "size": 10,
-      "subject": "Iran"
+      "subject": "Iran",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG395",
       "size": 146,
-      "subject": "Other"
+      "subject": "Other",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG185-187",
       "size": 8,
-      "subject": "Papua-New Guinea (Ter.)"
+      "subject": "Papua-New Guinea (Ter.)",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG338",
       "size": 12,
-      "subject": "Iraq"
+      "subject": "Iraq",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG21-395",
       "size": 51,
-      "subject": "Asia"
+      "subject": "Asia",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG690",
       "size": 16,
-      "subject": "Indian Ocean islands"
+      "subject": "Indian Ocean islands",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG21",
       "size": 1,
-      "subject": "Afghanistan"
+      "subject": "Afghanistan",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG347",
       "size": 8,
-      "subject": "Kuwait"
+      "subject": "Kuwait",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG346",
       "size": 17,
-      "subject": "Jordan"
+      "subject": "Jordan",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG332.2-332.5",
       "size": 10,
-      "subject": "Azerbaijan"
+      "subject": "Azerbaijan",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG370",
       "size": 13,
-      "subject": "Yeman (Yemen Arab Republic)"
+      "subject": "Yeman (Yemen Arab Republic)",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG358",
       "size": 12,
-      "subject": "Qatar"
+      "subject": "Qatar",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG332.7-332.9",
       "size": 14,
-      "subject": "Georgia (Republic)"
+      "subject": "Georgia (Republic)",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG359",
       "size": 13,
-      "subject": "Saudi Arabia"
+      "subject": "Saudi Arabia",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LG333",
       "size": 4,
-      "subject": "Bahrain"
+      "subject": "Bahrain",
+      "parents": [
+        "L",
+        "LG",
+        "LG21-961"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LG] Individual institutions",
+        "[LG21-961] Individual institutions"
+      ]
     },
     {
       "id": "LJ",
       "size": 0,
-      "subject": "Student fraternities and societies, United States"
+      "subject": "Student fraternities and societies, United States",
+      "parents": [
+        "L"
+      ],
+      "parentsSubjects": [
+        "[L] Education"
+      ]
     },
     {
       "id": "LJ3-165",
       "size": 515,
-      "subject": "Student fraternities and societies, United States"
+      "subject": "Student fraternities and societies, United States",
+      "parents": [
+        "L",
+        "LJ"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LJ] Student fraternities and societies, United States"
+      ]
     },
     {
       "id": "LE",
       "size": 0,
-      "subject": "America (except United States)"
+      "subject": "America (except United States)",
+      "parents": [
+        "L"
+      ],
+      "parentsSubjects": [
+        "[L] Education"
+      ]
     },
     {
       "id": "LE3-78",
       "size": 0,
-      "subject": "America (except United States)"
+      "subject": "America (except United States)",
+      "parents": [
+        "L",
+        "LE"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LE] America (except United States)"
+      ]
     },
     {
       "id": "LE15-17",
       "size": 162,
-      "subject": "West Indies"
+      "subject": "West Indies",
+      "parents": [
+        "L",
+        "LE",
+        "LE3-78"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LE] America (except United States)",
+        "[LE3-78] America (except United States)"
+      ]
     },
     {
       "id": "LE21-78",
       "size": 0,
-      "subject": "South America"
+      "subject": "South America",
+      "parents": [
+        "L",
+        "LE",
+        "LE3-78"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LE] America (except United States)",
+        "[LE3-78] America (except United States)"
+      ]
     },
     {
       "id": "LE66-68",
       "size": 95,
-      "subject": "Peru"
+      "subject": "Peru",
+      "parents": [
+        "L",
+        "LE",
+        "LE3-78",
+        "LE21-78"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LE] America (except United States)",
+        "[LE3-78] America (except United States)",
+        "[LE21-78] South America"
+      ]
     },
     {
       "id": "LE36-38",
       "size": 85,
-      "subject": "Chile"
+      "subject": "Chile",
+      "parents": [
+        "L",
+        "LE",
+        "LE3-78",
+        "LE21-78"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LE] America (except United States)",
+        "[LE3-78] America (except United States)",
+        "[LE21-78] South America"
+      ]
     },
     {
       "id": "LE31-33",
       "size": 580,
-      "subject": "Brazil"
+      "subject": "Brazil",
+      "parents": [
+        "L",
+        "LE",
+        "LE3-78",
+        "LE21-78"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LE] America (except United States)",
+        "[LE3-78] America (except United States)",
+        "[LE21-78] South America"
+      ]
     },
     {
       "id": "LE21-23",
       "size": 219,
-      "subject": "Argentina"
+      "subject": "Argentina",
+      "parents": [
+        "L",
+        "LE",
+        "LE3-78",
+        "LE21-78"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LE] America (except United States)",
+        "[LE3-78] America (except United States)",
+        "[LE21-78] South America"
+      ]
     },
     {
       "id": "LE76-78",
       "size": 115,
-      "subject": "Venezuela"
+      "subject": "Venezuela",
+      "parents": [
+        "L",
+        "LE",
+        "LE3-78",
+        "LE21-78"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LE] America (except United States)",
+        "[LE3-78] America (except United States)",
+        "[LE21-78] South America"
+      ]
     },
     {
       "id": "LE27-29",
       "size": 55,
-      "subject": "Bolivia"
+      "subject": "Bolivia",
+      "parents": [
+        "L",
+        "LE",
+        "LE3-78",
+        "LE21-78"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LE] America (except United States)",
+        "[LE3-78] America (except United States)",
+        "[LE21-78] South America"
+      ]
     },
     {
       "id": "LE41-43",
       "size": 146,
-      "subject": "Colombia"
+      "subject": "Colombia",
+      "parents": [
+        "L",
+        "LE",
+        "LE3-78",
+        "LE21-78"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LE] America (except United States)",
+        "[LE3-78] America (except United States)",
+        "[LE21-78] South America"
+      ]
     },
     {
       "id": "LE46-48",
       "size": 38,
-      "subject": "Ecuador"
+      "subject": "Ecuador",
+      "parents": [
+        "L",
+        "LE",
+        "LE3-78",
+        "LE21-78"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LE] America (except United States)",
+        "[LE3-78] America (except United States)",
+        "[LE21-78] South America"
+      ]
     },
     {
       "id": "LE71-73",
       "size": 31,
-      "subject": "Uruguay"
+      "subject": "Uruguay",
+      "parents": [
+        "L",
+        "LE",
+        "LE3-78",
+        "LE21-78"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LE] America (except United States)",
+        "[LE3-78] America (except United States)",
+        "[LE21-78] South America"
+      ]
     },
     {
       "id": "LE61-63",
       "size": 16,
-      "subject": "Paraguay"
+      "subject": "Paraguay",
+      "parents": [
+        "L",
+        "LE",
+        "LE3-78",
+        "LE21-78"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LE] America (except United States)",
+        "[LE3-78] America (except United States)",
+        "[LE21-78] South America"
+      ]
     },
     {
       "id": "LE51-59",
       "size": 13,
-      "subject": "Guianas"
+      "subject": "Guianas",
+      "parents": [
+        "L",
+        "LE",
+        "LE3-78",
+        "LE21-78"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LE] America (except United States)",
+        "[LE3-78] America (except United States)",
+        "[LE21-78] South America"
+      ]
     },
     {
       "id": "LE7-9",
       "size": 651,
-      "subject": "Mexico"
+      "subject": "Mexico",
+      "parents": [
+        "L",
+        "LE",
+        "LE3-78"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LE] America (except United States)",
+        "[LE3-78] America (except United States)"
+      ]
     },
     {
       "id": "LE3-5",
       "size": 319,
-      "subject": "Canada"
+      "subject": "Canada",
+      "parents": [
+        "L",
+        "LE",
+        "LE3-78"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LE] America (except United States)",
+        "[LE3-78] America (except United States)"
+      ]
     },
     {
       "id": "LE11-13",
       "size": 148,
-      "subject": "Central America"
+      "subject": "Central America",
+      "parents": [
+        "L",
+        "LE",
+        "LE3-78"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LE] America (except United States)",
+        "[LE3-78] America (except United States)"
+      ]
     },
     {
       "id": "LH",
       "size": 0,
-      "subject": "College and school magazines and papers"
+      "subject": "College and school magazines and papers",
+      "parents": [
+        "L"
+      ],
+      "parentsSubjects": [
+        "[L] Education"
+      ]
     },
     {
       "id": "LH1-9",
       "size": 892,
-      "subject": "College and school magazines and papers"
+      "subject": "College and school magazines and papers",
+      "parents": [
+        "L",
+        "LH"
+      ],
+      "parentsSubjects": [
+        "[L] Education",
+        "[LH] College and school magazines and papers"
+      ]
     }
   ],
   "links": [

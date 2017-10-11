@@ -3,217 +3,583 @@
     {
       "id": "A",
       "size": 0,
-      "subject": "General Works"
+      "subject": "General Works",
+      "parents": [
+        "A"
+      ],
+      "parentsSubjects": [
+        "[A] General Works"
+      ]
     },
     {
       "id": "AC",
       "size": 0,
-      "subject": "Collections.  Series.  Collected works"
+      "subject": "Collections.  Series.  Collected works",
+      "parents": [
+        "A"
+      ],
+      "parentsSubjects": [
+        "[A] General Works"
+      ]
     },
     {
       "id": "AC1-195",
       "size": 0,
-      "subject": "Collections of monographs, essays, etc."
+      "subject": "Collections of monographs, essays, etc.",
+      "parents": [
+        "A",
+        "AC"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AC] Collections.  Series.  Collected works"
+      ]
     },
     {
       "id": "AC1-8",
       "size": 3082,
-      "subject": "American and English"
+      "subject": "American and English",
+      "parents": [
+        "A",
+        "AC",
+        "AC1-195"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AC] Collections.  Series.  Collected works",
+        "[AC1-195] Collections of monographs, essays, etc."
+      ]
     },
     {
       "id": "AC9-195",
       "size": 8267,
-      "subject": "Other languages"
+      "subject": "Other languages",
+      "parents": [
+        "A",
+        "AC",
+        "AC1-195"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AC] Collections.  Series.  Collected works",
+        "[AC1-195] Collections of monographs, essays, etc."
+      ]
     },
     {
       "id": "AC1-999",
       "size": 3,
-      "subject": "Collections.  Series.  Collected works"
+      "subject": "Collections.  Series.  Collected works",
+      "parents": [
+        "A",
+        "AC"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AC] Collections.  Series.  Collected works"
+      ]
     },
     {
       "id": "AC901-995",
       "size": 9289,
-      "subject": "Pamphlet collections"
+      "subject": "Pamphlet collections",
+      "parents": [
+        "A",
+        "AC",
+        "AC1-999"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AC] Collections.  Series.  Collected works",
+        "[AC1-999] Collections.  Series.  Collected works"
+      ]
     },
     {
       "id": "AC801-895",
       "size": 27,
-      "subject": "Inaugural and program dissertations"
+      "subject": "Inaugural and program dissertations",
+      "parents": [
+        "A",
+        "AC",
+        "AC1-999"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AC] Collections.  Series.  Collected works",
+        "[AC1-999] Collections.  Series.  Collected works"
+      ]
     },
     {
       "id": "AC999",
       "size": 3,
-      "subject": "Scrapbooks"
+      "subject": "Scrapbooks",
+      "parents": [
+        "A",
+        "AC",
+        "AC1-999"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AC] Collections.  Series.  Collected works",
+        "[AC1-999] Collections.  Series.  Collected works"
+      ]
     },
     {
       "id": "AE",
       "size": 0,
-      "subject": "Encyclopedias"
+      "subject": "Encyclopedias",
+      "parents": [
+        "A"
+      ],
+      "parentsSubjects": [
+        "[A] General Works"
+      ]
     },
     {
       "id": "AE1-90",
       "size": 330,
-      "subject": "Encyclopedias"
+      "subject": "Encyclopedias",
+      "parents": [
+        "A",
+        "AE"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AE] Encyclopedias"
+      ]
     },
     {
       "id": "AE5-90",
       "size": 1276,
-      "subject": "By language"
+      "subject": "By language",
+      "parents": [
+        "A",
+        "AE",
+        "AE1-90"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AE] Encyclopedias",
+        "[AE1-90] Encyclopedias"
+      ]
     },
     {
       "id": "AG",
       "size": 0,
-      "subject": "Dictionaries and other general reference works"
+      "subject": "Dictionaries and other general reference works",
+      "parents": [
+        "A"
+      ],
+      "parentsSubjects": [
+        "[A] General Works"
+      ]
     },
     {
       "id": "AG2-600",
       "size": 3104,
-      "subject": "Dictionaries and other general reference works"
+      "subject": "Dictionaries and other general reference works",
+      "parents": [
+        "A",
+        "AG"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AG] Dictionaries and other general reference works"
+      ]
     },
     {
       "id": "AZ",
       "size": 0,
-      "subject": "History of scholarship and learning.  The humanities"
+      "subject": "History of scholarship and learning.  The humanities",
+      "parents": [
+        "A"
+      ],
+      "parentsSubjects": [
+        "[A] General Works"
+      ]
     },
     {
       "id": "AZ20-999",
       "size": 415,
-      "subject": "History of scholarship and learning.  The humanities"
+      "subject": "History of scholarship and learning.  The humanities",
+      "parents": [
+        "A",
+        "AZ"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AZ] History of scholarship and learning.  The humanities"
+      ]
     },
     {
       "id": "AZ200-361",
       "size": 291,
-      "subject": "History"
+      "subject": "History",
+      "parents": [
+        "A",
+        "AZ",
+        "AZ20-999"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AZ] History of scholarship and learning.  The humanities",
+        "[AZ20-999] History of scholarship and learning.  The humanities"
+      ]
     },
     {
       "id": "AZ101-181",
       "size": 367,
-      "subject": "Philosophy.  Theory"
+      "subject": "Philosophy.  Theory",
+      "parents": [
+        "A",
+        "AZ",
+        "AZ20-999"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AZ] History of scholarship and learning.  The humanities",
+        "[AZ20-999] History of scholarship and learning.  The humanities"
+      ]
     },
     {
       "id": "AZ501-908",
       "size": 849,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "A",
+        "AZ",
+        "AZ20-999"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AZ] History of scholarship and learning.  The humanities",
+        "[AZ20-999] History of scholarship and learning.  The humanities"
+      ]
     },
     {
       "id": "AZ191-193",
       "size": 23,
-      "subject": "Evaluation"
+      "subject": "Evaluation",
+      "parents": [
+        "A",
+        "AZ",
+        "AZ20-999"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AZ] History of scholarship and learning.  The humanities",
+        "[AZ20-999] History of scholarship and learning.  The humanities"
+      ]
     },
     {
       "id": "AM",
       "size": 0,
-      "subject": "Museums.  Collectors and collecting"
+      "subject": "Museums.  Collectors and collecting",
+      "parents": [
+        "A"
+      ],
+      "parentsSubjects": [
+        "[A] General Works"
+      ]
     },
     {
       "id": "AM1-501",
       "size": 2511,
-      "subject": "Museums.  Collectors and collecting"
+      "subject": "Museums.  Collectors and collecting",
+      "parents": [
+        "A",
+        "AM"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AM] Museums.  Collectors and collecting"
+      ]
     },
     {
       "id": "AM10-100",
       "size": 2046,
-      "subject": "By country"
+      "subject": "By country",
+      "parents": [
+        "A",
+        "AM",
+        "AM1-501"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AM] Museums.  Collectors and collecting",
+        "[AM1-501] Museums.  Collectors and collecting"
+      ]
     },
     {
       "id": "AM200-501",
       "size": 356,
-      "subject": "Collectors and collecting"
+      "subject": "Collectors and collecting",
+      "parents": [
+        "A",
+        "AM",
+        "AM1-501"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AM] Museums.  Collectors and collecting",
+        "[AM1-501] Museums.  Collectors and collecting"
+      ]
     },
     {
       "id": "AM111-160",
       "size": 607,
-      "subject": "Museology.  Museum methods, technique, etc."
+      "subject": "Museology.  Museum methods, technique, etc.",
+      "parents": [
+        "A",
+        "AM",
+        "AM1-501"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AM] Museums.  Collectors and collecting",
+        "[AM1-501] Museums.  Collectors and collecting"
+      ]
     },
     {
       "id": "AS",
       "size": 0,
-      "subject": "Academies and learned societies"
+      "subject": "Academies and learned societies",
+      "parents": [
+        "A"
+      ],
+      "parentsSubjects": [
+        "[A] General Works"
+      ]
     },
     {
       "id": "AS1-945",
       "size": 1029,
-      "subject": "Academies and learned societies"
+      "subject": "Academies and learned societies",
+      "parents": [
+        "A",
+        "AS"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AS] Academies and learned societies"
+      ]
     },
     {
       "id": "AS11-785",
       "size": 19806,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "A",
+        "AS",
+        "AS1-945"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AS] Academies and learned societies",
+        "[AS1-945] Academies and learned societies"
+      ]
     },
     {
       "id": "AS2.5-4",
       "size": 842,
-      "subject": "International associations, congresses, conferences, etc."
+      "subject": "International associations, congresses, conferences, etc.",
+      "parents": [
+        "A",
+        "AS",
+        "AS1-945"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AS] Academies and learned societies",
+        "[AS1-945] Academies and learned societies"
+      ]
     },
     {
       "id": "AP",
       "size": 0,
-      "subject": "Periodicals"
+      "subject": "Periodicals",
+      "parents": [
+        "A"
+      ],
+      "parentsSubjects": [
+        "[A] General Works"
+      ]
     },
     {
       "id": "AP1-271",
       "size": 10324,
-      "subject": "Periodicals"
+      "subject": "Periodicals",
+      "parents": [
+        "A",
+        "AP"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AP] Periodicals"
+      ]
     },
     {
       "id": "AP200-230",
       "size": 331,
-      "subject": "Juvenile periodicals"
+      "subject": "Juvenile periodicals",
+      "parents": [
+        "A",
+        "AP",
+        "AP1-271"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AP] Periodicals",
+        "[AP1-271] Periodicals"
+      ]
     },
     {
       "id": "AP101-115",
       "size": 174,
-      "subject": "Humorous periodicals"
+      "subject": "Humorous periodicals",
+      "parents": [
+        "A",
+        "AP",
+        "AP1-271"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AP] Periodicals",
+        "[AP1-271] Periodicals"
+      ]
     },
     {
       "id": "AP250-265",
       "size": 6,
-      "subject": "Periodicals for women"
+      "subject": "Periodicals for women",
+      "parents": [
+        "A",
+        "AP",
+        "AP1-271"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AP] Periodicals",
+        "[AP1-271] Periodicals"
+      ]
     },
     {
       "id": "AP270-271",
       "size": 4,
-      "subject": "Periodicals for Blacks"
+      "subject": "Periodicals for Blacks",
+      "parents": [
+        "A",
+        "AP",
+        "AP1-271"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AP] Periodicals",
+        "[AP1-271] Periodicals"
+      ]
     },
     {
       "id": "AY",
       "size": 0,
-      "subject": "Yearbooks.  Almanacs.  Directories"
+      "subject": "Yearbooks.  Almanacs.  Directories",
+      "parents": [
+        "A"
+      ],
+      "parentsSubjects": [
+        "[A] General Works"
+      ]
     },
     {
       "id": "AY10-2001",
       "size": 1,
-      "subject": "Yearbooks.  Almanacs.  Directories"
+      "subject": "Yearbooks.  Almanacs.  Directories",
+      "parents": [
+        "A",
+        "AY"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AY] Yearbooks.  Almanacs.  Directories"
+      ]
     },
     {
       "id": "AY30-1730",
       "size": 2272,
-      "subject": "Almanacs"
+      "subject": "Almanacs",
+      "parents": [
+        "A",
+        "AY",
+        "AY10-2001"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AY] Yearbooks.  Almanacs.  Directories",
+        "[AY10-2001] Yearbooks.  Almanacs.  Directories"
+      ]
     },
     {
       "id": "AY10-29",
       "size": 133,
-      "subject": "Annuals"
+      "subject": "Annuals",
+      "parents": [
+        "A",
+        "AY",
+        "AY10-2001"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AY] Yearbooks.  Almanacs.  Directories",
+        "[AY10-2001] Yearbooks.  Almanacs.  Directories"
+      ]
     },
     {
       "id": "AY2001",
       "size": 14,
-      "subject": "Directories"
+      "subject": "Directories",
+      "parents": [
+        "A",
+        "AY",
+        "AY10-2001"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AY] Yearbooks.  Almanacs.  Directories",
+        "[AY10-2001] Yearbooks.  Almanacs.  Directories"
+      ]
     },
     {
       "id": "AI",
       "size": 0,
-      "subject": "Indexes"
+      "subject": "Indexes",
+      "parents": [
+        "A"
+      ],
+      "parentsSubjects": [
+        "[A] General Works"
+      ]
     },
     {
       "id": "AI1-21",
       "size": 798,
-      "subject": "Indexes"
+      "subject": "Indexes",
+      "parents": [
+        "A",
+        "AI"
+      ],
+      "parentsSubjects": [
+        "[A] General Works",
+        "[AI] Indexes"
+      ]
     },
     {
       "id": "AN",
       "size": 0,
-      "subject": "Newspapers"
+      "subject": "Newspapers",
+      "parents": [
+        "A"
+      ],
+      "parentsSubjects": [
+        "[A] General Works"
+      ]
     }
   ],
   "links": [

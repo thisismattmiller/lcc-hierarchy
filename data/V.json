@@ -3,452 +3,1270 @@
     {
       "id": "V",
       "size": 0,
-      "subject": "Naval Science"
+      "subject": "Naval Science",
+      "parents": [
+        "V"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science"
+      ]
     },
     {
       "id": "VA",
       "size": 0,
-      "subject": "Navies: Organization, distribution, naval situation"
+      "subject": "Navies: Organization, distribution, naval situation",
+      "parents": [
+        "V"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science"
+      ]
     },
     {
       "id": "VA10-750",
       "size": 126,
-      "subject": "Navies: Organization, distribution, naval situation"
+      "subject": "Navies: Organization, distribution, naval situation",
+      "parents": [
+        "V",
+        "VA"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VA] Navies: Organization, distribution, naval situation"
+      ]
     },
     {
       "id": "VA49-395",
       "size": 1169,
-      "subject": "United States"
+      "subject": "United States",
+      "parents": [
+        "V",
+        "VA",
+        "VA10-750"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VA] Navies: Organization, distribution, naval situation",
+        "[VA10-750] Navies: Organization, distribution, naval situation"
+      ]
     },
     {
       "id": "VA400-750",
       "size": 2153,
-      "subject": "Other regions or countries"
+      "subject": "Other regions or countries",
+      "parents": [
+        "V",
+        "VA",
+        "VA10-750"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VA] Navies: Organization, distribution, naval situation",
+        "[VA10-750] Navies: Organization, distribution, naval situation"
+      ]
     },
     {
       "id": "VM",
       "size": 0,
-      "subject": "Naval architecture.    Shipbuilding.    Marine engineering"
+      "subject": "Naval architecture.    Shipbuilding.    Marine engineering",
+      "parents": [
+        "V"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science"
+      ]
     },
     {
       "id": "VM1-989",
       "size": 2935,
-      "subject": "Naval architecture.    Shipbuilding.    Marine engineering"
+      "subject": "Naval architecture.    Shipbuilding.    Marine engineering",
+      "parents": [
+        "V",
+        "VM"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VM] Naval architecture.    Shipbuilding.    Marine engineering"
+      ]
     },
     {
       "id": "VM311-466",
       "size": 3035,
-      "subject": "Special types of vessels"
+      "subject": "Special types of vessels",
+      "parents": [
+        "V",
+        "VM",
+        "VM1-989"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VM] Naval architecture.    Shipbuilding.    Marine engineering",
+        "[VM1-989] Naval architecture.    Shipbuilding.    Marine engineering"
+      ]
     },
     {
       "id": "VM15-124",
       "size": 854,
-      "subject": "History"
+      "subject": "History",
+      "parents": [
+        "V",
+        "VM",
+        "VM1-989"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VM] Naval architecture.    Shipbuilding.    Marine engineering",
+        "[VM1-989] Naval architecture.    Shipbuilding.    Marine engineering"
+      ]
     },
     {
       "id": "VM595-989",
       "size": 1430,
-      "subject": "Marine engineering"
+      "subject": "Marine engineering",
+      "parents": [
+        "V",
+        "VM",
+        "VM1-989"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VM] Naval architecture.    Shipbuilding.    Marine engineering",
+        "[VM1-989] Naval architecture.    Shipbuilding.    Marine engineering"
+      ]
     },
     {
       "id": "VM975-989",
       "size": 234,
-      "subject": "ERROR, could not find"
+      "subject": "ERROR, could not find",
+      "parents": [
+        "V",
+        "VM",
+        "VM1-989",
+        "VM595-989"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VM] Naval architecture.    Shipbuilding.    Marine engineering",
+        "[VM1-989] Naval architecture.    Shipbuilding.    Marine engineering",
+        "[VM595-989] Marine engineering"
+      ]
     },
     {
       "id": "VM298.5-301",
       "size": 571,
-      "subject": "Shipbuilding industry.    Shipyards"
+      "subject": "Shipbuilding industry.    Shipyards",
+      "parents": [
+        "V",
+        "VM",
+        "VM1-989"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VM] Naval architecture.    Shipbuilding.    Marine engineering",
+        "[VM1-989] Naval architecture.    Shipbuilding.    Marine engineering"
+      ]
     },
     {
       "id": "VM165-276",
       "size": 23,
-      "subject": "Study and teaching"
+      "subject": "Study and teaching",
+      "parents": [
+        "V",
+        "VM",
+        "VM1-989"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VM] Naval architecture.    Shipbuilding.    Marine engineering",
+        "[VM1-989] Naval architecture.    Shipbuilding.    Marine engineering"
+      ]
     },
     {
       "id": "VM295-296",
       "size": 10,
-      "subject": "Contracts and specifications"
+      "subject": "Contracts and specifications",
+      "parents": [
+        "V",
+        "VM",
+        "VM1-989"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VM] Naval architecture.    Shipbuilding.    Marine engineering",
+        "[VM1-989] Naval architecture.    Shipbuilding.    Marine engineering"
+      ]
     },
     {
       "id": "VK",
       "size": 0,
-      "subject": "Navigation.    Merchant marine"
+      "subject": "Navigation.    Merchant marine",
+      "parents": [
+        "V"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science"
+      ]
     },
     {
       "id": "VK1-1661",
       "size": 1473,
-      "subject": "Navigation.    Merchant marine"
+      "subject": "Navigation.    Merchant marine",
+      "parents": [
+        "V",
+        "VK"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VK] Navigation.    Merchant marine"
+      ]
     },
     {
       "id": "VK1000-1249",
       "size": 789,
-      "subject": "Lighthouse service"
+      "subject": "Lighthouse service",
+      "parents": [
+        "V",
+        "VK",
+        "VK1-1661"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VK] Navigation.    Merchant marine",
+        "[VK1-1661] Navigation.    Merchant marine"
+      ]
     },
     {
       "id": "VK401-529",
       "size": 125,
-      "subject": "Study and teaching"
+      "subject": "Study and teaching",
+      "parents": [
+        "V",
+        "VK",
+        "VK1-1661"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VK] Navigation.    Merchant marine",
+        "[VK1-1661] Navigation.    Merchant marine"
+      ]
     },
     {
       "id": "VK549-572",
       "size": 912,
-      "subject": "Science of navigation"
+      "subject": "Science of navigation",
+      "parents": [
+        "V",
+        "VK",
+        "VK1-1661"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VK] Navigation.    Merchant marine",
+        "[VK1-1661] Navigation.    Merchant marine"
+      ]
     },
     {
       "id": "VK15-124",
       "size": 966,
-      "subject": "History, conditions, etc."
+      "subject": "History, conditions, etc.",
+      "parents": [
+        "V",
+        "VK",
+        "VK1-1661"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VK] Navigation.    Merchant marine",
+        "[VK1-1661] Navigation.    Merchant marine"
+      ]
     },
     {
       "id": "VK573-587",
       "size": 147,
-      "subject": "Nautical instruments"
+      "subject": "Nautical instruments",
+      "parents": [
+        "V",
+        "VK",
+        "VK1-1661"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VK] Navigation.    Merchant marine",
+        "[VK1-1661] Navigation.    Merchant marine"
+      ]
     },
     {
       "id": "VK798-997",
       "size": 1444,
-      "subject": "Sailing directions.    Pilot guides"
+      "subject": "Sailing directions.    Pilot guides",
+      "parents": [
+        "V",
+        "VK",
+        "VK1-1661"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VK] Navigation.    Merchant marine",
+        "[VK1-1661] Navigation.    Merchant marine"
+      ]
     },
     {
       "id": "VK1300-1491",
       "size": 347,
-      "subject": "Saving of life and property"
+      "subject": "Saving of life and property",
+      "parents": [
+        "V",
+        "VK",
+        "VK1-1661"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VK] Navigation.    Merchant marine",
+        "[VK1-1661] Navigation.    Merchant marine"
+      ]
     },
     {
       "id": "VK1250-1299",
       "size": 349,
-      "subject": "Shipwrecks and fires"
+      "subject": "Shipwrecks and fires",
+      "parents": [
+        "V",
+        "VK",
+        "VK1-1661"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VK] Navigation.    Merchant marine",
+        "[VK1-1661] Navigation.    Merchant marine"
+      ]
     },
     {
       "id": "VK381-397",
       "size": 208,
-      "subject": "Signaling"
+      "subject": "Signaling",
+      "parents": [
+        "V",
+        "VK",
+        "VK1-1661"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VK] Navigation.    Merchant marine",
+        "[VK1-1661] Navigation.    Merchant marine"
+      ]
     },
     {
       "id": "VK1299.5-1299.6",
       "size": 9,
-      "subject": "Icebreaking operations"
+      "subject": "Icebreaking operations",
+      "parents": [
+        "V",
+        "VK",
+        "VK1-1661"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VK] Navigation.    Merchant marine",
+        "[VK1-1661] Navigation.    Merchant marine"
+      ]
     },
     {
       "id": "VK588-597",
       "size": 214,
-      "subject": "Marine hydrography.    Hydrographic surveying"
+      "subject": "Marine hydrography.    Hydrographic surveying",
+      "parents": [
+        "V",
+        "VK",
+        "VK1-1661"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VK] Navigation.    Merchant marine",
+        "[VK1-1661] Navigation.    Merchant marine"
+      ]
     },
     {
       "id": "VK321-369.8",
       "size": 91,
-      "subject": "Harbors.    Ports"
+      "subject": "Harbors.    Ports",
+      "parents": [
+        "V",
+        "VK",
+        "VK1-1661"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VK] Navigation.    Merchant marine",
+        "[VK1-1661] Navigation.    Merchant marine"
+      ]
     },
     {
       "id": "VK1500-1661",
       "size": 99,
-      "subject": "Pilots and pilotage"
+      "subject": "Pilots and pilotage",
+      "parents": [
+        "V",
+        "VK",
+        "VK1-1661"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VK] Navigation.    Merchant marine",
+        "[VK1-1661] Navigation.    Merchant marine"
+      ]
     },
     {
       "id": "VK600-794",
       "size": 191,
-      "subject": "Tide and current tables"
+      "subject": "Tide and current tables",
+      "parents": [
+        "V",
+        "VK",
+        "VK1-1661"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VK] Navigation.    Merchant marine",
+        "[VK1-1661] Navigation.    Merchant marine"
+      ]
     },
     {
       "id": "VG",
       "size": 0,
-      "subject": "Minor services of navies"
+      "subject": "Minor services of navies",
+      "parents": [
+        "V"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science"
+      ]
     },
     {
       "id": "VG20-2029",
       "size": 222,
-      "subject": "Minor services of navies"
+      "subject": "Minor services of navies",
+      "parents": [
+        "V",
+        "VG"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VG] Minor services of navies"
+      ]
     },
     {
       "id": "VG90-95",
       "size": 570,
-      "subject": "Naval aviation"
+      "subject": "Naval aviation",
+      "parents": [
+        "V",
+        "VG",
+        "VG20-2029"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VG] Minor services of navies",
+        "[VG20-2029] Minor services of navies"
+      ]
     },
     {
       "id": "VG50-55",
       "size": 218,
-      "subject": "Coast guard and coast signal service"
+      "subject": "Coast guard and coast signal service",
+      "parents": [
+        "V",
+        "VG",
+        "VG20-2029"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VG] Minor services of navies",
+        "[VG20-2029] Minor services of navies"
+      ]
     },
     {
       "id": "VG100-475",
       "size": 156,
-      "subject": "Medical service"
+      "subject": "Medical service",
+      "parents": [
+        "V",
+        "VG",
+        "VG20-2029"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VG] Minor services of navies",
+        "[VG20-2029] Minor services of navies"
+      ]
     },
     {
       "id": "VG70-85",
       "size": 40,
-      "subject": "Naval communication by telegraphy, telephone, etc."
+      "subject": "Naval communication by telegraphy, telephone, etc.",
+      "parents": [
+        "V",
+        "VG",
+        "VG20-2029"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VG] Minor services of navies",
+        "[VG20-2029] Minor services of navies"
+      ]
     },
     {
       "id": "VG20-25",
       "size": 24,
-      "subject": "Chaplains"
+      "subject": "Chaplains",
+      "parents": [
+        "V",
+        "VG",
+        "VG20-2029"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VG] Minor services of navies",
+        "[VG20-2029] Minor services of navies"
+      ]
     },
     {
       "id": "VG2020-2029",
       "size": 4,
-      "subject": "Recreation and information service"
+      "subject": "Recreation and information service",
+      "parents": [
+        "V",
+        "VG",
+        "VG20-2029"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VG] Minor services of navies",
+        "[VG20-2029] Minor services of navies"
+      ]
     },
     {
       "id": "VG500-505",
       "size": 7,
-      "subject": "Public relations.    Press.    War    correspondents"
+      "subject": "Public relations.    Press.    War    correspondents",
+      "parents": [
+        "V",
+        "VG",
+        "VG20-2029"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VG] Minor services of navies",
+        "[VG20-2029] Minor services of navies"
+      ]
     },
     {
       "id": "VG2000-2005",
       "size": 1,
-      "subject": "Social work.    Social welfare services"
+      "subject": "Social work.    Social welfare services",
+      "parents": [
+        "V",
+        "VG",
+        "VG20-2029"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VG] Minor services of navies",
+        "[VG20-2029] Minor services of navies"
+      ]
     },
     {
       "id": "V1-995",
       "size": 1895,
-      "subject": "Naval science (General)"
+      "subject": "Naval science (General)",
+      "parents": [
+        "V"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science"
+      ]
     },
     {
       "id": "V750-995",
       "size": 1698,
-      "subject": "War vessels: Construction, armament, etc."
+      "subject": "War vessels: Construction, armament, etc.",
+      "parents": [
+        "V",
+        "V1-995"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[V1-995] Naval science (General)"
+      ]
     },
     {
       "id": "V25-55",
       "size": 313,
-      "subject": "History and antiquities of naval science"
+      "subject": "History and antiquities of naval science",
+      "parents": [
+        "V",
+        "V1-995"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[V1-995] Naval science (General)"
+      ]
     },
     {
       "id": "V400-695",
       "size": 424,
-      "subject": "Naval education"
+      "subject": "Naval education",
+      "parents": [
+        "V",
+        "V1-995"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[V1-995] Naval science (General)"
+      ]
     },
     {
       "id": "V720-743",
       "size": 137,
-      "subject": "Naval life, manners and customs, antiquities, etc."
+      "subject": "Naval life, manners and customs, antiquities, etc.",
+      "parents": [
+        "V",
+        "V1-995"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[V1-995] Naval science (General)"
+      ]
     },
     {
       "id": "V390-395",
       "size": 84,
-      "subject": "Naval research"
+      "subject": "Naval research",
+      "parents": [
+        "V",
+        "V1-995"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[V1-995] Naval science (General)"
+      ]
     },
     {
       "id": "V160-165",
       "size": 87,
-      "subject": "Strategy"
+      "subject": "Strategy",
+      "parents": [
+        "V",
+        "V1-995"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[V1-995] Naval science (General)"
+      ]
     },
     {
       "id": "V167-178",
       "size": 51,
-      "subject": "Tactics"
+      "subject": "Tactics",
+      "parents": [
+        "V",
+        "V1-995"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[V1-995] Naval science (General)"
+      ]
     },
     {
       "id": "V210-214.5",
       "size": 125,
-      "subject": "Submarine warfare"
+      "subject": "Submarine warfare",
+      "parents": [
+        "V",
+        "V1-995"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[V1-995] Naval science (General)"
+      ]
     },
     {
       "id": "V396-396.5",
       "size": 13,
-      "subject": "Military oceanography"
+      "subject": "Military oceanography",
+      "parents": [
+        "V",
+        "V1-995"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[V1-995] Naval science (General)"
+      ]
     },
     {
       "id": "V399",
       "size": 1,
-      "subject": "Automation in the naval sciences"
+      "subject": "Automation in the naval sciences",
+      "parents": [
+        "V",
+        "V1-995"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[V1-995] Naval science (General)"
+      ]
     },
     {
       "id": "V66-69",
       "size": 6,
-      "subject": "Navy clubs"
+      "subject": "Navy clubs",
+      "parents": [
+        "V",
+        "V1-995"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[V1-995] Naval science (General)"
+      ]
     },
     {
       "id": "VB",
       "size": 0,
-      "subject": "Naval administration"
+      "subject": "Naval administration",
+      "parents": [
+        "V"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science"
+      ]
     },
     {
       "id": "VB15-955",
       "size": 307,
-      "subject": "Naval administration"
+      "subject": "Naval administration",
+      "parents": [
+        "V",
+        "VB"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VB] Naval administration"
+      ]
     },
     {
       "id": "VB310-315",
       "size": 58,
-      "subject": "Officers"
+      "subject": "Officers",
+      "parents": [
+        "V",
+        "VB",
+        "VB15-955"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VB] Naval administration",
+        "[VB15-955] Naval administration"
+      ]
     },
     {
       "id": "VB21-124",
       "size": 44,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "V",
+        "VB",
+        "VB15-955"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VB] Naval administration",
+        "[VB15-955] Naval administration"
+      ]
     },
     {
       "id": "VB170-187",
       "size": 17,
-      "subject": "Civil department"
+      "subject": "Civil department",
+      "parents": [
+        "V",
+        "VB",
+        "VB15-955"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VB] Naval administration",
+        "[VB15-955] Naval administration"
+      ]
     },
     {
       "id": "VB260-275",
       "size": 34,
-      "subject": "Enlisted personnel"
+      "subject": "Enlisted personnel",
+      "parents": [
+        "V",
+        "VB",
+        "VB15-955"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VB] Naval administration",
+        "[VB15-955] Naval administration"
+      ]
     },
     {
       "id": "VB320-325",
       "size": 35,
-      "subject": "Minorities, women, etc. in navies"
+      "subject": "Minorities, women, etc. in navies",
+      "parents": [
+        "V",
+        "VB",
+        "VB15-955"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VB] Naval administration",
+        "[VB15-955] Naval administration"
+      ]
     },
     {
       "id": "VB307-309",
       "size": 3,
-      "subject": "Warrant officers"
+      "subject": "Warrant officers",
+      "parents": [
+        "V",
+        "VB",
+        "VB15-955"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VB] Naval administration",
+        "[VB15-955] Naval administration"
+      ]
     },
     {
       "id": "VE",
       "size": 0,
-      "subject": "Marines"
+      "subject": "Marines",
+      "parents": [
+        "V"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science"
+      ]
     },
     {
       "id": "VE7-500",
       "size": 172,
-      "subject": "Marines"
+      "subject": "Marines",
+      "parents": [
+        "V",
+        "VE"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VE] Marines"
+      ]
     },
     {
       "id": "VE23-124",
       "size": 475,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "V",
+        "VE",
+        "VE7-500"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VE] Marines",
+        "[VE7-500] Marines"
+      ]
     },
     {
       "id": "VE160-302",
       "size": 3,
-      "subject": "Drill regulations"
+      "subject": "Drill regulations",
+      "parents": [
+        "V",
+        "VE",
+        "VE7-500"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VE] Marines",
+        "[VE7-500] Marines"
+      ]
     },
     {
       "id": "VE330-335",
       "size": 1,
-      "subject": "Shooting"
+      "subject": "Shooting",
+      "parents": [
+        "V",
+        "VE",
+        "VE7-500"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VE] Marines",
+        "[VE7-500] Marines"
+      ]
     },
     {
       "id": "VE430-435",
       "size": 22,
-      "subject": "Training camps"
+      "subject": "Training camps",
+      "parents": [
+        "V",
+        "VE",
+        "VE7-500"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VE] Marines",
+        "[VE7-500] Marines"
+      ]
     },
     {
       "id": "VE420-425",
       "size": 4,
-      "subject": "Barracks, quarters, etc."
+      "subject": "Barracks, quarters, etc.",
+      "parents": [
+        "V",
+        "VE",
+        "VE7-500"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VE] Marines",
+        "[VE7-500] Marines"
+      ]
     },
     {
       "id": "VF",
       "size": 0,
-      "subject": "Naval ordnance"
+      "subject": "Naval ordnance",
+      "parents": [
+        "V"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science"
+      ]
     },
     {
       "id": "VF1-580",
       "size": 77,
-      "subject": "Naval ordnance"
+      "subject": "Naval ordnance",
+      "parents": [
+        "V",
+        "VF"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VF] Naval ordnance"
+      ]
     },
     {
       "id": "VF350-375",
       "size": 22,
-      "subject": "Ordnance and arms (General)"
+      "subject": "Ordnance and arms (General)",
+      "parents": [
+        "V",
+        "VF",
+        "VF1-580"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VF] Naval ordnance",
+        "[VF1-580] Naval ordnance"
+      ]
     },
     {
       "id": "VF346-348",
       "size": 59,
-      "subject": "Naval weapons systems"
+      "subject": "Naval weapons systems",
+      "parents": [
+        "V",
+        "VF",
+        "VF1-580"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VF] Naval ordnance",
+        "[VF1-580] Naval ordnance"
+      ]
     },
     {
       "id": "VF160-302",
       "size": 22,
-      "subject": "Ordnance instructions and drill books"
+      "subject": "Ordnance instructions and drill books",
+      "parents": [
+        "V",
+        "VF",
+        "VF1-580"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VF] Naval ordnance",
+        "[VF1-580] Naval ordnance"
+      ]
     },
     {
       "id": "VF21-124",
       "size": 22,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "V",
+        "VF",
+        "VF1-580"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VF] Naval ordnance",
+        "[VF1-580] Naval ordnance"
+      ]
     },
     {
       "id": "VF390-510",
       "size": 20,
-      "subject": "Ordnance material (Ordnance proper)"
+      "subject": "Ordnance material (Ordnance proper)",
+      "parents": [
+        "V",
+        "VF",
+        "VF1-580"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VF] Naval ordnance",
+        "[VF1-580] Naval ordnance"
+      ]
     },
     {
       "id": "VF310-315",
       "size": 3,
-      "subject": "Target practice"
+      "subject": "Target practice",
+      "parents": [
+        "V",
+        "VF",
+        "VF1-580"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VF] Naval ordnance",
+        "[VF1-580] Naval ordnance"
+      ]
     },
     {
       "id": "VC",
       "size": 0,
-      "subject": "Naval maintenance"
+      "subject": "Naval maintenance",
+      "parents": [
+        "V"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science"
+      ]
     },
     {
       "id": "VC10-580",
       "size": 45,
-      "subject": "Naval maintenance"
+      "subject": "Naval maintenance",
+      "parents": [
+        "V",
+        "VC"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VC] Naval maintenance"
+      ]
     },
     {
       "id": "VC260-268",
       "size": 99,
-      "subject": "Supplies and stores"
+      "subject": "Supplies and stores",
+      "parents": [
+        "V",
+        "VC",
+        "VC10-580"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VC] Naval maintenance",
+        "[VC10-580] Naval maintenance"
+      ]
     },
     {
       "id": "VC280-345",
       "size": 69,
-      "subject": "Clothing and equipment"
+      "subject": "Clothing and equipment",
+      "parents": [
+        "V",
+        "VC",
+        "VC10-580"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VC] Naval maintenance",
+        "[VC10-580] Naval maintenance"
+      ]
     },
     {
       "id": "VC270-279",
       "size": 25,
-      "subject": "Equipment of vessels, supplies, allowances, etc."
+      "subject": "Equipment of vessels, supplies, allowances, etc.",
+      "parents": [
+        "V",
+        "VC",
+        "VC10-580"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VC] Naval maintenance",
+        "[VC10-580] Naval maintenance"
+      ]
     },
     {
       "id": "VC20-258",
       "size": 15,
-      "subject": "Organization of service"
+      "subject": "Organization of service",
+      "parents": [
+        "V",
+        "VC",
+        "VC10-580"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VC] Naval maintenance",
+        "[VC10-580] Naval maintenance"
+      ]
     },
     {
       "id": "VC350-410",
       "size": 35,
-      "subject": "Subsistence.    Provisioning"
+      "subject": "Subsistence.    Provisioning",
+      "parents": [
+        "V",
+        "VC",
+        "VC10-580"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VC] Naval maintenance",
+        "[VC10-580] Naval maintenance"
+      ]
     },
     {
       "id": "VC412-425",
       "size": 12,
-      "subject": "Navy yards and stations.    Shore facilities"
+      "subject": "Navy yards and stations.    Shore facilities",
+      "parents": [
+        "V",
+        "VC",
+        "VC10-580"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VC] Naval maintenance",
+        "[VC10-580] Naval maintenance"
+      ]
     },
     {
       "id": "VD",
       "size": 0,
-      "subject": "Naval personnel"
+      "subject": "Naval personnel",
+      "parents": [
+        "V"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science"
+      ]
     },
     {
       "id": "VD7-430",
       "size": 11,
-      "subject": "Naval personnel"
+      "subject": "Naval personnel",
+      "parents": [
+        "V",
+        "VD"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VD] Naval personnel"
+      ]
     },
     {
       "id": "VD21-124",
       "size": 13,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "V",
+        "VD",
+        "VD7-430"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VD] Naval personnel",
+        "[VD7-430] Naval personnel"
+      ]
     },
     {
       "id": "VD360-390",
       "size": 10,
-      "subject": "Small arms"
+      "subject": "Small arms",
+      "parents": [
+        "V",
+        "VD",
+        "VD7-430"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VD] Naval personnel",
+        "[VD7-430] Naval personnel"
+      ]
     },
     {
       "id": "VD160-302",
       "size": 1,
-      "subject": "Drill regulations"
+      "subject": "Drill regulations",
+      "parents": [
+        "V",
+        "VD",
+        "VD7-430"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VD] Naval personnel",
+        "[VD7-430] Naval personnel"
+      ]
     },
     {
       "id": "VD330-335",
       "size": 2,
-      "subject": "Shooting"
+      "subject": "Shooting",
+      "parents": [
+        "V",
+        "VD",
+        "VD7-430"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VD] Naval personnel",
+        "[VD7-430] Naval personnel"
+      ]
     },
     {
       "id": "VD400-405",
       "size": 2,
-      "subject": "Small boat service"
+      "subject": "Small boat service",
+      "parents": [
+        "V",
+        "VD",
+        "VD7-430"
+      ],
+      "parentsSubjects": [
+        "[V] Naval Science",
+        "[VD] Naval personnel",
+        "[VD7-430] Naval personnel"
+      ]
     }
   ],
   "links": [

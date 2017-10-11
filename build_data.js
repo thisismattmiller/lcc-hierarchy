@@ -43,7 +43,7 @@ Object.keys(countHierarchy).forEach((level)=>{
     trail = trail || []
 
     if (obj.id){
-      if (obj.id.length==2){
+      if (obj.id.length==2||obj.id.length==3){
         links.push({source:obj.id.substring(0,1),target:obj.id})
         if (nodesIds.indexOf(obj.id.substring(0,1))==-1){
           nodesIds.push(obj.id.substring(0,1))
@@ -89,9 +89,49 @@ Object.keys(countHierarchy).forEach((level)=>{
     // console.log('-----')
     
   })
+
+  nodes.forEach((node)=>{
+
+    var returnParent = function(id){
+      var parent = null
+      links.forEach((l)=>{
+        if (l.target === id){
+          parent = l.source
+        }
+      })
+      return parent
+    }
+
+    var currentLevel = node.id
+    var parents = []
+    var parentsSubjects = []
+    while (returnParent(currentLevel) && returnParent(currentLevel).length !== 1){
+      var p = returnParent(currentLevel)
+      parents.push(p)
+      var parentsSubject = nodes.filter((n) => { return n.id === p })[0].subject
+
+      parentsSubjects.push(`[${p}] ${parentsSubject}`)
+      currentLevel = p
+    }
+
+    parents.push(level)
+    parentsSubjects.push(`[${level}] ${countHierarchy[level].subject}`)
+
+
+    parentsSubjects = parentsSubjects.reverse()
+    parents = parents.reverse()
+
+    node.parents = parents
+    node.parentsSubjects = parentsSubjects
+
+  })
+
+
   fs.writeFileSync('data/'+level+'.json',JSON.stringify({nodes:nodes,links:links,maxCount:maxCount},null,2))
 
-  console.log(links)
+  // console.log(links)
+
+  // process.exit()
 
 
 })

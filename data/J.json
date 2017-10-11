@@ -3,952 +3,2902 @@
     {
       "id": "J",
       "size": 0,
-      "subject": "Political Science"
+      "subject": "Political Science",
+      "parents": [
+        "J"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science"
+      ]
     },
     {
       "id": "JF",
       "size": 0,
-      "subject": "Political institutions and public administration"
+      "subject": "Political institutions and public administration",
+      "parents": [
+        "J"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science"
+      ]
     },
     {
       "id": "JF20-1177",
       "size": 0,
-      "subject": "General.  Comparative government"
+      "subject": "General.  Comparative government",
+      "parents": [
+        "J",
+        "JF",
+        "JF20-2112"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JF] Political institutions and public administration",
+        "[JF20-2112] Political institutions and public administration"
+      ]
     },
     {
       "id": "JF225-619",
       "size": 0,
-      "subject": "Organs and functions of government"
+      "subject": "Organs and functions of government",
+      "parents": [
+        "J",
+        "JF",
+        "JF20-2112",
+        "JF20-1177"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JF] Political institutions and public administration",
+        "[JF20-2112] Political institutions and public administration",
+        "[JF20-1177] General.  Comparative government"
+      ]
     },
     {
       "id": "JF491-619",
       "size": 1097,
-      "subject": "Legislation.  Legislative process.  Law-making"
+      "subject": "Legislation.  Legislative process.  Law-making",
+      "parents": [
+        "J",
+        "JF",
+        "JF20-2112",
+        "JF20-1177",
+        "JF225-619"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JF] Political institutions and public administration",
+        "[JF20-2112] Political institutions and public administration",
+        "[JF20-1177] General.  Comparative government",
+        "[JF225-619] Organs and functions of government"
+      ]
     },
     {
       "id": "JF251-289",
       "size": 161,
-      "subject": "Executive.  Heads of state"
+      "subject": "Executive.  Heads of state",
+      "parents": [
+        "J",
+        "JF",
+        "JF20-2112",
+        "JF20-1177",
+        "JF225-619"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JF] Political institutions and public administration",
+        "[JF20-2112] Political institutions and public administration",
+        "[JF20-1177] General.  Comparative government",
+        "[JF225-619] Organs and functions of government"
+      ]
     },
     {
       "id": "JF331-341",
       "size": 80,
-      "subject": "Parliamentary government"
+      "subject": "Parliamentary government",
+      "parents": [
+        "J",
+        "JF",
+        "JF20-2112",
+        "JF20-1177",
+        "JF225-619"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JF] Political institutions and public administration",
+        "[JF20-2112] Political institutions and public administration",
+        "[JF20-1177] General.  Comparative government",
+        "[JF225-619] Organs and functions of government"
+      ]
     },
     {
       "id": "JF20-2112",
       "size": 37,
-      "subject": "Political institutions and public administration"
+      "subject": "Political institutions and public administration",
+      "parents": [
+        "J",
+        "JF"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JF] Political institutions and public administration"
+      ]
     },
     {
       "id": "JF1338-2112",
       "size": 4086,
-      "subject": "Public administration"
+      "subject": "Public administration",
+      "parents": [
+        "J",
+        "JF",
+        "JF20-2112"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JF] Political institutions and public administration",
+        "[JF20-2112] Political institutions and public administration"
+      ]
     },
     {
       "id": "JF2011-2112",
       "size": 943,
-      "subject": "Political parties"
+      "subject": "Political parties",
+      "parents": [
+        "J",
+        "JF",
+        "JF20-2112",
+        "JF1338-2112"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JF] Political institutions and public administration",
+        "[JF20-2112] Political institutions and public administration",
+        "[JF1338-2112] Public administration"
+      ]
     },
     {
       "id": "JF1501-1521",
       "size": 151,
-      "subject": "Civil service"
+      "subject": "Civil service",
+      "parents": [
+        "J",
+        "JF",
+        "JF20-2112",
+        "JF1338-2112"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JF] Political institutions and public administration",
+        "[JF20-2112] Political institutions and public administration",
+        "[JF1338-2112] Public administration"
+      ]
     },
     {
       "id": "JC",
       "size": 0,
-      "subject": "Political theory.  The state.  Theories of the state"
+      "subject": "Political theory.  The state.  Theories of the state",
+      "parents": [
+        "J"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science"
+      ]
     },
     {
       "id": "JC11-605",
       "size": 2921,
-      "subject": "Political theory.  The state.  Theories of the state"
+      "subject": "Political theory.  The state.  Theories of the state",
+      "parents": [
+        "J",
+        "JC"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JC] Political theory.  The state.  Theories of the state"
+      ]
     },
     {
       "id": "JC131-273",
       "size": 5038,
-      "subject": "Modern state"
+      "subject": "Modern state",
+      "parents": [
+        "J",
+        "JC",
+        "JC11-605"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JC] Political theory.  The state.  Theories of the state",
+        "[JC11-605] Political theory.  The state.  Theories of the state"
+      ]
     },
     {
       "id": "JC177-178",
       "size": 210,
-      "subject": "Thomas Paine"
+      "subject": "Thomas Paine",
+      "parents": [
+        "J",
+        "JC",
+        "JC11-605",
+        "JC131-273"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JC] Political theory.  The state.  Theories of the state",
+        "[JC11-605] Political theory.  The state.  Theories of the state",
+        "[JC131-273] Modern state"
+      ]
     },
     {
       "id": "JC571-605",
       "size": 12525,
-      "subject": "Purpose, functions, and relations of the state"
+      "subject": "Purpose, functions, and relations of the state",
+      "parents": [
+        "J",
+        "JC",
+        "JC11-605"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JC] Political theory.  The state.  Theories of the state",
+        "[JC11-605] Political theory.  The state.  Theories of the state"
+      ]
     },
     {
       "id": "JC348-497",
       "size": 7013,
-      "subject": "Forms of the state"
+      "subject": "Forms of the state",
+      "parents": [
+        "J",
+        "JC",
+        "JC11-605"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JC] Political theory.  The state.  Theories of the state",
+        "[JC11-605] Political theory.  The state.  Theories of the state"
+      ]
     },
     {
       "id": "JC311-314",
       "size": 1391,
-      "subject": "Nationalism.  Nation state"
+      "subject": "Nationalism.  Nation state",
+      "parents": [
+        "J",
+        "JC",
+        "JC11-605"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JC] Political theory.  The state.  Theories of the state",
+        "[JC11-605] Political theory.  The state.  Theories of the state"
+      ]
     },
     {
       "id": "JC51-93",
       "size": 1229,
-      "subject": "Ancient state"
+      "subject": "Ancient state",
+      "parents": [
+        "J",
+        "JC",
+        "JC11-605"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JC] Political theory.  The state.  Theories of the state",
+        "[JC11-605] Political theory.  The state.  Theories of the state"
+      ]
     },
     {
       "id": "JC319-323",
       "size": 829,
-      "subject": "Political geography"
+      "subject": "Political geography",
+      "parents": [
+        "J",
+        "JC",
+        "JC11-605"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JC] Political theory.  The state.  Theories of the state",
+        "[JC11-605] Political theory.  The state.  Theories of the state"
+      ]
     },
     {
       "id": "JC345-347",
       "size": 225,
-      "subject": "Symbolism"
+      "subject": "Symbolism",
+      "parents": [
+        "J",
+        "JC",
+        "JC11-605"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JC] Political theory.  The state.  Theories of the state",
+        "[JC11-605] Political theory.  The state.  Theories of the state"
+      ]
     },
     {
       "id": "JC328.2",
       "size": 112,
-      "subject": "Consensus.  Consent of the governed"
+      "subject": "Consensus.  Consent of the governed",
+      "parents": [
+        "J",
+        "JC",
+        "JC11-605"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JC] Political theory.  The state.  Theories of the state",
+        "[JC11-605] Political theory.  The state.  Theories of the state"
+      ]
     },
     {
       "id": "JC327",
       "size": 252,
-      "subject": "Sovereignty"
+      "subject": "Sovereignty",
+      "parents": [
+        "J",
+        "JC",
+        "JC11-605"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JC] Political theory.  The state.  Theories of the state",
+        "[JC11-605] Political theory.  The state.  Theories of the state"
+      ]
     },
     {
       "id": "JC109-121",
       "size": 251,
-      "subject": "Medieval state"
+      "subject": "Medieval state",
+      "parents": [
+        "J",
+        "JC",
+        "JC11-605"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JC] Political theory.  The state.  Theories of the state",
+        "[JC11-605] Political theory.  The state.  Theories of the state"
+      ]
     },
     {
       "id": "JC49",
       "size": 524,
-      "subject": "Islamic state"
+      "subject": "Islamic state",
+      "parents": [
+        "J",
+        "JC",
+        "JC11-605"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JC] Political theory.  The state.  Theories of the state",
+        "[JC11-605] Political theory.  The state.  Theories of the state"
+      ]
     },
     {
       "id": "JC329",
       "size": 76,
-      "subject": "Patriotism"
+      "subject": "Patriotism",
+      "parents": [
+        "J",
+        "JC",
+        "JC11-605"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JC] Political theory.  The state.  Theories of the state",
+        "[JC11-605] Political theory.  The state.  Theories of the state"
+      ]
     },
     {
       "id": "JC47",
       "size": 5,
-      "subject": "Oriental state"
+      "subject": "Oriental state",
+      "parents": [
+        "J",
+        "JC",
+        "JC11-605"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JC] Political theory.  The state.  Theories of the state",
+        "[JC11-605] Political theory.  The state.  Theories of the state"
+      ]
     },
     {
       "id": "JK",
       "size": 0,
-      "subject": "Political institutions and public administration"
+      "subject": "Political institutions and public administration",
+      "parents": [
+        "J"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science"
+      ]
     },
     {
       "id": "JK1-9993",
       "size": 0,
-      "subject": "Political institutions and public administration"
+      "subject": "Political institutions and public administration",
+      "parents": [
+        "J",
+        "JK"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JK] Political institutions and public administration"
+      ]
     },
     {
       "id": "JK1-9593",
       "size": 16621,
-      "subject": "United States"
+      "subject": "United States",
+      "parents": [
+        "J",
+        "JK",
+        "JK1-9993"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JK] Political institutions and public administration",
+        "[JK1-9993] Political institutions and public administration"
+      ]
     },
     {
       "id": "JK9663-9993",
       "size": 422,
-      "subject": "Confederate States of America"
+      "subject": "Confederate States of America",
+      "parents": [
+        "J",
+        "JK",
+        "JK1-9993"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JK] Political institutions and public administration",
+        "[JK1-9993] Political institutions and public administration"
+      ]
     },
     {
       "id": "JK404-1685",
       "size": 2458,
-      "subject": "Government.  Public administration"
+      "subject": "Government.  Public administration",
+      "parents": [
+        "J",
+        "JK",
+        "JK1-9993",
+        "JK1-9593"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JK] Political institutions and public administration",
+        "[JK1-9993] Political institutions and public administration",
+        "[JK1-9593] United States"
+      ]
     },
     {
       "id": "JK501-868",
       "size": 1951,
-      "subject": "Executive branch"
+      "subject": "Executive branch",
+      "parents": [
+        "J",
+        "JK",
+        "JK1-9993",
+        "JK1-9593",
+        "JK404-1685"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JK] Political institutions and public administration",
+        "[JK1-9993] Political institutions and public administration",
+        "[JK1-9593] United States",
+        "[JK404-1685] Government.  Public administration"
+      ]
     },
     {
       "id": "JK631-868",
       "size": 2113,
-      "subject": "Civil Service.  Departments and agencies"
+      "subject": "Civil Service.  Departments and agencies",
+      "parents": [
+        "J",
+        "JK",
+        "JK1-9993",
+        "JK1-9593",
+        "JK404-1685",
+        "JK501-868"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JK] Political institutions and public administration",
+        "[JK1-9993] Political institutions and public administration",
+        "[JK1-9593] United States",
+        "[JK404-1685] Government.  Public administration",
+        "[JK501-868] Executive branch"
+      ]
     },
     {
       "id": "JK1012-1432",
       "size": 1341,
-      "subject": "Congress.  Legislative branch"
+      "subject": "Congress.  Legislative branch",
+      "parents": [
+        "J",
+        "JK",
+        "JK1-9993",
+        "JK1-9593",
+        "JK404-1685"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JK] Political institutions and public administration",
+        "[JK1-9993] Political institutions and public administration",
+        "[JK1-9593] United States",
+        "[JK404-1685] Government.  Public administration"
+      ]
     },
     {
       "id": "JK1154-1276",
       "size": 300,
-      "subject": "Senate"
+      "subject": "Senate",
+      "parents": [
+        "J",
+        "JK",
+        "JK1-9993",
+        "JK1-9593",
+        "JK404-1685",
+        "JK1012-1432"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JK] Political institutions and public administration",
+        "[JK1-9993] Political institutions and public administration",
+        "[JK1-9593] United States",
+        "[JK404-1685] Government.  Public administration",
+        "[JK1012-1432] Congress.  Legislative branch"
+      ]
     },
     {
       "id": "JK1308-1432",
       "size": 382,
-      "subject": "House of Representatives"
+      "subject": "House of Representatives",
+      "parents": [
+        "J",
+        "JK",
+        "JK1-9993",
+        "JK1-9593",
+        "JK404-1685",
+        "JK1012-1432"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JK] Political institutions and public administration",
+        "[JK1-9993] Political institutions and public administration",
+        "[JK1-9593] United States",
+        "[JK404-1685] Government.  Public administration",
+        "[JK1012-1432] Congress.  Legislative branch"
+      ]
     },
     {
       "id": "JK1606-1683",
       "size": 621,
-      "subject": "Capital.  Public buildings.  Government"
+      "subject": "Capital.  Public buildings.  Government",
+      "parents": [
+        "J",
+        "JK",
+        "JK1-9993",
+        "JK1-9593",
+        "JK404-1685"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JK] Political institutions and public administration",
+        "[JK1-9993] Political institutions and public administration",
+        "[JK1-9593] United States",
+        "[JK404-1685] Government.  Public administration"
+      ]
     },
     {
       "id": "JK1717-2217",
       "size": 757,
-      "subject": "Political rights.  Practical politics"
+      "subject": "Political rights.  Practical politics",
+      "parents": [
+        "J",
+        "JK",
+        "JK1-9993",
+        "JK1-9593"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JK] Political institutions and public administration",
+        "[JK1-9993] Political institutions and public administration",
+        "[JK1-9593] United States"
+      ]
     },
     {
       "id": "JK1846-1929",
       "size": 790,
-      "subject": "Suffrage"
+      "subject": "Suffrage",
+      "parents": [
+        "J",
+        "JK",
+        "JK1-9993",
+        "JK1-9593",
+        "JK1717-2217"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JK] Political institutions and public administration",
+        "[JK1-9993] Political institutions and public administration",
+        "[JK1-9593] United States",
+        "[JK1717-2217] Political rights.  Practical politics"
+      ]
     },
     {
       "id": "JK1965-2217",
       "size": 1597,
-      "subject": "Electoral system"
+      "subject": "Electoral system",
+      "parents": [
+        "J",
+        "JK",
+        "JK1-9993",
+        "JK1-9593",
+        "JK1717-2217"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JK] Political institutions and public administration",
+        "[JK1-9993] Political institutions and public administration",
+        "[JK1-9593] United States",
+        "[JK1717-2217] Political rights.  Practical politics"
+      ]
     },
     {
       "id": "JK1758-1761",
       "size": 405,
-      "subject": "Citizenship"
+      "subject": "Citizenship",
+      "parents": [
+        "J",
+        "JK",
+        "JK1-9993",
+        "JK1-9593",
+        "JK1717-2217"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JK] Political institutions and public administration",
+        "[JK1-9993] Political institutions and public administration",
+        "[JK1-9593] United States",
+        "[JK1717-2217] Political rights.  Practical politics"
+      ]
     },
     {
       "id": "JS",
       "size": 0,
-      "subject": "Local government.  Municipal government"
+      "subject": "Local government.  Municipal government",
+      "parents": [
+        "J"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science"
+      ]
     },
     {
       "id": "JS39-8500",
       "size": 784,
-      "subject": "Local government.  Municipal government"
+      "subject": "Local government.  Municipal government",
+      "parents": [
+        "J",
+        "JS"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government"
+      ]
     },
     {
       "id": "JS3000-6949.89",
       "size": 6029,
-      "subject": "Europe"
+      "subject": "Europe",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government"
+      ]
     },
     {
       "id": "JS300-1583",
       "size": 4382,
-      "subject": "United States"
+      "subject": "United States",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government"
+      ]
     },
     {
       "id": "JS141-163",
       "size": 121,
-      "subject": "Executive branch.  Mayor"
+      "subject": "Executive branch.  Mayor",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government"
+      ]
     },
     {
       "id": "JS2300-2778",
       "size": 893,
-      "subject": "South America"
+      "subject": "South America",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government"
+      ]
     },
     {
       "id": "JS55-68",
       "size": 43,
-      "subject": "History"
+      "subject": "History",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government"
+      ]
     },
     {
       "id": "JS7525-7819.9",
       "size": 1040,
-      "subject": "Africa"
+      "subject": "Africa",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government"
+      ]
     },
     {
       "id": "JS6950-7520",
       "size": 4978,
-      "subject": "Asia"
+      "subject": "Asia",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government"
+      ]
     },
     {
       "id": "JS7520",
       "size": 2,
-      "subject": "Islamic countries"
+      "subject": "Islamic countries",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500",
+        "JS6950-7520"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government",
+        "[JS6950-7520] Asia"
+      ]
     },
     {
       "id": "JS7510",
       "size": 2,
-      "subject": "Arab countries"
+      "subject": "Arab countries",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500",
+        "JS6950-7520"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government",
+        "[JS6950-7520] Asia"
+      ]
     },
     {
       "id": "JS2145-2219",
       "size": 129,
-      "subject": "Central America"
+      "subject": "Central America",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government"
+      ]
     },
     {
       "id": "JS1840-2058.9",
       "size": 50,
-      "subject": "West Indies.  Caribbean Area"
+      "subject": "West Indies.  Caribbean Area",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government"
+      ]
     },
     {
       "id": "JS2101-2143",
       "size": 327,
-      "subject": "Mexico"
+      "subject": "Mexico",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government"
+      ]
     },
     {
       "id": "JS1701-1800",
       "size": 363,
-      "subject": "Canada"
+      "subject": "Canada",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government"
+      ]
     },
     {
       "id": "JS221-227",
       "size": 4,
-      "subject": "Elections.  Local elections.  Municipal elections"
+      "subject": "Elections.  Local elections.  Municipal elections",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government"
+      ]
     },
     {
       "id": "JS8001-8490.9",
       "size": 217,
-      "subject": "Australia.  New Zealand.  Pacific Ocean islands"
+      "subject": "Australia.  New Zealand.  Pacific Ocean islands",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government"
+      ]
     },
     {
       "id": "JS241-271",
       "size": 47,
-      "subject": "Local government other than municipal"
+      "subject": "Local government other than municipal",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government"
+      ]
     },
     {
       "id": "JS7900-7906.9",
       "size": 11,
-      "subject": "Indian Ocean islands"
+      "subject": "Indian Ocean islands",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government"
+      ]
     },
     {
       "id": "JS7820-7827.9",
       "size": 3,
-      "subject": "Atlantic Ocean islands"
+      "subject": "Atlantic Ocean islands",
+      "parents": [
+        "J",
+        "JS",
+        "JS39-8500"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JS] Local government.  Municipal government",
+        "[JS39-8500] Local government.  Municipal government"
+      ]
     },
     {
       "id": "JV",
       "size": 0,
-      "subject": "Colonies and colonization.  Emigration and"
+      "subject": "Colonies and colonization.  Emigration and",
+      "parents": [
+        "J"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science"
+      ]
     },
     {
       "id": "JV1-9480",
       "size": 0,
-      "subject": "Colonies and colonization.  Emigration and"
+      "subject": "Colonies and colonization.  Emigration and",
+      "parents": [
+        "J",
+        "JV"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and"
+      ]
     },
     {
       "id": "JV500-5397",
       "size": 1419,
-      "subject": "Colonizing nations"
+      "subject": "Colonizing nations",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and"
+      ]
     },
     {
       "id": "JV61-152",
       "size": 231,
-      "subject": "History"
+      "subject": "History",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and"
+      ]
     },
     {
       "id": "JV6001-9480",
       "size": 526,
-      "subject": "Emigration and immigration.  International"
+      "subject": "Emigration and immigration.  International",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and"
+      ]
     },
     {
       "id": "JV7200-7539",
       "size": 1074,
-      "subject": "Canada, Latin America, etc."
+      "subject": "Canada, Latin America, etc.",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480",
+        "JV6001-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and",
+        "[JV6001-9480] Emigration and immigration.  International"
+      ]
     },
     {
       "id": "JV6403-7127",
       "size": 1777,
-      "subject": "United States"
+      "subject": "United States",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480",
+        "JV6001-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and",
+        "[JV6001-9480] Emigration and immigration.  International"
+      ]
     },
     {
       "id": "JV7590-8339.7",
       "size": 3138,
-      "subject": "Europe"
+      "subject": "Europe",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480",
+        "JV6001-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and",
+        "[JV6001-9480] Emigration and immigration.  International"
+      ]
     },
     {
       "id": "JV8490-8758",
       "size": 720,
-      "subject": "Asia"
+      "subject": "Asia",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480",
+        "JV6001-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and",
+        "[JV6001-9480] Emigration and immigration.  International"
+      ]
     },
     {
       "id": "JV6201-6347",
       "size": 518,
-      "subject": "Immigration"
+      "subject": "Immigration",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480",
+        "JV6001-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and",
+        "[JV6001-9480] Emigration and immigration.  International"
+      ]
     },
     {
       "id": "JV8790-9024.5",
       "size": 245,
-      "subject": "Africa"
+      "subject": "Africa",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480",
+        "JV6001-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and",
+        "[JV6001-9480] Emigration and immigration.  International"
+      ]
     },
     {
       "id": "JV6091-6124",
       "size": 87,
-      "subject": "Emigration"
+      "subject": "Emigration",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480",
+        "JV6001-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and",
+        "[JV6001-9480] Emigration and immigration.  International"
+      ]
     },
     {
       "id": "JV6021-6033",
       "size": 153,
-      "subject": "History"
+      "subject": "History",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480",
+        "JV6001-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and",
+        "[JV6001-9480] Emigration and immigration.  International"
+      ]
     },
     {
       "id": "JV9100-9269",
       "size": 246,
-      "subject": "Australia.  New Zealand"
+      "subject": "Australia.  New Zealand",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480",
+        "JV6001-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and",
+        "[JV6001-9480] Emigration and immigration.  International"
+      ]
     },
     {
       "id": "JV9290-9470",
       "size": 20,
-      "subject": "Pacific Ocean islands"
+      "subject": "Pacific Ocean islands",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480",
+        "JV6001-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and",
+        "[JV6001-9480] Emigration and immigration.  International"
+      ]
     },
     {
       "id": "JV8760",
       "size": 6,
-      "subject": "Arab countries"
+      "subject": "Arab countries",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480",
+        "JV6001-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and",
+        "[JV6001-9480] Emigration and immigration.  International"
+      ]
     },
     {
       "id": "JV6001-6006",
       "size": 121,
-      "subject": "Periodicals.  Serials"
+      "subject": "Periodicals.  Serials",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480",
+        "JV6001-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and",
+        "[JV6001-9480] Emigration and immigration.  International"
+      ]
     },
     {
       "id": "JV9029-9036",
       "size": 16,
-      "subject": "Atlantic Ocean islands"
+      "subject": "Atlantic Ocean islands",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480",
+        "JV6001-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and",
+        "[JV6001-9480] Emigration and immigration.  International"
+      ]
     },
     {
       "id": "JV9040-9047",
       "size": 1,
-      "subject": "Indian Ocean islands"
+      "subject": "Indian Ocean islands",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480",
+        "JV6001-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and",
+        "[JV6001-9480] Emigration and immigration.  International"
+      ]
     },
     {
       "id": "JV1-5397",
       "size": 427,
-      "subject": "Colonies and colonization"
+      "subject": "Colonies and colonization",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and"
+      ]
     },
     {
       "id": "JV412-461",
       "size": 45,
-      "subject": "Administration"
+      "subject": "Administration",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and"
+      ]
     },
     {
       "id": "JV10-19",
       "size": 15,
-      "subject": "Societies"
+      "subject": "Societies",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and"
+      ]
     },
     {
       "id": "JV1-9",
       "size": 17,
-      "subject": "Periodicals.  Serials"
+      "subject": "Periodicals.  Serials",
+      "parents": [
+        "J",
+        "JV",
+        "JV1-9480"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JV] Colonies and colonization.  Emigration and",
+        "[JV1-9480] Colonies and colonization.  Emigration and"
+      ]
     },
     {
       "id": "JA",
       "size": 0,
-      "subject": "Political science (General)"
+      "subject": "Political science (General)",
+      "parents": [
+        "J"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science"
+      ]
     },
     {
       "id": "JA1-92",
       "size": 2577,
-      "subject": "Political science (General)"
+      "subject": "Political science (General)",
+      "parents": [
+        "J",
+        "JA"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JA] Political science (General)"
+      ]
     },
     {
       "id": "JA71-80",
       "size": 4311,
-      "subject": "Theory.  Relations to other subjects"
+      "subject": "Theory.  Relations to other subjects",
+      "parents": [
+        "J",
+        "JA",
+        "JA1-92"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JA] Political science (General)",
+        "[JA1-92] Political science (General)"
+      ]
     },
     {
       "id": "JA81-84",
       "size": 3283,
-      "subject": "History"
+      "subject": "History",
+      "parents": [
+        "J",
+        "JA",
+        "JA1-92"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JA] Political science (General)",
+        "[JA1-92] Political science (General)"
+      ]
     },
     {
       "id": "JA35.5",
       "size": 64,
-      "subject": "Congresses"
+      "subject": "Congresses",
+      "parents": [
+        "J",
+        "JA",
+        "JA1-92"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JA] Political science (General)",
+        "[JA1-92] Political science (General)"
+      ]
     },
     {
       "id": "JA60-64",
       "size": 587,
-      "subject": "Dictionaries and encyclopedias"
+      "subject": "Dictionaries and encyclopedias",
+      "parents": [
+        "J",
+        "JA",
+        "JA1-92"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JA] Political science (General)",
+        "[JA1-92] Political science (General)"
+      ]
     },
     {
       "id": "JA86-88",
       "size": 834,
-      "subject": "Study and teaching.  Research"
+      "subject": "Study and teaching.  Research",
+      "parents": [
+        "J",
+        "JA",
+        "JA1-92"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JA] Political science (General)",
+        "[JA1-92] Political science (General)"
+      ]
     },
     {
       "id": "JA92",
       "size": 19,
-      "subject": "Collective biography of political scientists"
+      "subject": "Collective biography of political scientists",
+      "parents": [
+        "J",
+        "JA",
+        "JA1-92"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JA] Political science (General)",
+        "[JA1-92] Political science (General)"
+      ]
     },
     {
       "id": "JA1-26",
       "size": 866,
-      "subject": "Periodicals"
+      "subject": "Periodicals",
+      "parents": [
+        "J",
+        "JA",
+        "JA1-92"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JA] Political science (General)",
+        "[JA1-92] Political science (General)"
+      ]
     },
     {
       "id": "JA27-34",
       "size": 90,
-      "subject": "Societies"
+      "subject": "Societies",
+      "parents": [
+        "J",
+        "JA",
+        "JA1-92"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JA] Political science (General)",
+        "[JA1-92] Political science (General)"
+      ]
     },
     {
       "id": "JX",
       "size": 0,
-      "subject": "International law, see JZ and KZ"
+      "subject": "International law, see JZ and KZ",
+      "parents": [
+        "J"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science"
+      ]
     },
     {
       "id": "JX1-6650",
       "size": 1424,
-      "subject": "International law, see JZ and KZ"
+      "subject": "International law, see JZ and KZ",
+      "parents": [
+        "J",
+        "JX"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JX] International law, see JZ and KZ"
+      ]
     },
     {
       "id": "JX1621-1896",
       "size": 1753,
-      "subject": "Diplomacy"
+      "subject": "Diplomacy",
+      "parents": [
+        "J",
+        "JX",
+        "JX1-6650"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JX] International law, see JZ and KZ",
+        "[JX1-6650] International law, see JZ and KZ"
+      ]
     },
     {
       "id": "JX220-1195",
       "size": 3430,
-      "subject": "Collections, cases, etc.  By country"
+      "subject": "Collections, cases, etc.  By country",
+      "parents": [
+        "J",
+        "JX",
+        "JX1-6650"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JX] International law, see JZ and KZ",
+        "[JX1-6650] International law, see JZ and KZ"
+      ]
     },
     {
       "id": "JX1901-1995",
       "size": 13709,
-      "subject": "International arbitration, organization, etc."
+      "subject": "International arbitration, organization, etc.",
+      "parents": [
+        "J",
+        "JX",
+        "JX1-6650"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JX] International law, see JZ and KZ",
+        "[JX1-6650] International law, see JZ and KZ"
+      ]
     },
     {
       "id": "JX2001-6650",
       "size": 7444,
-      "subject": "International law"
+      "subject": "International law",
+      "parents": [
+        "J",
+        "JX",
+        "JX1-6650"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JX] International law, see JZ and KZ",
+        "[JX1-6650] International law, see JZ and KZ"
+      ]
     },
     {
       "id": "JX1305-1598",
       "size": 4444,
-      "subject": "Foreign relations"
+      "subject": "Foreign relations",
+      "parents": [
+        "J",
+        "JX",
+        "JX1-6650"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JX] International law, see JZ and KZ",
+        "[JX1-6650] International law, see JZ and KZ"
+      ]
     },
     {
       "id": "JX63-191",
       "size": 500,
-      "subject": "Collections.  Documents.  Cases"
+      "subject": "Collections.  Documents.  Cases",
+      "parents": [
+        "J",
+        "JX",
+        "JX1-6650"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JX] International law, see JZ and KZ",
+        "[JX1-6650] International law, see JZ and KZ"
+      ]
     },
     {
       "id": "JX1261-1283",
       "size": 43,
-      "subject": "Codification of international law"
+      "subject": "Codification of international law",
+      "parents": [
+        "J",
+        "JX",
+        "JX1-6650"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JX] International law, see JZ and KZ",
+        "[JX1-6650] International law, see JZ and KZ"
+      ]
     },
     {
       "id": "JN",
       "size": 0,
-      "subject": "Political institutions and public administration (Europe)"
+      "subject": "Political institutions and public administration (Europe)",
+      "parents": [
+        "J"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science"
+      ]
     },
     {
       "id": "JN1-9689",
       "size": 951,
-      "subject": "Political institutions and public administration (Europe)"
+      "subject": "Political institutions and public administration (Europe)",
+      "parents": [
+        "J",
+        "JN"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN8701-9599",
       "size": 546,
-      "subject": "Switzerland"
+      "subject": "Switzerland",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN1-97",
       "size": 5119,
-      "subject": "General"
+      "subject": "General",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN2301-3007",
       "size": 3214,
-      "subject": "France"
+      "subject": "France",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN6690-6699",
       "size": 2452,
-      "subject": "Russia (Federation)"
+      "subject": "Russia (Federation)",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN101-1371",
       "size": 4918,
-      "subject": "Great Britain"
+      "subject": "Great Britain",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN1187-1371",
       "size": 148,
-      "subject": "Scotland"
+      "subject": "Scotland",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689",
+        "JN101-1371"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)",
+        "[JN101-1371] Great Britain"
+      ]
     },
     {
       "id": "JN6750-6769",
       "size": 1462,
-      "subject": "Poland"
+      "subject": "Poland",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN7011-7066",
       "size": 148,
-      "subject": "Scandinavia.  Northern Europe"
+      "subject": "Scandinavia.  Northern Europe",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN3201-4944",
       "size": 6312,
-      "subject": "Germany"
+      "subject": "Germany",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN8101-8399",
       "size": 2057,
-      "subject": "Spain"
+      "subject": "Spain",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN6630-6639",
       "size": 614,
-      "subject": "Ukraine"
+      "subject": "Ukraine",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN5201-5690",
       "size": 3263,
-      "subject": "Italy"
+      "subject": "Italy",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN6500-6598",
       "size": 3851,
-      "subject": "Soviet Union.  Russia.  Former Soviet Republics"
+      "subject": "Soviet Union.  Russia.  Former Soviet Republics",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN2210-2229",
       "size": 429,
-      "subject": "Czech Republic.  Czechoslovakia"
+      "subject": "Czech Republic.  Czechoslovakia",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN7401-7695",
       "size": 289,
-      "subject": "Norway"
+      "subject": "Norway",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN5001-5191",
       "size": 376,
-      "subject": "Greece"
+      "subject": "Greece",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN1601-2191",
       "size": 1090,
-      "subject": "Austria-Hungary.  Austria.  Hungary"
+      "subject": "Austria-Hungary.  Austria.  Hungary",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN9600-9689",
       "size": 2230,
-      "subject": "Balkan States"
+      "subject": "Balkan States",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN7390-7399",
       "size": 245,
-      "subject": "Finland"
+      "subject": "Finland",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN8423-8661",
       "size": 370,
-      "subject": "Portugal"
+      "subject": "Portugal",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN7721-7995",
       "size": 707,
-      "subject": "Sweden"
+      "subject": "Sweden",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN6101-6371",
       "size": 444,
-      "subject": "Belgium"
+      "subject": "Belgium",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN5701-5999",
       "size": 902,
-      "subject": "Netherlands"
+      "subject": "Netherlands",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN7101-7367",
       "size": 501,
-      "subject": "Denmark"
+      "subject": "Denmark",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN6615",
       "size": 95,
-      "subject": "Estonia"
+      "subject": "Estonia",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN6640-6649",
       "size": 112,
-      "subject": "Belarus"
+      "subject": "Belarus",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN6745",
       "size": 118,
-      "subject": "Lithuania"
+      "subject": "Lithuania",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN1395-1571.5",
       "size": 385,
-      "subject": "Ireland"
+      "subject": "Ireland",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN2240",
       "size": 52,
-      "subject": "Slovakia"
+      "subject": "Slovakia",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN7380-7389",
       "size": 28,
-      "subject": "Iceland"
+      "subject": "Iceland",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN6680-6689",
       "size": 74,
-      "subject": "Moldova"
+      "subject": "Moldova",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN6730-6739",
       "size": 105,
-      "subject": "Latvia"
+      "subject": "Latvia",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JN7370-7379",
       "size": 17,
-      "subject": "Greenland"
+      "subject": "Greenland",
+      "parents": [
+        "J",
+        "JN",
+        "JN1-9689"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JN] Political institutions and public administration (Europe)",
+        "[JN1-9689] Political institutions and public administration (Europe)"
+      ]
     },
     {
       "id": "JZ",
       "size": 0,
-      "subject": "International relations"
+      "subject": "International relations",
+      "parents": [
+        "J"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science"
+      ]
     },
     {
       "id": "JZ5-6530",
       "size": 783,
-      "subject": "International relations"
+      "subject": "International relations",
+      "parents": [
+        "J",
+        "JZ"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations"
+      ]
     },
     {
       "id": "JZ1305-2060",
       "size": 2857,
-      "subject": "Scope of international relations. Political theory."
+      "subject": "Scope of international relations. Political theory.",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations"
+      ]
     },
     {
       "id": "JZ1464-2060",
       "size": 2130,
-      "subject": "Scope of international relations with regard to"
+      "subject": "Scope of international relations with regard to",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530",
+        "JZ1305-2060"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations",
+        "[JZ1305-2060] Scope of international relations. Political theory."
+      ]
     },
     {
       "id": "JZ1400-1454",
       "size": 136,
-      "subject": "Diplomatic and consular service"
+      "subject": "Diplomatic and consular service",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530",
+        "JZ1305-2060"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations",
+        "[JZ1305-2060] Scope of international relations. Political theory."
+      ]
     },
     {
       "id": "JZ1329.5-1395",
       "size": 41,
-      "subject": "By period"
+      "subject": "By period",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530",
+        "JZ1305-2060"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations",
+        "[JZ1305-2060] Scope of international relations. Political theory."
+      ]
     },
     {
       "id": "JZ1249-1254",
       "size": 204,
-      "subject": "Relation to other disciplines and topics"
+      "subject": "Relation to other disciplines and topics",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations"
+      ]
     },
     {
       "id": "JZ5511.2-6300",
       "size": 1653,
-      "subject": "Promotion of peace.  Peaceful change"
+      "subject": "Promotion of peace.  Peaceful change",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations"
+      ]
     },
     {
       "id": "JZ6010-6060",
       "size": 138,
-      "subject": "Pacific settlement of international disputes"
+      "subject": "Pacific settlement of international disputes",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530",
+        "JZ5511.2-6300"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations",
+        "[JZ5511.2-6300] Promotion of peace.  Peaceful change"
+      ]
     },
     {
       "id": "JZ5587-6009",
       "size": 1632,
-      "subject": "International security.  Disarmament.  Global survival"
+      "subject": "International security.  Disarmament.  Global survival",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530",
+        "JZ5511.2-6300"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations",
+        "[JZ5511.2-6300] Promotion of peace.  Peaceful change"
+      ]
     },
     {
       "id": "JZ5514-5526",
       "size": 77,
-      "subject": "Societies, associations, academies, institutes, etc.,"
+      "subject": "Societies, associations, academies, institutes, etc.,",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530",
+        "JZ5511.2-6300"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations",
+        "[JZ5511.2-6300] Promotion of peace.  Peaceful change"
+      ]
     },
     {
       "id": "JZ5527-5532",
       "size": 45,
-      "subject": "Congresses and conferences"
+      "subject": "Congresses and conferences",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530",
+        "JZ5511.2-6300"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations",
+        "[JZ5511.2-6300] Promotion of peace.  Peaceful change"
+      ]
     },
     {
       "id": "JZ4835-5490",
       "size": 70,
-      "subject": "International organizations and associations"
+      "subject": "International organizations and associations",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations"
+      ]
     },
     {
       "id": "JZ4850-5490",
       "size": 311,
-      "subject": "Intergovernmental organizations.  IGOs"
+      "subject": "Intergovernmental organizations.  IGOs",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530",
+        "JZ4835-5490"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations",
+        "[JZ4835-5490] International organizations and associations"
+      ]
     },
     {
       "id": "JZ4935-5160",
       "size": 812,
-      "subject": "United Nations"
+      "subject": "United Nations",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530",
+        "JZ4835-5490",
+        "JZ4850-5490"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations",
+        "[JZ4835-5490] International organizations and associations",
+        "[JZ4850-5490] Intergovernmental organizations.  IGOs"
+      ]
     },
     {
       "id": "JZ4853-4934",
       "size": 45,
-      "subject": "League of Nations"
+      "subject": "League of Nations",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530",
+        "JZ4835-5490",
+        "JZ4850-5490"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations",
+        "[JZ4835-5490] International organizations and associations",
+        "[JZ4850-5490] Intergovernmental organizations.  IGOs"
+      ]
     },
     {
       "id": "JZ4841-4848",
       "size": 224,
-      "subject": "Political non-governmental organizations."
+      "subject": "Political non-governmental organizations.",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530",
+        "JZ4835-5490"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations",
+        "[JZ4835-5490] International organizations and associations"
+      ]
     },
     {
       "id": "JZ6385-6405",
       "size": 176,
-      "subject": "The armed conflict.  War and order"
+      "subject": "The armed conflict.  War and order",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations"
+      ]
     },
     {
       "id": "JZ63-1153",
       "size": 9,
-      "subject": "Sources"
+      "subject": "Sources",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations"
+      ]
     },
     {
       "id": "JZ221-1153",
       "size": 92,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530",
+        "JZ63-1153"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations",
+        "[JZ63-1153] Sources"
+      ]
     },
     {
       "id": "JZ6360-6377",
       "size": 526,
-      "subject": "Non-military coercion"
+      "subject": "Non-military coercion",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations"
+      ]
     },
     {
       "id": "JZ3674-3875",
       "size": 6,
-      "subject": "State territory and its parts"
+      "subject": "State territory and its parts",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations"
+      ]
     },
     {
       "id": "JZ3686-3875",
       "size": 23,
-      "subject": "International waters"
+      "subject": "International waters",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530",
+        "JZ3674-3875"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations",
+        "[JZ3674-3875] State territory and its parts"
+      ]
     },
     {
       "id": "JZ3685",
       "size": 1,
-      "subject": "Boundaries"
+      "subject": "Boundaries",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530",
+        "JZ3674-3875"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations",
+        "[JZ3674-3875] State territory and its parts"
+      ]
     },
     {
       "id": "JZ24-38",
       "size": 41,
-      "subject": "Societies, associations, academies, institutes, etc.,"
+      "subject": "Societies, associations, academies, institutes, etc.,",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations"
+      ]
     },
     {
       "id": "JZ6422-6422.5",
       "size": 10,
-      "subject": "Neutrality.  Non-participation in wars.  Norms of"
+      "subject": "Neutrality.  Non-participation in wars.  Norms of",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations"
+      ]
     },
     {
       "id": "JZ6530",
       "size": 2,
-      "subject": "Humanitarian aspects of war"
+      "subject": "Humanitarian aspects of war",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations"
+      ]
     },
     {
       "id": "JZ5.5-18",
       "size": 325,
-      "subject": "Periodicals"
+      "subject": "Periodicals",
+      "parents": [
+        "J",
+        "JZ",
+        "JZ5-6530"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JZ] International relations",
+        "[JZ5-6530] International relations"
+      ]
     },
     {
       "id": "JL",
       "size": 0,
-      "subject": "Political institutions and public administration"
+      "subject": "Political institutions and public administration",
+      "parents": [
+        "J"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science"
+      ]
     },
     {
       "id": "JL1-3899",
       "size": 1670,
-      "subject": "Political institutions and public administration"
+      "subject": "Political institutions and public administration",
+      "parents": [
+        "J",
+        "JL"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JL] Political institutions and public administration"
+      ]
     },
     {
       "id": "JL599.5-839",
       "size": 480,
-      "subject": "West Indies.  Caribbean Area"
+      "subject": "West Indies.  Caribbean Area",
+      "parents": [
+        "J",
+        "JL",
+        "JL1-3899"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JL] Political institutions and public administration",
+        "[JL1-3899] Political institutions and public administration"
+      ]
     },
     {
       "id": "JL1400-1679",
       "size": 1122,
-      "subject": "Central America"
+      "subject": "Central America",
+      "parents": [
+        "J",
+        "JL",
+        "JL1-3899"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JL] Political institutions and public administration",
+        "[JL1-3899] Political institutions and public administration"
+      ]
     },
     {
       "id": "JL1850-3899",
       "size": 6724,
-      "subject": "South America"
+      "subject": "South America",
+      "parents": [
+        "J",
+        "JL",
+        "JL1-3899"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JL] Political institutions and public administration",
+        "[JL1-3899] Political institutions and public administration"
+      ]
     },
     {
       "id": "JL1200-1299",
       "size": 2178,
-      "subject": "Mexico"
+      "subject": "Mexico",
+      "parents": [
+        "J",
+        "JL",
+        "JL1-3899"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JL] Political institutions and public administration",
+        "[JL1-3899] Political institutions and public administration"
+      ]
     },
     {
       "id": "JL1-500",
       "size": 2613,
-      "subject": "Canada"
+      "subject": "Canada",
+      "parents": [
+        "J",
+        "JL",
+        "JL1-3899"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JL] Political institutions and public administration",
+        "[JL1-3899] Political institutions and public administration"
+      ]
     },
     {
       "id": "J1-981",
       "size": 166,
-      "subject": "General legislative and executive papers"
+      "subject": "General legislative and executive papers",
+      "parents": [
+        "J"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science"
+      ]
     },
     {
       "id": "J80-87",
       "size": 2940,
-      "subject": "United States"
+      "subject": "United States",
+      "parents": [
+        "J",
+        "J1-981"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[J1-981] General legislative and executive papers"
+      ]
     },
     {
       "id": "J80-82",
       "size": 165,
-      "subject": "Presidents' messages and other executive"
+      "subject": "Presidents' messages and other executive",
+      "parents": [
+        "J",
+        "J1-981",
+        "J80-87"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[J1-981] General legislative and executive papers",
+        "[J80-87] United States"
+      ]
     },
     {
       "id": "J100-981",
       "size": 5826,
-      "subject": "Other regions and countries"
+      "subject": "Other regions and countries",
+      "parents": [
+        "J",
+        "J1-981"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[J1-981] General legislative and executive papers"
+      ]
     },
     {
       "id": "J1-9",
       "size": 180,
-      "subject": "Gazettes"
+      "subject": "Gazettes",
+      "parents": [
+        "J",
+        "J1-981"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[J1-981] General legislative and executive papers"
+      ]
     },
     {
       "id": "JQ",
       "size": 0,
-      "subject": "Political institutions and public administration (Asia,"
+      "subject": "Political institutions and public administration (Asia,",
+      "parents": [
+        "J"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science"
+      ]
     },
     {
       "id": "JQ21-6651",
       "size": 2,
-      "subject": "Political institutions and public administration (Asia,"
+      "subject": "Political institutions and public administration (Asia,",
+      "parents": [
+        "J",
+        "JQ"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JQ] Political institutions and public administration (Asia,"
+      ]
     },
     {
       "id": "JQ21-1852",
       "size": 26027,
-      "subject": "Asia"
+      "subject": "Asia",
+      "parents": [
+        "J",
+        "JQ",
+        "JQ21-6651"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JQ] Political institutions and public administration (Asia,",
+        "[JQ21-6651] Political institutions and public administration (Asia,"
+      ]
     },
     {
       "id": "JQ1870-3981",
       "size": 8620,
-      "subject": "Africa"
+      "subject": "Africa",
+      "parents": [
+        "J",
+        "JQ",
+        "JQ21-6651"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JQ] Political institutions and public administration (Asia,",
+        "[JQ21-6651] Political institutions and public administration (Asia,"
+      ]
     },
     {
       "id": "JQ3995-6651",
       "size": 2137,
-      "subject": "Australia.  New Zealand.  Pacific Ocean islands"
+      "subject": "Australia.  New Zealand.  Pacific Ocean islands",
+      "parents": [
+        "J",
+        "JQ",
+        "JQ21-6651"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JQ] Political institutions and public administration (Asia,",
+        "[JQ21-6651] Political institutions and public administration (Asia,"
+      ]
     },
     {
       "id": "JQ1758-1852",
       "size": 0,
-      "subject": "Middle East"
+      "subject": "Middle East",
+      "parents": [
+        "J",
+        "JQ",
+        "JQ21-6651"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JQ] Political institutions and public administration (Asia,",
+        "[JQ21-6651] Political institutions and public administration (Asia,"
+      ]
     },
     {
       "id": "JQ1850",
       "size": 399,
-      "subject": "Arab countries"
+      "subject": "Arab countries",
+      "parents": [
+        "J",
+        "JQ",
+        "JQ21-6651",
+        "JQ1758-1852"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JQ] Political institutions and public administration (Asia,",
+        "[JQ21-6651] Political institutions and public administration (Asia,",
+        "[JQ1758-1852] Middle East"
+      ]
     },
     {
       "id": "JQ1852",
       "size": 37,
-      "subject": "Islamic countries"
+      "subject": "Islamic countries",
+      "parents": [
+        "J",
+        "JQ",
+        "JQ21-6651",
+        "JQ1758-1852"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JQ] Political institutions and public administration (Asia,",
+        "[JQ21-6651] Political institutions and public administration (Asia,",
+        "[JQ1758-1852] Middle East"
+      ]
     },
     {
       "id": "JQ3981.5-3986.7",
       "size": 3,
-      "subject": "Atlantic Ocean islands"
+      "subject": "Atlantic Ocean islands",
+      "parents": [
+        "J",
+        "JQ",
+        "JQ21-6651"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JQ] Political institutions and public administration (Asia,",
+        "[JQ21-6651] Political institutions and public administration (Asia,"
+      ]
     },
     {
       "id": "JJ",
       "size": 0,
-      "subject": "Political institutions and public administration"
+      "subject": "Political institutions and public administration",
+      "parents": [
+        "J"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science"
+      ]
     },
     {
       "id": "JJ1000-1019",
       "size": 10,
-      "subject": "Political institutions and public administration"
+      "subject": "Political institutions and public administration",
+      "parents": [
+        "J",
+        "JJ"
+      ],
+      "parentsSubjects": [
+        "[J] Political Science",
+        "[JJ] Political institutions and public administration"
+      ]
     }
   ],
   "links": [

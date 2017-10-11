@@ -3,1082 +3,3354 @@
     {
       "id": "S",
       "size": 0,
-      "subject": "Agriculture"
+      "subject": "Agriculture",
+      "parents": [
+        "S"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture"
+      ]
     },
     {
       "id": "SF",
       "size": 0,
-      "subject": "Animal culture"
+      "subject": "Animal culture",
+      "parents": [
+        "S"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture"
+      ]
     },
     {
       "id": "SF1-1100",
       "size": 1680,
-      "subject": "Animal culture"
+      "subject": "Animal culture",
+      "parents": [
+        "S",
+        "SF"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture"
+      ]
     },
     {
       "id": "SF600-1100",
       "size": 2185,
-      "subject": "Veterinary medicine"
+      "subject": "Veterinary medicine",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF951-997.5",
       "size": 2165,
-      "subject": "Diseases of special classes of animals"
+      "subject": "Diseases of special classes of animals",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF600-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF600-1100] Veterinary medicine"
+      ]
     },
     {
       "id": "SF911-914.4",
       "size": 138,
-      "subject": "Veterinary surgery"
+      "subject": "Veterinary surgery",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF600-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF600-1100] Veterinary medicine"
+      ]
     },
     {
       "id": "SF914.3-914.4",
       "size": 15,
-      "subject": "Veterinary traumatology.    Veterinary emergencies"
+      "subject": "Veterinary traumatology.    Veterinary emergencies",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF600-1100",
+        "SF911-914.4"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF600-1100] Veterinary medicine",
+        "[SF911-914.4] Veterinary surgery"
+      ]
     },
     {
       "id": "SF756.5-769.5",
       "size": 866,
-      "subject": "Special preclinical sciences"
+      "subject": "Special preclinical sciences",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF600-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF600-1100] Veterinary medicine"
+      ]
     },
     {
       "id": "SF811-909",
       "size": 395,
-      "subject": "Veterinary medicine of special organs, regions, and"
+      "subject": "Veterinary medicine of special organs, regions, and",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF600-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF600-1100] Veterinary medicine"
+      ]
     },
     {
       "id": "SF915-919.5",
       "size": 240,
-      "subject": "Veterinary pharmacology"
+      "subject": "Veterinary pharmacology",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF600-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF600-1100] Veterinary medicine"
+      ]
     },
     {
       "id": "SF781-809",
       "size": 315,
-      "subject": "Communicable diseases of animals (General)"
+      "subject": "Communicable diseases of animals (General)",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF600-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF600-1100] Veterinary medicine"
+      ]
     },
     {
       "id": "SF914.5",
       "size": 9,
-      "subject": "Veterinary acupuncture"
+      "subject": "Veterinary acupuncture",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF600-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF600-1100] Veterinary medicine"
+      ]
     },
     {
       "id": "SF810",
       "size": 161,
-      "subject": "Veterinary parasitology"
+      "subject": "Veterinary parasitology",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF600-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF600-1100] Veterinary medicine"
+      ]
     },
     {
       "id": "SF780.2-780.7",
       "size": 67,
-      "subject": "Veterinary microbiology, bacteriology, virology, mycology"
+      "subject": "Veterinary microbiology, bacteriology, virology, mycology",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF600-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF600-1100] Veterinary medicine"
+      ]
     },
     {
       "id": "SF810.5-810.7",
       "size": 40,
-      "subject": "Predatory animals and their control"
+      "subject": "Predatory animals and their control",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF600-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF600-1100] Veterinary medicine"
+      ]
     },
     {
       "id": "SF910",
       "size": 48,
-      "subject": "Other diseases and conditions"
+      "subject": "Other diseases and conditions",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF600-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF600-1100] Veterinary medicine"
+      ]
     },
     {
       "id": "SF780.9",
       "size": 22,
-      "subject": "Veterinary epidemiology.    Epizootiology"
+      "subject": "Veterinary epidemiology.    Epizootiology",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF600-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF600-1100] Veterinary medicine"
+      ]
     },
     {
       "id": "SF910.5",
       "size": 8,
-      "subject": "Veterinary orthopedics"
+      "subject": "Veterinary orthopedics",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF600-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF600-1100] Veterinary medicine"
+      ]
     },
     {
       "id": "SF925",
       "size": 3,
-      "subject": "Veterinary physical medicine"
+      "subject": "Veterinary physical medicine",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF600-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF600-1100] Veterinary medicine"
+      ]
     },
     {
       "id": "SF105-109",
       "size": 274,
-      "subject": "Breeding and breeds"
+      "subject": "Breeding and breeds",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF191-275",
       "size": 1508,
-      "subject": "Cattle"
+      "subject": "Cattle",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF250.5-275",
       "size": 720,
-      "subject": "Dairy processing.    Dairy products"
+      "subject": "Dairy processing.    Dairy products",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF191-275"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF191-275] Cattle"
+      ]
     },
     {
       "id": "SF221-250",
       "size": 996,
-      "subject": "Dairying"
+      "subject": "Dairying",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF191-275"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF191-275] Cattle"
+      ]
     },
     {
       "id": "SF411-459",
       "size": 736,
-      "subject": "Pets"
+      "subject": "Pets",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF451-455",
       "size": 270,
-      "subject": "Rabbits and hares"
+      "subject": "Rabbits and hares",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF411-459"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF411-459] Pets"
+      ]
     },
     {
       "id": "SF421-440.2",
       "size": 6930,
-      "subject": "Dogs.    Dog racing"
+      "subject": "Dogs.    Dog racing",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF411-459"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF411-459] Pets"
+      ]
     },
     {
       "id": "SF456-458.83",
       "size": 844,
-      "subject": "Fishes.    Aquariums"
+      "subject": "Fishes.    Aquariums",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF411-459"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF411-459] Pets"
+      ]
     },
     {
       "id": "SF441-450",
       "size": 1598,
-      "subject": "Cats"
+      "subject": "Cats",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF411-459"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF411-459] Pets"
+      ]
     },
     {
       "id": "SF459",
       "size": 937,
-      "subject": "Other animals"
+      "subject": "Other animals",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF411-459"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF411-459] Pets"
+      ]
     },
     {
       "id": "SF361-361.73",
       "size": 58,
-      "subject": "Donkeys"
+      "subject": "Donkeys",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF461-473",
       "size": 814,
-      "subject": "Birds.    Cage birds"
+      "subject": "Birds.    Cage birds",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF277-360.4",
       "size": 3029,
-      "subject": "Horses"
+      "subject": "Horses",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF308.5-310.5",
       "size": 1046,
-      "subject": "Horsemanship.    Riding"
+      "subject": "Horsemanship.    Riding",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF277-360.4"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF277-360.4] Horses"
+      ]
     },
     {
       "id": "SF321-359.7",
       "size": 1564,
-      "subject": "Racing"
+      "subject": "Racing",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF277-360.4"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF277-360.4] Horses"
+      ]
     },
     {
       "id": "SF294.2-297",
       "size": 413,
-      "subject": "Horse sports.    Horse shows"
+      "subject": "Horse sports.    Horse shows",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF277-360.4"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF277-360.4] Horses"
+      ]
     },
     {
       "id": "SF311-312",
       "size": 54,
-      "subject": "Draft horses"
+      "subject": "Draft horses",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF277-360.4"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF277-360.4] Horses"
+      ]
     },
     {
       "id": "SF360-360.4",
       "size": 78,
-      "subject": "Feral horses.    Wild horses"
+      "subject": "Feral horses.    Wild horses",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF277-360.4"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF277-360.4] Horses"
+      ]
     },
     {
       "id": "SF315-315.5",
       "size": 181,
-      "subject": "Ponies"
+      "subject": "Ponies",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF277-360.4"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF277-360.4] Horses"
+      ]
     },
     {
       "id": "SF304.5-307",
       "size": 55,
-      "subject": "Driving"
+      "subject": "Driving",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100",
+        "SF277-360.4"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture",
+        "[SF277-360.4] Horses"
+      ]
     },
     {
       "id": "SF481-507",
       "size": 1208,
-      "subject": "Poultry.    Eggs"
+      "subject": "Poultry.    Eggs",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF391-397.83",
       "size": 535,
-      "subject": "Swine"
+      "subject": "Swine",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF371-379",
       "size": 758,
-      "subject": "Sheep.    Wool"
+      "subject": "Sheep.    Wool",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF380-388",
       "size": 200,
-      "subject": "Goats"
+      "subject": "Goats",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF541-560",
       "size": 317,
-      "subject": "Sericulture.    Silk culture"
+      "subject": "Sericulture.    Silk culture",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF94.5-99",
       "size": 699,
-      "subject": "Feeds and feeding.    Animal nutrition"
+      "subject": "Feeds and feeding.    Animal nutrition",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF409",
       "size": 12,
-      "subject": "Small animal culture"
+      "subject": "Small animal culture",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF84.82-85.6",
       "size": 373,
-      "subject": "Rangelands.    Range management.    Grazing"
+      "subject": "Rangelands.    Range management.    Grazing",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF521-539.8",
       "size": 728,
-      "subject": "Bee culture"
+      "subject": "Bee culture",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF405.5-407",
       "size": 189,
-      "subject": "Laboratory animals"
+      "subject": "Laboratory animals",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF41-55",
       "size": 900,
-      "subject": "History"
+      "subject": "History",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF114-121",
       "size": 42,
-      "subject": "Exhibitions"
+      "subject": "Exhibitions",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF84-84.64",
       "size": 92,
-      "subject": "Economic zoology"
+      "subject": "Economic zoology",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF91",
       "size": 43,
-      "subject": "Housing and environmental control"
+      "subject": "Housing and environmental control",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF170-180",
       "size": 39,
-      "subject": "Working animals"
+      "subject": "Working animals",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF101-103.5",
       "size": 75,
-      "subject": "Brands and branding, and other means of identifying"
+      "subject": "Brands and branding, and other means of identifying",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF508-510.6",
       "size": 71,
-      "subject": "Game birds"
+      "subject": "Game birds",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF402-405",
       "size": 140,
-      "subject": "Fur-bearing animals"
+      "subject": "Fur-bearing animals",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF111-113",
       "size": 5,
-      "subject": "Cost, yield, and profit.    Accounting"
+      "subject": "Cost, yield, and profit.    Accounting",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF87",
       "size": 5,
-      "subject": "Acclimatization"
+      "subject": "Acclimatization",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF561",
       "size": 7,
-      "subject": "Lac-insects"
+      "subject": "Lac-insects",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF512-513",
       "size": 14,
-      "subject": "Ornamental birds"
+      "subject": "Ornamental birds",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF92",
       "size": 4,
-      "subject": "Equipment and supplies"
+      "subject": "Equipment and supplies",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF362",
       "size": 20,
-      "subject": "Mules"
+      "subject": "Mules",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF518",
       "size": 13,
-      "subject": "Insect rearing"
+      "subject": "Insect rearing",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF408-408.6",
       "size": 75,
-      "subject": "Zoo animals"
+      "subject": "Zoo animals",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF89",
       "size": 4,
-      "subject": "Transportation"
+      "subject": "Transportation",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "SF515-515.5",
       "size": 37,
-      "subject": "Reptiles"
+      "subject": "Reptiles",
+      "parents": [
+        "S",
+        "SF",
+        "SF1-1100"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SF] Animal culture",
+        "[SF1-1100] Animal culture"
+      ]
     },
     {
       "id": "S1-972",
       "size": 7912,
-      "subject": "Agriculture (General)"
+      "subject": "Agriculture (General)",
+      "parents": [
+        "S"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture"
+      ]
     },
     {
       "id": "S900-972",
       "size": 1773,
-      "subject": "Conservation of natural resources"
+      "subject": "Conservation of natural resources",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S530-559",
       "size": 1803,
-      "subject": "Agricultural education"
+      "subject": "Agricultural education",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S550-559",
       "size": 205,
-      "subject": "Exhibitions.    Fairs"
+      "subject": "Exhibitions.    Fairs",
+      "parents": [
+        "S",
+        "S1-972",
+        "S530-559"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)",
+        "[S530-559] Agricultural education"
+      ]
     },
     {
       "id": "S544-545.53",
       "size": 615,
-      "subject": "Agricultural extension work"
+      "subject": "Agricultural extension work",
+      "parents": [
+        "S",
+        "S1-972",
+        "S530-559"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)",
+        "[S530-559] Agricultural education"
+      ]
     },
     {
       "id": "S539.5-542.3",
       "size": 1510,
-      "subject": "Research.    Experimentation"
+      "subject": "Research.    Experimentation",
+      "parents": [
+        "S",
+        "S1-972",
+        "S530-559"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)",
+        "[S530-559] Agricultural education"
+      ]
     },
     {
       "id": "S548-548.6",
       "size": 18,
-      "subject": "Historic farms"
+      "subject": "Historic farms",
+      "parents": [
+        "S",
+        "S1-972",
+        "S530-559"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)",
+        "[S530-559] Agricultural education"
+      ]
     },
     {
       "id": "S419-482",
       "size": 6652,
-      "subject": "History"
+      "subject": "History",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S631-667",
       "size": 1238,
-      "subject": "Fertilizers and improvement of the soil"
+      "subject": "Fertilizers and improvement of the soil",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S590-599.9",
       "size": 7533,
-      "subject": "Soils.    Soil science"
+      "subject": "Soils.    Soil science",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S622-627",
       "size": 1247,
-      "subject": "Soil conservation and protection"
+      "subject": "Soil conservation and protection",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S560-571.5",
       "size": 1290,
-      "subject": "Farm economics.    Farm management.    Agricultural"
+      "subject": "Farm economics.    Farm management.    Agricultural",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S671-760.5",
       "size": 1670,
-      "subject": "Farm machinery and farm engineering"
+      "subject": "Farm machinery and farm engineering",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S600-600.7",
       "size": 620,
-      "subject": "Agricultural meteorology.    Crops and climate"
+      "subject": "Agricultural meteorology.    Crops and climate",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S589.75-589.76",
       "size": 262,
-      "subject": "Agriculture and the environment"
+      "subject": "Agriculture and the environment",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S604.8-621.5",
       "size": 195,
-      "subject": "Melioration: Improvement, reclamation, fertilization,"
+      "subject": "Melioration: Improvement, reclamation, fertilization,",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S606-621.5",
       "size": 1340,
-      "subject": "Special classes of lands and reclamation methods"
+      "subject": "Special classes of lands and reclamation methods",
+      "parents": [
+        "S",
+        "S1-972",
+        "S604.8-621.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)",
+        "[S604.8-621.5] Melioration: Improvement, reclamation, fertilization,"
+      ]
     },
     {
       "id": "S605.5",
       "size": 317,
-      "subject": "Organic farming.    Organiculture"
+      "subject": "Organic farming.    Organiculture",
+      "parents": [
+        "S",
+        "S1-972",
+        "S604.8-621.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)",
+        "[S604.8-621.5] Melioration: Improvement, reclamation, fertilization,"
+      ]
     },
     {
       "id": "S588.4-589.6",
       "size": 101,
-      "subject": "Agricultural physics"
+      "subject": "Agricultural physics",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S602.5-604.37",
       "size": 339,
-      "subject": "Methods and systems of culture.    Cropping systems"
+      "subject": "Methods and systems of culture.    Cropping systems",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S589.7",
       "size": 160,
-      "subject": "Agricultural ecology (General)"
+      "subject": "Agricultural ecology (General)",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S583-587.73",
       "size": 416,
-      "subject": "Agricultural chemistry.    Agricultural chemicals"
+      "subject": "Agricultural chemistry.    Agricultural chemicals",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S21-400.5",
       "size": 6530,
-      "subject": "Documents and other collections"
+      "subject": "Documents and other collections",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S403",
       "size": 19,
-      "subject": "Agricultural missions, voyages, etc."
+      "subject": "Agricultural missions, voyages, etc.",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S770-790.3",
       "size": 23,
-      "subject": "Agricultural structures.    Farm buildings"
+      "subject": "Agricultural structures.    Farm buildings",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S589.8-589.87",
       "size": 12,
-      "subject": "Plant growing media.    Potting soils"
+      "subject": "Plant growing media.    Potting soils",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "S604.5-604.64",
       "size": 94,
-      "subject": "Agricultural conservation"
+      "subject": "Agricultural conservation",
+      "parents": [
+        "S",
+        "S1-972"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[S1-972] Agriculture (General)"
+      ]
     },
     {
       "id": "SH",
       "size": 0,
-      "subject": "Aquaculture.    Fisheries.    Angling"
+      "subject": "Aquaculture.    Fisheries.    Angling",
+      "parents": [
+        "S"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture"
+      ]
     },
     {
       "id": "SH1-691",
       "size": 1846,
-      "subject": "Aquaculture.    Fisheries.    Angling"
+      "subject": "Aquaculture.    Fisheries.    Angling",
+      "parents": [
+        "S",
+        "SH"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling"
+      ]
     },
     {
       "id": "SH20.3-191",
       "size": 187,
-      "subject": "Aquaculture"
+      "subject": "Aquaculture",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling"
+      ]
     },
     {
       "id": "SH151-179",
       "size": 949,
-      "subject": "Fish culture"
+      "subject": "Fish culture",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH20.3-191"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH20.3-191] Aquaculture"
+      ]
     },
     {
       "id": "SH171-179",
       "size": 623,
-      "subject": "Diseases and adverse factors"
+      "subject": "Diseases and adverse factors",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH20.3-191",
+        "SH151-179"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH20.3-191] Aquaculture",
+        "[SH151-179] Fish culture"
+      ]
     },
     {
       "id": "SH33-134.6",
       "size": 716,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH20.3-191"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH20.3-191] Aquaculture"
+      ]
     },
     {
       "id": "SH185-191",
       "size": 14,
-      "subject": "Frogs, leeches, etc."
+      "subject": "Frogs, leeches, etc.",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH20.3-191"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH20.3-191] Aquaculture"
+      ]
     },
     {
       "id": "SH138",
       "size": 61,
-      "subject": "Mariculture"
+      "subject": "Mariculture",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH20.3-191"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH20.3-191] Aquaculture"
+      ]
     },
     {
       "id": "SH201-399",
       "size": 599,
-      "subject": "Fisheries"
+      "subject": "Fisheries",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling"
+      ]
     },
     {
       "id": "SH219-321",
       "size": 4598,
-      "subject": "By region or country"
+      "subject": "By region or country",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH381-385",
       "size": 420,
-      "subject": "Whaling"
+      "subject": "Whaling",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH328-329",
       "size": 412,
-      "subject": "Fishery management.    Fishery policy"
+      "subject": "Fishery management.    Fishery policy",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH334.9-336.5",
       "size": 192,
-      "subject": "Fishery processing"
+      "subject": "Fishery processing",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH343.2-343.3",
       "size": 33,
-      "subject": "Fishery oceanography.    Fishery meteorology"
+      "subject": "Fishery oceanography.    Fishery meteorology",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH334",
       "size": 77,
-      "subject": "Economic aspects.    Finance"
+      "subject": "Economic aspects.    Finance",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH365-380.92",
       "size": 727,
-      "subject": "Shellfish fisheries.    Shellfish culture"
+      "subject": "Shellfish fisheries.    Shellfish culture",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH346-351",
       "size": 989,
-      "subject": "Fishery for individual species"
+      "subject": "Fishery for individual species",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH213-216.55",
       "size": 263,
-      "subject": "By oceans and seas"
+      "subject": "By oceans and seas",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH334.5-334.7",
       "size": 30,
-      "subject": "Fishery technology"
+      "subject": "Fishery technology",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH344-344.8",
       "size": 279,
-      "subject": "Methods and gear.    Catching of fish"
+      "subject": "Methods and gear.    Catching of fish",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH327.5-327.7",
       "size": 113,
-      "subject": "Fishery resources.    Fishery conservation"
+      "subject": "Fishery resources.    Fishery conservation",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH393",
       "size": 4,
-      "subject": "Seagrasses"
+      "subject": "Seagrasses",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH343.8",
       "size": 7,
-      "subject": "Navigation"
+      "subject": "Navigation",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH360-363",
       "size": 60,
-      "subject": "Seal fisheries.    Fur sealing"
+      "subject": "Seal fisheries.    Fur sealing",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH387",
       "size": 8,
-      "subject": "Porpoises.    Dolphins"
+      "subject": "Porpoises.    Dolphins",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH337",
       "size": 15,
-      "subject": "Packing, transportation, and storage"
+      "subject": "Packing, transportation, and storage",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH343.5",
       "size": 2,
-      "subject": "Exploratory fishing"
+      "subject": "Exploratory fishing",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH388.7-391.5",
       "size": 94,
-      "subject": "Algae culture"
+      "subject": "Algae culture",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH396",
       "size": 3,
-      "subject": "Sponge fisheries"
+      "subject": "Sponge fisheries",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH343.4",
       "size": 4,
-      "subject": "Fishery research vessels"
+      "subject": "Fishery research vessels",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH364",
       "size": 2,
-      "subject": "Sea otter"
+      "subject": "Sea otter",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH343.9",
       "size": 12,
-      "subject": "Safety measures"
+      "subject": "Safety measures",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH337.5",
       "size": 2,
-      "subject": "Fishing port facilities"
+      "subject": "Fishing port facilities",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691",
+        "SH201-399"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling",
+        "[SH201-399] Fisheries"
+      ]
     },
     {
       "id": "SH401-691",
       "size": 5278,
-      "subject": "Angling"
+      "subject": "Angling",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling"
+      ]
     },
     {
       "id": "SH400-400.8",
       "size": 34,
-      "subject": "Seafood gathering"
+      "subject": "Seafood gathering",
+      "parents": [
+        "S",
+        "SH",
+        "SH1-691"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SH] Aquaculture.    Fisheries.    Angling",
+        "[SH1-691] Aquaculture.    Fisheries.    Angling"
+      ]
     },
     {
       "id": "SB",
       "size": 0,
-      "subject": "Plant culture"
+      "subject": "Plant culture",
+      "parents": [
+        "S"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture"
+      ]
     },
     {
       "id": "SB1-1110",
       "size": 1862,
-      "subject": "Plant culture"
+      "subject": "Plant culture",
+      "parents": [
+        "S",
+        "SB"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture"
+      ]
     },
     {
       "id": "SB403-450.87",
       "size": 1438,
-      "subject": "Flowers and flower culture.    Ornamental plants"
+      "subject": "Flowers and flower culture.    Ornamental plants",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB414.6-417",
       "size": 372,
-      "subject": "Greenhouses and greenhouse culture"
+      "subject": "Greenhouses and greenhouse culture",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB403-450.87"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB403-450.87] Flowers and flower culture.    Ornamental plants"
+      ]
     },
     {
       "id": "SB421-439.8",
       "size": 3368,
-      "subject": "Classes of plants"
+      "subject": "Classes of plants",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB403-450.87"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB403-450.87] Flowers and flower culture.    Ornamental plants"
+      ]
     },
     {
       "id": "SB418-418.4",
       "size": 185,
-      "subject": "Container gardening"
+      "subject": "Container gardening",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB403-450.87"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB403-450.87] Flowers and flower culture.    Ornamental plants"
+      ]
     },
     {
       "id": "SB419-419.3",
       "size": 556,
-      "subject": "Indoor gardening and houseplants"
+      "subject": "Indoor gardening and houseplants",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB403-450.87"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB403-450.87] Flowers and flower culture.    Ornamental plants"
+      ]
     },
     {
       "id": "SB409-413",
       "size": 2203,
-      "subject": "Culture of individual plants"
+      "subject": "Culture of individual plants",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB403-450.87"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB403-450.87] Flowers and flower culture.    Ornamental plants"
+      ]
     },
     {
       "id": "SB449-450.87",
       "size": 1190,
-      "subject": "Flower arrangement and decoration"
+      "subject": "Flower arrangement and decoration",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB403-450.87"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB403-450.87] Flowers and flower culture.    Ornamental plants"
+      ]
     },
     {
       "id": "SB442.8-443.4",
       "size": 117,
-      "subject": "Marketing.    Cut flower industry.    Florists"
+      "subject": "Marketing.    Cut flower industry.    Florists",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB403-450.87"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB403-450.87] Flowers and flower culture.    Ornamental plants"
+      ]
     },
     {
       "id": "SB447.5",
       "size": 18,
-      "subject": "Bonkei.    Tray landscapes"
+      "subject": "Bonkei.    Tray landscapes",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB403-450.87"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB403-450.87] Flowers and flower culture.    Ornamental plants"
+      ]
     },
     {
       "id": "SB441-441.75",
       "size": 30,
-      "subject": "Flower shows.    Exhibitions"
+      "subject": "Flower shows.    Exhibitions",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB403-450.87"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB403-450.87] Flowers and flower culture.    Ornamental plants"
+      ]
     },
     {
       "id": "SB447",
       "size": 39,
-      "subject": "Preservation and reproduction of flowers, fruits, etc."
+      "subject": "Preservation and reproduction of flowers, fruits, etc.",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB403-450.87"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB403-450.87] Flowers and flower culture.    Ornamental plants"
+      ]
     },
     {
       "id": "SB446-446.6",
       "size": 17,
-      "subject": "Horticultural service industry"
+      "subject": "Horticultural service industry",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB403-450.87"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB403-450.87] Flowers and flower culture.    Ornamental plants"
+      ]
     },
     {
       "id": "SB419.5",
       "size": 39,
-      "subject": "Roof gardening.    Balcony gardening"
+      "subject": "Roof gardening.    Balcony gardening",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB403-450.87"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB403-450.87] Flowers and flower culture.    Ornamental plants"
+      ]
     },
     {
       "id": "SB406.7-406.83",
       "size": 22,
-      "subject": "Plant propagation"
+      "subject": "Plant propagation",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB403-450.87"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB403-450.87] Flowers and flower culture.    Ornamental plants"
+      ]
     },
     {
       "id": "SB414",
       "size": 4,
-      "subject": "Forcing"
+      "subject": "Forcing",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB403-450.87"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB403-450.87] Flowers and flower culture.    Ornamental plants"
+      ]
     },
     {
       "id": "SB442.5",
       "size": 9,
-      "subject": "Care and preparation of cut flowers and ornamental plants"
+      "subject": "Care and preparation of cut flowers and ornamental plants",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB403-450.87"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB403-450.87] Flowers and flower culture.    Ornamental plants"
+      ]
     },
     {
       "id": "SB183-317",
       "size": 8611,
-      "subject": "Field crops"
+      "subject": "Field crops",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB450.9-467.8",
       "size": 5235,
-      "subject": "Gardens and gardening"
+      "subject": "Gardens and gardening",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB469-476.4",
       "size": 2823,
-      "subject": "Landscape gardening.    Landscape architecture"
+      "subject": "Landscape gardening.    Landscape architecture",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB119-124",
       "size": 1051,
-      "subject": "Propagation"
+      "subject": "Propagation",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB320-353.5",
       "size": 2640,
-      "subject": "Vegetables"
+      "subject": "Vegetables",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB599-990.5",
       "size": 668,
-      "subject": "Pests and diseases"
+      "subject": "Pests and diseases",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB950-990.5",
       "size": 731,
-      "subject": "Pest control and treatment of diseases.    Plant protection"
+      "subject": "Pest control and treatment of diseases.    Plant protection",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB599-990.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB599-990.5] Pests and diseases"
+      ]
     },
     {
       "id": "SB974-978",
       "size": 171,
-      "subject": "Organic plant protection.    Biological control"
+      "subject": "Organic plant protection.    Biological control",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB599-990.5",
+        "SB950-990.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB599-990.5] Pests and diseases",
+        "[SB950-990.5] Pest control and treatment of diseases.    Plant protection"
+      ]
     },
     {
       "id": "SB950.9-970.4",
       "size": 935,
-      "subject": "Pesticides"
+      "subject": "Pesticides",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB599-990.5",
+        "SB950-990.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB599-990.5] Pests and diseases",
+        "[SB950-990.5] Pest control and treatment of diseases.    Plant protection"
+      ]
     },
     {
       "id": "SB979.5-985",
       "size": 48,
-      "subject": "Inspection.    Quarantine"
+      "subject": "Inspection.    Quarantine",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB599-990.5",
+        "SB950-990.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB599-990.5] Pests and diseases",
+        "[SB950-990.5] Pest control and treatment of diseases.    Plant protection"
+      ]
     },
     {
       "id": "SB973-973.5",
       "size": 3,
-      "subject": "Soil disinfection"
+      "subject": "Soil disinfection",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB599-990.5",
+        "SB950-990.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB599-990.5] Pests and diseases",
+        "[SB950-990.5] Pest control and treatment of diseases.    Plant protection"
+      ]
     },
     {
       "id": "SB608",
       "size": 1366,
-      "subject": "Individual or types of plants or trees"
+      "subject": "Individual or types of plants or trees",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB599-990.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB599-990.5] Pests and diseases"
+      ]
     },
     {
       "id": "SB621-795",
       "size": 1545,
-      "subject": "Plant pathology"
+      "subject": "Plant pathology",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB599-990.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB599-990.5] Pests and diseases"
+      ]
     },
     {
       "id": "SB610-615",
       "size": 891,
-      "subject": "Weeds, parasitic plants, etc."
+      "subject": "Weeds, parasitic plants, etc.",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB599-990.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB599-990.5] Pests and diseases"
+      ]
     },
     {
       "id": "SB818-945",
       "size": 1315,
-      "subject": "Economic entomology"
+      "subject": "Economic entomology",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB599-990.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB599-990.5] Pests and diseases"
+      ]
     },
     {
       "id": "SB617-618",
       "size": 35,
-      "subject": "Poisonous plants"
+      "subject": "Poisonous plants",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB599-990.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB599-990.5] Pests and diseases"
+      ]
     },
     {
       "id": "SB481-486",
       "size": 2572,
-      "subject": "Parks and public reservations"
+      "subject": "Parks and public reservations",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB113.2-118.46",
       "size": 386,
-      "subject": "Seeds.    Seed technology"
+      "subject": "Seeds.    Seed technology",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB992-998",
       "size": 369,
-      "subject": "Economic zoology applied to crops.    Agricultural zoology"
+      "subject": "Economic zoology applied to crops.    Agricultural zoology",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB354-402",
       "size": 1991,
-      "subject": "Fruit and fruit culture"
+      "subject": "Fruit and fruit culture",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB381-386",
       "size": 171,
-      "subject": "Berries and small fruits"
+      "subject": "Berries and small fruits",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB354-402"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB354-402] Fruit and fruit culture"
+      ]
     },
     {
       "id": "SB401",
       "size": 225,
-      "subject": "Nuts"
+      "subject": "Nuts",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB354-402"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB354-402] Fruit and fruit culture"
+      ]
     },
     {
       "id": "SB387-399",
       "size": 544,
-      "subject": "Grape culture.    Viticulture"
+      "subject": "Grape culture.    Viticulture",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110",
+        "SB354-402"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture",
+        "[SB354-402] Fruit and fruit culture"
+      ]
     },
     {
       "id": "SB317.5-319.864",
       "size": 450,
-      "subject": "Horticulture.    Horticultural crops"
+      "subject": "Horticulture.    Horticultural crops",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB128",
       "size": 31,
-      "subject": "Growth regulators"
+      "subject": "Growth regulators",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB175-177",
       "size": 304,
-      "subject": "Food crops"
+      "subject": "Food crops",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB109.7-111",
       "size": 296,
-      "subject": "Methods for special areas"
+      "subject": "Methods for special areas",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB107-109",
       "size": 525,
-      "subject": "Economic botany"
+      "subject": "Economic botany",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB125",
       "size": 119,
-      "subject": "Training and pruning"
+      "subject": "Training and pruning",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB118.48-118.75",
       "size": 92,
-      "subject": "Nurseries.    Nursery industry"
+      "subject": "Nurseries.    Nursery industry",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB129-130",
       "size": 60,
-      "subject": "Harvesting, curing, storage"
+      "subject": "Harvesting, curing, storage",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB71-87",
       "size": 276,
-      "subject": "History"
+      "subject": "History",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB127",
       "size": 10,
-      "subject": "Forcing"
+      "subject": "Forcing",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB39",
       "size": 3,
-      "subject": "Horticultural voyages, etc."
+      "subject": "Horticultural voyages, etc.",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB112",
       "size": 24,
-      "subject": "Irrigation farming"
+      "subject": "Irrigation farming",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB126",
       "size": 25,
-      "subject": "Artificial light gardening"
+      "subject": "Artificial light gardening",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB126.5-126.57",
       "size": 82,
-      "subject": "Hydroponics.    Soilless agriculture"
+      "subject": "Hydroponics.    Soilless agriculture",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SB169-172.5",
       "size": 129,
-      "subject": "Tree crops"
+      "subject": "Tree crops",
+      "parents": [
+        "S",
+        "SB",
+        "SB1-1110"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SB] Plant culture",
+        "[SB1-1110] Plant culture"
+      ]
     },
     {
       "id": "SK",
       "size": 0,
-      "subject": "Hunting sports"
+      "subject": "Hunting sports",
+      "parents": [
+        "S"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture"
+      ]
     },
     {
       "id": "SK1-664",
       "size": 2179,
-      "subject": "Hunting sports"
+      "subject": "Hunting sports",
+      "parents": [
+        "S",
+        "SK"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SK] Hunting sports"
+      ]
     },
     {
       "id": "SK40-268",
       "size": 1759,
-      "subject": "By country"
+      "subject": "By country",
+      "parents": [
+        "S",
+        "SK",
+        "SK1-664"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SK] Hunting sports",
+        "[SK1-664] Hunting sports"
+      ]
     },
     {
       "id": "SK351-579",
       "size": 1905,
-      "subject": "Wildlife management.    Game protection"
+      "subject": "Wildlife management.    Game protection",
+      "parents": [
+        "S",
+        "SK",
+        "SK1-664"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SK] Hunting sports",
+        "[SK1-664] Hunting sports"
+      ]
     },
     {
       "id": "SK311-335",
       "size": 888,
-      "subject": "Bird hunting.    Fowling"
+      "subject": "Bird hunting.    Fowling",
+      "parents": [
+        "S",
+        "SK",
+        "SK1-664"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SK] Hunting sports",
+        "[SK1-664] Hunting sports"
+      ]
     },
     {
       "id": "SK295-305",
       "size": 791,
-      "subject": "Big game"
+      "subject": "Big game",
+      "parents": [
+        "S",
+        "SK",
+        "SK1-664"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SK] Hunting sports",
+        "[SK1-664] Hunting sports"
+      ]
     },
     {
       "id": "SK281-293",
       "size": 157,
-      "subject": "Special methods and types of hunting"
+      "subject": "Special methods and types of hunting",
+      "parents": [
+        "S",
+        "SK",
+        "SK1-664"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SK] Hunting sports",
+        "[SK1-664] Hunting sports"
+      ]
     },
     {
       "id": "SK284-287",
       "size": 172,
-      "subject": "Fox hunting"
+      "subject": "Fox hunting",
+      "parents": [
+        "S",
+        "SK",
+        "SK1-664",
+        "SK281-293"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SK] Hunting sports",
+        "[SK1-664] Hunting sports",
+        "[SK281-293] Special methods and types of hunting"
+      ]
     },
     {
       "id": "SK291-292",
       "size": 15,
-      "subject": "Coursing"
+      "subject": "Coursing",
+      "parents": [
+        "S",
+        "SK",
+        "SK1-664",
+        "SK281-293"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SK] Hunting sports",
+        "[SK1-664] Hunting sports",
+        "[SK281-293] Special methods and types of hunting"
+      ]
     },
     {
       "id": "SK293",
       "size": 8,
-      "subject": "Ferreting"
+      "subject": "Ferreting",
+      "parents": [
+        "S",
+        "SK",
+        "SK1-664",
+        "SK281-293"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SK] Hunting sports",
+        "[SK1-664] Hunting sports",
+        "[SK281-293] Special methods and types of hunting"
+      ]
     },
     {
       "id": "SK37-39.5",
       "size": 103,
-      "subject": "Shooting"
+      "subject": "Shooting",
+      "parents": [
+        "S",
+        "SK",
+        "SK1-664"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SK] Hunting sports",
+        "[SK1-664] Hunting sports"
+      ]
     },
     {
       "id": "SK590-593",
       "size": 39,
-      "subject": "Wild animal trade"
+      "subject": "Wild animal trade",
+      "parents": [
+        "S",
+        "SK",
+        "SK1-664"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SK] Hunting sports",
+        "[SK1-664] Hunting sports"
+      ]
     },
     {
       "id": "SK650-664",
       "size": 24,
-      "subject": "Wildlife-related recreation"
+      "subject": "Wildlife-related recreation",
+      "parents": [
+        "S",
+        "SK",
+        "SK1-664"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SK] Hunting sports",
+        "[SK1-664] Hunting sports"
+      ]
     },
     {
       "id": "SK341",
       "size": 47,
-      "subject": "Other game"
+      "subject": "Other game",
+      "parents": [
+        "S",
+        "SK",
+        "SK1-664"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SK] Hunting sports",
+        "[SK1-664] Hunting sports"
+      ]
     },
     {
       "id": "SK336",
       "size": 5,
-      "subject": "Varmint hunting (General)"
+      "subject": "Varmint hunting (General)",
+      "parents": [
+        "S",
+        "SK",
+        "SK1-664"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SK] Hunting sports",
+        "[SK1-664] Hunting sports"
+      ]
     },
     {
       "id": "SK337",
       "size": 8,
-      "subject": "Predator hunting"
+      "subject": "Predator hunting",
+      "parents": [
+        "S",
+        "SK",
+        "SK1-664"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SK] Hunting sports",
+        "[SK1-664] Hunting sports"
+      ]
     },
     {
       "id": "SD",
       "size": 0,
-      "subject": "Forestry"
+      "subject": "Forestry",
+      "parents": [
+        "S"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture"
+      ]
     },
     {
       "id": "SD1-669.5",
       "size": 2527,
-      "subject": "Forestry"
+      "subject": "Forestry",
+      "parents": [
+        "S",
+        "SD"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SD] Forestry"
+      ]
     },
     {
       "id": "SD561-669.5",
       "size": 1292,
-      "subject": "Administration.    Policy"
+      "subject": "Administration.    Policy",
+      "parents": [
+        "S",
+        "SD",
+        "SD1-669.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SD] Forestry",
+        "[SD1-669.5] Forestry"
+      ]
     },
     {
       "id": "SD411-428",
       "size": 2247,
-      "subject": "Conservation and protection"
+      "subject": "Conservation and protection",
+      "parents": [
+        "S",
+        "SD",
+        "SD1-669.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SD] Forestry",
+        "[SD1-669.5] Forestry"
+      ]
     },
     {
       "id": "SD391-410.9",
       "size": 2380,
-      "subject": "Sylviculture"
+      "subject": "Sylviculture",
+      "parents": [
+        "S",
+        "SD",
+        "SD1-669.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SD] Forestry",
+        "[SD1-669.5] Forestry"
+      ]
     },
     {
       "id": "SD131-247.5",
       "size": 4760,
-      "subject": "History of forestry.    Forest conditions"
+      "subject": "History of forestry.    Forest conditions",
+      "parents": [
+        "S",
+        "SD",
+        "SD1-669.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SD] Forestry",
+        "[SD1-669.5] Forestry"
+      ]
     },
     {
       "id": "SD430-559",
       "size": 1548,
-      "subject": "Exploitation and utilization"
+      "subject": "Exploitation and utilization",
+      "parents": [
+        "S",
+        "SD",
+        "SD1-669.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SD] Forestry",
+        "[SD1-669.5] Forestry"
+      ]
     },
     {
       "id": "SD250-363.3",
       "size": 617,
-      "subject": "Forestry education"
+      "subject": "Forestry education",
+      "parents": [
+        "S",
+        "SD",
+        "SD1-669.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SD] Forestry",
+        "[SD1-669.5] Forestry"
+      ]
     },
     {
       "id": "SD390.5-390.7",
       "size": 112,
-      "subject": "Forest meteorology.    Forest microclimatology"
+      "subject": "Forest meteorology.    Forest microclimatology",
+      "parents": [
+        "S",
+        "SD",
+        "SD1-669.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SD] Forestry",
+        "[SD1-669.5] Forestry"
+      ]
     },
     {
       "id": "SD11-115",
       "size": 2085,
-      "subject": "Documents"
+      "subject": "Documents",
+      "parents": [
+        "S",
+        "SD",
+        "SD1-669.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SD] Forestry",
+        "[SD1-669.5] Forestry"
+      ]
     },
     {
       "id": "SD388",
       "size": 172,
-      "subject": "Forestry machinery and engineering"
+      "subject": "Forestry machinery and engineering",
+      "parents": [
+        "S",
+        "SD",
+        "SD1-669.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SD] Forestry",
+        "[SD1-669.5] Forestry"
+      ]
     },
     {
       "id": "SD119",
       "size": 3,
-      "subject": "Voyages, etc."
+      "subject": "Voyages, etc.",
+      "parents": [
+        "S",
+        "SD",
+        "SD1-669.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SD] Forestry",
+        "[SD1-669.5] Forestry"
+      ]
     },
     {
       "id": "SD390-390.43",
       "size": 159,
-      "subject": "Forest soils"
+      "subject": "Forest soils",
+      "parents": [
+        "S",
+        "SD",
+        "SD1-669.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SD] Forestry",
+        "[SD1-669.5] Forestry"
+      ]
     },
     {
       "id": "SD389",
       "size": 23,
-      "subject": "Forest roads"
+      "subject": "Forest roads",
+      "parents": [
+        "S",
+        "SD",
+        "SD1-669.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SD] Forestry",
+        "[SD1-669.5] Forestry"
+      ]
     },
     {
       "id": "SD388.5",
       "size": 13,
-      "subject": "Tools and implements"
+      "subject": "Tools and implements",
+      "parents": [
+        "S",
+        "SD",
+        "SD1-669.5"
+      ],
+      "parentsSubjects": [
+        "[S] Agriculture",
+        "[SD] Forestry",
+        "[SD1-669.5] Forestry"
+      ]
     }
   ],
   "links": [
